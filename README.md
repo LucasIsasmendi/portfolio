@@ -2,7 +2,7 @@
 ## Skills
 <img src="http://i.stack.imgur.com/Mmww2.png" height="64" title="Javascript">
 <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" height="64" title="Node">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Express">
+<img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" height="64" title="Express">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="MongoDB">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="PostgreSQL">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Angular 1.x">
