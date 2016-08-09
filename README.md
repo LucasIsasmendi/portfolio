@@ -1,7 +1,7 @@
 # Portfolio
 ## Skills
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Javascript">
-<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" width="48" title="Node">
+<img src="http://i.stack.imgur.com/Mmww2.png" height="64" title="Javascript">
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" height="64" title="Node">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Express">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="MongoDB">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="PostgreSQL">
