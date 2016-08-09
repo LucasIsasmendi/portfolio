@@ -1,2 +1,8 @@
 # portfolio
-Projects, Learning Path, MOOCs, Ideas
+* Projects
+* Books
+* MOOCS
+* Labs
+* Experiments
+* Courses
+* Readings
