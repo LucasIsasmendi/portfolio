@@ -36,5 +36,5 @@
 
 ## Contact
 * [Gmail](mailto:lucas.isasmendi@gmail.com)
-* [Skype](skype:<lisasmendi>?call)
+* [Skype](skype:<lisasmendi>?call) lisasmendi
 * [Twitter](https://twitter.com/Lucas_Isasmendi)
