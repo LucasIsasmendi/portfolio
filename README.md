@@ -35,6 +35,6 @@
 ## Tools
 
 ## Contact
-* GMail [email-me](mailto:lucas.isasmendi@gmail.com)
-* Skype lisasmendi
-* Twitter [@Lucas_Isasmendi](https://twitter.com/Lucas_Isasmendi)
+* [Gmail](mailto:lucas.isasmendi@gmail.com)
+* [Skype](skype:<lisasmendi>?call)
+* [Twitter](https://twitter.com/Lucas_Isasmendi)
