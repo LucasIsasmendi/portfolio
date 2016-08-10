@@ -31,3 +31,10 @@
 ![TDD](https://img.shields.io/badge/TDD-10%25-green.svg)
 ![Style](https://img.shields.io/badge/Style-30%25-green.svg)
 ![Tabs](https://img.shields.io/badge/Tabs-100%25-brightgreen.svg)
+
+## Tools
+
+## Contact
+* GMail [email-me](mailto:lucas.isasmendi@gmail.com)
+* Skype lisasmendi
+* Twitter [@Lucas_Isasmendi](https://twitter.com/Lucas_Isasmendi)
