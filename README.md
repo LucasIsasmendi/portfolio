@@ -13,7 +13,7 @@
 ### Training
 <img src="https://frontendmasters.com/assets/es6-logo.png" width="48" title="ES6">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/React.js_logo.svg/50px-React.js_logo.svg.png" width="48" title="React">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="PWA">
+<img src="/images/swicon.png" width="48" title="Progressive Web App">
 
 ## Tools & Favorites
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Grunt">
@@ -22,6 +22,7 @@
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Atom">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Sublime">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Heroku">
+<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Git">
 
 ## Best Practices
 ![Node Patterns](https://img.shields.io/badge/node%20patterns-10%25-green.svg)
