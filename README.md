@@ -28,6 +28,7 @@
 * [Weight Truck App](projects.md#weight-truck-app)
 * [Accounting Fundation App](projects.md#accounting-fundation-app)
 * [Open Goverment App](projects.md#open-goverment-app)
+
 ## Input
 * Books
 * MOOCS
@@ -36,6 +37,7 @@
 * Courses
 * Readings
 * Tutorials
+
 ## Contact
 * [Gmail](mailto:lucas.isasmendi@gmail.com)
 * [Skype](skype:<lisasmendi>?call) lisasmendi
