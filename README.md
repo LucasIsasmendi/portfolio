@@ -16,12 +16,12 @@
 <img src="/images/swicon.png" width="48" title="Progressive Web App">
 
 ## Tools & Favorites
-<img src="http://gruntjs.com/img/grunt-logo.png" width="48" title="Grunt">
+<img src="http://gruntjs.com/img/grunt-logo.png" height="48" title="Grunt">
 <img src="https://cldup.com/xFVFxOioAU.svg" width="48" title="Mocha">
 <img src="https://lh5.googleusercontent.com/-2YS1ceHWyys/AAAAAAAAAAI/AAAAAAAAAAc/0LCb_tsTvmU/s46-c-k/photo.jpg" width="48" title="Ubuntu">
 <img src="/images/atom_100.png" width="48" title="Atom">
 <img src="/images/sublime.png" width="48" title="Sublime">
-<img src="https://worldvectorlogo.com/logos/heroku.svg" width="48" title="Heroku">
+<img src="https://worldvectorlogo.com/logos/heroku.svg" height="48" title="Heroku">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" title="Git">
 
 ## Best Practices
