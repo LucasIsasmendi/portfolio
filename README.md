@@ -21,8 +21,8 @@
 <img src="https://lh5.googleusercontent.com/-2YS1ceHWyys/AAAAAAAAAAI/AAAAAAAAAAc/0LCb_tsTvmU/s46-c-k/photo.jpg" width="48" title="Ubuntu">
 <img src="/images/atom_100.png" width="48" title="Atom">
 <img src="/images/sublime.png" width="48" title="Sublime">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Heroku">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Git">
+<img src="https://worldvectorlogo.com/logos/heroku.svg" width="48" title="Heroku">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" title="Git">
 
 ## Best Practices
 ![Node Patterns](https://img.shields.io/badge/node%20patterns-10%25-green.svg)
