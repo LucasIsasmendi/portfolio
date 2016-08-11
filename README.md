@@ -8,15 +8,27 @@
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Angular 1.x">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Ionic">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Electron">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Grunt">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Mocha">
 ### Training
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="ES6">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="React">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="PWA">
-
-## Content
-* [Projects](projects.md)
+## Tools
+<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Grunt">
+<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Mocha">
+## Best Practices
+![Node Patterns](https://img.shields.io/badge/node%20patterns-10%25-green.svg)
+![Javascript Patterns](https://img.shields.io/badge/javascript%20patterns-10%25-green.svg)
+![TDD](https://img.shields.io/badge/TDD-10%25-green.svg)
+![Style](https://img.shields.io/badge/Style-30%25-green.svg)
+![Tabs](https://img.shields.io/badge/Tabs-100%25-brightgreen.svg)
+## [Projects](projects.md)
+* [Plan Trip Tool](projects.md#plan-trip-tool)
+* [Shopping List App](projects.md#shopping-list-app)
+* [Democracy Training App](projects.md#democracy-training-app)
+* [Weight Truck App](projects.md#weight-truck-app)
+* [Accounting Fundation App](projects.md#accounting-fundation-app)
+* [Open Goverment App](projects.md#open-goverment-app)
+## Input
 * Books
 * MOOCS
 * Labs
@@ -24,16 +36,6 @@
 * Courses
 * Readings
 * Tutorials
-
-## Best Practices
-![Node Patterns](https://img.shields.io/badge/node%20patterns-10%25-green.svg)
-![Javascript Patterns](https://img.shields.io/badge/javascript%20patterns-10%25-green.svg)
-![TDD](https://img.shields.io/badge/TDD-10%25-green.svg)
-![Style](https://img.shields.io/badge/Style-30%25-green.svg)
-![Tabs](https://img.shields.io/badge/Tabs-100%25-brightgreen.svg)
-
-## Tools
-
 ## Contact
 * [Gmail](mailto:lucas.isasmendi@gmail.com)
 * [Skype](skype:<lisasmendi>?call) lisasmendi
