@@ -16,7 +16,7 @@
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="PWA">
 
 ## Content
-* Projects
+* [Projects](projects.md)
 * Books
 * MOOCS
 * Labs
