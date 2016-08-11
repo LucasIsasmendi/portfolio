@@ -2,10 +2,10 @@
 ## Skills
 <img src="http://i.stack.imgur.com/Mmww2.png" height="64" title="Javascript">
 <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" height="64" title="Node">
-<img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" height="64" title="Express">
-<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="64" title="MongoDB">
-<img src="https://raw.githubusercontent.com/docker-library/docs/master/postgres/logo.png" height="64" title="PostgreSQL">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Angular 1.x">
+<img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" height="53" title="Express">
+<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="53" title="MongoDB">
+<img src="https://raw.githubusercontent.com/docker-library/docs/master/postgres/logo.png" height="53" title="PostgreSQL">
+<img src="https://angularjs.org/img/ng-logo.png" height="64" title="Angular 1.x">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Ionic">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Electron">
 ### Training
