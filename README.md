@@ -20,7 +20,7 @@
 <img src="https://cldup.com/xFVFxOioAU.svg" width="48" title="Mocha">
 <img src="https://lh5.googleusercontent.com/-2YS1ceHWyys/AAAAAAAAAAI/AAAAAAAAAAc/0LCb_tsTvmU/s46-c-k/photo.jpg" width="48" title="Ubuntu">
 <img src="/images/atom_100.png" width="48" title="Atom">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Sublime">
+<img src="/images/sublime.png" width="48" title="Sublime">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Heroku">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Git">
 
