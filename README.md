@@ -1,4 +1,5 @@
 # Portfolio
+
 ## Skills
 <img src="http://i.stack.imgur.com/Mmww2.png" height="64" title="Javascript">
 <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" height="64" title="Node">
@@ -6,15 +7,22 @@
 <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="53" title="MongoDB">
 <img src="https://raw.githubusercontent.com/docker-library/docs/master/postgres/logo.png" height="53" title="PostgreSQL">
 <img src="https://angularjs.org/img/ng-logo.png" height="64" title="Angular 1.x">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Ionic">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Electron">
+<img src="http://ionicframework.com/img/ionic-logo-blog.png" height="64" title="Ionic">
+<img src="https://comsysto.files.wordpress.com/2015/09/electorn-logo-2.png?w=300&h=300" height="64" title="Electron">
+
 ### Training
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="ES6">
-<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="React">
+<img src="https://frontendmasters.com/assets/es6-logo.png" width="48" title="ES6">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/React.js_logo.svg/50px-React.js_logo.svg.png" width="48" title="React">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="PWA">
-## Tools
+
+## Tools & Favorites
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Grunt">
 <img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Mocha">
+<img src="https://lh5.googleusercontent.com/-2YS1ceHWyys/AAAAAAAAAAI/AAAAAAAAAAc/0LCb_tsTvmU/s46-c-k/photo.jpg" width="48" title="Ubuntu">
+<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Atom">
+<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Sublime">
+<img src="http://i.stack.imgur.com/Mmww2.png" width="48" title="Heroku">
+
 ## Best Practices
 ![Node Patterns](https://img.shields.io/badge/node%20patterns-10%25-green.svg)
 ![Javascript Patterns](https://img.shields.io/badge/javascript%20patterns-10%25-green.svg)
