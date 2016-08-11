@@ -21,7 +21,8 @@
 ![TDD](https://img.shields.io/badge/TDD-10%25-green.svg)
 ![Style](https://img.shields.io/badge/Style-30%25-green.svg)
 ![Tabs](https://img.shields.io/badge/Tabs-100%25-brightgreen.svg)
-## [Projects](projects.md)
+
+## Projects
 * [Plan Trip Tool](projects.md#plan-trip-tool)
 * [Shopping List App](projects.md#shopping-list-app)
 * [Democracy Training App](projects.md#democracy-training-app)
@@ -30,7 +31,7 @@
 * [Open Goverment App](projects.md#open-goverment-app)
 
 ## Input
-* Books
+* ![Books](books.md)
 * MOOCS
 * Labs
 * Experiments
