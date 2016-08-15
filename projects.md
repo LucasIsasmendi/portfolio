@@ -12,11 +12,12 @@ Ionic Application that allows users create and share travel plans and book hotel
 `< Cloud >` Heroku, mLab, Google Analytics, Cloudflare.  
 
 **Status**  
-pendiente  
+improving search experience  
 
 **Tasks**
-  - [x] d
-  - [ ] Improve UX with
+  - [x] custom database search
+  - [ ] add database seaching criterias with tag options
+  - [ ] progressive web app refactoring
 
 ## Shopping List App
 **Desciption**  
@@ -25,12 +26,16 @@ Ionic Application with Android APK that allows users create a shopping list and 
 **Tech-Stack**  
 `< DB--* >` Mongodb.  
 `< BE--* >` Node, Express  
-`< *--FE >` Angular, Ionic.   
+`< *--FE >` Angular, Ionic, IndexedDB.   
 `< Tools >` Bower, Grunt.  
 `< Cloud >` Heroku, mLab, Google Analytics, Cloudflare.   
-**Status**
-**Done**
-**ToDo**
+
+**Status**  
+`[ Dev Completed ]` Waiting Right Funding + Right Time.
+
+**Branch Features**
+  - [ ] Fix barcode scanner tool
+  - [ ] progressive web app refactoring
 
 ## Democracy Training App
 **Desciption**  
@@ -43,11 +48,8 @@ This game is oriented to improve the quality of political decisions by knowing t
 `< Tools >` Bower, Grunt.  
 `< Cloud >` Heroku, mLab, Google Analytics, Cloudflare.  
 
-**Status**
-
-**Done**
-
-**ToDo**
+**Status**  
+This application died. Not enough interest.
 
 ## Weight Truck App
 **Desciption**  
@@ -60,10 +62,13 @@ Electron Desktop App to Manage weight truck on a Certified Truck Scale Business.
 `[ Tools ]` Bower, Lodash.  
 
 **Status**  
+Version Beta Work in Progress
 
-**Done**  
-
-**ToDo**  
+**Tasks**  
+- [ ]  pdf email output
+- [ ]  dot matrix printer output
+- [ ]  weight reader parallel port input
+- [ ]  Cameras connection
 
 ## Accounting Foundation App
 **Desciption**  
@@ -76,10 +81,11 @@ Electron Desktop App to Manage Accounting on a Foundation.
 `[ Tools ]` Bower, Lodash.  
 
 **Status**  
+Version Beta Work in Progress
 
-**Done**  
-
-**ToDo**  
+**Tasks**  
+- [ ] Accounting Balance validation
+- [ ] General Ledger Modifications
 
 ## Open Goverment App
 **Desciption**  
@@ -92,7 +98,4 @@ This web-mobile App is oriented to improve local government interaction with com
 `< Tools >` Bower, Grunt.  
 `< Cloud >` Heroku, mLab, Google Analytics, Cloudflare.  
 **Status**  
-
-**Done**  
-
-**ToDo**  
+Paused
