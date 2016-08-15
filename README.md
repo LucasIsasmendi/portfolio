@@ -32,11 +32,11 @@
 ![Tabs](https://img.shields.io/badge/Tabs-100%25-brightgreen.svg)
 
 ## Projects
-* [Planning Trip Tool](projects.md#plan-trip-tool): Ionic Application that allows users create and share travel plans and book hotels through integration with Expedia API.
+* [Planning Trip Tool](projects.md#planning-trip-tool): Ionic Application that allows users create and share travel plans and book hotels through integration with Expedia API.
 * [Shopping List App](projects.md#shopping-list-app): Ionic Application with Android APK that allows users create a shopping list and calculate best purchase option. Also keeps records of money spent over time.
 * [Democracy Training App](projects.md#democracy-training-app): this game is oriented to improve the quality of political decisions by knowing the basis. The game start by challenge the facebook contacts, and continue evolving in harder questions. Also shows network power, personal power and links to study and improve personal skills.
 * [Weight Truck App](projects.md#weight-truck-app): Electron Desktop App to Manage weight truck on a Certified Truck Scale Business.
-* [Accounting Foundation App](projects.md#accounting-fundation-app): Electron Desktop App to Manage Accounting on a Foundation.
+* [Accounting Foundation App](projects.md#accounting-foundation-app): Electron Desktop App to Manage Accounting on a Foundation.
 * [Open Goverment App](projects.md#open-goverment-app): This web-mobile App is oriented to improve local government interaction with communities. Users can upload things to improve, projects to discuss and vote about budget.
 
 ## Input
