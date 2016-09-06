@@ -39,14 +39,16 @@
 * [Accounting Foundation App](projects.md#accounting-foundation-app): Electron Desktop App to Manage Accounting on a Foundation.
 * [Open Goverment App](projects.md#open-goverment-app): This web-mobile App is oriented to improve local government interaction with communities. Users can upload things to improve, projects to discuss and vote about budget.
 
-## Input
+## I/O
 * [Books](books.md)
+* [Courses](courses.md)
+* Readings
+* Tutorials
 * MOOCs
 * Labs
 * Experiments
-* Courses
-* Readings
-* Tutorials
+* [Ideas](ideas.md)
+
 
 ## Contact
 * [Gmail](mailto:lucas.isasmendi@gmail.com)
