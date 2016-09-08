@@ -40,11 +40,16 @@
 * [Open Goverment App](projects.md#open-goverment-app): This web-mobile App is oriented to improve local government interaction with communities. Users can upload things to improve, projects to discuss and vote about budget.
 
 ## I/O
+### Input
 * [Books](books.md)
 * [Courses](courses.md)
 * Readings
 * Tutorials
 * MOOCs
+* Podcasts
+* Videos
+
+### Output
 * Labs
 * Experiments
 * [Ideas](ideas.md)
