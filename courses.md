@@ -20,5 +20,8 @@ Great JavaScript is more than just syntax or style guides. This Learning Path st
 * JavaScript Design Patterns [packtpub](https://www.packtpub.com/web-development/javascript-design-patterns-20-patterns-advancing-your-javascript-skills-video) | [MyNotes]
 * Learning JavaScript Promises [packtpub](https://www.packtpub.com/web-development/learning-javascript-promises-practical-applications-es6-and-angularjs-video) | [MyNotes]
 * Learning Functional JavaScript [packtpub](https://www.packtpub.com/web-development/learning-functional-javascript-video) | [MyNotes]
+* JavaScript Design Patterns [packtpub](https://www.packtpub.com/web-development/javascript-design-patterns-20-patterns-advancing-your-javascript-skills-video) | [MyNotes]
+* Learning JavaScript Promises [packtpub](https://www.packtpub.com/web-development/learning-javascript-promises-practical-applications-es6-and-angularjs-video) | [MyNotes]
+* Learning Functional JavaScript [packtpub](https://www.packtpub.com/web-development/learning-functional-javascript-video) | [MyNotes]
 * JavaScript High Performance [packtpub](https://www.packtpub.com/web-development/javascript-high-performance-video) | [MyNotes]
 
