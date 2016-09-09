@@ -46,7 +46,7 @@
 * Readings
 * Tutorials
 * [MOOCs](moocs.md)
-* Podcasts
+* [Podcasts](podcasts.md)
 * Videos
 
 ### Output
