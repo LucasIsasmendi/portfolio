@@ -45,7 +45,7 @@
 * [Courses](courses.md)
 * Readings
 * Tutorials
-* MOOCs
+* [MOOCs](moocs.md)
 * Podcasts
 * Videos
 
