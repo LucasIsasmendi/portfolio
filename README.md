@@ -50,7 +50,7 @@
 * Videos
 
 ### Output
-* Labs
+* [Labs](labs.md)
 * Experiments
 * [Ideas](ideas.md)
 
