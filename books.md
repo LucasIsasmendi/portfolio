@@ -9,7 +9,8 @@
 * [Standard ECMA-262 6th Edition](http://www.ecma-international.org/ecma-262/6.0/index.html)
 
 #### JavaScript
-* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) | [MyNotes](books/you-dont-know-js-series/README.md)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) | [MyNotes](books/you-dont-know-js-series/README.md)  
+![wip](https://img.shields.io/badge/wip-50%25-yellow.svg) 
 * Mastering JavaScript
 * Modern JavaScript Applications
 * Modular Programming with JavaScript
