@@ -30,6 +30,8 @@
 ![TDD](https://img.shields.io/badge/TDD-10%25-green.svg)
 ![Style](https://img.shields.io/badge/Style-30%25-green.svg)
 ![Tabs](https://img.shields.io/badge/Tabs-100%25-brightgreen.svg)
+![Spaces](https://img.shields.io/badge/Spaces-10%25-green.svg)
+[![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 ## Projects
 * [Planning Trip Tool](projects.md#planning-trip-tool): Ionic Application that allows users create and share travel plans and book hotels through integration with Expedia API.
@@ -54,6 +56,10 @@
 * Experiments
 * [Ideas](ideas.md)
 
+## Mix
+* Tips
+* Explore
+* N/A
 
 ## Contact
 * [Gmail](mailto:lucas.isasmendi@gmail.com)
