@@ -27,7 +27,6 @@ Great JavaScript is more than just syntax or style guides. This Learning Path st
 * JavaScript High Performance [packtpub](https://www.packtpub.com/web-development/javascript-high-performance-video) | [MyNotes]
 
 ## Angular
-
 #### AngularJS Application Architecture
 ![next](https://img.shields.io/badge/plan-next--2-lightgrey.svg)  
 By introducing modules and sub-modules, domain models and state management with ui-router, we will start to establish best practices on how an AngularJS application should not only function, but fit together.  
@@ -58,22 +57,28 @@ This course will teach you the Angular fundamentals required to create testable,
 [Pluralsight](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
 
 ## Node
-
 #### Getting Started with Node.js Security with Express and Angular
-![next](https://img.shields.io/badge/plan-next--1-lightgrey.svg)
+![next](https://img.shields.io/badge/plan-next--1-lightgrey.svg)  
+This course will teach you how to apply common security mitigation techniques to a web application built with Angular, Express.js, and Node.js.  
+[Pluralsight](https://www.pluralsight.com/courses/nodejs-security-express-angular-get-started)
 
 #### Building AngularJS and Node.js Apps with the MEAN Stack 
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
+Learn to build an end to end application with Angular, Node, Express and Mongo.  
+[Pluralsight](https://www.pluralsight.com/courses/building-angularjs-nodejs-apps-mean)
 
 ## Web/Mobile
 #### HTML5: Local Storage and Offline Applications in Depth
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
+Save application data such as preferences or form data in the client's browser and use it in applications, including those running offline.  
+[Lynda](https://www.lynda.com/HTML-5-tutorials/HTML5-Local-Storage-and-Offline-Applications-in-Depth/80441-2.html)
 
 #### Building Mobile Apps With the Ionic Framework and AngularJS
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
+This code-focused course shows how to build mobile apps with the Ionic Framework and AngularJS. The Ionic Framework represents an exciting new way to quickly build professional quality mobile apps.  
+[Pluralsight](https://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
 
 ## DevOps
-
 #### Microservices Architecture
 ![next](https://img.shields.io/badge/plan-next--2-lightgrey.svg)  
 Microservices architecture is a better way of implementing a service oriented architecture. It gives you the ability to create competitive software which is scalable, flexible, and reliable. In this course, learn the design principles for a microservices architecture.  
@@ -90,8 +95,12 @@ What is DevOps, how should you transition to it, and which technologies matter? 
 [Pluralsight](https://www.pluralsight.com/courses/devops-big-picture)
 
 ## Startups
-#### Tactical Customer Interviewing for New Product/Brand Success
+#### How-To: Customer Interviewing to Create Successful Products
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
+Step-by-step guide to discover Game-Changing Insights to Build Products, Services and Brands that People Love and Need.  
+[Udemy](https://www.udemy.com/customer-interviewing/)
 
 #### Best Practices for Software Startups
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
+All your software startup questions answered.  
+[Pluralsight](https://www.pluralsight.com/courses/startup-best-practices)
