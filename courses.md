@@ -51,7 +51,8 @@ This course will help you take the next step in your development by showing you 
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
 Building Web applications? Learn to build robust Single Page Applications (SPAs) with the popular AngularJS framework!  
 [Udemy](https://www.udemy.com/angularjs-jumpstart/)
-#### AngularJS Fundamentals (2013)
+
+### AngularJS Fundamentals (2013)
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
 This course will teach you the Angular fundamentals required to create testable, MVC-style single page applications with AngularJS.  
 [Pluralsight](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
