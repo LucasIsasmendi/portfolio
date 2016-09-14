@@ -6,6 +6,12 @@
 A set of techniques to improve readability of your JavaScript.  
 [Tuts+](http://code.tutsplus.com/courses/javascript-refactoring-techniques/lessons/refactoring-techniques) | [MyNotes](courses/js-refactoring-techniques.md)
 
+### Four Semesters of Computer Science in 5 Hours
+![next](https://img.shields.io/badge/plan-next--1-lightgrey.svg)  
+We’re going to tackle some big topics in just five hours: Algorithms and Big O Analysis, Recursion, Sorting, Data Structures and Functional Programming.  
+[FrontEndMasters](https://frontendmasters.com/courses/computer-science/) | [github](https://btholt.github.io/four-semesters-of-cs/)
+
+
 ## ES6
 ### Using ES6 in your node.js web application
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
@@ -88,7 +94,16 @@ Microservices architecture is a better way of implementing a service oriented ar
 ### Event Driven Microservices
 ![next](https://img.shields.io/badge/plan-next--1-lightgrey.svg)  
 A Pattern Language for Deployment, Communication, and Refactoring.  
-[O'Reilly](http://shop.oreilly.com/product/0636920047551.do)
+[O'Reilly](http://shop.oreilly.com/product/0636920047551.do) 
+
+### Real World Docker
+Learning to Develop, Deploy and Scale Using Docker:
+* Gain hands-on experience using Docker in a variety of real-world situations
+* Learn to deploy a single-service monolithic application with continuous testing deployment
+* Review methods for deploying, backing up and restoring a Docker database
+* Understand how to build and secure a Docker "swarm" consisting of multiple web servers
+* Learn to dynamically route external traffic to Docker containers using automated service discovery  
+[O'Reilly](http://shop.oreilly.com/product/0636920051343.do) | [MyNotes](devops/real-world-docker.md)
 
 ### DevOps: The Big Picture
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  

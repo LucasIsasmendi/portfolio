@@ -44,12 +44,12 @@
 ## I/O
 ### Input
 * [Books](books.md)
-* [Courses](courses.md)
+* [Courses](courses/readme.md)
 * Readings
 * Tutorials
 * [MOOCs](moocs.md)
 * [Podcasts](podcasts.md)
-* Videos
+* [Videos](videos.md)
 
 ### Output
 * [Labs](labs.md)
@@ -58,7 +58,7 @@
 
 ## Mix
 * Tips
-* Explore
+* [Explore](mix/explore.md)
 * N/A
 
 ## Contact
