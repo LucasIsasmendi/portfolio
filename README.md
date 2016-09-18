@@ -50,6 +50,7 @@
 * [MOOCs](moocs.md)
 * [Podcasts](podcasts.md)
 * [Videos](videos.md)
+* [Best Practices](best-practices/readme.md)
 
 ### Output
 * [Labs](labs.md)
