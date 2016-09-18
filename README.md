@@ -57,7 +57,7 @@
 * [Ideas](ideas.md)
 
 ## Mix
-* Tips
+* [Tips](mix/tips.md)
 * [Explore](mix/explore.md)
 * N/A
 
