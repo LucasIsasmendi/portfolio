@@ -53,6 +53,10 @@ Continuous Integration allows you to build a solid app with a solid development 
 This course will help you take the next step in your development by showing you best practices when developing web applications with AngularJS.  
 [Pluralsight](http://www.pluralsight.com/training/Courses/TableOfContents/angular-best-practices)
 
+### AngularJS Patterns: Clean Code
+Learn how to write AngularJS code using battle tested patterns to produce code that is easier to maintain, debug, and scale.
+[Pluralsight](https://www.pluralsight.com/courses/angularjs-patterns-clean-code)
+
 ### AngularJS JumpStart
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
 Building Web applications? Learn to build robust Single Page Applications (SPAs) with the popular AngularJS framework!  
