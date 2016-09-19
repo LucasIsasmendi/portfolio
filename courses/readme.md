@@ -4,7 +4,7 @@
 ### Javascript Refactoring Techniques
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
 A set of techniques to improve readability of your JavaScript.  
-[Tuts+](http://code.tutsplus.com/courses/javascript-refactoring-techniques/lessons/refactoring-techniques) | [MyNotes](courses/js-refactoring-techniques.md)
+[Tuts+](http://code.tutsplus.com/courses/javascript-refactoring-techniques/lessons/refactoring-techniques) | [MyNotes](js-refactoring-techniques.md)
 
 ### Four Semesters of Computer Science in 5 Hours
 ![next](https://img.shields.io/badge/plan-next--1-lightgrey.svg)  
@@ -16,7 +16,7 @@ We’re going to tackle some big topics in just five hours: Algorithms and Big O
 ### Using ES6 in your node.js web application
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
 S6 brings many cool new features to JavaScript. In this course, you'll get to see the features you should be using in your Node.js development.  
-[Pluralsight](https://www.pluralsight.com/courses/nodejs-es6-web-apps) | [MyNotes] (courses/using-es6-in-node-webapp.md)
+[Pluralsight](https://www.pluralsight.com/courses/nodejs-es6-web-apps) | [MyNotes] (using-es6-in-node-webapp.md)
 
 ### Rapid ES6 training
 ![wip](https://img.shields.io/badge/wip-70%25-yellow.svg)  
