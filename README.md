@@ -46,7 +46,8 @@
 * [Books](books.md)
 * [Courses](courses/readme.md)
 * Readings
-* Tutorials
+* [Tutorials](tutorials/readme.md)
+* [Guides](guides/readme.md)
 * [MOOCs](moocs.md)
 * [Podcasts](podcasts.md)
 * [Videos](videos.md)
