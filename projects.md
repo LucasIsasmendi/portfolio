@@ -49,7 +49,8 @@ This game is oriented to improve the quality of political decisions by knowing t
 `< Cloud >` Heroku, mLab, Google Analytics, Cloudflare.  
 
 **Status**  
-This application died. Not enough interest.
+* Argentina: This application died. Not enough interest.  
+* US: testing MVP. Coding ES6 upgrade. Next Open source code [wykiwyg](https://github.com/LucasIsasmendi/wykiwyg)
 
 ## Weight Truck App
 **Desciption**  
