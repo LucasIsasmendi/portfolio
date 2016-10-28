@@ -27,3 +27,6 @@ https://btholt.github.io/four-semesters-of-cs/
 ### Todo App Blaze Version
 [Meteor](https://www.meteor.com/tutorials/blaze/creating-an-app) | [MyNotes](meteor-todo-app-blaze.md)
 In this tutorial, we are going to create a simple app to manage a 'to do' list and collaborate with others on those tasks.  
+
+### DevFreeCasts/Meteor
+[DevFreeCasts](https://devfreecasts.org/meteor/)

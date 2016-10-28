@@ -13,6 +13,7 @@
 * HTML files in Meteor define templates: tags: <head>, <body>, and <template>. Everything inside <template> tags is compiled into Meteor templates, which can be included inside HTML with `{{> templateName}}` or referenced in your JavaScript with `Template.templateName`. Also, the `body` section can be referenced in your JavaScript with `Template.body`.
 * Adding logic and data to templates: all HTML cose is compiled with Meteor's Spacebars compiler. You can pass data into templates from your JavaScript code by defining helpers.
 
+
 ### 3. Collections
 collections accessed from both the server and the client. They also update themselves automatically.
 [Collections and Schemas-Meteor Guide](https://guide.meteor.com/collections.html) 
@@ -82,4 +83,7 @@ More about [Meteor Testing](https://guide.meteor.com/testing.html).
 
 ### 12. What's next?
 meteor create --example todos
+https://github.com/meteor/todos
+
 meteor create --example localmarket
+https://github.com/meteor/localmarket
