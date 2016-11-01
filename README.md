@@ -67,3 +67,19 @@
 * [Gmail](mailto:lucas.isasmendi@gmail.com)
 * [Skype](skype:<lisasmendi>?call) lisasmendi
 * [Twitter](https://twitter.com/Lucas_Isasmendi)
+
+## [Extras](extras/readme.md)
+
+* [Podcasts](extras/podcasts.md)
+
+### Bitcoin | Blockchain
+* Bitcoin
+* Blockchain
+* Research
+* Books
+* Labs
+
+### P2P | Decentralized Apps
+* Research
+* Books
+* Labs
