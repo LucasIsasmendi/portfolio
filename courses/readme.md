@@ -1,5 +1,17 @@
 # Courses
 
+## Meteor
+### Mastering Meteor: Reactive Full Stack javascript
+![wip](https://img.shields.io/badge/wip-70%25-yellow.svg) 
+This course takes a "learning by example" approach, demonstrating how Meteor works in-depth by building an application during runtime. By the end of this video course, you will possess a deep knowledge of how Meteor works and how you can use it to develop powerfully dynamic, reactive applications.  
+[Packt](https://www.packtpub.com/web-development/mastering-meteor-powerful-reactive-applications-full-stack-javascript-video) | [MyNotes](mastering-meteor-reactive-fs-js.md)
+
+## Bitcoin/BlockChain/Decentralized Technology(dapp)
+### Introduction to Bitcoin and Decentralized Technology
+![wip](https://img.shields.io/badge/wip-70%25-yellow.svg) 
+Bitcoin and its blockchain technology promise to make sending money--and interacting in general--cheaper, easier, more secure, and programmable. In this course, you'll learn about Bitcoin and a broad range of other decentralized projects.  
+[Pluralsight](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) | [MyNotes] (intro-bitcoin-decentralized-tech.md)
+
 ## Best Practices
 ### Javascript Refactoring Techniques
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
