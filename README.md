@@ -68,8 +68,9 @@
 * [Skype](skype:<lisasmendi>?call) lisasmendi
 * [Twitter](https://twitter.com/Lucas_Isasmendi)
 
-## [Extras](extras/readme.md)
+## Extras
 
+[main readme](extras/readme.md)
 * [Podcasts](extras/podcasts.md)
 
 ### Bitcoin | Blockchain
