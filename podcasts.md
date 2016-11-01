@@ -2,6 +2,13 @@
 ## Dev
 
 ## Startup
+### Product
+#### How to be a true product-driven organization
+Steve Jobs 80' Apple Vision. Another vision from other people.
+Product-Driven: money cames for product, people buy our product. Product drives all our money. Is harder to say no to new features.
+[Rocketship.fm](http://rocketship.fm/series/product_management/)
+
+### People
 #### #1351 How Spokeo is taking on Whitepages by bringing social data to people search
 Harrison Tang is the cofounder of Spokeo, a people search website that aggregates data from online and offline sources.
 Lerned English copying dictionaries.
@@ -21,3 +28,5 @@ Lerned English copying dictionaries.
 Kosta Gara is founder of Vionic, Inc. which provides marketing solutions for social media.
 
 [Mixergy](https://mixergy.com/interviews/kosta-gara-with-kosta-gara/)
+
+## Others
