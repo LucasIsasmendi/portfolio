@@ -1,4 +1,16 @@
-# Extras
+# Extras 1: Bitcoin, Blockchain, DApp, P2P
+
+## Research
+### Platforms
+* **Monax**
+Eris is a platform for building, testing, maintaining, and operating ecosystem applications with a blockchain backend. Eris makes it easy and simple to wrangle the dragons of smart contract blockchains.
+
+
+### Open Projects
+* Synereo: social decentralized. Include stack
+*  
+
+### Tools
 
 ## Bitcoin
 
