@@ -8,8 +8,6 @@
 [blog.ethereum](https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/)
 
 ## Bitcoin
-### Using Javascript to write your first bitcoin program ever
-[bitcoinnewschannel](http://bitcoinnewschannel.com/2016/01/18/using-javascript-to-write-your-first-bitcoin-program-ever/)
 
 ## Blockchain
 ### The Blockchain Explained to Web Developers, Part 1: The Theory
@@ -72,5 +70,54 @@ The maturity of these implementations varies a lot. If you have to build an appl
 ### The Blockchain Explained to Web Developers, Part 2: In Practice
 [marmelab] (http://marmelab.com/blog/2016/05/20/blockchain-for-web-developers-in-practice.html)
 
+decentralized ad server called Zero Dollar Homepage
+
+#### Application Concept
+The blockchain shines when it replaces intermediaries. We chose to focus on Ad Platforms. Our project was to build a decentralized ad platform running on the blockchain.
+
+#### Research, documentation and first attempts
+We choose Ethereum. Use Homestead. For Doc recomendation Monax blockchain and smart contracts (they especially built a layer on top of Ethereum, and open-sourced a bunch of tools to ease the process of developing smart contracts).
+
+`eris` is command line tool you can use to initialize any number of local blockchains you need.
+
+#### Smart Contract Implementation
+A smart contract is very similar to an API. It has a few public functions which might be called by anyone registered on the blockchain network. Unlike an API, a smart contract cannot call external web APIs (a blockchain is a closed ecosystem). A smart contract may however call other smart contracts, provided it knows their address. A contract might be in fact composed of many private functions, variables, etc.
+
+Smart contracts are hosted in the blockchain in an Ethereum-specific binary format, executable by the **Ethereum Virtual Machine**. 
+Language to write contracts in Ethereum: **Solidity** looks like JS it is still very young and incomplete [doc solidity](http://solidity.readthedocs.io/en/latest/).
+
+#### Unit Testing Contracts
+The Eris guys made a tool for that, too: [sol-unit](https://github.com/smartcontractproduction/sol-unit). 
+
+#### Running a Test Blockchain
+Running a blockchain and deploying our contract to it was as simple as following the Eris documentation[Monax Docs](https://monax.io/docs/tutorials/getting-started/index.html).
+
+#### From Eris to Ethereum
+At this point, we wanted to try out our contracts on a local Ethereum blockchain.
+
+To communicate with contracts inside the Ethereum blockchain, we had to use the Web3 libraries. We learned a lot while trying to use them. We realized that eris was hiding a lot of the underlying complexity.
+
+#### Deployment to Production
+Running our application in a local environment was a challenge, but deploying it to production, in the real Ethereum network, was a battle.
+[souce code github ZeroDollarHomePage](https://github.com/marmelab/ZeroDollarHomePage)
+
+#### Debugging
+The Ethereum developer experience is very bad.
+The tools available to track Ethereum contracts and transactions are:
+etherscan.io: displays data about contracts, transactions, blocks
+etherchain.org: The blocks and ether information
+You can also get aggregated stats about the network and the nodes
+
+#### documentation
+Here are a few resources worth reading if you want to start developing smart contracts yourself:
+* A 101 Noob Intro to Programming Smart Contracts on Ethereum
+* The Ethereum Guide
+* The Ethereum Github wiki
+
+
 ### The Blockchain Explained to Web Developers, Part 3: The Truth
 [marmelab](http://marmelab.com/blog/2016/06/14/blockchain-for-web-developers-the-truth.html)
+
+### Blockchain technology explained by Sal Khan
+[blockchainpie: blockchain-tech-explained](http://blockchainpie.com/blockchain-technology-explained-by-salkhan/)
+
