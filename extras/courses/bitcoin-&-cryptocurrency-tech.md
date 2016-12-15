@@ -3,7 +3,7 @@
 
 ## Week 1 - Introduction to Crypto and Cryptocurrencies
 
-### Cryptographic Hash Functions
+### 1.1 Cryptographic Hash Functions
 #### Hash function:
 *  takes any string as input
 * fixed-size output (we'll use 256 bits)
@@ -61,9 +61,69 @@ For every possible output value `y`, if `k` is chosen from a distribution with h
 Hash Function that bitcoin uses and we will use is **SHA-256 hash function**
 
 <p align="center">
-  <img src="/images/SHA-256 hash function.jpg" width="700">
-  Theorem: If c is collision-free, then SHA-256 is collision-free.
+  <img src="/images/bitcoin-crypt/w1-1.1-SHA-256 hash function.jpg" width="700">
 </p>
+
+> Theorem: If c is collision-free, then SHA-256 is collision-free.
+
+### 1.2 Hash Pointers and Data Structures
+
+hash pointer is:
+  * pointer to where some info is stored, and
+  * (cryptographic) hash of the info
+
+if we have hash pointer, we can
+  * ask to get the info back, and
+  * verify that it hasn't changed
+
+<p align="center">
+  <img src="/images/bitcoin-crypt/w1-1.2-hash-pointers-and-dt.jpg" width="300">
+</p>
+
+> key idea: build data structures with hash pointers
+
+For example here is a linked list that we built with hash pointers. And this is a data structure that we're gonna call a **block chain**.
+
+**detecting tampering**
+
+<p align="center">
+  <img src="/images/bitcoin-crypt/w1-1.2-detecting-tampering.jpg" width="450">
+</p>
+
+> use case: tamper-evident log
+
+And so what this means is that just
+by remembering this hash pointer `H()`, we've essentially remembered a kind of hash, a tamper evident hash of the entire list all the way back to the beginning (the genesis block).
+
+**binary tree with hash pointers = "Merkle tree"**
+
+<p align="center">
+  <img src="/images/bitcoin-crypt/w1-1.2-Merkle tree.jpg" width="450">
+</p>
+
+Another useful data structure that we can build using hash pointers is a binary tree.
+
+**providing membership in a Merkle tree**
+
+<p>
+  <img src="/images/bitcoin-crypt/w1-1.2-Merkle tree membership.jpg">
+</p>
+
+Unlike the block chain that we built before, that if someone wants to prove to us that a particular data block is a member of this Merkle tree. All they need to show us is this amount of data. So that takes about log n items that we need to be shown, and it takes about log n time for us to verify it. And so at the very large number of data blocks in the Merkle tree, we can still verify proven membership in a relatively short time.
+
+**Advantages of Merkle trees**
+
+* The tree holds many items but we just need to remember the one
+root hash which is only 256 bits.
+* We can verify membership in a Merkle tree in logarithmic time and logarithmic space O(log n).
+* Varian: sorted Merkle tree can verify non-membership in O(log n) (show items before, after the missing one)
+
+
+**More generally...**
+can use hash pointers in any pointer-based data structure that has no cycles.
+
+### 1.3 Digital Signatures
+
 
 
 
