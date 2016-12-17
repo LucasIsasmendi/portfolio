@@ -124,7 +124,73 @@ can use hash pointers in any pointer-based data structure that has no cycles.
 
 ### 1.3 Digital Signatures
 
+**What we want from signatures**
 
+Only you can sign, but anyone can verify.
+
+Signature is tied to a particular document, can't be cut-and-pasted to another doc.
+
+#### API for digital signatures
+
+`(sk, pk)` := `generateKeys(keysize)`   
+ > sk: secret signing key  
+ >pk: public verification key
+
+`sig` := `sign(sk, message)`   
+
+`isValid` := `verify(pk, message, sig)`   
+
+* `(sk, pk)` and `sig` can be randomized algorithms
+
+#### Requirements for signatures
+
+**"valid signatures verify"**  
+verify(pk, message, sign(sk, message)) == true
+
+**"can't forge signatures"**  
+adversary who:
+- knows pk
+- gets to see signatures on message of his choice  
+
+can't produce a verifiable signature on another message
+
+GAME: challenger and attacker: generate (sk,pk), the attacker only knows the pk, the challenger can sign messages. Attacker send messages and receive signed messages. Then will try to force a signature in a message that was not send previously.
+
+<p>
+  <img src="/images/bitcoin-crypt/w1-1.3-Game.jpg">
+</p>
+> the attacker's probability of winning this game is negligible, no matter what algorithm the attacker is using.
+
+#### Practical Stuff
+
+* algorithms are randomized,
+  need good source of randomness
+
+* limit on message size,
+  fix: use Hash(message) rather than message
+
+* fun trick: sign hash pointer,
+  signature "covers" the whole structure: if you were to sign
+the hash pointer that was at the end of a block chain, the result
+is that you would effectively be digitally signing the entire
+contents of that block chain.
+
+#### Nuts and Bolts
+Bitcoins uses **ECDSA**  standard Elliptic Curve Digital Signature Algorithm (US government standard)
+
+Relies on hairy math (will skip the details here)
+
+**Good randomness is essential**, foul this up in generateKeys() or sign()?, probably leaked your private key *GAME OVER*
+
+
+### 1.4 Public Keys as Identities
+
+Sign messages with private key and public key
+
+### 1.5 A Simple Cryptocurrency
+
+
+### Programming Assignment
 
 
 ## Week 2
