@@ -185,7 +185,33 @@ Relies on hairy math (will skip the details here)
 
 ### 1.4 Public Keys as Identities
 
-Sign messages with private key and public key
+**Useful trick: public key == an identity**
+
+if you see sig such that `verify(pk, msg, sig) == true`, think of it as `pk says, "[msg]"`.
+
+to "speak for" pk, you must know matching secret key sk.
+
+#### How to make a new identity
+
+create a new, random key-par (sk, pk).  
+`pk` is the public "name" you can use [usually better to use Hash(pk)]  
+`sk` lets you "speak for" the identity
+
+You control the identity, because only you know sk if pk "looks random", nobody needs to know who you are
+
+#### Decentralized identity Management
+
+Anybody can make a new identity at any yime make as many as you want!
+
+no central point of coordination
+
+These identities are called "addresses" in Bitcoin.
+
+#### Privacy (how private is it?)
+* Addresses not directly connected to real-world identity.
+* But observer can link together an address's activity over time, make inferences.
+* Later: a whole lecture on privacy in Bitcoin...
+
 
 ### 1.5 A Simple Cryptocurrency
 
