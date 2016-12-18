@@ -243,9 +243,24 @@ But: you can get the same effect by using transactions to subdivide: create new 
 Can we descroogify the currency, and operate without any central, trusted party?
 
 ### Programming Assignment
+assignment1starterCode.zip
+
+## Week 2 - How Bitcoin Achieves Decentralization
+
+### 2.1 Centralization vs. Decentralization
 
 
-## Week 2
+### 2.2 Distributed Consensus
+
+
+### 2.3 Consensus without Identity: the Block Chain
+
+
+### 2.4 Incentives and Prrof of Work
+
+
+### 2.5 Putting it All Together
+
 
 ## Week 3
 
