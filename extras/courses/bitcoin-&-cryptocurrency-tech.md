@@ -201,7 +201,7 @@ You control the identity, because only you know sk if pk "looks random", nobody 
 
 #### Decentralized identity Management
 
-Anybody can make a new identity at any yime make as many as you want!
+Anybody can make a new identity at any time make as many as you want!
 
 no central point of coordination
 
@@ -212,9 +212,35 @@ These identities are called "addresses" in Bitcoin.
 * But observer can link together an address's activity over time, make inferences.
 * Later: a whole lecture on privacy in Bitcoin...
 
-
 ### 1.5 A Simple Cryptocurrency
 
+#### Goofy coins
+
+* Goofy can create new coins
+* A coin's owner can spend it.
+* The recipient can pass on the coin again.
+
+#### Problem
+* double-spending attack: the main design challenge in digital currency  
+
+#### Solution: ScroogeCoin
+* Scrooge publishes a history of all transactions (a block chain, signed by Scrooge)
+> optimization: put multiple transactions in the same block
+
+* CreateCoins transaction creates new coins
+* PayCoins transaction consumes (and destroys) some coins, and creates new coins of the same total value. Valid if:
+  - consumed coins valid,
+  - not already consumed,
+  - total value out = total value in, and
+  - signed by owners of all consumed coins
+
+**Immutable coins**  
+Coins can't be transferred, subdivided, or combined.
+
+But: you can get the same effect by using transactions to subdivide: create new trans, consume your coin, pay out two new coins to yourself
+
+**Crucial question:**  
+Can we descroogify the currency, and operate without any central, trusted party?
 
 ### Programming Assignment
 
