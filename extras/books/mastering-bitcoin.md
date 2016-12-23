@@ -5,9 +5,9 @@
 
 ## index
 
-[Ch01 Introduction](ch01-ntroduction)  
-[Ch02 How Bitcoin Works](ch02-how-bitcoin-works)  
-[Ch03 The Bitcoin Client](ch03-the-bitcoin-client)
+[Ch01 Introduction](#ch01-ntroduction)  
+[Ch02 How Bitcoin Works](#ch02-how-bitcoin-works)  
+[Ch03 The Bitcoin Client](#ch03-the-bitcoin-client)
 
 ## preface
 
