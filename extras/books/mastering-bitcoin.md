@@ -1,7 +1,13 @@
 # Mastering Bitcoin
 [main github](https://github.com/bitcoinbook/bitcoinbook/tree/first_edition)
 
-[index](https://github.com/bitcoinbook/bitcoinbook/blob/first_edition/book.asciidoc)
+[main index](https://github.com/bitcoinbook/bitcoinbook/blob/first_edition/book.asciidoc)
+
+## index
+
+[Ch01 Introduction](ch01-ntroduction)  
+[Ch02 How Bitcoin Works](ch02-how-bitcoin-works)  
+[Ch03 The Bitcoin Client](ch03-the-bitcoin-client)
 
 ## preface
 
@@ -198,11 +204,75 @@ Bob can now spend the output from this and other transactions, by creating his o
 
 
 ## Ch03 The Bitcoin Client
-Bitcoin Core: The Reference Implementation
 
-Using Bitcoin Core’s JSON-RPC API from the Command Line
+### Bitcoin Core: The Reference Implementation
 
-Alternative Clients, Libraries, and Toolkits
+You can download the reference client [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/), also known as the "Satoshi client,". The reference client implements all aspects of the bitcoin system, including wallets, a transaction verification engine with a full copy of the entire transaction ledger (blockchain), and a full network node in the peer-to-peer bitcoin network.
+
+Check another wallets from [Choose your Bitcoin wallet](https://bitcoin.org/en/choose-your-wallet)
+
+#### Running Bitcoin Core for the First Time
+it will download a copy of the transaction ledger (blockchain), in late 2016 100 GB size.
+
+#### Compiling Bitcoin Core from the Source Code
+clone the [bitcoin github](https://github.com/bitcoin/bitcoin) and compile the desire release (tag). Assuming the prerequisites are installed, you start the build process by generating a set of build scripts using the autogen.sh script.
+
+You can confirm that bitcoin is correctly installed by asking the system for the path of the two executables, as follows:
+`$ which bitcoind` and `$ which bitcoin-cli`
+
+Edit the configuration file `.bitcoin/bitcoin.conf` and enter a username and password.
+
+Run bitcoind in the background with the option -daemon: `$ bitcoind -daemon`
+
+### Using Bitcoin Core’s JSON-RPC API from the Command Line
+
+The Bitcoin Core client implements a JSON-RPC interface that can also be accessed using the command-line helper bitcoin-cli.
+`$ bitcoin-cli help`
+
+* Getting Information on the Bitcoin Core Client Status
+`$ bitcoin-cli getinfo`
+
+* Wallet Setup and Encryption
+  - `$ bitcoin-cli encryptwallet foo`, where foo is the password
+  - `$ bitcoin-cli walletpassphrase foo 360`, where 360 is the number of seconds until the wallet is locked again automatically
+
+* Wallet Backup, Plain-text Dump, and Restore
+  - `$ bitcoin-cli backupwallet wallet.backup`, creates the backup file.
+  - `$ bitcoin-cli importwallet wallet.backup`, restore the backup file.
+  - `$ bitcoin-cli dumpwallet wallet.txt`, dump the wallet into a text file.
+
+* Wallet Addresses and Receiving Transactions
+  - `$ bitcoin-cli getnewaddress`, result: *1hvzSofGwT8cjb8JU7nBsCSfEVQX5u9CL*. The bitcoin reference client maintains a pool of addresses (size: `keypoolsize` from getinfo). These addresses are generated automatically and can then be used as public receiving addresses or change addresses.
+  - `$ bitcoin-cli getreceivedbyaddress 1hvzSofGwT8cjb8JU7nBsCSfEVQX5u9CL 0`, result: *0.05000000*. If we omit the zero from the end of this command, we will only see the amounts that have at least minconf confirmations
+ - `$ bitcoin-cli listtransactions`, result *[{tr}]*. Transactions received by the entire wallet.
+ - `$ bitcoin-cli getaddressesbyaccount ""` result *[addr]*. List all addresses in the entire wallet.
+ - `$ bitcoin-cli getbalance`, result *0.05000000*. Total balance of the wallet. If the transaction has not yet confirmed, the balance returned by getbalance will be zero
+
+* Exploring and Decoding Transactions
+  - `$ bitcoin-cli gettransaction 9ca8f969bd3ef5ec2a8685660fdbf7a8bd365524c2e1fc66c309acbae2c14ae3`, result *{tr}*. Transaction hash is **txid**, is not authoritative until a transaction has been confirmed, can be modified prior to confirmation in a block.
+  - `$ bitcoin-cli getrawtransaction 9ca8f969bd3ef5ec2a8685660fdbf7a8bd365524c2e1fc66c309acbae2c14ae3`, result *raw hex*. Takes the transaction hash (txid) as a parameter and returns the full transaction as a "raw" hex string, exactly as it exists on the bitcoin network.
+  - `$ bitcoin-cli decoderawtransaction 010...000`, result *{tr}*. To get the full contents interpreted as a JSON data structure, the input is previous *raw hex*
+
+  Once the transaction we received has been confirmed by inclusion in a block, the `gettransaction` command will return additional information, showing the `blockhash` (identifier) in which the transaction was included, and the `blockindex`, indicates number of transaction in the block.
+  By default, Bitcoin Core builds a database containing only the transactions related to the user’s wallet. To change this set `txindex=1` from ` .bitcoin/bitcoin.conf` and restart bitcoind.
+
+* Exploring Blocks
+  - `$ bitcoin-cli getblock 000000000000000051d2e759c63a26e247f185ecb7926ed7a6624bc31c2a717b true`, result *{block}*. The block contains 367 transactions and as you can see, the 18th transaction listed (9ca8f9...) is the txid of the one crediting 50 millibits to our address. The `height` entry tells us this is the 286384th block in the blockchain.
+  - `$ bitcoin-cli getblockhash 0`, result *hash*, retrieves a block by its block height.
+
+* Creating, Signing, and Submitting Transactions Based on Unspent Outputs
+  - `$ bitcoin-cli listunspent`, result *[{output}]*. Show all the unspent confirmed outputs in our wallet. Bitcoin’s transactions are based on the concept of spending "outputs," which are the result of previous transactions.
+  - `$ bitcoin-cli gettxout 9ca8f969bd3ef5ec2a8685660fdbf7a8bd365524c2e1fc66c309acbae2c14ae3 0`, result *{trans}*. Get the details of this unspent output: parameters **txid** and **vout**. To spend this output we will create a new transaction (to a new address `getnewaddress`). We will send 25 millibits to the new address (from a 50 total) and get back change (24.5 mBTC), 0.5 millibits will be transaction fee.
+  - `$ bitcoin-cli createrawtransaction '[{"txid","vout"}]' '{"newAddr": 0.025, "oldAddr": 0.0245}'`, result transaction in `hex raw`. To confirm everything is correct use `decoderawtransaction`. The transaction contains an empty **scriptSig** because we haven’t signed it yet. Without a signature, this transaction is meaningless; we haven’t yet proven that we own the address from which the unspent output is sourced.
+  - `$ bitcoin-cli walletpassphrase foo 360`, result: unlock wallet  
+  `$ bitcoin-cli signrawtransaction rawhextransaction`, result: hex raw, check content with `decoderawtransaction`
+  - `$ bitcoin-cli sendrawtransaction rawhextransactionSigned`, returns a transaction hash (txid). Submit the newly created transaction to the network. We can now query that transaction ID with `gettransaction`
+
+### Alternative Clients, Libraries, and Toolkits
+* [libbitcoin](https://github.com/libbitcoin/libbitcoin) Bitcoin Cross-Platform C++ Development Toolkit.
+* [pycoin](https://github.com/richardkiss/pycoin) Another Python bitcoin library.
+* [btcd](https://github.com/btcsuite/btcd) A Go language full-node bitcoin client.
+* more (to old, missed javascript options)
 
 ## Ch04 Keys, Addresses, Wallets
 
@@ -268,7 +338,3 @@ Conclusion
 ## Appendix Bitcoin Improvement Proposals
 ## Appendix pycoin, ku, and tx
 ## Appendix Available Commands with sx Tools
-
-index.asciidoc
-
-colo.asciidoc
