@@ -4,18 +4,18 @@
 ## Index
 [W1-Introduction to Crypto and Cryptocurrencies](#w1-introduction-to-crypto-and-cryptocurrencies)  
 * [1.1 Cryptographic Hash Functions](#1.1-cryptographic-hash-functions)  
-* [1.2 Hash Pointers and Data Structures](#1.2-hash-pointers-and-data-structures)  
-* [1.3 Digital Signatures](#1.3-digital-signatures)  
-* [1.4 Public Keys as Identities](#1.4-public-keys-as-identities)
-* [1.5 A Simple Cryptocurrency](#1.5-a-simple-cryptocurrency)
+* [1.2 Hash Pointers and Data Structures](##1.2-hash-pointers-and-data-structures)  
+* [1.3 Digital Signatures](##1.3-digital-signatures)  
+* [1.4 Public Keys as Identities](##1.4-public-keys-as-identities)
+* [1.5 A Simple Cryptocurrency](##1.5-a-simple-cryptocurrency)
 
 
 [W2-How Bitcoin Achieves Decentralization](#w2-how-bitcoin-achieves-decentralization)  
 * [2.1 Centralization vs. Decentralization](#2.1-centralization-vs.-decentralization)
 * [2.2 Distributed Consensus](#2.2-distributed-consensus)
 * [2.3 Consensus without Identity: the Block Chain](#2.3-consensus-without-identity:-the-block-chain)
-* [2.4 Incentives and Prof of Work](#)
-* [2.5 Putting it All Together](#)
+* [2.4 Incentives and Prof of Work](#2.4-incentives-and-prof-of-work)
+* [2.5 Putting it All Together](#2.5-putting-it-all-together)
 
 [W3]()
 * [](#)
