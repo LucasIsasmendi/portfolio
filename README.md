@@ -41,6 +41,10 @@
 * [Accounting Foundation App](projects.md#accounting-foundation-app): Electron Desktop App to Manage Accounting on a Foundation.
 * [Open Goverment App](projects.md#open-goverment-app): This web-mobile App is oriented to improve local government interaction with communities. Users can upload things to improve, projects to discuss and vote about budget.
 
+## Open Source
+* [Sovereign](https://github.com/DemocracyEarth/sovereign): Meteor app for peer to peer democracy. Decentralized governance platform for small & large organizations.  
+* [Self](https://github.com/DemocracyEarth/self): Sever Node.js, App Ionic. Identity Management for CryptoID Logins, decentralized identity.
+
 ## I/O
 ### Input
 * [Books](books.md)
@@ -63,24 +67,12 @@
 * [Explore](mix/explore.md)
 * N/A
 
+## Extras: Bitcoin | Blockchain | P2P | Decentralized Apps
+* [Main index](extras/readme.md)
+* [Podcasts](extras/podcasts.md)
+* [Papers](extras/papers/readme.md)
+
 ## Contact
 * [Gmail](mailto:lucas.isasmendi@gmail.com)
 * [Skype](skype:<lisasmendi>?call) lisasmendi
 * [Twitter](https://twitter.com/Lucas_Isasmendi)
-
-## Extras
-
-[main readme](extras/readme.md)
-* [Podcasts](extras/podcasts.md)
-
-### Bitcoin | Blockchain
-* Bitcoin
-* Blockchain
-* Research
-* Books
-* Labs
-
-### P2P | Decentralized Apps
-* Research
-* Books
-* Labs
