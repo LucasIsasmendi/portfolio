@@ -2,11 +2,17 @@
 
 ## Courses
 
-* Bitcoin and Cryptocurrency Technologies ~
+### Bitcoin and Cryptocurrency Technologies
 [coursera](https://www.coursera.org/learn/cryptocurrency/home/welcome) | [myNotes](courses/bitcoin-&-cryptocurrency-tech.md)
 ![wip](https://img.shields.io/badge/wip-starting-yellowgreen.svg)
 
-* Cryptography I ~ [coursera](https://www.coursera.org/learn/crypto/home/welcome)
+### Cryptography I
+[coursera](https://www.coursera.org/learn/crypto/home/welcome) | [MyNotes](courses/cryptography-I-coursera.md)
+
+### Introduction to Bitcoin and Decentralized Technology
+![wip](https://img.shields.io/badge/wip-70%25-yellow.svg)
+Bitcoin and its blockchain technology promise to make sending money--and interacting in general--cheaper, easier, more secure, and programmable. In this course, you'll learn about Bitcoin and a broad range of other decentralized projects.  
+[Pluralsight](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) | [MyNotes](courses/intro-bitcoin-decentralized-tech.md)
 
 ## Research
 ### Platforms / Protocols
