@@ -10,7 +10,7 @@
 
 #### JavaScript
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) | [MyNotes](books/you-dont-know-js-series/README.md)  
-![wip](https://img.shields.io/badge/wip-50%25-yellow.svg) 
+![wip](https://img.shields.io/badge/wip-50%25-yellow.svg)
 * Mastering JavaScript
 * Modern JavaScript Applications
 * Modular Programming with JavaScript
@@ -28,6 +28,7 @@
 * Node Design Patterns 2nd Ed
 * Secure Your Node.js Web Application
 * Building Scalable Apps with Redis and Node.js - Joshua Johanan
+* Reactive Programming with Node.js - Fernando Doglio
 
 ### FP (Functional Programming)
 * Functional Programming in JavaScript - Dan Mantyla

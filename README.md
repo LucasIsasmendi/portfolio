@@ -47,7 +47,7 @@
 
 ## I/O
 ### Input
-* [Books](books.md)
+* [Books](books/readme.md)
 * [Courses](courses/readme.md)
 * Readings
 * [Tutorials](tutorials/readme.md)
