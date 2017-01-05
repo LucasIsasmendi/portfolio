@@ -2,15 +2,10 @@
 
 ## Meteor
 ### Mastering Meteor: Reactive Full Stack javascript
-![wip](https://img.shields.io/badge/wip-70%25-yellow.svg) 
+![wip](https://img.shields.io/badge/wip-70%25-yellow.svg)
 This course takes a "learning by example" approach, demonstrating how Meteor works in-depth by building an application during runtime. By the end of this video course, you will possess a deep knowledge of how Meteor works and how you can use it to develop powerfully dynamic, reactive applications.  
 [Packt](https://www.packtpub.com/web-development/mastering-meteor-powerful-reactive-applications-full-stack-javascript-video) | [MyNotes](mastering-meteor-reactive-fs-js.md)
 
-## Bitcoin/BlockChain/Decentralized Technology(dapp)
-### Introduction to Bitcoin and Decentralized Technology
-![wip](https://img.shields.io/badge/wip-70%25-yellow.svg) 
-Bitcoin and its blockchain technology promise to make sending money--and interacting in general--cheaper, easier, more secure, and programmable. In this course, you'll learn about Bitcoin and a broad range of other decentralized projects.  
-[Pluralsight](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) | [MyNotes] (intro-bitcoin-decentralized-tech.md)
 
 ## Best Practices
 ### Javascript Refactoring Techniques
@@ -85,7 +80,7 @@ This course will teach you the Angular fundamentals required to create testable,
 This course will teach you how to apply common security mitigation techniques to a web application built with Angular, Express.js, and Node.js.  
 [Pluralsight](https://www.pluralsight.com/courses/nodejs-security-express-angular-get-started)
 
-### Building AngularJS and Node.js Apps with the MEAN Stack 
+### Building AngularJS and Node.js Apps with the MEAN Stack
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
 Learn to build an end to end application with Angular, Node, Express and Mongo.  
 [Pluralsight](https://www.pluralsight.com/courses/building-angularjs-nodejs-apps-mean)
@@ -110,7 +105,7 @@ Microservices architecture is a better way of implementing a service oriented ar
 ### Event Driven Microservices
 ![next](https://img.shields.io/badge/plan-next--1-lightgrey.svg)  
 A Pattern Language for Deployment, Communication, and Refactoring.  
-[O'Reilly](http://shop.oreilly.com/product/0636920047551.do) 
+[O'Reilly](http://shop.oreilly.com/product/0636920047551.do)
 
 ### Real World Docker
 Learning to Develop, Deploy and Scale Using Docker:
