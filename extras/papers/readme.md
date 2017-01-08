@@ -39,3 +39,11 @@ December 14, 2016
 An Industry Project of the Financial Services Community | Prepared in collaboration with Deloitte  
 Part of the Future of Financial Services Series • August 2016  
 [link](http://www3.weforum.org/docs/WEF_The_future_of_financial_infrastructure.pdf) | [myNotes]
+
+## Identity
+
+### Identity Crisis: Clearer Identity through Correlation
+[link](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
+
+### A Self-Sovereign Identity Architecture
+[link](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/a-self-sovereign-identity-architecture.pdf)
