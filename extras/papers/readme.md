@@ -47,3 +47,12 @@ Part of the Future of Financial Services Series • August 2016
 
 ### A Self-Sovereign Identity Architecture
 [link](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/a-self-sovereign-identity-architecture.pdf)
+
+## Cryptography
+
+### Merkle Signature Schemes, Merkle Trees and Their Cryptanalysis
+Georg Becker
+Seminararbeit
+Ruhr-Universit¨at Bochum
+18.07.08
+[link](https://www.emsec.rub.de/media/crypto/attachments/files/2011/04/becker_1.pdf)
