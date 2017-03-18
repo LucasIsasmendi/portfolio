@@ -45,15 +45,3 @@
 
 ### PWA (Progressive Web Apps)
 * Client-Side Data Storage
-
-### Startup
-* Scaling Lean
-* Hello, Startup
-* Value Proposition Design
-* Running Lean 2nd Edition
-* Mapping Experiences
-* Lean Customer Development Needs
-
-### Others
-* The Healthy Programmer
-* Deskbound

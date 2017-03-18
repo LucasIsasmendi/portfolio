@@ -45,7 +45,7 @@
 * [Sovereign](https://github.com/DemocracyEarth/sovereign): Meteor app for peer to peer democracy. Decentralized governance platform for small & large organizations.  
 * [Self](https://github.com/DemocracyEarth/self): Sever Node.js, App Ionic. Identity Management for CryptoID Logins, decentralized identity.
 
-## I/O
+## I/O Development
 ### Input
 * [Books](books/readme.md)
 * [Courses](courses/readme.md)
@@ -67,10 +67,14 @@
 * [Explore](mix/explore.md)
 * N/A
 
-## Extras: Bitcoin | Blockchain | P2P | Decentralized Apps
+## Bitcoin | Blockchain | P2P | Decentralized Apps
 * [Main index](extras/readme.md)
 * [Podcasts](extras/podcasts.md)
 * [Papers](extras/papers/readme.md)
+
+## Startup
+[Main index](startup/readme.md)
+[Books](startup/books/readme.md)
 
 ## Contact
 * [Gmail](mailto:lucas.isasmendi@gmail.com)
