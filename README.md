@@ -1,6 +1,7 @@
 # Portfolio
 
 ## Skills
+<kbd>
 <img src="http://i.stack.imgur.com/Mmww2.png" height="64" title="Javascript">
 <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" height="64" title="Node">
 <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" width="128" title="Express">
@@ -9,13 +10,17 @@
 <img src="https://angularjs.org/img/ng-logo.png" height="64" title="Angular 1.x">
 <img src="http://ionicframework.com/img/ionic-logo-blog.png" height="64" title="Ionic">
 <img src="https://comsysto.files.wordpress.com/2015/09/electorn-logo-2.png?w=300&h=300" width="64" title="Electron">
+</kbd>
 
 ### Training
+<kbd>
 <img src="https://frontendmasters.com/assets/es6-logo.png" width="48" title="ES6">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/React.js_logo.svg/50px-React.js_logo.svg.png" width="48" title="React">
+<img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="48" title="React">
 <img src="/images/swicon.png" width="48" title="Progressive Web App">
+</kbd>
 
 ## Tools & Favorites
+<kbd>
 <img src="http://gruntjs.com/img/grunt-logo.png" height="48" title="Grunt">
 <img src="https://cldup.com/xFVFxOioAU.svg" width="48" title="Mocha">
 <img src="https://lh5.googleusercontent.com/-2YS1ceHWyys/AAAAAAAAAAI/AAAAAAAAAAc/0LCb_tsTvmU/s46-c-k/photo.jpg" width="48" title="Ubuntu">
@@ -23,6 +28,7 @@
 <img src="/images/sublime.png" width="48" title="Sublime">
 <img src="https://worldvectorlogo.com/logos/heroku.svg" height="48" title="Heroku">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" title="Git">
+</kbd>
 
 ## Best Practices
 ![Node Patterns](https://img.shields.io/badge/node%20patterns-10%25-green.svg)
