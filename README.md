@@ -47,18 +47,18 @@
 
 ## I/O Development
 ### Input
-* [Books](books/readme.md)
-* [Courses](courses/readme.md)
+* [Books](jsdev/books/readme.md)
+* [Courses](jsdev/courses/readme.md)
 * Readings
-* [Tutorials](tutorials/readme.md)
-* [Guides](guides/readme.md)
-* [MOOCs](moocs.md)
+* [Tutorials](jsdev/tutorials/readme.md)
+* [Guides](jsdev/guides/readme.md)
+* [MOOCs](jsdev/moocs.md)
 * [Podcasts](podcasts.md)
-* [Videos](videos.md)
-* [Best Practices](best-practices/readme.md)
+* [Videos](jsdev/videos.md)
+* [Best Practices](jsdev/best-practices/readme.md)
 
 ### Output
-* [Labs](labs.md)
+* [Labs](jsdev/labs.md)
 * Experiments
 * [Ideas](ideas.md)
 
@@ -67,10 +67,10 @@
 * [Explore](mix/explore.md)
 * N/A
 
-## Bitcoin | Blockchain | P2P | Decentralized Apps
-* [Main index](extras/readme.md)
-* [Podcasts](extras/podcasts.md)
-* [Papers](extras/papers/readme.md)
+## Blockchain (Bitcoin | P2P | Decentralized Apps)
+* [Main index](blockchain/readme.md)
+* [Podcasts](blockchain/podcasts.md)
+* [Papers](blockchain/papers/readme.md)
 
 ## Startup
 [Main index](startup/readme.md)
