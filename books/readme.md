@@ -16,6 +16,10 @@
 * Modular Programming with JavaScript
 * JavaScript Regular Expressions
 
+#### Design Patterns, OOP
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+
 #### Test
 * Test-Driven JavaScript Development
 * Jasmine JavaScript Testing, 2nd Edition
@@ -47,6 +51,8 @@
 * Hello, Startup
 * Value Proposition Design
 * Running Lean 2nd Edition
+* Mapping Experiences
+* Lean Customer Development Needs
 
 ### Others
 * The Healthy Programmer
