@@ -17,8 +17,14 @@
 * [2.4 Incentives and Prof of Work](#24-incentives-and-prof-of-work)
 * [2.5 Putting it All Together](#25-putting-it-all-together)
 
-[W3]()
-* [](#)
+[W3-Mechanics of Bitcoin](#w3-mechanics-of-bitcoin)
+* [3.1 Bitcoin Transactions](#31-bitcoin-transactions)
+* [3.2 Bitcoin Scripts](#32-bitcoin-scripts)
+* [3.3 Applications of Bitcoins Scripts](#[33-applications-of-bitcoins-scripts)
+* [3.4 Bitcoin Blocks](#34-bitcoin-blocks)
+* [3.5 The Bitcoin Network](#35-the-bitcoin-network)
+* [3.6 Limitations and Improvements](#36-limitations-and-improvements)
+
 
 
 ## W1-Introduction to Crypto and Cryptocurrencies
@@ -495,8 +501,19 @@ Destroy confidence in Bitcoin? Yes
 How do we get from consensus to currency?  
 What else can we do with consensus?
 
-## Week 3
+## W3-Mechanics of Bitcoin
 
+### 3.1 Bitcoin Transactions
+
+### 3.2 Bitcoin Scripts
+
+### 3.3 Applications of Bitcoins Scripts
+
+### 3.4 Bitcoin Blocks
+
+### 3.5 The Bitcoin Network
+
+### 3.6 Limitations and Improvements
 
 ## Week 4
 

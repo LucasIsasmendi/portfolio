@@ -7,7 +7,8 @@
 
 [Ch01 Introduction](#ch01-ntroduction)  
 [Ch02 How Bitcoin Works](#ch02-how-bitcoin-works)  
-[Ch03 The Bitcoin Client](#ch03-the-bitcoin-client)
+[Ch03 The Bitcoin Client](#ch03-the-bitcoin-client)  
+[Ch04 Keys, Addresses, Wallets](#ch04-keys,-addresses,-wallets)
 
 ## preface
 
@@ -276,11 +277,24 @@ The Bitcoin Core client implements a JSON-RPC interface that can also be accesse
 
 ## Ch04 Keys, Addresses, Wallets
 
-Introduction
-Bitcoin Addresses
-Implementing Keys and Addresses in Python
-Wallets
-Advanced Keys and Addresses
+### Introduction
+Ownership of bitcoin is established through digital keys, bitcoin addresses, and digital signatures. The digital keys are not actually stored in the network, but are instead created and stored by users in a file, or simple database, called a **wallet**. Every bitcoin transaction requires a valid signature to be included in the blockchain.
+Keys come in pairs consisting of a private (secret) key and a public key.
+
+In the payment portion of a bitcoin transaction, the recipient’s public key is represented by its digital fingerprint, called a bitcoin **address** (represents public key or script)
+
+#### Public Key Cryptography and Cryptocurrency
+
+
+### Bitcoin Addresses
+
+### Implementing Keys and Addresses in Python
+
+### Wallets
+
+### Advanced Keys and Addresses
+
+
 ## Ch05 Transactions
 Introduction
 Transaction Lifecycle
