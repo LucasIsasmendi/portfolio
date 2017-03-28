@@ -491,9 +491,7 @@ Suppress some transactions?
 * From the block chain. Yes
 * From the P2P network. No
 
-
 Change the block reward? NO, The attacker doesn't control the copies of bitcoins software that we are running
-
 
 Destroy confidence in Bitcoin? Yes
 
@@ -503,9 +501,36 @@ What else can we do with consensus?
 
 ## W3-Mechanics of Bitcoin
 
+#### Recap: Bitcoin consensus
+Bitcoin consensus gives us:
+* Append-only ledger
+* Decentralized consensus
+* Miners to validate transactions
+
+assumming a currency exists to motivate miners!
+
 ### 3.1 Bitcoin Transactions
 
+#### An account-based ledger (not Bitcoin)
+<img src="/images/bitcoin-crypt/w3-3.1-not bitcoin-account based ledger.jpg">
+
+#### A tranasaction-based ledger (Bitcoin)
+<img src="/images/bitcoin-crypt/w3-3.1-bitcoin-transaction based ledger.jpg">
+>pointers to previous transactions are in the blockchain itself
+
+#### Merging Value
+<img src="/images/bitcoin-crypt/w3-3.1-mergin value.jpg">
+
+#### Joint payments
+<img src="/images/bitcoin-crypt/w3-3.1-Joint payments.jpg">
+> two signatures
+
+
+#### A Bitcoin Transaction
+<img src="/images/bitcoin-crypt/w3-3.1-a bitcoin transaction.jpg">
+
 ### 3.2 Bitcoin Scripts
+
 
 ### 3.3 Applications of Bitcoins Scripts
 
