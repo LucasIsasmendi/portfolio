@@ -531,6 +531,93 @@ assumming a currency exists to motivate miners!
 
 ### 3.2 Bitcoin Scripts
 
+#### Input & Output "addresses" are really scripts
+* Input **scriptSig**
+```
+304000202...
+0467d9e39...
+```
+
+* Output **scriptPubKey**
+```
+OP_DUP
+OP_HASH160
+69e29eds...
+OP_EQUALVERIFY_OP_CHECKSIG
+```
+> To Verify: Concatenated scripts must execute completely with no errors
+
+#### Bitcoin scripting language ("Script")
+Design goals
+* Built for Bitcoin (inspired by Forth)
+* Simple, compact
+* Support for cryptography
+* Stack-based
+* Limits on time/memory
+* No looping
+
+It's not a turning compute language
+
+#### Bitcoin script execution example
+Example a script where the sender of coins simply specifies the public key of the recipient, and the recipient of the coins, to redeem them, has to specify a signature using that specified public key.
+
+```
+<sig> <pubKey> OP_DUP OP_HASH160 <pubKeyHash?> OP_EQUALVERIFY OP_CHECKSIG
+```
+`<sig>` data instruction: signature.  
+`<pubKey>` data instruction: public key use to generate the signature.  
+`OP_DUP` will duplicate the public key.  
+`OP_HASH160` will hash the the value of the top (the public key), the result is `<pubKeyHash>`.  
+`<pubKeyHash?>` data instruction: the public key that the sender specified, had to be used to generate the signature to redeem these coins.  
+`OP_EQUALVERIFY` will compare and consume the 2 data  from the top: `<pubKeyHash?>` and `<pubKeyHash>`.  
+`OP_CHECKSIG` will check and consume the 2 data  from the top:`<pubKey>` and `<sig>`, verifies that the entire transaction was successfully signed.  
+There is nothing left on the stack, and if we don't have any error, the output of the script will be yes.
+If we have errors, the whole transaction will be invalid.  
+
+* There is no memory, only Stack
+* data instructions are pushed directly to the stack
+
+#### Bitcoin script instructions
+256 opcodes total (15 disabled, 75 reserved)
+* Arithmetic
+* If/then
+* Logic/data handling
+* Crypto!
+  * Hashes
+  * Signature verification
+  * Multi-signature verification `OP_CHECKMULTISIG`
+    * Built-in support for joint signatures
+    * Specify n public keys
+    * specify t (threshold)
+    * verification requires t signatures of the n pk
+    * BUG ALERT: extra data value popped from the stack and ignored. High cost to remove it.
+
+#### Proof-of-Burn
+The coins have been destroyed, there's no possible way for them to be spent.
+
+```
+OP_RETURN
+<arbitrary data>
+```
+Uses:
+1. write arbitrary data into the blockchain: your name, timestamp
+2. bootstrap an alternative to Bitcoin by forcing people to destroy Bitcoin in order to gain coins in the new system.
+
+#### Idea: use the hash of redemption script
+the sender specifies a very simple script
+```
+OP_HASH160
+<hash of redemption script>
+OP_EQUAL
+```
+the receiver
+```
+<signature>
+<<pubkey> OP_CHECKSIG>
+```
+there are 2 steps: check taht redemption script had the right hash and then the redemption script will be deserialized and run as a script itself (signature check).
+> pay to script hash, an alternative to the normal mode of operation, which is pay to a public key. This was not part of the initial design specification.
+
 
 ### 3.3 Applications of Bitcoins Scripts
 
