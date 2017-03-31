@@ -2,10 +2,10 @@
 [code repository](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code)
 
 ## Index
-[CH1 Welcome to the Node.js Platform](ch1-welcome-to-the-node.js-platform)  
-[CH2 Node.js Essential Patterns](ch2-node.js-essential-patterns)
+[Chapter 1: Welcome to the Node.js Platform](ch1-welcome-to-the-node.js-platform)  
+[Chapter 2: Node.js Essential Patterns](ch2-node.js-essential-patterns)
 
-## CH1 Welcome to the Node.js Platform
+## Ch1 Welcome to the Node.js Platform
 In this chapter, we will learn the following topics:
 * The Node.js philosophy, the "Node way"
 * Node.js version 6 and ES2015
@@ -216,13 +216,58 @@ Other interesting ES2015 features introduced in Node.js version 6 are as follows
 * Symbols
 
 **Note**: more about ES6 in the [official Node.js documentation](https://nodejs.org/en/docs/es6/)
-``` js
-```
+
+### The reactor pattern
+ The heart of the asynchronous nature of Node.js: single-threaded architecture and non-blocking I/O.
+
+#### I/O is slow
+RAM access is in nanoseconds (10E-9 seconds), disk/network access in in milliseconds (10E-3 seconds)
+
+#### Blocking I/O
+In traditional blocking I/O programming, the function call corresponding to an I/O request will block the execution of the thread until the operation completes. A thread is not cheap in terms of system resources; it consumes memory and causes context switches.
+
+#### Non-blocking I/O
+the system call always returns immediately without waiting for the data to be read or written. If no results are available at the moment of the call, the function will simply return a predefined constant, indicating that there is no data available to return at that moment.
+
+#### Event demultiplexing
+
+most modern operating systems provide a native mechanism to handle concurrent, non-blocking resources in an efficient way; this mechanism is called **synchronous event demultiplexer** or **event notification interface**. This component collects and queues I/O events that come from a set of watched resources, and block until new events are available to process.
+
+#### Introducing the reactor pattern
+The main idea is to have a handler (which in Node.js is represented by a callback function) associated with each I/O operation, which will be invoked as soon as an event is produced and processed by the event loop.
+
+<p align="center">
+  <img src="/images/books/nodejs-patterns-2ed/ch1-reactor pattern.jpg" width="700">
+</p>
+
+**Pattern (reactor)** handles I/O by blocking until new events are available from a set of observed resources, and then reacts by dispatching each event to an associated handler.
+
+**Note**: A Node.js application will exit automatically when there are no more pending operations in the `Event Demultiplexer`, and no more events to be processed inside the `Event Queue`.
+
+#### The non-blocking I/O engine of Node.js-libuv
+Each operating system has its own interface for the Event Demultiplexer: epoll on Linux, kqueue on Mac OS X, and the I/O Completion Port (IOCP) API on Windows. All these inconsistencies across and within the different operating systems required a higher-level abstraction to be built for the Event Demultiplexer. This is exactly why the Node.js core team created a C library called **libuv**, with the objective to make Node.js compatible with all the major platforms and normalize the non-blocking behavior of the different types of resource; libuv today represents the low-level I/O engine of Node.js.
+
+**Note**: [An intoduction to libuv](http://nikhilm.github.io/uvbook/), a free book to learn more about livub
+
+#### The recipe for Node.js
+The reactor pattern and libuv are the basic building blocks of Node.js, but we need the following three other components to build the full platform:
+* A set of **bindings** responsible for wrapping and exposing libuv and other low-level functionality to JavaScript.
+* **V8**, the JavaScript engine originally developed by Google for the Chrome browser. This is one of the reasons why Node.js is so fast and efficient. V8 is acclaimed for its revolutionary design, its speed, and for its efficient memory management.
+* A core JavaScript library (called **node-core**) that implements the high-level Node.js API.
+
+Finally, this is the recipe of Node.js, and the following image represents its final architecture:
+<p align="center">
+  <img src="/images/books/nodejs-patterns-2ed/ch1-node architecture.jpg" width="700">
+</p>
+
 
 ``` js
 ```
 
-## CH2 Node.js Essential Patterns
+``` js
+```
+
+## Ch2 Node.js Essential Patterns
 ``` js
 ```
 
