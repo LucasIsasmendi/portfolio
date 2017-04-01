@@ -2,8 +2,8 @@
 [code repository](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code)
 
 ## Index
-[Chapter 1: Welcome to the Node.js Platform](#ch1-welcome-to-the-node.js-platform)  
-[Chapter 2: Node.js Essential Patterns](#ch2-node.js-essential-patterns)
+[Chapter 1: Welcome to the Node.js Platform](#ch1-welcome-to-the-nodejs-platform)  
+[Chapter 2: Node.js Essential Patterns](#ch2-nodejs-essential-patterns)
 
 ## Ch1 Welcome to the Node.js Platform
 In this chapter, we will learn the following topics:
