@@ -2,10 +2,10 @@
 [code repository](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code)
 
 ## Index
-[Chapter 1: Welcome to the Node.js Platform](ch1-welcome-to-the-node.js-platform)  
-[Chapter 2: Node.js Essential Patterns](ch2-node.js-essential-patterns)
+[Chapter 1: Welcome to the Node.js Platform](ch1-welcome-to-the-nodejs-platform)  
+[Chapter 2: Node.js Essential Patterns](ch2-nodejs-essential-patterns)
 
-## Ch1 Welcome to the Node.js Platform
+## Ch1 Welcome to the Nodejs Platform
 In this chapter, we will learn the following topics:
 * The Node.js philosophy, the "Node way"
 * Node.js version 6 and ES2015
@@ -257,23 +257,24 @@ The reactor pattern and libuv are the basic building blocks of Node.js, but we n
 
 Finally, this is the recipe of Node.js, and the following image represents its final architecture:
 <p align="center">
-  <img src="/images/books/nodejs-patterns-2ed/ch1-node architecture.jpg" width="700">
+  <img src="/images/books/nodejs-patterns-2ed/ch1-node architecture.jpg" width="500">
 </p>
 
 
+## Ch2 Nodejs Essential Patterns
+
+
+``` js
+```
+
 ``` js
 ```
 
 ``` js
 ```
 
-## Ch2 Node.js Essential Patterns
 ``` js
 ```
-
-``` js
-```
-
 ## CH3 Asynchronous Control Flow Patterns with Callbacks
 
 ## CH4 Asynchronous Control Flow Patterns with ES2015 and Beyond
