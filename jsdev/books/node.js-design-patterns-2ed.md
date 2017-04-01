@@ -2,10 +2,10 @@
 [code repository](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code)
 
 ## Index
-[Chapter 1: Welcome to the Node.js Platform](ch1-welcome-to-the-nodejs-platform)  
-[Chapter 2: Node.js Essential Patterns](ch2-nodejs-essential-patterns)
+[Chapter 1: Welcome to the Node.js Platform](#ch1-welcome-to-the-node.js-platform)  
+[Chapter 2: Node.js Essential Patterns](#ch2-node.js-essential-patterns)
 
-## Ch1 Welcome to the Nodejs Platform
+## Ch1 Welcome to the Node.js Platform
 In this chapter, we will learn the following topics:
 * The Node.js philosophy, the "Node way"
 * Node.js version 6 and ES2015
@@ -261,9 +261,7 @@ Finally, this is the recipe of Node.js, and the following image represents its f
 </p>
 
 
-## Ch2 Nodejs Essential Patterns
-
-
+## Ch2 Node.js Essential Patterns
 ``` js
 ```
 
