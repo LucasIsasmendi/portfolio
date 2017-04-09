@@ -55,7 +55,8 @@
 ### Input
 * [Books](jsdev/books/readme.md)
 * [Courses](jsdev/courses/readme.md)
-* Readings
+* [Readings](jsdev/readings/readme.md)
+* [Research](jsdev/research/readme.md)
 * [Tutorials](jsdev/tutorials/readme.md)
 * [Guides](jsdev/guides/readme.md)
 * [MOOCs](jsdev/moocs.md)
