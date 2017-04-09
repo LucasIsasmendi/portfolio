@@ -1,4 +1,8 @@
 # Best Practices
+## Links
+* [code documentation](codedoc.md)
+* [profiling node](profiling.md)
+
 ## Base
 ### REST principles
 #### 1. Uniform Interface
@@ -68,7 +72,7 @@ Architecture, file structure, components, one-way dataflow and best practices
 
 ### Angular 1.4.x styleguide (ES5/old version)
 [GitHub](https://github.com/toddmotto/angular-styleguide/tree/angular-old-es5)
-A standardised approach for developing Angular applications in teams. 
+A standardised approach for developing Angular applications in teams.
 
 ## Node.js
 ### Node Hero - Node.js Project Structure Tutorial
@@ -93,7 +97,7 @@ A standardised approach for developing Angular applications in teams.
 * Simplify
 
 ## Frameworks
-### Meteor 
+### Meteor
 #### Application Structure
 [Meteor](https://guide.meteor.com/structuRule 4 - Use a config Directoryre.html)  
 How to structure your Meteor app with ES2015 modules, ship code to the client and server, and split your code into multiple apps.
@@ -101,4 +105,3 @@ How to structure your Meteor app with ES2015 modules, ship code to the client an
 ### Express
 #### Best practices for Express app structure
 [terlici](https://www.terlici.com/2014/08/25/best-practices-express-structure.html)
-
