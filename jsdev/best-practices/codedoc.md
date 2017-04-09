@@ -4,6 +4,11 @@
 [github](https://github.com/jsdoc3/jsdoc) `6088 stars`  
 [page](http://usejsdoc.org/)
 
+### Tutorials
+[Open Source Guide #1: Documentation and JSDoc](https://resin.io/blog/open-source-guide-1-documentation-and-jsdoc/)
+
+[ESLint enforce valid JSDoc comments](http://eslint.org/docs/rules/valid-jsdoc)
+
 ### Templates
 * Minami: A clean, responsive documentation template theme for JSDoc 3. Examples:
   * http://caolan.github.io/async/
@@ -11,7 +16,9 @@
   * https://github.com/clenemt/docdash
 * jsdoc3Template
   * https://github.com/danyg/jsdoc3Template
-  
+* DocStrap: is Bootstrap based template for JSDoc3.
+  * https://docstrap.github.io/docstrap/
+
 ## Docco
 [github](https://github.com/jashkenas/docco) `3206 stars`  
 [page](http://jashkenas.github.io/docco/)
