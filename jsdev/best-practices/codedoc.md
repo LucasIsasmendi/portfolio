@@ -3,6 +3,7 @@
 ## JSDoc
 [github](https://github.com/jsdoc3/jsdoc) `6088 stars`  
 [page](http://usejsdoc.org/)
+[MyNotes](jsdoc.md)
 
 ### Tutorials
 [Open Source Guide #1: Documentation and JSDoc](https://resin.io/blog/open-source-guide-1-documentation-and-jsdoc/)
