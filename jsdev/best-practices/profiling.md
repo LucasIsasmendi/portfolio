@@ -12,6 +12,10 @@
 [pm2]()
 
 ## Performance Monitoring
+### CPU Flame Graphs
+visualization for sampled stack traces, which allows hot code-paths to be identified quickly.
+[page](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
+[github](https://github.com/brendangregg/FlameGraph)
 
 ### Visual
 
