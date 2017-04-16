@@ -287,3 +287,8 @@ There's no way to polyfill new syntax that has been added to the language. The n
 So the better option is to use a tool that converts your newer code into older code equivalents: Babel, Traceur
 
 ## Ch3 Into YDKJS
+* Scope & Closures
+* this & Object Prototypes
+* Types & Grammar
+* Async & Performance
+* ES6 & Beyond
