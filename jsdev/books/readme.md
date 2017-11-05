@@ -15,6 +15,12 @@
 * Modern JavaScript Applications
 * Modular Programming with JavaScript
 * JavaScript Regular Expressions
+* [Modular JavaScript Book Series](https://github.com/mjavascript)
+  - [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript)
+  - Mastering Modular JavaScript
+  - Universal JavaScript, Modules Everywhere
+  - Testing JavaScript Modules
+  - Deploying Modern JavaScript Applications
 
 #### Design Patterns, OOP
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -30,7 +36,7 @@
 * Mastering Node.js
 * Building APIs with NodeJs
 * Learning Node, 2nd Ed
-* [Node Design Patterns 2nd Ed](https://www.nodejsdesignpatterns.com/) |  [MyNotes](node.js-design-patterns-2ed.md)  
+* [Node Design Patterns 2nd Ed](https://www.nodejsdesignpatterns.com/) |  [MyNotes](nodejs-design-patterns-2ed/readme.md)  
 ![wip](https://img.shields.io/badge/wip-10%25-yellow.svg)
 * Secure Your Node.js Web Application
 * Building Scalable Apps with Redis and Node.js - Joshua Johanan
