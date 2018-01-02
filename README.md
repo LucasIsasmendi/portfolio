@@ -69,10 +69,9 @@
 * Experiments
 * [Ideas](ideas.md)
 
-## Mix
-* [Tips](mix/tips.md)
-* [Explore](mix/explore.md)
-* N/A
+## Moocs
+* [Specializations](moocs/specialization/index.md)
+* [Varios](moocs/varios/index.md)
 
 ## Blockchain (Bitcoin | P2P | Decentralized Apps)
 * [Main index](blockchain/readme.md)
