@@ -38,6 +38,12 @@ A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 * **Sia**
 
 * **Ark**
+
+* **Cosmos**
+Internet of Blockchains
+[github](https://github.com/cosmos/cosmos)
+[whitepaper](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md)
+
 https://ark.io/
 
 ### Open Projects
@@ -66,6 +72,9 @@ https://ark.io/
 ### Books
 * Blockchain Basics [myNotes](books/blockchain.md)
 ![wip](https://img.shields.io/badge/wip-50%25-yellow.svg)
+
+* Mastering Blockchain [myNotes](books/mastering-blockchain/readme.md)
+![wip](https://img.shields.io/badge/wip-10%25-yellow.svg)
 
 ## Decentralized Apps
 
