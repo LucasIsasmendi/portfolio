@@ -4,15 +4,27 @@
 
 - Software Product Management  
 [coursera](https://www.coursera.org/specializations/product-management)  
-[My Notes](specialization/software-product-management/index.md)  
+[My Notes](specialization/software-product-management/readme.md)  
 
-## Varios
+- Agile Development
+
+- Software Design Architecture
+
+## Cypherpunk
 
 - Bitcoin and Cryptocurrency Technologies  
 [coursera](https://www.coursera.org/learn/cryptocurrency/home/welcome)  
-[My Notes](you-dont-know-js-series/README.md)  
+[My Notes](cypherpunk/bitcoin-crypto-tech/readme.md)  
 ![wip](https://img.shields.io/badge/wip-10%25-yellow.svg)  
 
 - Blockchain for Business - An Introduction to Hyperledger Technologies  
 [edX](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)  
-[My Notes](varios/hyperledger-intro/index.md)  
+[My Notes](cypherpunk/hyperledger-intro/readme.md)  
+
+## Mind
+
+- Learning How to Learn
+
+- De-Mystifying Mindfulness
+
+## Varios

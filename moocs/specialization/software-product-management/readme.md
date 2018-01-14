@@ -5,4 +5,6 @@ Create Better Software using Agile Practices. Master Agile development and effec
 
 ## Course 1 - Introduction to Software Product Management
 - [Module 1: Software Product Management - The Discipline](c1-introduction/w1.md)
-- Module 2: Foundations of Software Product Management
+- [Module 2: Foundations of Software Product Management](c1-introduction/w2.md)
+
+## Course 2
