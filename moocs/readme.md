@@ -6,9 +6,13 @@
 [coursera](https://www.coursera.org/specializations/product-management)  
 [My Notes](specialization/software-product-management/readme.md)  
 
+- Software Design Architecture  
+[coursera](https://www.coursera.org/specializations/software-design-architecture)  
+[My Notes](specialization/software-design-architecture/readme.md)  
+
 - Agile Development
 
-- Software Design Architecture
+- Business English
 
 ## Cypherpunk
 
