@@ -1,4 +1,14 @@
 # Links
+## ICO
+### France
+http://www.coindesk.com/blockchain-in-france-a-primer-on-an-emerging-market/
+* [Stratumn](https://stratumn.com/) [github](https://github.com/stratumn)
+* [iEx.ec](http://iex.ec/)
+* Chaintech, Frenchtech
+
+### Analysis
+http://hackingdistributed.com/2017/06/19/bancor-is-flawed/
+
 ## Incidents
 ### Blockchain Graveyard
 [magoo](https://magoo.github.io/Blockchain-Graveyard/)
@@ -35,9 +45,9 @@ Finding the random key to validate a block is very unlikely, by design. This pre
     // a winning hash for Bitcoin if n=10
     00000000009f766c17c736169f79cb0c65dd6e07244e9468bc60cde9538b551e
 > ```
-> Number n is adjusted every once in a while to keep block duration fixed despite variations in the number of nodes. This number is called the **difficulty**. 
+> Number n is adjusted every once in a while to keep block duration fixed despite variations in the number of nodes. This number is called the **difficulty**.
 
-The process of looking for blocks is called mining. 
+The process of looking for blocks is called mining.
 
 #### Money and Cryptocurrencies
 * Reading data is free
@@ -83,11 +93,11 @@ We choose Ethereum. Use Homestead. For Doc recomendation Monax blockchain and sm
 #### Smart Contract Implementation
 A smart contract is very similar to an API. It has a few public functions which might be called by anyone registered on the blockchain network. Unlike an API, a smart contract cannot call external web APIs (a blockchain is a closed ecosystem). A smart contract may however call other smart contracts, provided it knows their address. A contract might be in fact composed of many private functions, variables, etc.
 
-Smart contracts are hosted in the blockchain in an Ethereum-specific binary format, executable by the **Ethereum Virtual Machine**. 
+Smart contracts are hosted in the blockchain in an Ethereum-specific binary format, executable by the **Ethereum Virtual Machine**.
 Language to write contracts in Ethereum: **Solidity** looks like JS it is still very young and incomplete [doc solidity](http://solidity.readthedocs.io/en/latest/).
 
 #### Unit Testing Contracts
-The Eris guys made a tool for that, too: [sol-unit](https://github.com/smartcontractproduction/sol-unit). 
+The Eris guys made a tool for that, too: [sol-unit](https://github.com/smartcontractproduction/sol-unit).
 
 #### Running a Test Blockchain
 Running a blockchain and deploying our contract to it was as simple as following the Eris documentation[Monax Docs](https://monax.io/docs/tutorials/getting-started/index.html).
@@ -120,4 +130,3 @@ Here are a few resources worth reading if you want to start developing smart con
 
 ### Blockchain technology explained by Sal Khan
 [blockchainpie: blockchain-tech-explained](http://blockchainpie.com/blockchain-technology-explained-by-salkhan/)
-
