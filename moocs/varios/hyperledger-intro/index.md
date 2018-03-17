@@ -1,1 +1,0 @@
-# Blockchain for Business - An Introduction to Hyperledger Technologies
