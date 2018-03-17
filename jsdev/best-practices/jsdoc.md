@@ -214,6 +214,7 @@ return foo;
   - [github](https://github.com/eggjs/egg/)
 
 * [resin-sdk](https://github.com/resin-io/resin-sdk)
+* pg-promise lib/database
 
 ## Guides
 ### [short jsdoc guide](http://cancerberosgx.github.io/short-jsdoc/doc/guide/)
