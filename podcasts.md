@@ -30,3 +30,7 @@ Kosta Gara is founder of Vionic, Inc. which provides marketing solutions for soc
 [Mixergy](https://mixergy.com/interviews/kosta-gara-with-kosta-gara/)
 
 ## Others
+
+#### Building a $1 Million Business Solo with Mike Perham of Sidekiq
+https://www.indiehackers.com/podcast/016-mike-perham-of-sidekiq
+Learn how Mike Perham turned his open-source side project into a business, quit his job, and grew revenue to $80,000/mo without making a single hire.

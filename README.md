@@ -70,8 +70,7 @@
 * [Ideas](ideas.md)
 
 ## Moocs
-* [Specializations](moocs/specialization/index.md)
-* [Varios](moocs/varios/index.md)
+[Main index](moocs/readme.md)
 
 ## Blockchain (Bitcoin | P2P | Decentralized Apps)
 * [Main index](blockchain/readme.md)
