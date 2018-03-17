@@ -32,6 +32,12 @@ Coin Center Report
 December 14, 2016  
 [link](https://coincenter.org/files/2016-12/openmattersv1-1.pdf) | [myNotes]
 
+### Using Blockchain Technology and Smart Contracts to Create a Distributed Securities Depository
+Eric Wall
+Gustaf Malm
+June 29, 2016
+[link](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8885750&fileOId=8885765) | [MyNotes]
+
 ## Finance
 
 ### The future of financial infrastructure An ambitious look at how blockchain can reshape financial services

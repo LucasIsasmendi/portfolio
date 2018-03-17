@@ -11,3 +11,5 @@ Alex Tapscott is founder and CEO of Northwest Passage Ventures, coauthor of the 
 
 ## Bitcoin
 
+### Let's Talk Bitcoin! #326 - Understanding Segregated Witness, 2MB SegWit, Extension Blocks and ASICBOOST
+April 9th, 2017 [ltb](https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-326-understanding-segregated-witness-2mb-segwit-extension-blocks-and-asicboost)
