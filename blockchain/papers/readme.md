@@ -62,3 +62,13 @@ Seminararbeit
 Ruhr-Universit¨at Bochum
 18.07.08
 [link](https://www.emsec.rub.de/media/crypto/attachments/files/2011/04/becker_1.pdf)
+
+## Multichain
+
+## SideChains
+### Enabling Blockchain Innovations with Pegged Sidechains
+Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille
+2014-10-22 (commit 5620e43)
+[link](https://blockstream.com/sidechains.pdf)
+[My Notes](blockchain/papers/sidechain/Enabling-Blockchain-Innovations-with-Pegged-Sidechains.md)
+
