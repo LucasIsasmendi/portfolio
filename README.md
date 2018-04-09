@@ -71,11 +71,30 @@
 
 ## Moocs
 [Main index](moocs/readme.md)
+- cypherpunk
+  - Bitcoin and Cryptocurrency Technologies
+  - Blockchain for Business - An Introduction to Hyperledger Technologies
+- mind
+  - Learning How to Learn
+  - De-Mystifying Mindfulness
+- specializations
+  - Agile Development
+  - Software Design Architecture
+  - Software Product Manager
+- varios
+  - Game Theory
 
 ## Blockchain (Bitcoin | P2P | Decentralized Apps)
-* [Main index](blockchain/readme.md)
-* [Podcasts](blockchain/podcasts.md)
-* [Papers](blockchain/papers/readme.md)
+[Main index](blockchain/readme.md)
+- books
+- consensus
+- crypto
+- dapps
+- labs
+- papers
+- platforms
+- protocols
+- podcasts
 
 ## Startup
 [Main index](startup/readme.md)

@@ -1,18 +1,5 @@
-# Blockchain Consensus
+# Delegated Proof-of-Stake
 
-## Proof of Work (PoW)
-
-## Proof of Stake (PoS)
-
-### [ethereum](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-an alternative to proof of work.
-
-### [bitcoin-wiki](https://en.bitcoin.it/wiki/Proof_of_Stake)
-
-
-### [wikipedia](https://en.wikipedia.org/wiki/Proof-of-stake)
-
-## Delegated Proof-of-Stake Consensus
 [bitshares](https://bitshares.org/technology/delegated-proof-of-stake-consensus/)
 
 is the fastest, most efficient, most decentralized, and most flexible consensus model available.
