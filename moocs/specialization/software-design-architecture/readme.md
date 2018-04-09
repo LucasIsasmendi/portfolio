@@ -5,7 +5,7 @@
 ## [Course 2 - Design Patterns](https://www.coursera.org/learn/design-patterns)
 
 ## [Course 3 - Software Architecture](https://www.coursera.org/learn/software-architecture)
-- [Module 1: UML Architecture Diagrams](c3-software-architect/w1.md)
+- [Module 1: UML Architecture Diagrams](c3-software-architecture/w1.md)
 - [Module 2: Architectural Styles]
 - [Module 3: Architecture in Practice]
 - [Module 4: Capstone Challenge]
