@@ -33,4 +33,10 @@
 
 - De-Mystifying Mindfulness
 
+## Economics
+
+- Game Theory II  
+  [coursera](https://www.coursera.org/learn/game-theory-2)  
+  [digest](economics/game-theory-II/readme.md)  
+
 ## Varios

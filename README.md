@@ -1,6 +1,7 @@
 # Portfolio
 
 ## Skills
+
 <kbd>
 <img src="http://i.stack.imgur.com/Mmww2.png" height="64" title="Javascript">
 <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" height="64" title="Node">
@@ -13,6 +14,7 @@
 </kbd>
 
 ### Training
+
 <kbd>
 <img src="https://frontendmasters.com/assets/es6-logo.png" width="48" title="ES6">
 <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="48" title="React">
@@ -20,6 +22,7 @@
 </kbd>
 
 ## Tools & Favorites
+
 <kbd>
 <img src="http://gruntjs.com/img/grunt-logo.png" height="48" title="Grunt">
 <img src="https://cldup.com/xFVFxOioAU.svg" width="48" title="Mocha">
@@ -31,6 +34,7 @@
 </kbd>
 
 ## Best Practices
+
 ![Node Patterns](https://img.shields.io/badge/node%20patterns-10%25-green.svg)
 ![Javascript Patterns](https://img.shields.io/badge/javascript%20patterns-10%25-green.svg)
 ![TDD](https://img.shields.io/badge/TDD-10%25-green.svg)
@@ -40,6 +44,7 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 ## Projects
+
 * [Planning Trip Tool](projects.md#planning-trip-tool): Ionic Application that allows users create and share travel plans and book hotels through integration with Expedia API.
 * [Shopping List App](projects.md#shopping-list-app): Ionic Application with Android APK that allows users create a shopping list and calculate best purchase option. Also keeps records of money spent over time.
 * [Democracy Training App](projects.md#democracy-training-app): this game is oriented to improve the quality of political decisions by knowing the basis. The game start by challenge the facebook contacts, and continue evolving in harder questions. Also shows network power, personal power and links to study and improve personal skills.
@@ -48,11 +53,23 @@
 * [Open Goverment App](projects.md#open-goverment-app): This web-mobile App is oriented to improve local government interaction with communities. Users can upload things to improve, projects to discuss and vote about budget.
 
 ## Open Source
+
 * [Sovereign](https://github.com/DemocracyEarth/sovereign): Meteor app for peer to peer democracy. Decentralized governance platform for small & large organizations.  
+
 * [Self](https://github.com/DemocracyEarth/self): Sever Node.js, App Ionic. Identity Management for CryptoID Logins, decentralized identity.
 
+* [Lisk](https://github.com/LiskHQ/lisk): Blockchain application platform.
+
+* [Sovereign RESTful API](https://democracyearth.github.io/sovereign-restful-api/): Sovereign RESTful API.
+
+* [Sovereign dApp](https://github.com/DemocracyEarth/dapp/): Liquid democracy smart contract implementation.
+
+* [IOV](https://github.com/iov-one): Universal protocol for blockchains and wallet users.
+
 ## I/O Development
+
 ### Input
+
 * [Books](jsdev/books/readme.md)
 * [Courses](jsdev/courses/readme.md)
 * [Readings](jsdev/readings/readme.md)
@@ -65,42 +82,59 @@
 * [Best Practices](jsdev/best-practices/readme.md)
 
 ### Output
+
 * [Labs](jsdev/labs.md)
 * Experiments
 * [Ideas](ideas.md)
 
 ## Moocs
+
 [Main index](moocs/readme.md)
-- cypherpunk
-  - Bitcoin and Cryptocurrency Technologies
-  - Blockchain for Business - An Introduction to Hyperledger Technologies
-- mind
-  - Learning How to Learn
-  - De-Mystifying Mindfulness
-- specializations
-  - Agile Development
-  - Software Design Architecture
-  - Software Product Manager
-- varios
-  - Game Theory
+
+* cypherpunk
+  * Bitcoin and Cryptocurrency Technologies
+  * Blockchain for Business * An Introduction to Hyperledger Technologies
+* mind
+  * Learning How to Learn
+  * De-Mystifying Mindfulness
+* specializations
+  * Agile Development
+  * Software Design Architecture
+  * Software Product Manager
+* varios
+  * Game Theory
+  * Game Theory II
 
 ## Blockchain (Bitcoin | P2P | Decentralized Apps)
+
 [Main index](blockchain/readme.md)
-- books
-- consensus
-- crypto
-- dapps
-- labs
-- papers
-- platforms
-- protocols
-- podcasts
+
+* books
+* consensus
+* crypto
+* dapps
+* labs
+* papers
+* platforms
+* protocols
+* podcasts
+
+## Token engineering
+
+[Main index](token-engineering/readme.md)
+
+* economics
+* engineering
+* tools
 
 ## Startup
+
 [Main index](startup/readme.md)
-[Books](startup/books/readme.md)
+
+* [Books](startup/books/readme.md)
 
 ## Contact
+
 * [Gmail](mailto:lucas.isasmendi@gmail.com)
 * [Skype](skype:<lisasmendi>?call) lisasmendi
 * [Twitter](https://twitter.com/Lucas_Isasmendi)
