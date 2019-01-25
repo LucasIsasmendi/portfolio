@@ -7,11 +7,13 @@ In total, the framework I offer is an integrated model of the cognitive and beha
 
 Human behavior is always changing: situation to situation, moment to moment, second to second. But this book is about what doesn’t change. It’s about the fundamentals of human behavior. The lasting principles you can rely on year after year.
 
+**Focusing on the overall system, rather than a single goal,** is one of the core themes of this book. Atomic habits are the building blocks of remarkable results, components of the system of compound growth.
+
 ## Index
 
 **The Fundamentals: Why Tiny Changes Make a Big Difference**
 [1 The Surprising Power of Atomic Habits](#1-the-surprising-power-of-atomic-habits)
-2 How Your Habits Shape Your Identity (and Vice Versa)
+[2 How Your Habits Shape Your Identity (and Vice Versa)](#2-how-your-habits-shape-your-identity-(and-vice-versa))
 3 How to Build Better Habits in 4 Simple Steps
 **The 1st Law: Make It Obvious**
 4 The Man Who Didn’t Look Right
@@ -50,7 +52,7 @@ The effects of small habits compound over time:
 - `1% worse every day for one year. 0.99365 = 00.03`
 - `1% better every day for one year. 1.01365 = 37.78`
 
-Habits are the compound interest of self-improvement. It is only when looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent. Unfortunately, the slow pace of transformation also makes it easy to let a bad habit slide.
+Habits are the compound interest of self-improvement. It is only whargs[0]en looking back two, five, or perhaps ten years later that the value of good habits and the cost of bad ones becomes strikingly apparent. Unfortunately, the slow pace of transformation also makes it easy to let a bad habit slide.
 
 **Success is the product of daily habits—not once-in-a-lifetime transformations.** What matters is whether your habits are putting you on the path toward success. **You should be far more concerned with your current trajectory than with your current results.**
 
@@ -86,3 +88,41 @@ A handful of problems arise when you spend too much time thinking about your goa
 If you’re having trouble changing your habits, the problem isn’t you. The problem is your system. You do not rise to the level of your goals. You fall to the level of your systems.
 
 ## 2 How Your Habits Shape Your Identity (and Vice Versa)
+Why is it so easy to repeat bad habits and so hard to form good ones?
+Once your habits are established, they seem to stick around forever—especially the unwanted ones.
+Changing our habits is challenging for two reasons: (1) we try to change the wrong thing and (2) we try to change our habits in the wrong way.
+
+### THREE LAYERS OF BEHAVIOR CHANGE
+a change in your outcomes, a change in your processes, or a change in your identity.
+- **outcomes**: changing results (losing weight, goals) -> GET
+- **process**: changing habits and systems (new routine at the gym, meditation practice) -> DO
+- **identity**: changing beliefs, assumptions (worlview, self-image, judgments) -> BELIEVE
+
+Many people begin the process of changing their habits by focusing on what they want to achieve. This leads us to outcome-based habits. The alternative is to build identity-based habits. With this approach, we start by focusing on **who we wish to become**.
+Behavior that is incongruent with the self will not last. It’s hard to change your habits if you never change the underlying beliefs that led to your past behavior.
+
+The ultimate form of intrinsic motivation is when a habit becomes part of your identity. It’s one thing to say I’m the type of person who wants this. It’s something very different to say **I’m the type of person who is this**.
+
+**The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it.** 
+True behavior change is identity change. 
+Improvements are only temporary until they become part of who you are: *The goal is not to read a book, the goal is to become a reader.*
+
+Like all aspects of habit formation, this, too, is a double-edged sword. When working for you, identity change can be a powerful force for self-improvement. When working against you, though, identity change can be a curse: *I’m terrible with directions. I’m not a morning person.*
+The more deeply a thought or action is tied to your identity, the more difficult it is to change it, even if it’s wrong. Good habits can make rational sense, but if they conflict with your identity, you will fail to put them into action.
+This is why you can’t get too attached to one version of your identity. Progress requires unlearning. **Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.**
+
+### THE TWO-STEP PROCESS TO CHANGING YOUR IDENTITY
+1. Decide the type of person you want to be. (This holds at any level): “Who is the type of person that could get the outcome I want?”
+2. Prove it to yourself with small wins.
+
+Your identity emerges out of your habits. The more you repeat a behavior, the more you reinforce the identity associated with that behavior. Each experience in life modifies your self-image. 
+The process of building habits is actually the process of becoming yourself.
+Small habits can make a meaningful difference by providing evidence of a new identity.
+The most practical way to change who you are is to change what you do.
+
+Feedback loops: your habits shape your identity, and your identity shapes your habits.
+The focus should always be on becoming that type of person, not getting a particular outcome.
+
+### THE REAL REASON HABITS MATTER
+Identity change is the North Star of habit change. The true question is: **“Are you becoming the type of person you want to become?”**. You need to know who you want to be. You can choose the identity you want to reinforce today with the habits you choose today. You become your habits.
+
