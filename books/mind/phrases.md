@@ -23,3 +23,15 @@
 - The One Thing
 
 Time brings clarity
+
+- Atomic Habits
+In the long run, the quality of our lives often depends on the quality of our habits.
+Habits are the compound interest of self-improvement.
+Success is the product of daily habits—not once-in-a-lifetime transformations.
+Mastery requires patience.
+You do not rise to the level of your goals. You fall to the level of your systems.
+We change bit by bit, day by day, habit by habit. We are continually undergoing microevolutions of the self.
+
+We change bit by bit, day by day, habit by habit. We are continually undergoing microevolutions of the self.
+Habits are about becoming someone.
+“Until you make the unconscious conscious, it will direct your life and you will call it fate.” - Carl Jung

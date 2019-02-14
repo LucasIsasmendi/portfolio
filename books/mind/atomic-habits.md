@@ -14,10 +14,10 @@ Human behavior is always changing: situation to situation, moment to moment, sec
 **The Fundamentals: Why Tiny Changes Make a Big Difference**
 [1 The Surprising Power of Atomic Habits](#1-the-surprising-power-of-atomic-habits)
 [2 How Your Habits Shape Your Identity (and Vice Versa)](#2-how-your-habits-shape-your-identity-(and-vice-versa))
-3 How to Build Better Habits in 4 Simple Steps
+[3 How to Build Better Habits in 4 Simple Steps](#3-how-to-build-better-habits-in-4-simple-steps)
 **The 1st Law: Make It Obvious**
-4 The Man Who Didn’t Look Right
-5 The Best Way to Start a New Habit
+[4 The Man Who Didn’t Look Right](#4-the-man-who-didn't-look-right)
+[5 The Best Way to Start a New Habit](#5-the-best-way-to-start-a-new-habit)
 6 Motivation Is Overrated; Environment Often Matters More
 7 The Secret to Self-Control
 **The 2nd Law: Make It Attractive**
@@ -125,4 +125,90 @@ The focus should always be on becoming that type of person, not getting a partic
 
 ### THE REAL REASON HABITS MATTER
 Identity change is the North Star of habit change. The true question is: **“Are you becoming the type of person you want to become?”**. You need to know who you want to be. You can choose the identity you want to reinforce today with the habits you choose today. You become your habits.
+
+## 3 How to Build Better Habits in 4 Simple Steps
+From his studies, Thorndike described the learning process by stating, “behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated.”
+
+### WHY YOUR BRAIN BUILDS HABITS
+Whenever you encounter a new situation in life: You are carefully analyzing the situation and making conscious decisions about how to act. You’re taking in tons of new information and trying to make sense of it all. The brain is busy learning the most effective course of action. Neurological activity in the brain is high during this period.
+After you stumble upon an unexpected reward, you alter your strategy for next time. Your brain immediately begins to catalog the events that preceded the reward.
+
+Whenever you face a problem repeatedly, your brain begins to automate the process of solving it. Your habits are just a series of automatic solutions that solve the problems and stresses you face regularly.
+
+“Habits are, simply, reliable solutions to recurring problems in our environment.”
+As habits are created, the level of activity in the brain decreases.
+Habits are mental shortcuts learned from experience.
+
+It’s only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity. Building habits in the present allows you to do more of what you want in the future.
+
+### THE SCIENCE OF HOW HABITS WORK
+steps: cue(noticing) -> craving(wanting) -> response(obtaning) -> reward(satisfaction,learning)
+- The cue triggers your brain to initiate a behavior. It is a bit of information that predicts a reward.
+- Cravings are the motivational force behind every habit. What you crave is not the habit itself but the change in state it delivers. The thoughts, feelings, and emotions of the observer are what transform a cue into a craving.
+- The response is the actual habit you perform, which can take the form of a thought or an action.
+- Rewards are the end goal of every habit. We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us.
+
+rewards teach us which actions are worth remembering in the future.
+
+### THE HABIT LOOP
+This “habit loop” is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results (Hooked)
+- Problem phase: 1. Cue, 2. Craving
+- Solution phase: 3. Response, 4. Reward
+
+By the time we become adults, we rarely notice the habits that are running our lives.
+
+### THE FOUR LAWS OF BEHAVIOR CHANGE
+it provides a simple set of rules for creating good habits and breaking bad ones.
+
+**How to Create a Good Habit**:
+- The 1st law (Cue): Make it obvious.
+- The 2nd law (Craving): Make it attractive.
+- The 3rd law (Response): Make it easy.
+- The 4th law (Reward): Make it satisfying.
+
+**How to Break a Bad Habit**
+- Inversion of the 1st law (Cue): Make it invisible.
+- Inversion of the 2nd law (Craving): Make it unattractive.
+- Inversion of the 3rd law (Response): Make it difficult.
+- Inversion of the 4th law (Reward): Make it unsatisfying.
+
+**The 1st Law: Make It Obvious**
+
+## 4 The Man Who Didn’t Look Right
+The human brain is a prediction machine. It is continuously taking in your surroundings and analyzing the information it comes across. Whenever you experience something repeatedly your brain begins noticing what is important, sorting through the details and highlighting the relevant cues, and cataloging that information for future use.
+
+You don’t need to be aware of the cue for a habit to begin. You can notice an opportunity and take action without dedicating conscious attention to it. This is what makes habits useful. It’s also what makes them dangerous.
+Over time, the cues that spark our habits become so common that they are essentially invisible. For this reason, we must begin the process of behavior change with awareness. 
+Before we can effectively build new habits, we need to get a handle on our current ones.
+
+### THE HABITS SCORECARD
+Pointing-and-Calling is a safety system designed to reduce mistakes. Is so effective because it raises the level of awareness from a nonconscious habit to a more conscious level (use all senses).
+Many of our failures in performance are largely attributable to a lack of self-awareness. One of our greatest challenges in changing habits is maintaining awareness of what we are actually doing.
+Habits Scorecard(+, -, = will depend on your situation and your goals) is a simple exercise you can use to become more aware of your behavior.
+
+> TODO: my daily habits scorecard - page 104 example
+
+There are no good habits or bad habits. There are only effective habits. Categorize your habits by how they will benefit you in the long run +/-: Does this habit cast a vote for or against my desired identity?
+[*] Pointing-and-Calling: Say out loud the action that you are thinking of taking and what the outcome will be. Hearing your bad habits spoken aloud makes the consequences seem more real.
+
+## 5 The Best Way to Start a New Habit
+implementation intention: is a plan you make beforehand about when and where to act. "During PERIOD, I will do ACTION on DAY at TIME in PLACE". The two most common cues are time and location. Implementation intentions leverage both of these cues. “When situation X arises, I will perform response Y.”
+I will [BEHAVIOR] at [TIME] in [LOCATION].
+
+Give your habits a time and a space to live in the world.
+
+### HABIT STACKING: A SIMPLE PLAN TO OVERHAUL YOUR HABITS
+The Diderot Effect states that obtaining a new possession often creates a spiral of consumption that leads to additional purchases.
+No behavior happens in isolation. Each action becomes a cue that triggers the next behavior.
+One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top. This is called **habit stacking**.
+“After [CURRENT-HABIT], I will [NEW-HABIT]."
+
+Once you get comfortable with this approach, you can develop general habit stacks to guide you whenever the situation is appropriate:
+- Exercise. When I see a set of stairs, I will take them instead of using the elevator.
+- Social skills. When I walk into a party, I will introduce myself to someone I don’t know yet.
+- Finances. When I want to buy something over $100, I will wait twenty-four hours before purchasing.
+One way to find the right trigger for your habit stack is by brainstorming a list of your current habits
+
+> TODO: 2 colum list to find right trigger for habits - page 119
+
 
