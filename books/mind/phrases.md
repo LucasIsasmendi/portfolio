@@ -34,4 +34,11 @@ We change bit by bit, day by day, habit by habit. We are continually undergoing 
 
 We change bit by bit, day by day, habit by habit. We are continually undergoing microevolutions of the self.
 Habits are about becoming someone.
+
 “Until you make the unconscious conscious, it will direct your life and you will call it fate.” - Carl Jung
+
+Environment is the invisible hand that shapes human behavior.
+
+The modern food industry relies on stretching our Paleolithic instincts beyond their evolutionary purpose.
+
+“We’ve gotten too good at pushing our own buttons.”

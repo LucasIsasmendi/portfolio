@@ -18,8 +18,8 @@ Human behavior is always changing: situation to situation, moment to moment, sec
 **The 1st Law: Make It Obvious**
 [4 The Man Who Didn’t Look Right](#4-the-man-who-didn't-look-right)
 [5 The Best Way to Start a New Habit](#5-the-best-way-to-start-a-new-habit)
-6 Motivation Is Overrated; Environment Often Matters More
-7 The Secret to Self-Control
+[6 Motivation Is Overrated; Environment Often Matters More](#6-motivation-is-overrated;-environment-often-matters-more)
+[7 The Secret to Self-Control](#7-the-secret-to-self-control)
 **The 2nd Law: Make It Attractive**
 8 How to Make a Habit Irresistible
 9 The Role of Family and Friends in Shaping Your Habits
@@ -210,5 +210,62 @@ Once you get comfortable with this approach, you can develop general habit stack
 One way to find the right trigger for your habit stack is by brainstorming a list of your current habits
 
 > TODO: 2 colum list to find right trigger for habits - page 119
+
+## 6 Motivation Is Overrated; Environment Often Matters More
+Your habits change depending on the room you are in and the cues in front of you.
+Behavior is a function of the Person in their Environment, or B = f (P,E).
+
+### HOW TO DESIGN YOUR ENVIRONMENT FOR SUCCESS
+If you want to make a habit a big part of your life, make the cue a big part of your environment.
+
+### THE CONTEXT IS THE CUE
+The cues that trigger a habit can start out very specific, but over time your habits become associated not with a single trigger but with the entire context surrounding the behavior (social drink).
+We mentally assign our habits to the locations in which they occur: the home, the office, the gym.
+Our behavior is not defined by the objects in the environment but by our relationship to them.
+You can train yourself to link a particular habit with a particular context. Habits can be easier to change in a new environment.
+Take a break from the space where you do your daily work, which is also linked to your current thought patterns.
+Whenever possible, avoid mixing the context of one habit with another.
+If your space is limited, divide your room into activity zones. 
+
+If you can manage to stick with this strategy, each context will become associated with a particular habit and mode of thought. Habits thrive under predictable circumstances like these.
+
+> Todo: move to the coach to read, the kitchen to study languages, the other table to learn new things
+
+## 7 The Secret to Self-Control
+spend less time in tempting situations.
+Once a habit has been encoded, the urge to act follows whenever the environmental cues reappear.
+Bad habits are autocatalytic: the process feeds itself. They foster the feelings they try to numb. “cue-induced wanting”: an external trigger causes a compulsive craving to repeat a bad habit. Once you notice something, you begin to want it.
+Here’s the punch line: You can break a habit, but you’re unlikely to forget it. Once the mental grooves of habit have been carved into your brain, they are nearly impossible to remove entirely
+
+**cut bad habits off at the source**: reduce exposure to the cue that causes it.
+
+This practice is an inversion of the 1st Law of Behavior Change. Rather than make it obvious, you can make it invisible. Self-control is a short-term strategy, not a long-term one.
+
+**The 2nd Law: Make It Attractive**
+
+## 8 How to Make a Habit Irresistible
+A supernormal stimulus is a heightened version of reality and it elicits a stronger response than usual.
+The modern food industry relies on stretching our Paleolithic instincts beyond their evolutionary purpose. French fries: orosensation.
+They exaggerate features that are naturally attractive to us, and our instincts go wild as a result, driving us into excessive shopping habits, social media habits, porn habits, eating habits, and many others.
+
+### THE DOPAMINE-DRIVEN FEEDBACK LOOP
+Habits are a dopamine-driven feedback loop. Every behavior that is highly habit-forming is associated with higher levels of dopamine. It plays a central role in many neurological processes, including motivation, learning and memory, punishment and aversion, and voluntary movement.
+Whenever you predict that an opportunity will be rewarding, your levels of dopamine spike in anticipation. And whenever dopamine rises, so does your motivation to act.
+It is the anticipation of a reward—not the fulfillment of it—that gets us to take action.
+
+### THE DOPAMINE SPIKE
+Your brain has far more neural circuitry allocated for wanting rewards than for liking them.
+
+We need to make our habits attractive because it is the expectation of a rewarding experience that motivates us to act in the first place.
+
+### HOW TO USE TEMPTATION BUNDLING TO MAKE YOUR HABITS MORE ATTRACTIVE
+Temptation bundling works by linking an action you want to do with an action you need to do.
+You’re more likely to find a behavior attractive if you get to do one of your favorite things at the same time.
+Premack’s Principle: **more probable behaviors will reinforce less probable behaviors.**
+
+The habit stacking + temptation bundling formula is:
+- After [CURRENT HABIT], I will [HABIT I NEED].
+- After [HABIT I NEED], I will [HABIT I WANT].
+
 
 
