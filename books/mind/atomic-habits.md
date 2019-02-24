@@ -25,9 +25,9 @@ Human behavior is always changing: situation to situation, moment to moment, sec
 [9 The Role of Family and Friends in Shaping Your Habits](#9-the-role-of-family-and-friends-in-shaping-your-habits)
 [10 How to Find and Fix the Causes of Your Bad Habits](#10-how-to-find-and-fix-the-causes-of-your-bad-habits)
 **The 3rd Law: Make It Easy**
-11 Walk Slowly, but Never Backward
-12 The Law of Least Effort
-13 How to Stop Procrastinating by Using the Two-Minute Rule
+[11 Walk Slowly, but Never Backward](#11-walk-slowly,-but-never-backward)
+[12 The Law of Least Effort](#12-the-law-of-least-effort)
+[13 How to Stop Procrastinating by Using the Two-Minute Rule](#13-how-to-stop-procrastinating-by-using-the-two-minute-rule)
 14 How to Make Good Habits Inevitable and Bad Habits Impossible
 **The 4th Law: Make It Satisfying**
 15 The Cardinal Rule of Behavior Change
@@ -318,4 +318,53 @@ If you want to take it a step further, you can create a motivation ritual. You s
 
 The key to finding and fixing the causes of your bad habits is to reframe the associations you have about them.
 
+**The 3rd Law: Make It Easy**
 
+## 11 Walk Slowly, but Never Backward
+We are so focused on figuring out the best approach that we never get around to taking action. As Voltaire once wrote, “The best is the enemy of the good.”
+
+When you’re in **motion**, you’re planning and strategizing and learning. Those are all good things, but they don’t produce a result. **Action**, on the other hand, is the type of behavior that will deliver an outcome. Motion allows us to feel like we’re making progress without running the risk of failure.
+
+When preparation becomes a form of procrastination, you need to change something. You don’t want to merely be planning. You want to be practicing. If you want to master a habit, the key is to start with repetition, not perfection.
+
+### HOW LONG DOES IT ACTUALLY TAKE TO FORM A NEW HABIT?
+Habit formation is the process by which a behavior becomes progressively more automatic through repetition. The more you repeat an activity, the more the structure of your brain changes to become efficient at that activity. Neuroscientists call this long-term potentiation, which refers to the strengthening of connections between neurons in the brain based on recent patterns of activity. Hebb’s Law: “Neurons that fire together wire together.”. Repeating a habit leads to clear physical changes in the brain, particular regions of the brain adapt as they are used and atrophy as they are abandoned. Repetition is a form of change
+
+Habits form based on frequency, not time. To build a habit, you need to practice it. And the most effective way to make practice happen is to **make it easy**.
+
+## 12 The Law of Least Effort
+Energy is precious, and the brain is wired to conserve it whenever possible. It is human nature to follow the Law of Least Effort, which states that when deciding between two similar options, people will naturally gravitate toward the option that requires the least amount of work. The less energy a habit requires, the more likely it is to occur. You don’t actually want the habit itself. What you really want is the outcome the habit delivers.
+If you can make your good habits more convenient, you’ll be more likely to follow through on them.
+The idea behind make it easy is not to only do easy things. The idea is to make it as easy as possible in the moment to do things that payoff in the long run.
+
+### HOW TO ACHIEVE MORE WITH LESS EFFORT
+Make your habits simple and easy. One of the most effective ways to reduce the friction associated with your habits is to practice environment design.
+When we remove the points of friction that sap our time and energy (addition by subtraction), we can achieve more with less effort. Dating apps reduce the friction of making social introductions. Business is a never-ending quest to deliver the same result in an easier fashion.
+Much of the battle of building better habits comes down to finding ways to reduce the friction associated with our good habits and increase the friction associated with our bad ones.
+
+### PRIME THE ENVIRONMENT FOR FUTURE USE
+Order after every use. Set the desktop to zero. Put the tv in a closet after watch it. Leave your phone in a different room until lunch.
+Redesign your life so the actions that matter most are also the actions that are easiest to do.
+
+## 13 How to Stop Procrastinating by Using the Two-Minute Rule
+Habits are automatic choices that influence the conscious decisions that follow, can be completed in just a few seconds, but it can also shape the actions that you take for minutes or hours afterward. Habits are like the entrance ramp to a highway.
+Every day, there are a handful of moments that deliver an outsized impact. I refer to these little choices as **decisive moments**, they set the options available to your future self.
+
+### THE TWO-MINUTE RULE
+When you start a new habit, it should take less than two minutes to do.
+You’ll find that nearly any habit can be scaled down into a two-minute version:
+- “Read before bed each night” becomes “Read one page.”
+- “Do thirty minutes of yoga” becomes “Take out my yoga mat.”
+- “Study for class” becomes “Open my notes.”
+- “Fold the laundry” becomes “Fold one pair of socks.”
+- “Run three miles” becomes “Tie my running shoes.”
+
+What you want is a **gateway habit** that naturally leads you down a more productive path.
+Habit must be established before it can be improved. You have to standardize before you can optimize.
+The more you ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things.
+By doing the same warm-up before every workout, you make it easier to get into a state of peak performance. By following the same creative ritual, you make it easier to get into the hard work of creating. By developing a consistent power-down habit, you make it easier to get to bed at a reasonable time each night.
+
+If the Two-Minute Rule feels forced, try this: do it for two minutes and then stop. “The best way is to always stop when you are going good,”. It’s better to do less than you hoped than to do nothing at all.
+At some point, once you’ve established the habit and you’re showing up each day, you can combine the Two-Minute Rule with a technique we call habit shaping to scale your habit back up toward your ultimate goal. Start by mastering the first two minutes of the smallest version of the behavior. Then, advance to an intermediate step and repeat the process.
+
+Nearly any larger life goal can be transformed into a two-minute behavior.
