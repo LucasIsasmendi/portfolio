@@ -21,9 +21,9 @@ Human behavior is always changing: situation to situation, moment to moment, sec
 [6 Motivation Is Overrated; Environment Often Matters More](#6-motivation-is-overrated;-environment-often-matters-more)
 [7 The Secret to Self-Control](#7-the-secret-to-self-control)
 **The 2nd Law: Make It Attractive**
-8 How to Make a Habit Irresistible
-9 The Role of Family and Friends in Shaping Your Habits
-10 How to Find and Fix the Causes of Your Bad Habits
+[8 How to Make a Habit Irresistible](#8-how-to-make-a-habit-irresistible)
+[9 The Role of Family and Friends in Shaping Your Habits](#9-the-role-of-family-and-friends-in-shaping-your-habits)
+[10 How to Find and Fix the Causes of Your Bad Habits](#10-how-to-find-and-fix-the-causes-of-your-bad-habits)
 **The 3rd Law: Make It Easy**
 11 Walk Slowly, but Never Backward
 12 The Law of Least Effort
@@ -267,5 +267,55 @@ The habit stacking + temptation bundling formula is:
 - After [CURRENT HABIT], I will [HABIT I NEED].
 - After [HABIT I NEED], I will [HABIT I WANT].
 
+## 9 The Role of Family and Friends in Shaping Your Habits
+whatever habits are normal in your culture are among the most attractive behaviors you’ll find.
+
+### THE SEDUCTIVE PULL OF SOCIAL NORMS
+"In the long history of humankind, those who learned to collaborate and improvise most effectively have prevailed". As a result, one of the deepest human desires is to belong. And this ancient preference exerts a powerful influence on our modern behavior.
+We don’t choose our earliest habits, we imitate them.
+Often, you follow the habits of your culture without thinking, without questioning, and sometimes without remembering.
+Behaviors are attractive when they help us fit in.
+We imitate the habits of three groups in particular:
+1. The close
+2. The many.
+3. The powerful.
+
+#### 1. Imitating the Close
+We pick up habits from the people around us: Surround yourself with people who have the habits you want to have yourself. The shared identity begins to reinforce your personal identity. This is why remaining part of a group after achieving a goal is crucial to maintaining your habits.
+
+#### 2. Imitating the Many
+
+##### CONFORMING TO SOCIAL NORMS
+Whenever we are unsure how to act, we look to the group to guide our behavior (amazon reviews). The normal behavior of the tribe often overpowers the desired behavior of the individual. The reward of being accepted is often greater than the reward of winning an argument, looking smart, or finding truth.
+When changing your habits means challenging the tribe, change is unattractive. When changing your habits means fitting in with the tribe, change is very attractive.
+
+#### 3. Imitating the Powerful
+Once we fit in the tribe, we start looking for ways to stand out. This is one reason we care so much about the habits of highly effective people. We try to copy the behavior of successful people because we desire success ourselves. We imitate people we envy. We are also motivated to avoid behaviors that would lower our status.
+
+## 10 How to Find and Fix the Causes of Your Bad Habits
+
+### WHERE CRAVINGS COME FROM
+Every behavior has a surface level craving and a deeper, underlying motive: Conserve energy. Obtain food and water. Find love and reproduce. Connect and bond with others. Win social acceptance and approval. Reduce uncertainty. Achieve status and prestige.
+
+Your habits are modern-day solutions to ancient desires. Once you associate a solution with the problem you need to solve, you keep coming back to it.
+Life feels reactive, but it is actually predictive. All day long, you are making your best guess of how to act given what you’ve just seen and what has worked for you in the past. You are endlessly predicting what will happen in the next moment.
+
+Our behavior is heavily dependent on how we interpret the events that happen to us, not necessarily the objective reality of the events themselves.
+These predictions lead to feelings, which is how we typically describe a craving. A craving is the sense that something is missing. It is the desire to change your internal state.
+Desire is the difference between where you are now and where you want to be in the future. Our feelings and emotions tell us whether to hold steady in our current state or to make a change. **When emotions and feelings are impaired**, we actually lose the ability to make decisions.
+
+Habits are attractive when we associate them with positive feelings, and we can use this insight to our advantage rather than to our detriment.
+
+### HOW TO REPROGRAM YOUR BRAIN TO ENJOY HARD HABITS
+You can make hard habits more attractive if you can learn to associate them with a positive experience. Sometimes, all you need is a slight mind-set shift: instead of "have" to, use "get" to, change from burdens and turn them into opportunities.
+Reframing your habits to highlight their benefits rather than their drawbacks is a fast and lightweight way to reprogram your mind and make a habit seem more attractive.
+- Exercise: instead of "need to go run" use "time to build endurance and get fast".
+- Meditation: you need distraction to focus again.
+- Pregame jitters: You can reframe “I am nervous” to “I am excited and I’m getting an adrenaline rush to help me concentrate.”
+
+They can help change the feelings you associate with a particular habit or situation.
+If you want to take it a step further, you can create a motivation ritual. You simply practice associating your habits with something you enjoy, then you can use that cue whenever you need a bit of motivation: putting my headphones (don't need to play music).
+
+The key to finding and fixing the causes of your bad habits is to reframe the associations you have about them.
 
 
