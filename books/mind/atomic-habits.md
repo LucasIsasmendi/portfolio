@@ -28,10 +28,10 @@ Human behavior is always changing: situation to situation, moment to moment, sec
 [11 Walk Slowly, but Never Backward](#11-walk-slowly,-but-never-backward)
 [12 The Law of Least Effort](#12-the-law-of-least-effort)
 [13 How to Stop Procrastinating by Using the Two-Minute Rule](#13-how-to-stop-procrastinating-by-using-the-two-minute-rule)
-14 How to Make Good Habits Inevitable and Bad Habits Impossible
+[14 How to Make Good Habits Inevitable and Bad Habits Impossible](#14-how-to-make-good-habits-inevitable-and-bad-habits-impossible)
 **The 4th Law: Make It Satisfying**
-15 The Cardinal Rule of Behavior Change
-16 How to Stick with Good Habits Every Day
+[15 The Cardinal Rule of Behavior Change](#15-the-cardinal-rule-of-behavior-change)
+[16 How to Stick with Good Habits Every Day](#16-how-to-stick-with-good-habits-every-day)
 17 How an Accountability Partner Can Change Everything
 **Advanced Tactics: How to Go from Being Merely Good to Being Truly Great**
 18 The Truth About Talent (When Genes Matter and When They Don’t)
@@ -368,3 +368,66 @@ If the Two-Minute Rule feels forced, try this: do it for two minutes and then st
 At some point, once you’ve established the habit and you’re showing up each day, you can combine the Two-Minute Rule with a technique we call habit shaping to scale your habit back up toward your ultimate goal. Start by mastering the first two minutes of the smallest version of the behavior. Then, advance to an intermediate step and repeat the process.
 
 Nearly any larger life goal can be transformed into a two-minute behavior.
+
+## 14 How to Make Good Habits Inevitable and Bad Habits Impossible
+A **commitment device** is a choice you make in the present that controls your actions in the future.
+The key is to change the task such that it requires more work to get out of the good habit than to get started on it.
+
+### HOW TO AUTOMATE A HABIT AND NEVER THINK ABOUT IT AGAIN
+The best way to break a bad habit is to make it impractical to do. Increase the friction until you don’t even have the option to act.
+
+#### ONETIME ACTIONS THAT LOCK IN GOOD HABITS
+- Nutrition: Buy a water filter to clean your drinking water. Use smaller plates to reduce caloric intake.
+- Sleep
+- Productivity: Turn off notifications and mute group chats. Delete games and social media apps on your phone.
+- Happiness: Move to a friendly, social neighborhood.
+- General Health: Buy good shoes to avoid back pain. Buy a supportive chair or standing desk
+- Finance: Enroll in an automatic savings plan.
+
+When you automate as much of your life as possible, you can spend your effort on the tasks machines cannot do yet. The downside of automation is that we can find ourselves jumping from easy task to easy task without making time for more difficult, but ultimately more rewarding, work.
+The average person spends over two hours per day on social media. What could you do with an extra six hundred hours per year?
+
+**The 4th Law: Make It Satisfying**
+
+## 15 The Cardinal Rule of Behavior Change
+We are more likely to repeat a behavior when the experience is satisfying. What is rewarded is repeated. What is punished is avoided. We are not looking for just any type of satisfaction. We are looking for immediate satisfaction.
+
+### THE MISMATCH BETWEEN IMMEDIATE AND DELAYED REWARDS
+many of the choices you make today will not benefit you immediately. You live in what scientists call a delayed-return environment because you can work for years before your actions deliver the intended payoff. You are walking around with the same hardware as your Paleolithic ancestors. It is only recently—during the last five hundred years or so—that society has shifted to a predominantly delayed-return environment.
+
+the way your brain evaluates rewards is inconsistent across time (hyperbolic discounting). Sex—safe or not—provides pleasure right away. Disease and infection won’t show up for days or weeks, even years.
+With our bad habits, the immediate outcome usually feels good, but the ultimate outcome feels bad. With good habits, it is the reverse.
+
+As a general rule, the more immediate pleasure you get from an action, the more strongly you should question whether it aligns with your long-term goals. The road less traveled is the road of delayed gratification, the last mile is always the least crowded.
+
+Success in nearly every field requires you to ignore an immediate reward in favor of a delayed reward.
+
+### HOW TO TURN INSTANT GRATIFICATION TO YOUR ADVANTAGE
+The vital thing in getting a habit to stick is to feel successful. The best approach is to use reinforcement, which refers to the process of using an immediate reward to increase the rate of a behavior. Habit stacking, which we covered in Chapter 5, ties your habit to an immediate cue, which makes it obvious when to start. Reinforcement ties your habit to an immediate reward, which makes it satisfying when you finish.
+
+Immediate reinforcement can be especially helpful when dealing with habits of avoidance (no alcohol this month). One solution is to turn the situation on its head. You want to make avoidance visible. Open a savings account and label it for something you want. You are making it satisfying to do nothing.
+
+Eventually, as intrinsic rewards like a better mood, more energy, and reduced stress kick in, you’ll become less concerned with chasing the secondary reward. The identity itself becomes the reinforcer. **You do it because it’s who you are and it feels good to be you**. Incentives can start a habit. Identity sustains a habit.
+
+## 16 How to Stick with Good Habits Every Day
+the best way to measure your progress is with a habit tracker.
+
+### HOW TO KEEP YOUR HABITS ON TRACK
+Don’t break the chain
+habit tracking (1) creates a visual cue that can remind you to act, (2) is inherently motivating because you see the progress you are making and don’t want to lose it, and (3) feels satisfying whenever you record another successful instance of your habit. Furthermore, habit tracking provides visual proof that you are casting votes for the type of person you wish to become, which is a delightful form of immediate and intrinsic gratification.
+
+What can we do to make tracking easier?
+First, whenever possible, measurement should be automated. Second, manual tracking should be limited to your most important habits. Finally, record each measurement immediately after the habit occurs.
+
+The habit stacking + habit tracking formula is: 
+After [CURRENT HABIT], I will [TRACK MY HABIT].
+
+### HOW TO RECOVER QUICKLY WHEN YOUR HABITS BREAK DOWN
+**never miss twice.** Missing once is an accident. Missing twice is the start of a new habit.
+It’s easy to train when you feel good, but it’s crucial to show up when you don’t feel like it: it reaffirms your identity. “The first rule of compounding: Never interrupt it unnecessarily.”
+
+### KNOWING WHEN (AND WHEN NOT) TO TRACK A HABIT
+The dark side of tracking a particular behavior is that we become driven by the number rather than the purpose behind it.
+This pitfall is evident in many areas of life. We focus on working long hours instead of getting meaningful work done.
+We optimize for what we measure. When we choose the wrong measurement, we get the wrong behavior.
+Measurement is only useful when it guides you and adds context to a larger picture, not when it consumes you. Each number is simply one piece of feedback in the overall system.
