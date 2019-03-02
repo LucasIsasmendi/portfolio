@@ -1,7 +1,12 @@
 # The Sound of English
 > A Practical Course in British English Pronunciation Interactive E-book with Audio
 
-### Introduction
+## Index
+[Introduction](#introduction)
+[Chapter 1](#chapter-1)
+
+
+## Introduction
 #### Consonant Types | Sound
 - Consonant sounds are produced by blocking air as it leaves the mouth.
 - This course shows you how to pronounce all 25 consonant sounds of English.
@@ -73,6 +78,8 @@ can /kæn/ -> /kən/
 her /hɜ:/ -> /hə/
 for /fɔ:/ -> /fə/
 
+> DRILL `Audio-Introduction-0.14.mp3`
+
 ### Introduction | Intonation
 1. ↘Yes   ->  maybe
 2. ↘↗Yes  ->  definitely
@@ -95,7 +102,66 @@ IPA a very useful study tool to improve your pronunciation.
 ## Chapter 1
 
 ### Fricative Consonants | Sounds
+f v θ ð s z ʃ ʒ
 - Fricatives are made by squeezing air between two articulators.
 - There are 9 fricative consonant sounds in English (see chapter 5 for /h/):
 
 > TODO: copiar tabla. Practicar!! `Chapter-1-1.1.mp3`
+
+### DRILL
+
+> TODO: Practicar!! `Chapter-1-1.2.mp3` f θ s ʃ - v ð z ʒ 
+
+### < th > | Sound Comparison
+
+/θ/ is a **voiceless** sound; it is made by squeezing air past the teeth.
+/ð/ is a **voiced** sound, the throat vibrates whilst air is pushed past the teeth.
+
+#### EXERCISE th pronunciation - Chapter-1-1.4.mp3
+
+### < s > Endings | Spelling & Sound
+When we add an < s > to a word (root), the following rule applies:
+- Root words ending in voiceless sounds + < s > will be pronounced /s/:
+EXAMPLES: bits, shops, wants
+- Root words ending in voiced sounds + < s > will be pronounced /z/:
+EXAMPLES: shoes, things, ways
+- Root words ending in: /s, z, ʃ, ʒ, tʃ, dʒ/ + < s > will be pronounced /ɪz/:
+EXAMPLES: faces, watches, cages
+
+> Listen rule: `Chapter-1-1.7.mp3`
+
+#### DRILL
+> TODO: Practicar!! `Chapter-1-1.8.mp3` s - z - ɪz
+
+### Schwa | Structure
+- Function words are normally weak in pronunciation.
+- Many function words are pronounced with a schwa when they are weak.
+
+### Stressed Function Words | Structure
+- Function words **are not pronounced with schwa** if they are:
+1. Stressed due to meaning.
+EXAMPLE:
+A Is that present from David?
+B No, it’s *for* David!
+2. At the end of the sentence/unit:
+EXAMPLE:
+A Who’s the present *for*?
+B It’s for John.
+
+> TODO: Practice `Chapter-1-1.15.mp3`
+
+### Sentence Stress | Intonation
+- In spoken English we **stress content words**.
+- **One word in every sentence** is more stressed than the others.
+- Normally the **last content word** is the most stressed word.
+
+DRILL: . x . X | a *pair* of **shoes**
+
+### Tonic Syllable | Intonation
+- **One word** carries more stress than the others in all sentences.
+- This stressed word is called the **‘tonic syllable’**.
+- Normally the tonic syllable is found in the **last content word** of the sentence.
+
+### Homographs | Postscript
+- Homographs are words that are spelt the same but pronounced differently.
+read: /ri:d/ /red/
