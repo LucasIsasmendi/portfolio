@@ -32,13 +32,13 @@ Human behavior is always changing: situation to situation, moment to moment, sec
 **The 4th Law: Make It Satisfying**
 [15 The Cardinal Rule of Behavior Change](#15-the-cardinal-rule-of-behavior-change)
 [16 How to Stick with Good Habits Every Day](#16-how-to-stick-with-good-habits-every-day)
-17 How an Accountability Partner Can Change Everything
+[17 How an Accountability Partner Can Change Everything](#17-how-an-accountability-partner-can-change-everything)
 **Advanced Tactics: How to Go from Being Merely Good to Being Truly Great**
-18 The Truth About Talent (When Genes Matter and When They Don’t)
-19 The Goldilocks Rule: How to Stay Motivated in Life and Work
-20 The Downside of Creating Good Habits
+[18 The Truth About Talent (When Genes Matter and When They Don’t)](#18-the-truth-about-talent-(when-genes-matter-and-when-they-don’t))
+[19 The Goldilocks Rule: How to Stay Motivated in Life and Work](#19-the-goldilocks-rule:-how-to-stay-motivated-in-life-and-work)
+[20 The Downside of Creating Good Habits](#20-the-downside-of-creating-good-habits)
 
-Conclusion: The Secret to Results That Last
+[Conclusion: The Secret to Results That Last](#conclusion:-the-secret-to-results-that-last)
 
 ## 1 The Surprising Power of Atomic Habits
 
@@ -431,3 +431,143 @@ The dark side of tracking a particular behavior is that we become driven by the 
 This pitfall is evident in many areas of life. We focus on working long hours instead of getting meaningful work done.
 We optimize for what we measure. When we choose the wrong measurement, we get the wrong behavior.
 Measurement is only useful when it guides you and adds context to a larger picture, not when it consumes you. Each number is simply one piece of feedback in the overall system.
+
+## 17 How an Accountability Partner Can Change Everything
+Just as we are more likely to repeat an experience when the ending is satisfying, we are also more likely to avoid an experience when the ending is painful.
+The more immediate and more costly a mistake is, the faster you will learn from it.
+Behavior only shifts if the punishment is painful enough and reliably enforced.
+Thankfully, there is a straightforward way to add an immediate cost to any bad habit: create a habit contract.
+
+### THE HABIT CONTRACT
+Even if you don’t want to create a full-blown habit contract, simply having an accountability partner is useful.
+An accountability partner can create an immediate cost to inaction. We care deeply about what others think of us, and we do not want others to have a lesser opinion of us.
+A habit contract can be used to add a social cost to any behavior. It makes the costs of violating your promises public and painful.
+Knowing that someone else is watching you can be a powerful motivator.
+
+**Advanced Tactics: How to Go from Being Merely Good to Being Truly Great**
+
+## 18 The Truth About Talent (When Genes Matter and When They Don’t)
+The secret to maximizing your odds of success is to choose the right field of competition. Habits are easier to perform, and more satisfying to stick with, when they align with your natural inclinations and abilities: play a game where the odds are in your favor.
+Our environment determines the suitability of our genes and the utility of our natural talents. When our environment changes, so do the qualities that determine success.
+The people at the top of any competitive field are not only well trained, they are also well suited to the task. And this is why, if you want to be truly great, selecting the right place to focus is crucial.
+
+Genes do not determine your destiny. They determine your areas of opportunity.
+
+### HOW YOUR PERSONALITY INFLUENCES YOUR HABITS
+Genes have been shown to influence everything, even in how obedient or rebellious you are when facing authority, how vulnerable or resistant you are to stressful events. Your unique cluster of genetic traits predispose you to a particular personality.
+
+The most proven scientific analysis of personality traits is known as the “Big Five,” which breaks them down into five spectrums of behavior.
+1. Openness to experience: from curious and inventive on one end to cautious and consistent on the other.
+2. Conscientiousness: organized and efficient to easygoing and spontaneous.
+3. Extroversion: outgoing and energetic to solitary and reserved (you likely know them as extroverts vs. introverts).
+4. Agreeableness: friendly and compassionate to challenging and detached.
+5. Neuroticism: anxious and sensitive to confident, calm, and stable.
+
+All five characteristics have biological underpinnings.
+Our habits are not solely determined by our personalities, but there is no doubt that our genes nudge us in a certain direction.
+The takeaway is that you should build habits that work for your personality ([Personality Tests](https://jamesclear.com/atomic-habits/personality)).
+Also is important finding and designing situations where you’re at a natural advantage.
+
+### HOW TO FIND A GAME WHERE THE ODDS ARE IN YOUR FAVOR
+In theory, you can enjoy almost anything. In practice, you are more likely to enjoy the things that come easily to you. People who are talented in a particular area tend to be more competent at that task and are then praised for doing a good job: virtuous cycle.
+In the long-run, if you continue to advance and improve, any area can become challenging.
+At some point, you need to make sure you’re playing the right game for your skillset. How do you figure that out? 
+In the beginning of a new activity, there should be a period of exploration.
+Then shift your focus to the best solution you’ve found—but keep experimenting occasionally. The proper balance depends on whether you’re winning or losing: Google employees 80% workween on official job,20% on side projects.
+Keep in mid:
+- What feels like fun to me, but work to others?: The work that hurts you less than it hurts others is the work you were made to do.
+- What makes me lose track of time? Flow state, in the zone.
+- Where do I get greater returns than the average person?
+- What comes naturally to me?: Whenever you feel authentic and genuine, you are headed in the right direction.
+
+If you can’t find a game where the odds are stacked in your favor, create one. 
+**When you can’t win by being better, you can win by being different. By combining your skills, you reduce the level of competition, which makes it easier to stand out.**
+
+A good player works hard to win the game everyone else is playing. A great player creates a new game that favors their strengths and avoids their weaknesses.
+
+### HOW TO GET THE MOST OUT OF YOUR GENES
+Our genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on: opportunities to look for and challenges to avoid.
+It’s more productive to focus on whether you are fulfilling your own potential than comparing yourself to someone else.
+
+>TODO: focus here
+
+## 19 The Goldilocks Rule: How to Stay Motivated in Life and Work
+The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right. In psychology research this is known as the Yerkes–Dodson law.
+
+When you’re starting a new habit, it’s important to keep the behavior as easy as possible so you can stick with it even when conditions aren’t perfect. Once a habit has been established, however, it’s important to continue to advance in small ways. These little improvements and new challenges keep you engaged. And if you hit the Goldilocks Zone just right, you can achieve a **flow state**.
+
+### HOW TO STAY FOCUSED WHEN YOU GET BORED WORKING ON YOUR GOALS
+Mastery requires practice. But the more you practice something, the more boring and routine it becomes. As soon as we experience the slightest dip in motivation, we begin seeking a new strategy.
+The sweet spot of desire occurs at a 50/50 split between success and failure (**variable reward**).
+At some point, everyone faces the same challenge on the journey of self-improvement: you have to fall in love with boredom. If you only do the work when it’s convenient or exciting, then you’ll never be consistent enough to achieve remarkable results.
+Professionals stick to the schedule; amateurs let life get in the way.
+
+## 20 The Downside of Creating Good Habits
+Habits are the backbone of any pursuit of excellence. But as a habit becomes automatic, you become less sensitive to feedback.
+The upside of habits is that we can do things without thinking. The downside of habits is that you get used to doing things a certain way and stop paying attention to little errors.
+What you need is a combination of automatic habits and deliberate practice.
+**Habits + Deliberate Practice = Mastery**
+
+Mastery is the process of narrowing your focus to a tiny element of success, repeating it until you have internalized the skill, and then using this new habit as the foundation to advance to the next frontier of your development. Each habit unlocks the next level of performance. It’s an endless cycle.
+
+### MASTERING ONE HABIT
+Avoid slipping into the trap of complacency. Establish a system for reflection and review.
+
+#### HOW TO REVIEW YOUR HABITS AND MAKE ADJUSTMENTS
+The way to be successful is to learn how to do things right, then do them the same way every time.
+Reflection and review enables the long-term improvement of all habits because it makes you aware of your mistakes and helps you consider possible paths for improvement. [daily journal example](https://jamesclear.com/habit-journal).
+
+Improvement is not just about learning habits, it’s also about fine-tuning them.
+
+Example: At december perform an Annual Review
+- What went well this year?
+- What didn’t go so well this year?
+- What did I learn?
+Six Months later conduct an [Integrity Report](https://jamesclear.com/integrity)
+
+My yearly Integrity Report answers three questions:
+- What are the core values that drive my life and work?
+- How am I living and working with integrity right now?
+- How can I set a higher standard in the future?
+
+They provide an annual reminder to revisit my desired identity and consider how my habits are helping me become the type of person I wish to be.
+
+Finally, reflection and review offers an ideal time to revisit one of the most important aspects of behavior change: identity.
+
+#### HOW TO BREAK THE BELIEFS THAT HOLD YOU BACK
+When working against you, your identity creates a kind of “pride” that encourages you to deny your weak spots and prevents you from truly growing. This is one of the greatest downsides of building habits.
+The more sacred an idea is to us—that is, the more deeply it is tied to our identity—the more strongly we will defend it against criticism.
+One solution is to avoid making any single aspect of your identity an overwhelming portion of who you are: keep your identity small.
+
+The more you let a single belief define you, the less capable you are of adapting when life challenges you.
+
+When chosen effectively, an identity can be flexible rather than brittle. Like water flowing around an obstacle, your identity works with the changing circumstances rather than against them. Life is constantly changing, so you need to periodically check in to see if your old habits and beliefs are still serving you.
+
+## Conclusion: The Secret to Results That Last
+The holy grail of habit change is not a single 1 percent improvement, but a thousand of them. It’s a bunch of atomic habits stacking up, each one a fundamental unit of the overall system.
+In the beginning, small improvements can often seem meaningless because they get washed away by the weight of the system. Gradually, though, as you continue to layer small changes on top of one another, the scales of life start to move.
+All progressed in the same way: through a commitment to tiny, sustainable, unrelenting improvements.
+
+Success is not a goal to reach or a finish line to cross. It is a system to improve, an endless process to refine.
+
+## Little Lessons from the Four Laws
+- Awareness comes before desire
+- Happiness is simply the absence of desire
+- It is the idea of pleasure that we chase
+- Peace occurs when you don’t turn your observations into problems
+- With a big enough why you can overcome any how
+- Being curious is better than being smart
+- Emotions drive behavior
+- We can only be rational and logical after we have been emotional
+- Your response tends to follow your emotions
+- Suffering drives progress
+- Your actions reveal how badly you want something
+- Reward is on the other side of sacrifice
+- Self-control is difficult because it is not satisfying
+- Our expectations determine our satisfaction: Satisfaction = Liking – Wanting
+- The pain of failure correlates to the height of expectation
+- Feelings come both before and after the behavior: Cue > Craving (Feeling) > Response > Reward (Feeling). How we feel influences how we act, and how we act influences how we feel.
+- Desire initiates. Pleasure sustains
+- Hope declines with experience and is replaced by acceptance
+
+How to Apply These Ideas to Business: [atomichabits.com/business](https://jamesclear.com/atomic-habits/business)
