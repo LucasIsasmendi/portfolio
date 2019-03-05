@@ -165,3 +165,52 @@ DRILL: . x . X | a *pair* of **shoes**
 ### Homographs | Postscript
 - Homographs are words that are spelt the same but pronounced differently.
 read: /ri:d/ /red/
+
+## Chapter 2
+### Long Vowels | Sounds
+- Spoken English contains 5 long vowel sounds.
+- Each long vowel uses one unique position of the mouth.
+- Every long vowel sound has several possible spellings.
+
+> TODO: Copy table - Practice `Chapter-2-2.2.mp3`
+> TODO: Exercise `Chapter-2-2.3.mp3` -> Errors with `ɜ:`
+
+### ɪ vs i: | Sound Comparison
+- There are 2 clear differences between the vowel sounds /ɪ/ and /i:/ :
+  1. The position of the mouth.
+  2. /i:/ is normally (though not always) longer than /ɪ/ .
+- /i:/ is spelt with two vowels < ee / ei / ie / ea > in written English.
+- /ɪ/ is spelt as < i > in written English (except when weak
+
+> TODO: Listen to `Chapter-2-2.6.mp3` and `Chapter-2-2.7.mp3`
+
+### < r > | Spelling & Sound 
+:-1:
+- In British English we do not pronounce every written < r >.
+- If an < r > appears before a vowel sound, we pronounce it:
+  EXAMPLES: rat, rice, pretty, strain, cry, story
+- If an < r > appears after a vowel sound, we do not pronounce it.
+  EXAMPLES: car, court, learn, shorter, store
+
+Examples `Chapter-2-2.10.mp3`
+
+### Two Syllable Words | Structure
+- All English words of 2 syllables or more contain one main stress.
+- The main stress may appear on the first syllable ( X . ) or the second syllable ( . X ).
+- In IPA, stress is marked with the symbol / ˈ / before the stressed syllable.
+  EXAMPLES: purˈsuit, ˈpurchase, comˈplete, ˈcommon.
+
+> Drill listen to X. .X examples `Chapter-2-2.15.mp3`
+
+### Wh- Questions | Intonation
+- When we ask for new information, we normally use falling ↘ intonation.
+- When we already know the answer to a question, we use rising ↗ intonation.
+- In new information questions, we normally stress the last content word.
+- In repeated questions , we normally stress the question word.
+
+> TODO listen ↘ `Chapter-2-2.18.mp3` and ↗ `Chapter-2-2.19.mp3`
+
+### Homophones | Postscript
+- Homophones are words that are pronounced identically, but spelt differently.
+
+kɔ:t [court / caught] fɑ:ðə [father / farther] nəʊz [nose / knows] nʌn [none / nun] səʊ [sew / so] sʌn [sun / son] θru: [through / threw] wɔ: [war / wore] wɔ:n [warn / worn] weðə [weather / whether] bɪld [build / billed] wɪtʃ [which/witch]
