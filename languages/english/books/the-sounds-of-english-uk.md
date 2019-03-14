@@ -4,7 +4,7 @@
 ## Index
 [Introduction](#introduction)
 [Chapter 1](#chapter-1)
-
+[Chapter 2](#chapter-2)
 
 ## Introduction
 #### Consonant Types | Sound
@@ -214,3 +214,55 @@ Examples `Chapter-2-2.10.mp3`
 - Homophones are words that are pronounced identically, but spelt differently.
 
 kɔ:t [court / caught] fɑ:ðə [father / farther] nəʊz [nose / knows] nʌn [none / nun] səʊ [sew / so] sʌn [sun / son] θru: [through / threw] wɔ: [war / wore] wɔ:n [warn / worn] weðə [weather / whether] bɪld [build / billed] wɪtʃ [which/witch]
+
+## Chapter 3
+
+### Plosive Consonants | Sounds
+- Plosives are made by fully blocking the flow of air as it leaves the mouth.
+- Sound is produced when the blocked air is released in an explosion.
+- There are 6 plosive sounds in spoken English: p,b - t,d - k,g
+
+> TODO: listen plosive sounds `Chapter-3-3.1.mp3`
+
+- In many English accents a seventh plosive - the glottal stop is common. This
+sound is covered later in the chapter.
+
+> DRILL: Practice `Chapter-3-3.2.mp3`
+
+### ʔ vs t | Sound Comparison
+- When a < t > appears at the end of a syllable followed by a consonant, it will normally be replaced with a glottal stop /ʔ/ in spoken English.
+- The glottal stop is produced by stopping the flow of air in the glottis.
+
+Examples: delightful partly shotgun catwalk cat-flap setback `Chapter-3-3.5.mp3`
+
+Many regional accents of English use a glottal stop /ʔ/ before weak vowels (water) and at the end of words (heat). The most famous example of this is Cockney, but most other regional accents behave in a similar way.
+
+> check 3 from Exercise 3.8
+
+### < ed > endings | Spelling & Sound
+When we add < ed > to a word (root), the following pronunciation rule applies:
+- If the root ends in a voiceless consonant, the < ed > ending is pronounced /t/
+  EXAMPLE: chopped
+- If the root ends in a voiced consonant or a vowel, the < ed > ending is pronounced /d/
+  EXAMPLES: boiled
+- If the root ends in a < t > or a < d >, the ending is pronounced /ɪd/
+  EXAMPLES: roasted
+
+> DRILL: Practice `Chapter-3-3.11.mp3`
+
+> Exercise 3.12 - annoyed xid - retired xid
+
+### 3 Syllable Words | Structure
+- 3 syllable words can have the main stress on the 1st, 2nd or 3rd syllables.
+- If the main stress is on the 3rd syllable, there will also be secondary stress on the 1st syllable.
+- Secondary stress is marked / ˌ /. EXAMPLE: /ˌenterˈtain/
+
+> DRILL: Practice `Chapter-3-3.15.mp3`
+
+### Yes/No Questions | Intonation
+- Yes/No questions normally use rising or fall-rising intonation.
+- Falling intonation in a yes/no question sounds serious, formal or concerned.
+
+> DRILL: Practice a) Rising Intonation ↗ b) Fall-rising Intonation ↘↗ c) Falling Intonation ↘
+
+### Silent Syllables | Postscript
