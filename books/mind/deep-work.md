@@ -9,7 +9,7 @@
 
 **Part 2: The Rules**
 [R1 Work Deeply](#r1-work-deeply)
-R2 Embrace Boredom
+[R2 Embrace Boredom](#r2-embrace-boredom)
 R3 Quit Social Media
 R4 Drain The Shallows
 
@@ -112,3 +112,38 @@ The three reasons just described support the general strategy of maintaining a s
 
 Regularly resting your brain improves the quality of your deep work.
 
+## R2 Embrace Boredom
+The ability to concentrate intensely is a skill that must be trained.
+Once your brain has become accustomed to on-demand distraction it’s hard to shake the addiction even when you want to concentrate. If every moment of potential boredom in your life is relieved with a quick glance at your smartphone, then your brain has likely been rewired to a point where it’s not ready for deep work.
+
+### Don’t Take Breaks from Distraction. Instead Take Breaks from Focus.
+Instead of scheduling the occasional break from distraction so you can focus, you should instead schedule the occasional break from focus to give in to distraction.
+A full day of scheduled distraction therefore becomes a full day of similar mental training.
+
+- 1: This strategy works even if your job requires lots of Internet use and/or prompt e-mail replies.
+- 2: Regardless of how you schedule your Internet blocks, you must keep the time outside these blocks absolutely free from Internet use.
+- 3: Scheduling Internet use at home as well as at work can further improve your concentration training. Set offlines blocks, wait and be bored.
+
+> to succeed with deep work you must rewire your brain to be comfortable resisting distracting stimuli. This doesn’t mean that you have to eliminate distracting behaviors; it’s sufficient that you instead eliminate the ability of such behaviors to hijack your attention.
+
+### Work Like Teddy Roosevelt
+The amount of time he spent at his desk was comparatively small, but his concentration was so intense, and his reading so rapid, that he could afford more time off [from schoolwork] than most.
+Process: identify a deep task (that is, something that requires deep work to complete) that’s high on your priority list. Estimate how long you’d normally put aside for an obligation of this type, then give yourself a hard deadline that drastically reduces this time, attack the task with every free neuron until it gives way under your unwavering barrage of concentration.
+Try this experiment no more than once a week at first—giving your brain practice with intensity, but also giving it (and your stress levels) time to rest in between.
+Once you feel confident in your ability to trade concentration for completion time, increase the frequency of these Roosevelt dashes. Remember, however, to always keep your self-imposed deadlines right at the edge of feasibility. You should be able to consistently beat the buzzer (or at least be close), but to do so should require teeth-gritting concentration.
+
+### Meditate Productively
+The goal of productive meditation is to take a period in which you’re occupied physically but not mentally—walking, jogging, driving, showering—and focus your attention on a single well-defined professional problem. As in mindfulness meditation, you must continue to bring your attention back to the problem at hand when it wanders or stalls; it helps strengthen your distraction-resisting muscles and sharpens your concentration. Have at least two or three such sessions in a typical week.
+Suggestions:
+1. Be Wary of Distractions and Looping: When you notice your attention slipping away from the problem at hand, gently remind yourself that you can return to that thought later, then redirect your attention back. We aware of loopings (minds try to save energy)
+2. Structure Your Deep Thinking: cycle of reviewing and storing variables, identifying and tackling the next-step question, then consolidating your gains.
+
+### Memorize a Deck of Cards
+A side effect of memory training is an improvement in your general ability to concentrate.
+Professional memory athletes never attempt rote memorization, that is, where you simply look at information again and again, repeating it in your head. This approach to retention, though popular among burned-out students, misunderstands how our brains work. We’re not wired to quickly internalize abstract information. We are, however, really good at remembering scenes.
+
+[how to memorize a deck of cards](https://www.artofmanliness.com/articles/how-to-memorize-a-deck-of-cards/)
+To prepare for this high-volume memorization task begin by cementing in your mind the mental image of walking through five rooms in your home, fix in your mind a collection of ten (large) items in each of these rooms. Then establish an order in which you look at each of these items in each room. Associate a memorable person or thing with each of the fifty-two possible cards. Then place a person in each room with each item in order.
+Proceeding through the steps described earlier requires that you focus your attention, again and again, on a clear target. Like a muscle responding to weights, this will strengthen your general ability to concentrate—allowing you to go deeper with more ease.
+
+## R4 Drain The Shallows
