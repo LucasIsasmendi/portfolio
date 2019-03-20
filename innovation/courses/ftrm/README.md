@@ -1,4 +1,5 @@
-# [Find the right markets for your innovation - A tool for entrepreneurs and innovators for choosing which markets to play in](https://www.edx.org/course/find-the-right-markets-for-your-innovation-a-tool-for-entrepreneurs-and-innovators-for-choosing-which-markets-to-play-in)
+# Find the right markets for your innovation - A tool for entrepreneurs and innovators for choosing which markets to play in
+[edx](https://www.edx.org/course/find-the-right-markets-for-your-innovation-a-tool-for-entrepreneurs-and-innovators-for-choosing-which-markets-to-play-in)
 
 As entrepreneur or innovator you are trained to run fast, but, Are you running in the right direction?
 
@@ -23,8 +24,8 @@ At the end of this course, you will be able to:
 
 ## Course Structure
 
-- Week 1 - Introduction [digest](w1.md)
-- Week 2 - How to generate your Market Opportunity Set 
+- [Week 1 - Introduction](w1.md)
+- [Week 2 - How to generate your Market Opportunity Set](w2.md)
 - Week 3 - How to evaluate your market opportunities 
 - Week 4 - How to design your Agile Focus Strategy 
 - Week 5 - Implications and benefits 
