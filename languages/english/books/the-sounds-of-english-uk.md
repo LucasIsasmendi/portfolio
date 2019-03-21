@@ -5,6 +5,8 @@
 [Introduction](#introduction)
 [Chapter 1](#chapter-1)
 [Chapter 2](#chapter-2)
+[Chapter 3](#chapter-3)
+[Chapter 4](#chapter-4)
 
 ## Introduction
 #### Consonant Types | Sound
@@ -266,3 +268,85 @@ When we add < ed > to a word (root), the following pronunciation rule applies:
 > DRILL: Practice a) Rising Intonation ↗ b) Fall-rising Intonation ↘↗ c) Falling Intonation ↘
 
 ### Silent Syllables | Postscript
+
+## Chapter 4
+
+### Short Vowels | Sounds
+- Spoken English contains 6 short vowel sounds:
+
+> TODO: listen ɪ[i] ʊ[u, oo, ou] e[e, ea/ei] ʌ[u, o, ou] æ[a] ɒ[o, a, (q)ua] `Chapter-4-4.2.mp3`
+
+> TODO: listen EXERCISE  `Chapter-4-4.3.mp3` to understand the sounds
+
+ɪ: kick, quick, grill, shift, chip, wrist
+ʊ: pull, could, bush, look, wood, butcher
+e: test, fence, pleasure, ready, send, leisure
+ʌ: trust, company, [x]watch, [x]value, [x]shop, hunt, [x]add, bug, [x]problem, 
+æ: cash, bag, fashion, ran, [x]wander
+ɒ: dog, [x]thorough, wrong, [x]mother
+
+> DRILL: Practice `Chapter-4-4.4.mp3`
+
+### /h/ | Sounds
+- English contains one glottal fricative sound /h/.
+- /h/ only ever appears at the beginning of a syllable.
+
+> TODO: practice Spellings / Examples `Chapter-4-4.6.mp3`
+
+> DRILL Preactice
+
+### < h > in Function Words | Structure
+- The following function words begin with < h >: he, her, him, have, had, has, his.
+- The < h > in these function words is pronounced if the function word is unstressed and at the beginning or end of the sentence or phrase.
+- This < h > will normally be silent in other positions of the sentence.
+- Note that ‘have’, ‘had’ & ‘has’ also appear as content words.
+
+> EXERCISE `Chapter-4-4.9.mp3` -> redo
+
+### Silent Letters | Spelling & Sound
+- Written English contains consonant spellings that are never pronounced.
+- Consonants < b, h, k, l, n, p, s, t & w > can be silent in speech.
+
+> [!] TODO: LISTEN DRILL `Chapter-4-4.11.mp3`
+
+### Joining Introduction | Structure
+In spoken English we aim to join words together to create smooth speech.
+There are different ways words and sounds can join as follows: `Chapter-4-4.13.mp3`
+
+**consonant + consonant joining**  
+  When 2 identical sounds appear next to each other, we make one longer sound: Ball_lunch. I wish_Sharon well.
+
+**consonant + consonant assimilation**  
+Some consonant sounds can join together to form a different sound (assimilate).
+Most commonly this happens to /t/, /d/ & /n/:  
+  didn’t_you    t + j = tʃ  
+  Anne_Ball     n + b = m  
+  That_man      t + m = p  
+
+**consonant + vowel joining**  
+Final consonants move to the next syllable if the next syllable starts with a vowel:
+  It _ isn’t _ always _ easy. = /ɪ tɪ zən tɔ: weɪ zi: zi/  
+  Dan _ and _ Anne _ aren’t _ in. = /dæ nə næ nɑ:n tɪn/  
+
+**vowel + vowel joining**  
+If one word ends with a vowel and the next begins with a vowel, we often join the words with one of /j/ /w/ or /r/:
+  you_offer (you w offer)  
+  We _ entered (we j entered)  
+  China _ expanded (china r expanded)  
+
+> EXERCISE
+
+### Prominence | Intonation
+- In spoken English we give prominence (stress) to new information.
+- The last word with new information will be the strongest (tonic syllable).
+- We do not stress old information - “Italian food” in the example.
+
+> DRILL
+
+### Verb/Noun Stress Shift | Postscript
+Some words are stressed differently depending on their form.
+- As nouns, these words will use first syllable stress.
+- As verbs, they will use second syllable stress.
+
+> DRILL / EXERCISE Practice: `Chapter-4-4.21.mp3`
+> conduct import export incense permit research progress object decrease contrast refund contract record present and `Chapter-4-4.22.mp3`
