@@ -26,6 +26,6 @@ At the end of this course, you will be able to:
 
 - [Week 1 - Introduction](w1.md)
 - [Week 2 - How to generate your Market Opportunity Set](w2.md)
-- Week 3 - How to evaluate your market opportunities 
+- [Week 3 - How to evaluate your market opportunities](w3.md)
 - Week 4 - How to design your Agile Focus Strategy 
 - Week 5 - Implications and benefits 
