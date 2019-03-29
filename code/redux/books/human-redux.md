@@ -159,3 +159,77 @@ const asyncMiddleware = store => next => action => {
 const store = createStore(rootReducer, applyMiddleware(asyncMiddleware))
 ```
 Middleware examples in [official doc](https://redux.js.org/advanced/middleware).
+
+## 5 Using state from your Store in your views
+### Chapter recap
+1. We use a binding library, such as `react-redux` to get state from our store into our components.
+2. Creating a global store variable is fragile and a bit messy. But, we need a way to give components access to the store we create. We can do this using the context API in React / Preact.
+3. The `<Provider />` component is part of the react-redux library and simply puts the store into the context which makes it available to its child components. This component does nothing else.
+4. `connect()` is how we can get state and dispatch actions from the store to our components.
+5. We write a `select()` function that takes the application state and returns an object of props for the component.
+6. The object that is returned by your select function should only include what the component needs to know. If it's too general, it will re-render even when it's unnecessary.
+7. We can use the second argument to `select()` to pass an object of action creators we want to bind to the store and turn into props the component can call.
+8. We can use `connect()` to make action creators available to our components with a minimal performance impact.
+
+This idea of maintaining application state separate from the UI enables a lot of great things.
+In react-redux we have component `<Provider>` and function `connect()`
+
+### The Provider
+It "Put Store Into React Context API" where child components can access it.
+```ts
+<Provider store={getStore()}>
+  <RootComponent />
+</Provider>
+```
+
+### connect()
+connect a given component in a way that allows it access to the store (it calls subscribe internally).
+```ts
+const MyRegularOldComponent = ({ query, results }) => (
+  <div>
+    query: {query}
+    <ul> {results.map(..<li>..)}</ul>
+  </div>
+)
+// Use `()` to return an object from an arrow function.
+const select = appState => ({
+  results: appState.results,
+  query: appState.query
+})
+export default connect(select)(MyRegularOldComponent)
+```
+#### Understanding how connected components update
+Every time we dispatch an action to the store, each connected component will run its `select()` and compare the values of each key in the object that is returned using a strict equality check `===`. If any of the values are different, the component will re-render.
+
+> You may be wondering how `connect()` is implemented; it creates something called a "higher order component" that wraps your component in another component that uses a `shouldComponentUpdate` life-cycle method that will make this shallow comparison and return `false` if nothing has changed.
+
+#### What about dispatching actions?
+With `connect("state", "actions")` you give your components the ability to dispatch actions. If you don't specify the second argument (`mapDispatchToProps`) to `connect()`, your component will receive `dispatch` by default. 
+
+```ts
+const actions = { doClearToDos, doAddToDo }
+export default connect(null, actions)(OurComponent)
+```
+#### Putting it all together
+A connected component that uses both `select` and `actions` or `mapStateToProps` and `mapDispatchToProps`
+
+Consider using select and actions as a way to organize what extra props get passed to our connected component.
+
+This component will re-render when either:
+1. Any parent component that renders this one passes it a different prop
+2. Any of the values on the object returned by your select functions are different.
+
+> Be aware of variable shadowing: Avoid the issue altogether by not re-using names when building your actions object.
+
+#### Ok, so when do I use connect?
+Extremes are bad. Typically you should connect all the major sections of the app.
+
+#### Selecting just what you need, nothing more.
+The key thing to understand is that what you select determines whether or not something will be re-rendered. By being smart about what we connect we're not wasting cycles re-rendering things that don't need to be.
+
+#### Connecting just actions
+if all you want to do is give your component access to a few action creators, pass null as the first argument to `connect()`, it will not subscribe to the Redux store at all
+
+#### When not to connect a component
+You probably don't want to connect a component that will be rendered many times in a list. 
+As I've said before, the goal of this book is not to replace the official documentation so you should know there are more parameters and options you can pass to connect, I would suggest limiting yourself to this subset of functionality to help you maintain a simpler, more maintainable codebase.
