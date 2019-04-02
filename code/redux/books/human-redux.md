@@ -13,7 +13,7 @@
 - [5 Using state from your Store in your views](#5-using-state-from-your-store-in-your-views)
 - [6 Selectors](#6-selectors)
 **Part II - Redux Patterns**
-- 7 Decoupling views from data fetches
+- [7 Decoupling views from data fetches](#7-decoupling-views-from-data-fetches)
 - 8 Routing
 - 9 Reactors
 - 10 Reliable apps
@@ -345,7 +345,7 @@ Well-structured, encapsulated, "pretty code," allows you to add features that wo
 2. In the context of a PWA, you want to make that app have a life of its own, regardless of the current internet connection. Doing this often involves explicitly managing locally cached data separate from the UI logic in your app.
 3. Pre-fetch data you know you'll need regardless of current components on the page. We did this at Starbucks, and it worked great.
 
-
+There's a strong case to be made for decoupling data fetching from whatever components happen to be showing at the time.
 
 ## 8 Routing
 ### Chapter recap
