@@ -14,7 +14,7 @@
 - [6 Selectors](#6-selectors)
 **Part II - Redux Patterns**
 - [7 Decoupling views from data fetches](#7-decoupling-views-from-data-fetches)
-- 8 Routing
+- [8 Routing](#8-routing)
 - 9 Reactors
 - 10 Reliable apps
 - 11 Persisting state locally
@@ -356,7 +356,16 @@ There's a strong case to be made for decoupling data fetching from whatever comp
 5. A runnable example showing minimal routing can be found here: https://reduxbook.com/minimal-routing
 6. We can extend this approach to extract route parameters by using selectors and a small route matching library.
 
+### Extracting route parameters
+A few little tools and libraries on npm that can help with this include:
+- http-hash (787 Bytes)
+- ruta3 (742 Bytes)
+- feather-route-matcher (482 Bytes)
 
+### What if you want to do transitions?
+Personally, I tend to avoid page transitions and instead focus on showing the next thing as fast as possible.
+
+> Many times, we over-engineer by creating generic solutions that include solutions for problems we don't actually have. Many developers often assume they need a 12kb routing library just to show the right component for the right URL which simply isn't true. 
 
 
 ## 9 Reactors
