@@ -1,12 +1,10 @@
-# Mastering Blockchain
-
-## Ch03 Cryptography and Technical Foundations
+# Ch03 Cryptography and Technical Foundations
 
 Cryptography provides various security services, such as Confidentiality, Integrity, Authentication, (Entity Authentication and Data origin authentication) and non-repudiation.
 
 Before discussing cryptography further, there are some mathematical terms and concepts that need to be explained first in order to fully understand the material provided later in this chapter.
 
-### Mathematics
+## Mathematics
 
 - set: collection of distinct objects
 - group: closed and associated with an identity element defined.
@@ -19,7 +17,7 @@ Before discussing cryptography further, there are some mathematical terms and co
 - abelian group: when the operation on the elements of a set is commutative: AxB = BxA
 - modular arithmetic: (clock arithmetic): remainder after division
 
-### Cryptography
+## Cryptography
 
 - confidentiality: information only available to authorized entities
 - integrity: information is modifiable only by authorized entities
@@ -32,11 +30,11 @@ Before discussing cryptography further, there are some mathematical terms and co
 
 Cryptography is mainly divided into two categories, namely symmetric and asymmetric cryptography.
 
-### Symmetric cryptography
+## Symmetric cryptography
 
 the key that is used to encrypt the data is the same for decrypting the data: shared key.
 
-#### symmetric chipers
+### symmetric chipers
 
 - stream chipers: (RC4, A5). Apply encryption algorithms on a bit-by-bit basis to plain text using a key stream
   - synchronous: key stream depends only on the key
@@ -60,12 +58,16 @@ Modes of operation for block ciphers:
 - **Cipher block chaining**: In this mode, each block of plain text is XORed with the previous encrypted block
 - **Counter mode**
 
-### Data Encryption Standard (DES)
+## Data Encryption Standard (DES)
 
 Main use during 80s and 90s, broke in 1998 by EFF, uses a key of only 56 bits
 
-### Advanced Encryption Standard (AES)
+## Advanced Encryption Standard (AES)
 
 Standardized in 2001. So far, no attack has been found against AES that is better than the brute force method.
 
-#### AES steps
+### AES steps
+
+_Big Jump here_
+
+## Financial markets and trading

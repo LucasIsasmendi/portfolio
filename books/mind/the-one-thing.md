@@ -26,7 +26,7 @@
 - [18. The Journey]
 
 **Conclusion**
-- [Putting The ONE Thing to Work]()
+- [Putting The ONE Thing to Work]
 
 ## 4. Everything Matters Equally
 

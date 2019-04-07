@@ -1,15 +1,15 @@
 # Startup Books
 
-## Startup
-* Hello, Startup
-* Mapping Experiences
+## Work
+* Sprint
+* Rework
+* The Developer's Code - Ka Wai Cheung: *What Real Programmers Do*
+* [Team Geek](./team-geek.md) - Brian W. Fitzpatrick, Ben Collins-Sussman: *A Software Developer’s Guide to Working Well with Others*
+* The Nature Of Software Development - Ron Jeffreis: *Kee It Simple, Make It Valuable, Build It Piece by Piece*
 
-## Lean
-* Scaling Lean
-* Value Proposition Design
-* Running Lean 2nd Edition
-* Lean Customer Development Needs
+## Frameworks
+> Agile, Scrum
 
-## Others
+## Self Care
 * The Healthy Programmer
 * Deskbound
