@@ -30,3 +30,5 @@ At the end of this course, you will be able to:
 - [Week 4 - How to design your Agile Focus Strategy](w4.md)
 - [Week 5 - Implications and benefits](w5.md) 
 
+## Market Opportunity Navigator Examples
+- [Fliability](mon-fliability.md)
