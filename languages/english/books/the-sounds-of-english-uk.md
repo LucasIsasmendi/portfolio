@@ -7,6 +7,7 @@
 [Chapter 2](#chapter-2)
 [Chapter 3](#chapter-3)
 [Chapter 4](#chapter-4)
+[Chapter 5](#chapter-5)
 
 ## Introduction
 #### Consonant Types | Sound
@@ -350,3 +351,104 @@ Some words are stressed differently depending on their form.
 
 > DRILL / EXERCISE Practice: `Chapter-4-4.21.mp3`
 > conduct import export incense permit research progress object decrease contrast refund contract record present and `Chapter-4-4.22.mp3`
+
+## Chapter 5
+
+### Approximant Consonants | Sounds
+- An approximant is a vowel-like consonant.
+- The flow of air is never fully blocked in the production of approximants.
+- English contains three approximant sounds: r, j, w
+
+> TODO: Practice r [r] - j [j,u,i] - w [w,u] `Chapter-5-5.1.mp3`
+
+> DRILL: Practice `Chapter-5-5.2.mp3`
+
+### Lateral Approximants | Sounds
+Lateral approximants are created by releasing air past the sides of the tongue.
+- < l > before a vowel sound will be pronounced /l/ with the tongue tip touching the alveolar ridge. This is sometimes called ‘clear l’.
+- < l > after a vowel sound will be pronounced /ɫ/ with the tongue also raised at the back of the mouth. This is sometimes called ‘dark l’.
+
+> TODO: Practice `Chapter-5-5.3.mp3` l ɫ
+
+> Drill: Practice `Chapter-5-5.4.mp3`
+
+### Weak ə vs ɪ | Sound Comparison
+- The most common weak vowels of English are /ə/ and /ɪ/ .
+- These weak sounds are spelt using < a, e, i, o & u > in written English.
+- Weak vowels can appear at the beginning, middle and end of words.
+
+> DRILL Practice `Chapter-5-5.6.mp3` Words with /ə/ and with /ɪ/
+
+ə: accent, thomas, fossil, [x]manage, china, evil, madness, persuade, council, [x]return, [x]harvest, Japan, [x]demand, danger, garden, [x]believe, England, parade, spoken, [x]surface
+ɪ: erase, kitchen,  explain, orange, purchase, kisses, bandage, misses, English, lentil, wicked, defence, turning, [x]pencil
+
+### Weak i vs ɪ | Sound Comparison
+**Weak /i/**
+- The long vowel /i:/ also appears in spoken English as a short, weak vowel /i/.
+- It appears at the end of words spelt < y > (finally, only, early), and in pronouns ending < e > (me, she, we).
+
+**Weak /ɪ/**
+- The short vowel / ɪ / also appears in spoken English as a weak form.
+- As a weak vowel it never appears at the end of a syllable: wanted, incredible, managing.
+- In function words it is always spelt < i >: him, with, this
+
+> TODO: I can not notice the difference!!
+
+### < oo > | Spelling & Sound
+- The spelling < oo > is most commonly pronounced /u:/ .
+- Some words spelt with < oo > are pronounced /ʊ/ or /ʌ/
+- The spelling < oor > is pronounced /ɔ:/
+- The word ‘brooch’ is pronounced /brəʊtʃ/
+
+ʻlookʼ /lʊk/, ʻfloodʼ /flʌd/, ʻpoorʼ /pɔ:/, ʻmoonʼ /mu:n/.
+
+> EXERCISE 33 oo works -> PRACTICE
+/ʊ/  = stood, wood, book, took, [u:]roof, good, [u:]zoom, look, [u:]zoo, [u:]tooth, hook, 
+/u:/ = troop, fool, food, soon, [ʊ]wool, cool, [ʊ]foot, smooth, balloon, shampoo, room 
+/ʌ/  = blood, flood, [ʊ]rook, [ʊ]hood, 
+/ɔ:/ = [ʊ]shook, moor, [ʊ]brook, [ʊ]cook, poor, floor, door, 
+
+> EXERCISE Navigation -> do it after practice oo words
+
+### Vowel + Vowel Joining | Structure
+- When one word ends with a vowel sound and the next word begins with a vowel sound, we will normally join the words in speech.
+- In order to join, we will add an approximant sound: /r/ /j/ or /w/.
+- The joining approximant is often shown in the spelling of the first word.
+
+1. Joining with `/w/`
+If the first word ends in a rounded vowel (u, əʊ, aʊ), we join with /w/.
+`who_are you`, `go_away`, `now_and then`
+
+2. Joining with `/j/`
+If the first word ends in a high vowel (i, eɪ, aɪ, ɔɪ) we join with /j/.
+`we_understand`, `pay_up`,  `try_it`
+
+3. Joining with `/r/`
+If the first word ends in a neutral vowel (ə, ɜ:, ɔ:, eə, ɪə) we join with /r/.
+`brother_and sister`, `war_and peace`, `law_and order`.
+Words spelt with <aw> such as ‘law’, ‘saw’ etc. join with /r/.
+
+> DRILL Exercise: practice `Chapter-5-5.16.mp3`
+
+> EXERCISE examples `Chapter-5-5.17.mp3`
+
+### Question Tags | Intonation
+- A question tag is added to a statement to make it into a question.
+- Most question tags are opposite to their statement (negative/positive or positive/negative) and use the following intonation:
+  - Falling intonation, meaning “I know what I am saying is correct”.
+  - Rising intonation, meaning “I am not sure, please answer”.
+- Question tags are common in British English but rare in American English.
+
+> DRILL Exercise ↘falling intonation (Chapter-5-5.20.mp3) - ↗rising intonation (Chapter-5-5.21.mp3)
+
+> EXERCISE : ↘falling intonation to making statements, ↗rising intonation to receive a genuine
+answer or make a question
+
+### ‘have’ | Postscript
+The pronunciation of ‘have’ changes depending on its usage as follows:
+- content | stressed function: `/hæv/` (I have red hair | I have finished).
+- function word: `/həv/`(Have the police arrived?) `/əv/`(What have you done?) `/v/`(Iʼve finished the biscuits)
+- modal obligations: `/hæf/` (We have to go now)
+
+> Listen `Chapter-5-5.25.mp3`
+
