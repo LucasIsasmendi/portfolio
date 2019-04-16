@@ -42,3 +42,20 @@ Environment is the invisible hand that shapes human behavior.
 The modern food industry relies on stretching our Paleolithic instincts beyond their evolutionary purpose.
 
 “We’ve gotten too good at pushing our own buttons.”
+
+You are walking around with the same hardware as your Paleolithic ancestors.
+The road less traveled is the road of delayed gratification, the last mile is always the least crowded.
+
+A good player works hard to win the game everyone else is playing. A great player creates a new game that favors their strengths and avoids their weaknesses.
+
+Success is not a goal to reach or a finish line to cross. It is a system to improve, an endless process to refine.
+
+You want to push your good habits toward the roght side of the spectrum by making them obvious, attractive, easy, and satisfying. Meanwhile, you want to cluster your bad habits toward the left side by making them invisible, unattractive, hard, and unsatisfying.
+
+The secret to getting results that last is to never stop making improvements.
+
+Small habits don’t add up. They compound.
+
+## Deep Work
+“It is only ideas gained from walking that have any worth.” - Nietzsche
+“I am not busy. I am the laziest ambitious person I know.” - Tim Kreider
