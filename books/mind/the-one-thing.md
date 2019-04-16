@@ -2,31 +2,33 @@
 
 ## Index
 **Intro**
+- [1. The ONE Thing]
+- [2. The Domino Effect]
+- [3. Success Leaves Clues]
 
 **Part 1 - The Lies: They Mislead and derail us**
-  - [4. Everything Matters Equally]
-  - [5. Multitasking]
-  - [6. A Disciplined Life]
-  - [7. Willpower Is Always on Will-Call]
-  - [8. A Balanced Life]
-  - [9. Big Is Bad]
+- [4. Everything Matters Equally]
+- [5. Multitasking]
+- [6. A Disciplined Life]
+- [7. Willpower Is Always on Will-Call]
+- [8. A Balanced Life]
+- [9. Big Is Bad]
 
 **Part 2 - The Truth: The Simple Path to Productivity**
-  - [4. Everything Matters Equally](#4-everything-matters-equally)
-  - [10. The Focusing Question](#10-the-focusing-question)
-  - [11. The Success Habit](#11-the-success-habit)
-  - [12. The Path to Great Answers](#12-the-path-to-great-answers)
+- [10. The Focusing Question](#10-the-focusing-question)
+- [11. The Success Habit](#11-the-success-habit)
+- [12. The Path to Great Answers](#12-the-path-to-great-answers)
 
 **Part 3 - Extraordinary Results: Unlocking the Possibilities Within You**
 - [13. Live with Purpose](#13.-live-with-purpose)
-- [14. Live by Priority]
+- [14. Live by Priority](#14.-live-by-priority)
 - [15. Live for Productivity]
 - [16. The Three Commitments]
 - [17. The Four Thieves]
 - [18. The Journey]
 
 **Conclusion**
-- [Putting The ONE Thing to Work]()
+- [Putting The ONE Thing to Work]
 
 ## 4. Everything Matters Equally
 
@@ -99,3 +101,20 @@ When what you do matches your purpose, your life just feels in rhythm, and the p
 
 **Big Ideas**: Happiness happens on the way to fulfillment. Discover your Big Why. Absent an answer, pick a direction.
 
+## 14. Live by Priority
+Live with purpose and you know where you want to go. Live by priority and you’ll know what to do to get there.
+
+### GOAL SETTING TO THE NOW
+Purpose has the power to shape our lives only in direct proportion to the power of the priority we connect it to. **Purpose without priority is powerless.**
+priority remained unpluralized until around the 20th century. While we may pull from the past and forecast the future, our only reality is the present moment.
+The truth about success is that our ability to achieve extraordinary results in the future lies in stringing together powerful moments, one after the other.
+*hyperbolic discounting*: the further away a reward is in the future, the smaller the immediate motivation to achieve it.
+
+By thinking through the filter of Goal Setting to the Now, you set a future goal and then methodically drill down to what you should be doing right now.
+
+Future purpose connects to the present priority: `GOAL: some day -> 5 years -> 1 year -> Monthly -> Weekly -> Daily -> RIGHT NOW`  
+You’re learning how to think big—but go small.
+
+People tend to be overly optimistic about what they can accomplish, and therefore most don’t think things all the way through. Researchers call this the “planning fallacy” Visualizing the process—breaking a big goal down into the steps needed to achieve it—helps engage the strategic thinking you need to plan for and achieve extraordinary results. This is why Goal Setting to the Now really works.
+
+Your last step is to write down your answers. Much has been written about writing down goals and for a very good reason—it works.

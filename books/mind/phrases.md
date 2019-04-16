@@ -4,7 +4,7 @@
 “There is an art to clearing away the clutter and focusing on what matters most. It is simple and it is transferable. It just requires the courage to take a different approach.”
 —George Anders
 
-##
+## The One Thing
 "Success is simple. Do what’s right, the right way, at the right time." —Arnold H. Glasow
 
 “People do not decide their futures, they decide their habits and their habits decide their futures.”
@@ -24,7 +24,12 @@
 
 Time brings clarity
 
-- Atomic Habits
+“Planning is bringing the future into the present so that you can do something about it now.”
+—Alan Lakein
+
+Purpose without priority is powerless.
+
+## Atomic Habits
 In the long run, the quality of our lives often depends on the quality of our habits.
 Habits are the compound interest of self-improvement.
 Success is the product of daily habits—not once-in-a-lifetime transformations.
