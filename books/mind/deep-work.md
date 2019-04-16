@@ -11,7 +11,7 @@
 [R1 Work Deeply](#r1-work-deeply)
 [R2 Embrace Boredom](#r2-embrace-boredom)
 R3 Quit Social Media
-R4 Drain The Shallows
+[R4 Drain The Shallows](#r4-drain-the-shallows)
 
 Conclusion
 
@@ -147,3 +147,40 @@ To prepare for this high-volume memorization task begin by cementing in your min
 Proceeding through the steps described earlier requires that you focus your attention, again and again, on a clear target. Like a muscle responding to weights, this will strengthen your general ability to concentrate—allowing you to go deeper with more ease.
 
 ## R4 Drain The Shallows
+In the summer of 2007, the software company 37signals (now called Basecamp) launched an experiment: They shortened their workweek from five days to four: When you have fewer hours you usually spend them more wisely. The company gave its employees the entire month of June off to work deeply on their own projects. If you not only eliminate shallow work, but also replace this recovered time with more of the deep alternative, not only will the business continue to function; it can become more successful.
+
+Deep work is exhausting because it pushes you toward the limit of your abilities. Limited to four hours. Shallow work is inevitable, but you must keep it confined to a point where it doesn’t impede your ability to take full advantage of the deeper efforts that ultimately determine your impact.
+
+### Schedule Every Minute of Your Day
+When you’re done scheduling your day, every minute should be part of a block. You have, in effect, given every minute of your workday a job. Now as you go through your day, use this schedule to guide you. Your goal is not to stick to a given schedule at all costs; it’s instead to maintain, at all times, a thoughtful say in what you’re doing with your time going forward: “What makes sense for me to do with the time that remains?”
+
+Without structure, it’s easy to allow your time to devolve into the shallow. Deep work habit requires you to treat your time with respect. Decide in advance what you’re going to do with every minute of your workday.
+
+### Quantify the Depth of Every Activity
+An advantage of scheduling your day is that you can determine how much time you’re actually spending in shallow activities.
+
+### Ask Your Boss for a Shallow Work Budget
+settle on a specific answer, try to stick to this budget. This limit frees up space for significant amounts of deep effort on a consistent basis. Without these numbers, it’s difficult for an entrepreneur to say no to any opportunity that might generate some positive return.
+
+### Finish Your Work by Five Thirty (fixed-schedule + time-management)
+fixed-schedule productivity, as I fix the firm goal of not working past a certain time, then work backward to find productivity strategies that allow me to satisfy this declaration.
+Nagpal set a limit of fifty hours a week and worked backward to determine what rules and habits were needed to satisfy this constraint. She, in other words, deployed fixed-schedule productivity.
+
+In addition to carefully guarding my obligations, I’m incredibly conscientious about managing my time. Because my time is limited each day, I cannot afford to allow a large deadline to creep up on me, or a morning to be wasted on something trivial, because I didn’t take a moment to craft a smart plan.
+
+Fixed-schedule productivity is a meta-habit that’s simple to adopt but broad in its impact.
+
+### Become Hard to Reach
+“we are slowly eroding our ability to explain—in a careful, complex way—why it is so wrong for us to complain, resist, or redesign our workdays so that they are manageable.”
+
+#### Tip #1: Make People Who Send You E-mail Do More Work
+- email filters: “I’ll only respond to those proposals that are a good match for my schedule and interests.”
+- FAQ section
+- pay a fee
+
+#### Tip #2: Do More Work When You Send or Reply to E-mails
+What is the project represented by this message, and what is the most efficient (in terms of messages generated) process for bringing this project to a successful conclusion? It is
+the process-centric approach to e-mail, and it’s designed to minimize both the number of e-mails you receive and the amount of mental clutter they generate. They require that you spend more time thinking about your messages before you compose them.
+
+#### Tip #3: Don’t Respond
+“Develop the habit of letting small bad things happen. If you don’t, you’ll never find time for the life-changing big things.”
