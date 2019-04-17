@@ -22,7 +22,7 @@
 **Part 3 - Extraordinary Results: Unlocking the Possibilities Within You**
 - [13. Live with Purpose](#13.-live-with-purpose)
 - [14. Live by Priority](#14.-live-by-priority)
-- [15. Live for Productivity]
+- [15. Live for Productivity](#15.-live-for-productivity)
 - [16. The Three Commitments]
 - [17. The Four Thieves]
 - [18. The Journey]
@@ -70,9 +70,9 @@ You ask a great question, then you seek out a great answer. Great questions, lik
 
 ### 2. Find a Great Answer
 Answers come in three categories: 
-- doable: you already know it
-- stretch: research and study
-- and possibility: beyond what is already known and being done. Research, model, benchmark (max from strech), and trend (what comes next) experience from people that already done that path. You’re not the first person to dream big, so you’d be wise to study what others have learned first, and then build your actions on the back of their lessons.
+- `doable`: you already know it
+- `stretch`: research and study
+- and `possibility`: beyond what is already known and being done. Research, model, benchmark (max from strech), and trend (what comes next) experience from people that already done that path. You’re not the first person to dream big, so you’d be wise to study what others have learned first, and then build your actions on the back of their lessons.
 
 The benchmark is today’s success—the trend is tomorrow’s.
 Benchmarking and trending is your best option. Because your answer will be original, you’ll probably have to reinvent yourself in some way to implement it. A new answer usually requires new behavior,
@@ -118,3 +118,28 @@ You’re learning how to think big—but go small.
 People tend to be overly optimistic about what they can accomplish, and therefore most don’t think things all the way through. Researchers call this the “planning fallacy” Visualizing the process—breaking a big goal down into the steps needed to achieve it—helps engage the strategic thinking you need to plan for and achieve extraordinary results. This is why Goal Setting to the Now really works.
 
 Your last step is to write down your answers. Much has been written about writing down goals and for a very good reason—it works.
+
+## 15. Live for Productivity
+Productive action transforms lives. Putting together a life of extraordinary results simply comes down to getting the most out of what you do, when what you do matters.
+At time-managing system’s success can be judged by the productivity it produces.
+The most successful people are the most productive people.
+Productive people get more done, achieve better results, and earn far more in their hours than the rest. They do so because they devote maximum time to being productive on their top priority, their ONE Thing.
+
+### TIME BLOCKING
+Most people think there’s never enough time to be successful, but there is when you block it. Time blocking is a very results-oriented way of viewing and using time. It’s a way of making sure that what has to be done gets done.
+
+`The productive day = 50% Your ONE Thing + 50% Everything Else`
+1. Time block your time off: Everything needs rest to function better. Resting is as important as working.
+2. Time block your ONE Thing: The most productive people work on event time.
+3. Time block your planning time: Block an hour each week to review your annual and monthly goals.
+
+Theere is magic in knocking down your most important domino day after day. All you have to do is avoid breaking the chain, one day at a time, until you generate a powerful new habit in your life: the time-blocking habit.
+
+### PROTECT YOUR TIME BLOCK
+it’s your job to protect your time blocks from all those who don’t know what matters most to you, and from yourself when you forget.
+The best way to protect your time blocks is to adopt the mindset that they can’t be moved.
+The last thing that can knock you off your time block is when you can’t free your mind.
+
+> What’s the ONE Thing I can do to protect my time block every day such by doing it everything else I might do will be easier or unnecessary?
+
+

@@ -29,6 +29,12 @@ Time brings clarity
 
 Purpose without priority is powerless.
 
+“Productivity isn’t about being a workhorse, keeping busy or burning the midnight oil... . It’s more about priorities, planning, and fiercely protecting your time.”
+—Margarita Tartakovsky
+
+“Efficiency is doing the thing right. Effectiveness is doing the right thing.”
+—Peter Drucker
+
 ## Atomic Habits
 In the long run, the quality of our lives often depends on the quality of our habits.
 Habits are the compound interest of self-improvement.
