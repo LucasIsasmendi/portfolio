@@ -13,7 +13,7 @@
 R3 Quit Social Media
 [R4 Drain The Shallows](#r4-drain-the-shallows)
 
-Conclusion
+[Conclusion](#conclusion)
 
 ## Introduction
 
@@ -184,3 +184,10 @@ the process-centric approach to e-mail, and it’s designed to minimize both the
 
 #### Tip #3: Don’t Respond
 “Develop the habit of letting small bad things happen. If you don’t, you’ll never find time for the life-changing big things.”
+
+## Conclusion
+In the winter of 1974, a young Harvard student named Bill Gates sees the Altair, the world’s first personal computer, on the cover of Popular Electronics. Gates realizes that there’s an opportunity to design software for the machine, so he drops everything and with the help of Paul Allen and Monte Davidoff spends the next eight weeks hacking together a version of the BASIC programming language for the Altair. This story is often cited as an example of Gates’s insight and boldness, but recent interviews have revealed another trait that played a crucial role in the tale’s happy ending: Gates’s preternatural deep work ability.
+
+Gates worked with such intensity for such lengths during this two-month stretch that he would often collapse into sleep on his keyboard in the middle of writing a line of code. He would then sleep for an hour or two, wake up, and pick up right where he left off: “Gates was a serial obsessor.”
+
+Deep work is important not because distraction is evil, but because it enabled Bill Gates to start a billion-dollar industry in less than a semester.
