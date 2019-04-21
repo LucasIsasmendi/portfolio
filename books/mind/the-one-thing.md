@@ -23,7 +23,7 @@
 - [13. Live with Purpose](#13.-live-with-purpose)
 - [14. Live by Priority](#14.-live-by-priority)
 - [15. Live for Productivity](#15.-live-for-productivity)
-- [16. The Three Commitments]
+- [16. The Three Commitments](#16.-the-three-commitments)
 - [17. The Four Thieves]
 - [18. The Journey]
 
@@ -142,4 +142,37 @@ The last thing that can knock you off your time block is when you can’t free y
 
 > What’s the ONE Thing I can do to protect my time block every day such by doing it everything else I might do will be easier or unnecessary?
 
+## 16. The Three Commitments
+Achieving extraordinary results through time blocking requires three commitments.
+First, you must adopt the mindset of someone seeking mastery. Mastery is a commitment to becoming your best, so to achieve extraordinary results you must embrace the extraordinary effort it represents. 
+Second, you must continually seek the very best ways of doing things. Nothing is more futile than doing your best using an approach that can’t deliver results equal to your effort. 
+And last, you must be willing to be held accountable to doing everything you can to achieve your ONE Thing. Live these commitments and you give yourself a fighting chance to experience extraordinary
 
+**THE THREE COMMITMENTS TO YOUR ONE THING**
+
+### 1. FOLLOW THE PATH OF MASTERY
+mastery actually means you’re a master of what you know and an apprentice of what you don’t.
+The Role of Deliberate Practice in the Acquisition of Expert Performance: the 10,000-hour rule. Is about average four hours a day, in 250 workdays a year, per 10 years.
+More than anything else, expertise tracks with hours invested. Time on a task, over time, eventually beats talent every time.
+When you commit to time block your ONE Thing, make sure you approach it with a mastery mentality. Its serves as a platform for, and speeds up the process of, doing other things. Knowledge begets knowledge and skills build on skills.
+
+### 2. MOVE FROM “E” TO “P”
+The path of mastering something is the combination of not only doing the best you can do at it, but also doing it the best it can be done.
+Continually improving how you do something is critical to getting the most from time blocking.
+Highly productive people don’t accept the limitations of their natural approach as the final word on their success. When they hit a ceiling of achievement, they look for new models and systems, better ways to do things to push them through. They pause just long enough to examine their options, they pick the best one, and then they’re right back at it. Ask an “E” to cut some firewood and the Entrepreneurial person would likely shoulder an axe and head straight for the woods. On the other hand, the Purposeful person might ask, “Where can I get a chainsaw?” With a “P” mindset, you can achieve breakthroughs and accomplish things far beyond your natural abilities.
+
+> The purposeful approach: Doing what comes unnaturally
+> 1. Focus, 2. Models, 3. Systems, 4. Breakthroughs.
+
+“a different result requires doing something different.” Make this your mantra and breakthroughs become possible.
+
+When “E” is our only approach, we create artificial limits to what we can achieve and who we can become. When we think we’ve maxed out our potential in a situation, starting over is how we think we’ll get ahead. The problem is this becomes a vicious cycle of taking on the next new thing with renewed enthusiasm, energy, natural ability, and effort, until another ceiling is hit and disappointment and resignation set in once again. Bring “P” to the same ceiling and things look different. The Purposeful approach says, “I’m still committed to growing, so what are my options?” Implementing these may require new thinking, new skills, and even new relationships. Probably none of this will feel natural at first.
+
+When you’ve done the best you can do but are certain the results aren’t the best they can be, get out of “E” and into “P.” Look for the better models and systems, the ways that can take you farther. Then adopt new thinking, new skills, and new relationships to help you put them into action.
+
+### 3. LIVE THE ACCOUNTABILITY CYCLE
+There is an undeniable connection between what you do and what you get. Actions determine outcomes, and outcomes inform actions.
+Accountable people are results oriented and never defend actions, skill levels, models, systems, or relationships that just aren’t getting the job done. They see outcomes as information they can use to frame better actions to get better outcomes.
+Peak a coach or a mentor as an accountability partner.
+
+> individuals with written goals were 39.5 percent more likely to succeed. Individuals who wrote their goals and sent progress reports to friends were 76.7 percent more likely to achieve them.

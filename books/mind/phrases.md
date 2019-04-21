@@ -35,6 +35,9 @@ Purpose without priority is powerless.
 “Efficiency is doing the thing right. Effectiveness is doing the right thing.”
 —Peter Drucker
 
+“Nobody who ever gave his best regretted it.”
+—George Halas
+
 ## Atomic Habits
 In the long run, the quality of our lives often depends on the quality of our habits.
 Habits are the compound interest of self-improvement.
