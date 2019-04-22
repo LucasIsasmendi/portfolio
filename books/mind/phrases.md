@@ -38,6 +38,20 @@ Purpose without priority is powerless.
 “Nobody who ever gave his best regretted it.”
 —George Halas
 
+“Focus is a matter of deciding what things you’re not going to do.”
+—John Carmack
+
+“I don’t know the key to success, but the key to failure is trying to please everybody.”
+- Cosby
+
+“If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?”
+—Albert Einstein
+
+“If you don’t take care of your body, where will you live?”
+
+“Surround yourself only with people who are going to lift you higher.”
+—Oprah Winfrey
+
 ## Atomic Habits
 In the long run, the quality of our lives often depends on the quality of our habits.
 Habits are the compound interest of self-improvement.

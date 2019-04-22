@@ -15,6 +15,8 @@
 - Reframe - Mona Patel: *Shift the Way You Work, Innovate, and Think*
 - Tool of Titans - Tim Ferris: *The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performer*
 - Rewire Your Brain - John B. Arden: *Think Your Way to a Better Life*
+- Connected - Nicholas A. Christakis, James H. Fowler: *The Surprising Power of Our Social Networks and How They Shape Our Lives -- How Your Friends' Friends' Friends Affect Everything You Feel, Think, and Do*
+
 
 ## Resources
 - https://jimkwik.com/

@@ -24,7 +24,7 @@
 - [14. Live by Priority](#14.-live-by-priority)
 - [15. Live for Productivity](#15.-live-for-productivity)
 - [16. The Three Commitments](#16.-the-three-commitments)
-- [17. The Four Thieves]
+- [17. The Four Thieves](#17.-the-four-thieves)
 - [18. The Journey]
 
 **Conclusion**
@@ -176,3 +176,41 @@ Accountable people are results oriented and never defend actions, skill levels, 
 Peak a coach or a mentor as an accountability partner.
 
 > individuals with written goals were 39.5 percent more likely to succeed. Individuals who wrote their goals and sent progress reports to friends were 76.7 percent more likely to achieve them.
+
+## 17. The Four Thieves
+
+### 1. INABILITY TO SAY “NO”
+One “yes” must be defended over time by 1,000 “nos.”
+When you say yes to something, it’s imperative that you understand what you’re saying no to. In the end, the best way to succeed big is to go small. And when you go small, you say no—a lot.
+
+> No one knew how to go small better than Steve Jobs. He was famously as proud of the products he didn’t pursue as he was of the transformative products Apple created. In the two years after his return in 1997, he took the company from 350 products to ten.
+
+The rule is simple: A request must be connected to my ONE Thing for me to consider it.
+
+### 2. FEAR OF CHAOS
+There will always be people and projects that simply aren’t a part of your biggest single priority but still matter. You will feel them pressing for your attention.
+When you strive for greatness, chaos is guaranteed to show up.
+Move past your fear of chaos, learn to deal with it, and trust that your work on your ONE Thing will come through for you.
+
+### 3. POOR HEALTH HABITS
+Personal energy mismanagement is a silent thief of productivity.
+High achievement and extraordinary results require big energy. The trick is learning how to get it and keep it:
+- Meditation
+- breaksfat, healthy food
+- emotional energy
+- Set goals, plan, and calendar for mental energy. 
+- eight hours of sleep. When you’ve connected proper sleep with success, you’ll have a good enough reason to get up and you’ll go to sleep at the right time.
+
+when you spend the early hours energizing yourself, you get pulled through the rest of the day with little additional effort. You’re not focused on having a perfect day all day, but on **having an energized start to each day**. That’s positive energy creating positive momentum.
+
+### 4. ENVIRONMENT DOESN’T SUPPORT YOUR GOALS
+Your environment is simply who you see and what you experience every day.
+No one lives or works in isolation. Every day, throughout your day, you come in contact with others and are influenced by them. It’s a fact that you’re likely to pick up some of the attitudes of others. Being with success-minded people creates what researchers call a “positive spiral of success” where they lift you up and send you on your way.
+
+Create a productivity-specific environment to support your ONE Thing: people + place.
+
+The people we see tend to set our standard for what’s appropriate. In time, you begin to think, act, and even look a little like those you hang out with. But not only do their attitudes and health habits influence you, their relative success does too.
+
+> No one succeeds alone and no one fails alone. Pay attention to the people around you.
+
+When your physical environment isn’t in step with your goals, it can also keep you from ever getting started on them in the first place.
