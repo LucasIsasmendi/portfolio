@@ -25,7 +25,7 @@
 - [15. Live for Productivity](#15.-live-for-productivity)
 - [16. The Three Commitments](#16.-the-three-commitments)
 - [17. The Four Thieves](#17.-the-four-thieves)
-- [18. The Journey]
+- [18. The Journey](#18.-the-journey)
 
 **Conclusion**
 - [Putting The ONE Thing to Work]
@@ -214,3 +214,30 @@ The people we see tend to set our standard for what’s appropriate. In time, yo
 > No one succeeds alone and no one fails alone. Pay attention to the people around you.
 
 When your physical environment isn’t in step with your goals, it can also keep you from ever getting started on them in the first place.
+
+## 18. The Journey
+Extraordinary results require you to go small.
+Getting your focus as small as possible simplifies your thinking and crystallizes what you must do.
+You must survey your choices, narrow your options, line up your priorities, and do what matters most. You must go small. You must find your ONE Thing.
+Actions build on action. Habits build on habit. Success builds on success. Whenever you want extraordinary results, look for the levered action that will start a domino run for you.
+Big lives ride the powerful wave of chain reactions and are built sequentially, which means when you’re aiming for success you can’t just skip to the end.
+
+### ADVICE FROM A FRIEND
+
+> “Go live your life. Live it fully, without fear. Live with purpose, give it your all, and never give up.” Effort is important, for without it you will never succeed at your highest level. Achievement is important, for without it you will never experience your true potential. Pursuing purpose is important, for unless you do, you may never find lasting happiness. Step out on faith that these things are true. Go live a life worth living
+
+**live your life to minimize the regrets you might have at the end.**
+
+The Top Five Regrets of the Dying:
+1. I wish I’d had the courage to live a life true to myself not the life others expected of me
+2. I wish that I’d let myself be happier
+3. wish I’d stayed in touch with my friends
+4. I wish I’d had the courage to express my feelings
+5. I wish I hadn’t worked so hard
+
+> “When people look back on their lives, it is the things they have not done that generate the greatest regret.... People’s actions may be troublesome initially; it is their inactions that plague them most with long-term feelings of regret.”
+
+### SUCCESS IS AN INSIDE JOB
+So, how do you live a life of no regrets? The same way your journey to extraordinary results begins. With purpose, priority, and productivity.
+All success in life starts within you. You know what to do. You know how to do it. Your next step is simple.
+You are the first domino.

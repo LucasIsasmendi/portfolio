@@ -52,6 +52,15 @@ Purpose without priority is powerless.
 “Surround yourself only with people who are going to lift you higher.”
 —Oprah Winfrey
 
+“To get through the hardest journey we need take only one step at a time, but we must keep on stepping.”
+—Chinese Proverb
+
+Only those who will risk going too far can possibly find out how far one can go.”
+— T. S. Eliot
+
+“Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.”
+—Mark Twain
+
 ## Atomic Habits
 In the long run, the quality of our lives often depends on the quality of our habits.
 Habits are the compound interest of self-improvement.
