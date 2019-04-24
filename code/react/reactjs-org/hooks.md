@@ -70,3 +70,31 @@ function Example() {
 ```
 
 Tip: Using Multiple State Variables: `[something, setSomething]`
+
+## 4. Using the Effect Hook
+The Effect Hook lets you perform side effects in function components:
+```js
+import React, { useState, useEffect } from 'react';
+
+function Example() {
+  const [count, setCount] = useState(0);
+
+  // Similar to componentDidMount and componentDidUpdate:
+  useEffect(() => {
+    // Update the document title using the browser API
+    document.title = `You clicked ${count} times`;
+  });
+
+  return (
+    <div>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount(count + 1)}>
+        Click me
+      </button>
+    </div>
+  );
+}
+```
+There are two common kinds of side effects in React components: with and without cleanup
+
+### Effects Without Cleanup 
