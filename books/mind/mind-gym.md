@@ -1,4 +1,4 @@
-# Gym Mind
+# Mind Gym
 
 ## Index
 **Reset Your Mind**
