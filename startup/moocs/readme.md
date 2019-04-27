@@ -27,3 +27,27 @@ MIT has been asking its student entrepreneurs this question for many years – a
 ![Status](https://img.shields.io/badge/status-done-brightgreen.svg)  
 Learn what it takes to build a successful startup using the Customer Development process, where entrepreneurs "get out of the building" to gather and iterate on feedback.  
 [Udacity](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+
+## TEAM
+
+### Agile Development Specialization
+In this Specialization, you'll gain an understanding and appreciation of the principles and practice of agile management. You'll learn to coordinate all aspects of the agile development process, including running design sprints, managing teams, and fostering a culture of experimentation. In the final Capstone Project, you'll apply what you've learned to guide a real-world software development project to successful completion.
+[Coursera](https://www.coursera.org/specializations/agile-development)
+  - [C1 - Agile Meets Design Thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile?specialization=agile-development) ([my notes](./agile-dev-sp/c1/readme.md))
+  - Running Product Design Sprints
+  - Managing an Agile Team
+  - Testing with Agile
+  - Agile Development in Practice (Project-centered Course)
+
+### Agile Planning For Software Products
+This course covers the techniques required to break down and map requirements into plans that will ultimately drive software production. Upon successful completion of this course, you will be able to: - Create effective plans for software development - Map user requirements to developer tasks - Assess and plan for project risks - Apply velocity-driven planning techniques - Generate work estimates for software products
+
+[coursera](https://www.coursera.org/learn/agile-planning-for-software-products) - [my notes](./apfsp/readme.md)
+
+course 4 from [Software Product Management Specialization](https://www.coursera.org/specializations/product-management)
+
+You Will learn:
+- Create effective plans for software development
+- Map user requirements to developer tasks
+- Assess and plan for project risks
+- Apply velocity-driven planning techniques
