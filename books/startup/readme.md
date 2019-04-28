@@ -3,13 +3,14 @@
 ## List 
 - [The Lean Mindset](./lean-mindset.md) - Mary, Tom Poppendieck: *Ask the Right Questions*
 - [The Lean Product Playbook - Dan Olsen](./lean-product-playbook.md): *How to Innovate With Minimum Viable Products And Rapid Customer Feedback*
+- [Disciplined entrepreneurship](./disciplined-entrepreneurship.md) - Bill Aulet: *24 Steps to a Succesful Startup*
 
 - [The Startup Equation](./the-startup-equation.md) - Steven Fisher, Ja-Nae Duane: *A Visual Guidebook for Building Your Startup*
 - [Lean Customer Development](./lean-customer-dev.md) - Cindy Alvarez: *build Producst Your Customers Will Buy*
 
 - [Running Lean, Second Edition - Ash Maurya](./running-lean-2ed.md): *Iterate from a Plan A to a Plan That Works*
 - [Scaling Lean - Ash Maurya](./scaling-lean.md): *Mastering the Key Metrics for Startup Growth*
-- Disciplined entrepreneurship - Bill Aulet: *24 Steps to a Succesful Startup*
+
 - Value Proposition Design
 - Agile Produc Development
 
