@@ -8,6 +8,7 @@
 [Chapter 3](#chapter-3)
 [Chapter 4](#chapter-4)
 [Chapter 5](#chapter-5)
+[Chapter 6](#chapter-6)
 
 ## Introduction
 #### Consonant Types | Sound
@@ -452,3 +453,63 @@ The pronunciation of ‘have’ changes depending on its usage as follows:
 
 > Listen `Chapter-5-5.25.mp3`
 
+## Chapter 6
+### Diphthong Vowels | Sounds
+- A diphthong is a long vowel that moves from one mouth position to another.
+- The first position in a diphthong is stronger than the second.
+
+> TODO: practice `Chapter-6-6.2.mp3`
+
+> TODO: practice DRIL `Chapter-6-6.3.mp3`
+
+### Diphthongs | Sound Comparison
+
+> Exercise: REDO
+
+### < o > | Spelling & Sound
+- The spelling `o` commonly produces `əʊ` `ʌ` `ɒ` and `u:` in pronunciation.
+- Exceptions are ‘women’ /wɪmɪn/, ‘woman’ /wʊmən/ & ‘wolf’ /wʊlf/
+- The spelling `ow` produces `əʊ` & `aʊ`.
+- The spelling `or` usually produces `ɔ:`.
+
+> Exercise `Chapter-6-6.6.mp3`
+`ɒ`: long, /əʊ/comb, /əʊ/bold, cod, /ʌ/tongue, /ʌ/front, log, shot, /ʌ/shove, dock, /əʊ/low
+`ʌ`: month, [ɒ]cross, some, love, [aʊ]brown
+`əʊ`: alone,so, cold
+`u:`: move, do, lose, tomb, prove, who
+`aʊ`: how, down, now, cow, allow
+
+> Exercise
+gone /gɒn/ , done /dʌn/, owl /aʊl/, so /soʊ-əʊ/, son /sʌn/, wolf /wʊlf/, women /ˈwɪm ɪn/, brown /braʊn/, nothing /ˈnʌθ ɪŋ/, grown /groʊn-grəʊn/, not /nɒt/, do /du:/, chop /tʃɒp/, lose /lu:z/, port /pɔ:rt/, rope /roʊp/, show /ʃoʊ/, love /lʌv/
+
+x: boss /bɒs/, none /nʌn/, born /bɔrn/, drown /draʊn/
+
+### Compounds | Structure
+catfish deadline figurehead homesick lawsuit waterfall
+- A compound is formed of two words.
+- Compounds can be written as one word, two words separated by a hyphen, or
+two separate words.
+- Most compounds place stress only on the first word.
+
+> Drill: cobweb, cupboard, doorway, eyelash, gateway, goldfish, grapefruit, windowsill, seashore, shellfish
+
+> Exercise: ironing board, coat hanger, rocking chair, laptop, teapot, bookshelf, candlestick holder, dining table, microwave (oven), lampshade, flower pot.
+
+### High Fall | Intonation
+- A falling pattern can start from a high tone (high-fall) or a mid tone (mid-fall).
+- The meaning changes radically when the different tones are used.
+- A high-fall shows enthusiasm, emotion and involvement in the speaker.
+- A mid-fall shows detachment, lack of interest and even boredom.
+- The high-fall is very common in spoken English - see drill below.
+
+> DRILL: statemtns & new information, information questions, question tags, exclamations
+
+### ‘do’ | Postscript
+The verb ‘do’ has the following pronunciations in spoken English:
+- The negative form (don’t) is pronounced `dəʊnt` 
+- The weak function word (do) is pronounced `də`
+- The stressed or content word (do) is pronounced `du:`
+- The gerund form (doing) is pronounced `du:wɪŋ` 
+- The weak function words ‘do you’ can be pronounced `dʒu`
+
+> EXERCISE: TODO listen the pronunciations
