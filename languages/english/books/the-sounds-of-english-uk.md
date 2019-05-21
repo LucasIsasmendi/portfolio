@@ -2,13 +2,15 @@
 > A Practical Course in British English Pronunciation Interactive E-book with Audio
 
 ## Index
-[Introduction](#introduction)
-[Chapter 1](#chapter-1)
-[Chapter 2](#chapter-2)
-[Chapter 3](#chapter-3)
-[Chapter 4](#chapter-4)
-[Chapter 5](#chapter-5)
-[Chapter 6](#chapter-6)
+[Introduction](#introduction)  
+[Chapter 1](#chapter-1)  
+[Chapter 2](#chapter-2)  
+[Chapter 3](#chapter-3)  
+[Chapter 4](#chapter-4)  
+[Chapter 5](#chapter-5)  
+[Chapter 6](#chapter-6)  
+[Chapter 7](#chapter-7)  
+[Chapter 8]  
 
 ## Introduction
 #### Consonant Types | Sound
@@ -513,3 +515,75 @@ The verb ‘do’ has the following pronunciations in spoken English:
 - The weak function words ‘do you’ can be pronounced `dʒu`
 
 > EXERCISE: TODO listen the pronunciations
+
+## Chapter 7
+
+### Nasal Consonants | Sounds
+- A nasal consonant is a voiced sound made by air escaping through the nose.
+- There are three nasal consonants in spoken English: m, n, ŋ (nk, ng)
+
+> TODO: listen `Chapter-7-7.1.mp3`
+
+> DRILL: phrases examples
+
+### Nasal Assimilations | Sound
+- In connected speech, the sound /n/ often assimilates to /m/ or /ŋ/.
+- The assimilation can occur if the following consonant is bilabial or velar:
+  - n + bilabial cons (p, b, m) = m (Istanbul, in-between, in my, than Peter)
+  - n + velar consonant (c, k, g) = ŋ (England, increase, sun cream, in Greece)
+
+### /ŋ/ vs /ŋg/ | Sound Comparison
+#### `/ŋ/`
+- < ng > is pronounced /ŋ/ without a following /g/ sound at the end of words. EXAMPLES: taxing, working, wing, bang
+- If we add an ending to a word ending /ŋ/ it will not change unless it is a comparative or superlative. EXAMPLES: singer, wrongly, movingly
+
+#### `/ŋg/`
+- Words that contain < ng > followed by more letters that have not been added as an ending will be pronounced /ŋg/. EXAMPLES: hunger, England, Hungary, tango
+- Adjectives ending < ng > made into superlatives or comparatives (-est/er) will be pronounced with /ŋg/. EXAMPLES: stronger, longer
+
+> TODO: EXERCISE `Chapter-7-7.10.mp3`
+
+### < a > | Spelling & Sound
+- The spelling < a > can produce 7 strong vowel sounds: /ɒ/ wanted, /ɔ:/ raw, /eɪ/ Dave & waiter, /ɑ:/ asked, /eə/ rare, /æ/ lamb.
+- < a > can also produce 2 weak vowel sounds: /ɪ/ village,  /ə/ tuna,
+
+> DRILL: `Chapter-7-7.12.mp3` [!]TODO
+
+> Pending Exercise
+
+### Name Compounds | Structure
+- Names of people and places carry double stress ( x X )
+EXAMPLES: John Smith, Church Road, Blue Peter, Count Dracula
+- The only exception to this rule are names with ‘Street’, which always take first element stress. ( X . )
+EXAMPLES: Church Street, Wall Street, Beale Street, High Street.
+
+### Material & Ingredient Compounds | Structure
+- When a material or ingredient is the first word of a compound, it normally produces double stress (x X) as follows: cheese lettuce, tuna quiche, sandwich salad, wooden floor, metal lock, leather shoes
+- 3 exceptions to this rule are when the second word is ‘cake’, ‘juice’ or ‘drink’, these produce first element stress (X .).
+- orange juice, carrot cake,  banana drink
+
+### Implicational Fall-rise | Intonation
+- Using fall-rise intonation on a statement produces an implication - similar to saying “but”.
+- This use of the fall-rise is often used to subtly criticise or show doubt.
+- A falling pattern on a statement gives it a direct, non-implied meaning.
+
+> Exercise
+
+### ‘are’ | Postscript
+The pronunciation of ‘are’ depends on its stress, function and position:
+- Weak Form: `/ə/` (`/ər/ `if followed by a vowel)
+  What are you doing here?
+  Linda and Josh are visiting at the weekend! Why are we even talking about this?
+  I think we’re interested in the blue one.
+- Strong Form: `/ɑ:/` (`/ɑ:r/` if followed by a vowel)
+  Who are you?
+  So what if we are?
+  I don’t know if we are happy together. Oh dear, we are in trouble then.
+- Negative Form: `/ɑ:nt/`
+  Why aren’t you wearing a suit? There aren’t any biscuits left!
+  We aren’t at all pleased.
+  But you’re coming along, aren’t you?
+
+> Examples `Chapter-7-7.24.mp3`
+
+## Chapter 8
