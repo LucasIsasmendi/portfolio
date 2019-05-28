@@ -587,3 +587,8 @@ The pronunciation of ‘are’ depends on its stress, function and position:
 > Examples `Chapter-7-7.24.mp3`
 
 ## Chapter 8
+### Affricate Consonants | Sounds
+- An affricate consonant sound starts as a plosive, then releases into a fricative.
+- There are two affricate consonants in spoken English: `tʃ` and `dʒ`
+
+> TODO examples `Chapter-8-8.1.mp3`
