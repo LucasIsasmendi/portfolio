@@ -40,13 +40,23 @@ https://beta.ionicframework.com/docs/navigation/angular
 https://www.youtube.com/watch?v=H20l9ofyR54
 https://devdactic.com/ionic-4-firebase-angularfire/
 
+### Ionic 4, Angular 7 and Cordova Tutorial: Build CRUD Mobile Apps
+https://www.djamware.com/post/5be52ce280aca72b942e31bc/ionic-4-angular-7-and-cordova-tutorial-build-crud-mobile-apps
 
-## Tutorials
+## TIPS
+### 
+
+## Tut Sites
 ### Ionic Academy
 https://ionicacademy.com
 
 #### How to Localise Your Ionic App with ngx-translate [v4]
 https://ionicacademy.com/localise-ionic-ngx-translate/
+
+#### How to Pass Data with Angular Router in Ionic [v4]
+https://ionicacademy.com/pass-data-angular-router-ionic-4/
+- use `NavigationExtras`
+
 
 https://ionicacademy.com/ionic-4-app-api-calls/
 https://ionicacademy.com/ionic-side-menu-with-sub-items/
@@ -100,6 +110,14 @@ Ionic 4 start theme experiencing the best of new features about this new and def
 https://ionicthemes.com/tutorials/about/the-complete-guide-to-progressive-web-apps-with-ionic4
 
 ## Firebase
+### How to upload data to Firebase Firestore Cloud Database
+https://medium.com/@impaachu/how-to-upload-data-to-firebase-firestore-cloud-database-63543d7b34c5
+
+### Building a CRUD Ionic application with Firestore
+https://javebratt.com/crud-ionic-firestore/
+- import { Observable } from 'rxjs';
+- 
+
 ### Setup Project
 https://www.freakyjolly.com/ionic-4-crud-operations-using-firebase-and-firestore-database-tutorial-in-ionic-4-with-angular-7/
 
@@ -107,6 +125,7 @@ https://www.freakyjolly.com/ionic-4-crud-operations-using-firebase-and-firestore
 https://ionicthemes.com/tutorials/about/building-a-ionic-firebase-app-step-by-step
 npm install @angular/fire firebase --save
 https://github.com/angular/angularfire2
+https://github.com/ionicthemes/ionic-firebase-starter-app
 
 
 
@@ -130,3 +149,13 @@ https://enappd.com/blog/firebase-with-ionic-4-overview/8/
 
 ## Firebase Native
 https://ionicframework.com/docs/native/firebase
+
+## Analytics
+
+### google Analytics
+https://www.freakyjolly.com/ionic-4-adding-google-analytics-in-ionic-4-application-using-cordova-and-ionic-native-plugin/
+
+## Search
+https://www.freecodecamp.org/news/how-to-build-your-first-ionic-4-app-with-api-calls-f6ea747dc17a/
+
+https://alligator.io/angular/reactive-forms-formarray-dynamic-fields/

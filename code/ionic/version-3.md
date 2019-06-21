@@ -20,6 +20,11 @@ https://coursetro.com/
 ### Ionic Tutorial: Building a complete mobile app with Ionic 3
 [tutorial](https://ionicthemes.com/tutorials/about/building-a-complete-mobile-app-with-ionic-3)
 
+Ionic Project Architecture
+Ionic App Navigation
+Improve the design of your Ionic app UX/UI
+Data Integration
+
 [sourcode](https://github.com/ionicthemes/building-a-complete-mobile-app-with-ionic-3)
 
 ### Create an Animated App Onboard with Ionic 3 & Angular 4
