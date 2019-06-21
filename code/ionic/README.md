@@ -25,6 +25,14 @@ https://ionicframework.com/docs/appflow/
 
 https://javebratt.com/ionic-firebase-tutorial-intro/
 
+#### TIPS: JSON data structure
+https://firebase.google.com/docs/database/rest/structure-data
+
+## DATA
+
+### NoSQL Data Modeling Techniques
+https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
+
 ### Lighthouse
 npm install -g lighthouse
 lighthouse URL-TO-TEST --view
