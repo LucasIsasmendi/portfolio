@@ -2,11 +2,15 @@
 > A Practical Course in British English Pronunciation Interactive E-book with Audio
 
 ## Index
-[Introduction](#introduction)
-[Chapter 1](#chapter-1)
-[Chapter 2](#chapter-2)
-[Chapter 3](#chapter-3)
-[Chapter 4](#chapter-4)
+[Introduction](#introduction)  
+[Chapter 1](#chapter-1)  
+[Chapter 2](#chapter-2)  
+[Chapter 3](#chapter-3)  
+[Chapter 4](#chapter-4)  
+[Chapter 5](#chapter-5)  
+[Chapter 6](#chapter-6)  
+[Chapter 7](#chapter-7)  
+[Chapter 8]  
 
 ## Introduction
 #### Consonant Types | Sound
@@ -350,3 +354,241 @@ Some words are stressed differently depending on their form.
 
 > DRILL / EXERCISE Practice: `Chapter-4-4.21.mp3`
 > conduct import export incense permit research progress object decrease contrast refund contract record present and `Chapter-4-4.22.mp3`
+
+## Chapter 5
+
+### Approximant Consonants | Sounds
+- An approximant is a vowel-like consonant.
+- The flow of air is never fully blocked in the production of approximants.
+- English contains three approximant sounds: r, j, w
+
+> TODO: Practice r [r] - j [j,u,i] - w [w,u] `Chapter-5-5.1.mp3`
+
+> DRILL: Practice `Chapter-5-5.2.mp3`
+
+### Lateral Approximants | Sounds
+Lateral approximants are created by releasing air past the sides of the tongue.
+- < l > before a vowel sound will be pronounced /l/ with the tongue tip touching the alveolar ridge. This is sometimes called ‘clear l’.
+- < l > after a vowel sound will be pronounced /ɫ/ with the tongue also raised at the back of the mouth. This is sometimes called ‘dark l’.
+
+> TODO: Practice `Chapter-5-5.3.mp3` l ɫ
+
+> Drill: Practice `Chapter-5-5.4.mp3`
+
+### Weak ə vs ɪ | Sound Comparison
+- The most common weak vowels of English are /ə/ and /ɪ/ .
+- These weak sounds are spelt using < a, e, i, o & u > in written English.
+- Weak vowels can appear at the beginning, middle and end of words.
+
+> DRILL Practice `Chapter-5-5.6.mp3` Words with /ə/ and with /ɪ/
+
+ə: accent, thomas, fossil, [x]manage, china, evil, madness, persuade, council, [x]return, [x]harvest, Japan, [x]demand, danger, garden, [x]believe, England, parade, spoken, [x]surface
+ɪ: erase, kitchen,  explain, orange, purchase, kisses, bandage, misses, English, lentil, wicked, defence, turning, [x]pencil
+
+### Weak i vs ɪ | Sound Comparison
+**Weak /i/**
+- The long vowel /i:/ also appears in spoken English as a short, weak vowel /i/.
+- It appears at the end of words spelt < y > (finally, only, early), and in pronouns ending < e > (me, she, we).
+
+**Weak /ɪ/**
+- The short vowel / ɪ / also appears in spoken English as a weak form.
+- As a weak vowel it never appears at the end of a syllable: wanted, incredible, managing.
+- In function words it is always spelt < i >: him, with, this
+
+> TODO: I can not notice the difference!!
+
+### < oo > | Spelling & Sound
+- The spelling < oo > is most commonly pronounced /u:/ .
+- Some words spelt with < oo > are pronounced /ʊ/ or /ʌ/
+- The spelling < oor > is pronounced /ɔ:/
+- The word ‘brooch’ is pronounced /brəʊtʃ/
+
+ʻlookʼ /lʊk/, ʻfloodʼ /flʌd/, ʻpoorʼ /pɔ:/, ʻmoonʼ /mu:n/.
+
+> EXERCISE 33 oo works -> PRACTICE
+/ʊ/  = stood, wood, book, took, [u:]roof, good, [u:]zoom, look, [u:]zoo, [u:]tooth, hook, 
+/u:/ = troop, fool, food, soon, [ʊ]wool, cool, [ʊ]foot, smooth, balloon, shampoo, room 
+/ʌ/  = blood, flood, [ʊ]rook, [ʊ]hood, 
+/ɔ:/ = [ʊ]shook, moor, [ʊ]brook, [ʊ]cook, poor, floor, door, 
+
+> EXERCISE Navigation -> do it after practice oo words
+
+### Vowel + Vowel Joining | Structure
+- When one word ends with a vowel sound and the next word begins with a vowel sound, we will normally join the words in speech.
+- In order to join, we will add an approximant sound: /r/ /j/ or /w/.
+- The joining approximant is often shown in the spelling of the first word.
+
+1. Joining with `/w/`
+If the first word ends in a rounded vowel (u, əʊ, aʊ), we join with /w/.
+`who_are you`, `go_away`, `now_and then`
+
+2. Joining with `/j/`
+If the first word ends in a high vowel (i, eɪ, aɪ, ɔɪ) we join with /j/.
+`we_understand`, `pay_up`,  `try_it`
+
+3. Joining with `/r/`
+If the first word ends in a neutral vowel (ə, ɜ:, ɔ:, eə, ɪə) we join with /r/.
+`brother_and sister`, `war_and peace`, `law_and order`.
+Words spelt with <aw> such as ‘law’, ‘saw’ etc. join with /r/.
+
+> DRILL Exercise: practice `Chapter-5-5.16.mp3`
+
+> EXERCISE examples `Chapter-5-5.17.mp3`
+
+### Question Tags | Intonation
+- A question tag is added to a statement to make it into a question.
+- Most question tags are opposite to their statement (negative/positive or positive/negative) and use the following intonation:
+  - Falling intonation, meaning “I know what I am saying is correct”.
+  - Rising intonation, meaning “I am not sure, please answer”.
+- Question tags are common in British English but rare in American English.
+
+> DRILL Exercise ↘falling intonation (Chapter-5-5.20.mp3) - ↗rising intonation (Chapter-5-5.21.mp3)
+
+> EXERCISE : ↘falling intonation to making statements, ↗rising intonation to receive a genuine
+answer or make a question
+
+### ‘have’ | Postscript
+The pronunciation of ‘have’ changes depending on its usage as follows:
+- content | stressed function: `/hæv/` (I have red hair | I have finished).
+- function word: `/həv/`(Have the police arrived?) `/əv/`(What have you done?) `/v/`(Iʼve finished the biscuits)
+- modal obligations: `/hæf/` (We have to go now)
+
+> Listen `Chapter-5-5.25.mp3`
+
+## Chapter 6
+### Diphthong Vowels | Sounds
+- A diphthong is a long vowel that moves from one mouth position to another.
+- The first position in a diphthong is stronger than the second.
+
+> TODO: practice `Chapter-6-6.2.mp3`
+
+> TODO: practice DRIL `Chapter-6-6.3.mp3`
+
+### Diphthongs | Sound Comparison
+
+> Exercise: REDO
+
+### < o > | Spelling & Sound
+- The spelling `o` commonly produces `əʊ` `ʌ` `ɒ` and `u:` in pronunciation.
+- Exceptions are ‘women’ /wɪmɪn/, ‘woman’ /wʊmən/ & ‘wolf’ /wʊlf/
+- The spelling `ow` produces `əʊ` & `aʊ`.
+- The spelling `or` usually produces `ɔ:`.
+
+> Exercise `Chapter-6-6.6.mp3`
+`ɒ`: long, /əʊ/comb, /əʊ/bold, cod, /ʌ/tongue, /ʌ/front, log, shot, /ʌ/shove, dock, /əʊ/low
+`ʌ`: month, [ɒ]cross, some, love, [aʊ]brown
+`əʊ`: alone,so, cold
+`u:`: move, do, lose, tomb, prove, who
+`aʊ`: how, down, now, cow, allow
+
+> Exercise
+gone /gɒn/ , done /dʌn/, owl /aʊl/, so /soʊ-əʊ/, son /sʌn/, wolf /wʊlf/, women /ˈwɪm ɪn/, brown /braʊn/, nothing /ˈnʌθ ɪŋ/, grown /groʊn-grəʊn/, not /nɒt/, do /du:/, chop /tʃɒp/, lose /lu:z/, port /pɔ:rt/, rope /roʊp/, show /ʃoʊ/, love /lʌv/
+
+x: boss /bɒs/, none /nʌn/, born /bɔrn/, drown /draʊn/
+
+### Compounds | Structure
+catfish deadline figurehead homesick lawsuit waterfall
+- A compound is formed of two words.
+- Compounds can be written as one word, two words separated by a hyphen, or
+two separate words.
+- Most compounds place stress only on the first word.
+
+> Drill: cobweb, cupboard, doorway, eyelash, gateway, goldfish, grapefruit, windowsill, seashore, shellfish
+
+> Exercise: ironing board, coat hanger, rocking chair, laptop, teapot, bookshelf, candlestick holder, dining table, microwave (oven), lampshade, flower pot.
+
+### High Fall | Intonation
+- A falling pattern can start from a high tone (high-fall) or a mid tone (mid-fall).
+- The meaning changes radically when the different tones are used.
+- A high-fall shows enthusiasm, emotion and involvement in the speaker.
+- A mid-fall shows detachment, lack of interest and even boredom.
+- The high-fall is very common in spoken English - see drill below.
+
+> DRILL: statemtns & new information, information questions, question tags, exclamations
+
+### ‘do’ | Postscript
+The verb ‘do’ has the following pronunciations in spoken English:
+- The negative form (don’t) is pronounced `dəʊnt` 
+- The weak function word (do) is pronounced `də`
+- The stressed or content word (do) is pronounced `du:`
+- The gerund form (doing) is pronounced `du:wɪŋ` 
+- The weak function words ‘do you’ can be pronounced `dʒu`
+
+> EXERCISE: TODO listen the pronunciations
+
+## Chapter 7
+
+### Nasal Consonants | Sounds
+- A nasal consonant is a voiced sound made by air escaping through the nose.
+- There are three nasal consonants in spoken English: m, n, ŋ (nk, ng)
+
+> TODO: listen `Chapter-7-7.1.mp3`
+
+> DRILL: phrases examples
+
+### Nasal Assimilations | Sound
+- In connected speech, the sound /n/ often assimilates to /m/ or /ŋ/.
+- The assimilation can occur if the following consonant is bilabial or velar:
+  - n + bilabial cons (p, b, m) = m (Istanbul, in-between, in my, than Peter)
+  - n + velar consonant (c, k, g) = ŋ (England, increase, sun cream, in Greece)
+
+### /ŋ/ vs /ŋg/ | Sound Comparison
+#### `/ŋ/`
+- < ng > is pronounced /ŋ/ without a following /g/ sound at the end of words. EXAMPLES: taxing, working, wing, bang
+- If we add an ending to a word ending /ŋ/ it will not change unless it is a comparative or superlative. EXAMPLES: singer, wrongly, movingly
+
+#### `/ŋg/`
+- Words that contain < ng > followed by more letters that have not been added as an ending will be pronounced /ŋg/. EXAMPLES: hunger, England, Hungary, tango
+- Adjectives ending < ng > made into superlatives or comparatives (-est/er) will be pronounced with /ŋg/. EXAMPLES: stronger, longer
+
+> TODO: EXERCISE `Chapter-7-7.10.mp3`
+
+### < a > | Spelling & Sound
+- The spelling < a > can produce 7 strong vowel sounds: /ɒ/ wanted, /ɔ:/ raw, /eɪ/ Dave & waiter, /ɑ:/ asked, /eə/ rare, /æ/ lamb.
+- < a > can also produce 2 weak vowel sounds: /ɪ/ village,  /ə/ tuna,
+
+> DRILL: `Chapter-7-7.12.mp3` [!]TODO
+
+> Pending Exercise
+
+### Name Compounds | Structure
+- Names of people and places carry double stress ( x X )
+EXAMPLES: John Smith, Church Road, Blue Peter, Count Dracula
+- The only exception to this rule are names with ‘Street’, which always take first element stress. ( X . )
+EXAMPLES: Church Street, Wall Street, Beale Street, High Street.
+
+### Material & Ingredient Compounds | Structure
+- When a material or ingredient is the first word of a compound, it normally produces double stress (x X) as follows: cheese lettuce, tuna quiche, sandwich salad, wooden floor, metal lock, leather shoes
+- 3 exceptions to this rule are when the second word is ‘cake’, ‘juice’ or ‘drink’, these produce first element stress (X .).
+- orange juice, carrot cake,  banana drink
+
+### Implicational Fall-rise | Intonation
+- Using fall-rise intonation on a statement produces an implication - similar to saying “but”.
+- This use of the fall-rise is often used to subtly criticise or show doubt.
+- A falling pattern on a statement gives it a direct, non-implied meaning.
+
+> Exercise
+
+### ‘are’ | Postscript
+The pronunciation of ‘are’ depends on its stress, function and position:
+- Weak Form: `/ə/` (`/ər/ `if followed by a vowel)
+  What are you doing here?
+  Linda and Josh are visiting at the weekend! Why are we even talking about this?
+  I think we’re interested in the blue one.
+- Strong Form: `/ɑ:/` (`/ɑ:r/` if followed by a vowel)
+  Who are you?
+  So what if we are?
+  I don’t know if we are happy together. Oh dear, we are in trouble then.
+- Negative Form: `/ɑ:nt/`
+  Why aren’t you wearing a suit? There aren’t any biscuits left!
+  We aren’t at all pleased.
+  But you’re coming along, aren’t you?
+
+> Examples `Chapter-7-7.24.mp3`
+
+## Chapter 8
+### Affricate Consonants | Sounds
+- An affricate consonant sound starts as a plosive, then releases into a fricative.
+- There are two affricate consonants in spoken English: `tʃ` and `dʒ`
+
+> TODO examples `Chapter-8-8.1.mp3`
