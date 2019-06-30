@@ -3,8 +3,9 @@ Getting Started: Agile Meets Design Thinking
 
 ## Welcome to the course!
 ### Welcome to the Agile Specialization
+
 <p align="center">
-  <img src="/mix/specialization/agile-development/1-getting-started/img/ProcessDiagramForward.svg">
+  <img src="./img/w1-ProcessDiagramForward.svg">
 </p>
 
 In course 1, we'll show you how to humanize your customer or your user with personas and learn what's on their a list by using problem scenarios.
