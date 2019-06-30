@@ -70,7 +70,6 @@
 
 ### Input
 
-* [Books](jsdev/books/readme.md)
 * [Courses](jsdev/courses/readme.md)
 * [Readings](jsdev/readings/readme.md)
 * [Research](jsdev/research/readme.md)
@@ -131,7 +130,9 @@
 
 [Main index](startup/readme.md)
 
-* [Books](startup/books/readme.md)
+## Books
+
+[Book index](./books.md)
 
 ## Contact
 
