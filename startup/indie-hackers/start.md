@@ -50,3 +50,36 @@ One of the most motivating things we can experience is evidence of our progress.
 
 The trick is to realize that counting, measuring, and tracking is not about the result. Measure to discover, to find out, to understand. Measure to see if you are showing up. Measure to see if you're actually spending time on the things that are important to you.
 For strategies see link
+
+### How to Get and Stay Motivated
+#### Motivation: What It Is and How It Works
+Motivation is often the result of action, not the cause of it. Objects in motion tend to stay in motion. Once a task has begun, it is easier to continue moving it forward.
+
+#### How to Get Motivated and Take Action
+- Schedule Your Motivation: If you waste resources trying to decide when or where to work, you’ll impede your capacity to do the work. Professionals set a schedule and stick to it. Amateurs wait until they feel inspired or motivated.
+- How to Get Motivated (Even When You Don't Feel Like It): build rituals.
+- How to Make Motivation a Habit: Reminder-rutine-reward
+
+#### How to Stay Motivated for the Long-Run
+- Use Goldilocks Rule: humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right.
+- How to Reach Peak Motivation:  you not only need to work on challenges at the right degree of difficulty, but also measure your immediate progress. 
+- What to Do When Motivation Fades: Consider every thought you have as a suggestion, not an order. Discomfort Is Temporary. You Will Never Regret Good Work Once It is Done
+
+Sometimes, the simple act of showing up and having the courage to do the work, even in an average manner, is a victory worth celebrating.
+Life is a constant balance between giving into the ease of distraction or overcoming the pain of discipline.
+### Why a Lifestyle Business Beats a Startup
+[link](https://www.indiehackers.com/@znq/why-a-lifestyle-business-beats-a-startup-44c7c6fafe)  
+
+Many people dream of doing what they enjoy every day, and making a good living from it. But only a small percentage believe this is actually possible. After all, how can you have fun and work profitably at the same time, right?
+
+The secret lies in the type of business you create. Instead of launching a startup and growing a major corporation, a lifestyle business will give you the opportunity to optimize your life for happiness.
+
+#### Benefits of a Lifestyle Business
+- Startups require a lot of money and an intense time investment to succeed and maybe to find that the business isn’t for you. In Lifestyle Business you remain in full control
+- Running a lifestyle business certainly doesn’t mean you’re going to end up being poor; it’s all about priorities.
+- At Mobile Jazz we focus on small, but continuous success stories.
+- When you build a lifestyle business, your only goal will be to ensure the business is profitable enough to sustain the salaries of yourself and your team. You don't worry about growth and scale to world domination.
+- You Don’t Have to Deal With Bureaucracy
+- You’ve Got The Freedom to Change Your Mind at Any Time
+- To make any startup succeed, you need to be totally focused on your business objectives towards the goal of making money and ultimately returning it to your investors.
+
