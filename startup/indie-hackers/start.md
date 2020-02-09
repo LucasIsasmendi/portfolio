@@ -3,7 +3,7 @@
 
 **Index**  
 [1 Commit to a goal](#1-commit-to-a-goal)  
-2 Find a partner
+[2 Find a partner](#2-find-a-partner)  
 3 Brainstorm an idea
 4 Create your MVP
 5 Find your first customers
@@ -83,3 +83,41 @@ The secret lies in the type of business you create. Instead of launching a start
 - You’ve Got The Freedom to Change Your Mind at Any Time
 - To make any startup succeed, you need to be totally focused on your business objectives towards the goal of making money and ultimately returning it to your investors.
 
+
+## 2 Find a partner
+### Benefits of Working Together
+
+### On Being a Solo Founder
+[link](https://baremetrics.com/blog/startup-solo-founder)  
+
+#### Cons
+- You’ll get tired of making so many decisions
+- Every move comes back to you
+- Hard to brainstorm big ideas
+- Seeing different perspectives is difficult
+- It’s just lonely: spend so much time in your own head, overthinking, overanalyzing 
+- It’s very easy to make bad decisions
+
+#### Pros
+- You can move faster
+- There’s less drama
+- Clearer direction
+
+#### About co-founders
+When you’ve got a bad mix of co-founders, any potential benefits get thrown right out the window. Before start:
+- Do a test project
+- Have a clear hierarchy.
+- Don’t add a co-founder after start
+
+#### Tips for running a company solo
+- Have a community of other founders
+- Involve your team in more decisions: provide direction, vision and decision power
+- Get out of the echo chamber
+- Prioritize mental & physical health
+
+#### From Comments
+- recruit mentors
+- isolation float chambers
+
+### Dos and Don’ts of Partnering Up
+### Finding a Technical Co-Founder
