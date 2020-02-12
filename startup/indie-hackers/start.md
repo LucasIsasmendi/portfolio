@@ -12,7 +12,7 @@
 
 **[3 Brainstorm an idea](#3-brainstorm-an-idea)**
 - [Successful Business Ideas](#successful-business-ideas)
-- Do a Tiny Product First
+- [Do a Tiny Product First](#do-a-tiny-product-first)
 - How to Find an Idea
 - Start By Finding an Audience 
 
@@ -188,5 +188,25 @@ You may have a phenomenal product. But it means nothing if you can’t gain cust
 you don’t need to be a creative genius. You simply need to be curious and observe when problems crop up. When you do find an idea, make sure it solves a pressing problem and think carefully about whether it’s a good fit for you.
 
 ## Do a Tiny Product First
+[post link](https://stackingthebricks.com/when-should-you-start-a-saas/)  
+
+DON’T START WITH A SAAS. Do a tiny product first. Something that doesn’t require server maintenance and security updates. A product that won’t ruin anyone’s life if you take days off.
+
+### Software Warnings
+- takes a long time to build and ship, you can run out of energy, time, motivation or money
+- will demand skills you don’t have (security, backups, credit card processsing)
+- you’ll be trying to do all that while learning to market, persuade, sell, and provide support
+- is slow to sell
+- complex business to run
+- more expensive business to start
+- more time consuming business to run
+
+To create really great software is a task of epic proportions. It solves a horribly painful problem for the customer. The tricky part isn’t the technical stuff… it’s the customer stuff. 
+
+Switching apps is risky for the customer. Your Little Twist just isn’t worth it. That’s why so many SaaS apps fail: They’re just not worth it.
+That’s why you should start with an easy win.
+
+Creating and shipping and selling a tiny product will help you gain the skills you need to successfully design and build software. It’ll build your reputation and trust with your audience. It’ll bring customers to you, to talk to you, who will reveal other problems they have.
+
 ## How to Find an Idea
 ## Start By Finding an Audience 
