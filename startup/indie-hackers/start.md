@@ -12,9 +12,9 @@
 
 **[3 Brainstorm an idea](#3-brainstorm-an-idea)**
 - [Successful Business Ideas](#successful-business-ideas)
+- [How to Find an Idea](#how-to-find-an-idea)
 - [Do a Tiny Product First](#do-a-tiny-product-first)
-- How to Find an Idea
-- Start By Finding an Audience 
+- [Start By Finding an Audience](#start-by-finding-an-audience)
 
 4 Create your MVP
 
@@ -139,7 +139,9 @@ When you’ve got a bad mix of co-founders, any potential benefits get thrown ri
 
 # 3 Brainstorm an idea
 ## Successful Business Ideas
-[How to Come Up with Profitable Online Business Ideas](https://www.indiehackers.com/post/how-to-come-up-with-profitable-online-business-ideas-0ae2514808)  
+[How to Come Up with Profitable Online Business Ideas](https://www.indiehackers.com/post/how-to-come-up-with-profitable-online-business-ideas-0ae2514808)
+
+## How to Find an Idea  
 [How To Come Up With Good Business Ideas](https://www.indiehackers.com/article/how-to-come-up-with-good-business-ideas-4b4bfc0980)
 
 ### “Notice” ideas, don’t “think some up”
@@ -208,5 +210,39 @@ That’s why you should start with an easy win.
 
 Creating and shipping and selling a tiny product will help you gain the skills you need to successfully design and build software. It’ll build your reputation and trust with your audience. It’ll bring customers to you, to talk to you, who will reveal other problems they have.
 
-## How to Find an Idea
-## Start By Finding an Audience 
+
+## Start By Finding an Audience
+[post link](https://thebootstrappedfounder.com/finding-a-market-to-build-a-saas/)  
+A bootstrapped business works best when it starts out in a niche. Most companies will do really well by just staying there. That initial audience is one of the most important things to carefully select when you start a business.
+
+### Have we found a painful problem?
+Not all solutions will have an addressable market. People are willing to pay for some things, and they won’t even consider spending money on others.
+They will spend money on their most critical problem. The closer you are to that one core issue customers are having with their job or activity, the more likely you are to capture a large part of that market with your solution.
+
+### Is the audience large enough?
+Your audience will have to be big enough to sustain your business. It will likely also have to support competitors, as any successful business will attract competition.
+It boils down to doing the research and asking subject matter experts in the field about the current size and the growth trajectory. 
+
+### Is the audience small enough?
+At least, in the beginning, you should have a clearly defined niche. 
+The smaller your audience, the more it has built-in network effects.
+
+### Can they pay? Will they pay?
+In the currently underserved market there won’t be much competition, but people are not used to paying for solutions. 
+
+If you have found a painful problem, a niche audience that is both small and big enough for your business, and made sure they are willing to pay for your solution, you have found your audience. You can go and build out your product and marketing strategies for that market now.
+
+If your market has adjacent product opportunities, that will give you a chance to think about future products you can sell. Knowing if you need to focus more on sales or on marketing is very important. 
+
+### What are good markets for bootstrapped SaaS?
+Small businesses and freelancers are great audiences for a bootstrapped SaaS
+Underserved markets are a great place to start a company.
+
+### What are bad markets for bootstrapped SaaS?
+Enterprise markets. Monopoly markets with just a few big players will severely limit your options. 
+
+### When markets turn
+Good markets turn to bad markets all of the time by competitors saturation, technological changes, deterioration.
+Opportunities often happens in the wake of a technological or structural change. The internet made the online education market explode.
+
+Whatever market you choose for your business, make sure you select it with confidence and the numbers to back it up. Making the correct choice is vital to the success of your business. Choose wisely.
