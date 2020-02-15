@@ -246,3 +246,13 @@ Good markets turn to bad markets all of the time by competitors saturation, tech
 Opportunities often happens in the wake of a technological or structural change. The internet made the online education market explode.
 
 Whatever market you choose for your business, make sure you select it with confidence and the numbers to back it up. Making the correct choice is vital to the success of your business. Choose wisely.
+
+# 4 Create your MVP
+## Going from Idea to Product
+[source link](https://tylertringas.com/shipping-a-saas-minimum-viable-product/)  
+
+[my summary](../micro-saas-ebook.md#chapter-4-from-idea-to-minimum-viable-product)
+
+## Examples of Building Products
+## Coding Products Quickly
+## Learn to Build Without Code
