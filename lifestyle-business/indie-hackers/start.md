@@ -1,5 +1,5 @@
 # Indie Hackers -> Start
-[link](https://www.indiehackers.com/start)
+[source link](https://www.indiehackers.com/start)
 
 **[1 Commit to a goal](#1-commit-to-a-goal)**  
 - [Questions to Ask Yourself Before Starting](#questions-to-ask-yourself-before-starting)
@@ -25,7 +25,7 @@
 # 1 Commit to a goal
 
 ## Questions to Ask Yourself Before Starting
-[link](https://www.indiehackers.com/post/questions-to-ask-yourself-before-starting-9813f617b3)  
+[source link](https://www.indiehackers.com/post/questions-to-ask-yourself-before-starting-9813f617b3)  
 The biggest tragedy for any founder isn't failure. It's becoming trapped inside a business that you don't actually like.
 
 ### What do you want for your life?
@@ -36,7 +36,7 @@ This should be your first step as a founder. Before you come up with an idea, be
 
 
 ## Goal Setting: A Scientific Guide to Setting and Achieving Goals
-[link](https://jamesclear.com/goal-setting)  
+[source link](https://jamesclear.com/goal-setting)  
 
 ### What is Goal Setting?
 Rather than considering what kind of success we want, we should ask, “What kind of pain do I want?”. The real challenge is not determining if you want the result, but if you are willing to accept the sacrifices required to achieve your goal.
@@ -82,7 +82,7 @@ Sometimes, the simple act of showing up and having the courage to do the work, e
 Life is a constant balance between giving into the ease of distraction or overcoming the pain of discipline.
 
 ## Why a Lifestyle Business Beats a Startup
-[link](https://www.indiehackers.com/@znq/why-a-lifestyle-business-beats-a-startup-44c7c6fafe)  
+[source link](https://www.indiehackers.com/@znq/why-a-lifestyle-business-beats-a-startup-44c7c6fafe)  
 
 Many people dream of doing what they enjoy every day, and making a good living from it. But only a small percentage believe this is actually possible. After all, how can you have fun and work profitably at the same time, right?
 
@@ -103,7 +103,7 @@ The secret lies in the type of business you create. Instead of launching a start
 
 # 2 Find a partner
 ## On Being a Solo Founder
-[link](https://baremetrics.com/blog/startup-solo-founder)  
+[source link](https://baremetrics.com/blog/startup-solo-founder)  
 
 ### Cons
 - You’ll get tired of making so many decisions

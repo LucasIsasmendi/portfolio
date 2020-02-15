@@ -10,7 +10,7 @@
 
 
 ## Building a Side Project Without Quitting Your Day Job
-[link](https://www.indiehackers.com/article/f7697df2d7)  
+[source link](https://www.indiehackers.com/article/f7697df2d7)  
 Side Projects: 
 - Grow, Improve, and Surprise
 - Increase Creativity
@@ -49,7 +49,7 @@ But either way, don’t worry too much.
 After all, it’s only a side project.
 
 ## How I bootstrapped my side project into a $20k/mo lifestyle business
-[link](https://www.indiehackers.com/interview/how-i-bootstrapped-my-side-project-into-a-20k-mo-lifestyle-business-063525ef84)  
+[source link](https://www.indiehackers.com/interview/how-i-bootstrapped-my-side-project-into-a-20k-mo-lifestyle-business-063525ef84)  
 
 750 Words is a site that I built on a whim in 2009, and it's still going strong.
 
