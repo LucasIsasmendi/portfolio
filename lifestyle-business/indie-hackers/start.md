@@ -1,22 +1,24 @@
 # Indie Hackers -> Start
 [source link](https://www.indiehackers.com/start)
 
-**[1 Commit to a goal](#1-commit-to-a-goal)**  
+[**1 Commit to a goal**](#1-commit-to-a-goal)  
 - [Questions to Ask Yourself Before Starting](#questions-to-ask-yourself-before-starting)
 - [Goal Setting: A Scientific Guide to Setting and Achieving Goals](#goal-setting-a-scientific-guide-to-setting-and-achieving-goals)
 - [How to Get and Stay Motivated](#how-to-get-and-stay-motivated)
 - [Why a Lifestyle Business Beats a Startup](#why-a-lifestyle-business-beats-a-startup)
 
-**[2 Find a partner](#2-find-a-partner)**  
+[**2 Find a partner**](#2-find-a-partner) 
 - [On Being a Solo Founder](#on-being-a-solo-founder)
 
-**[3 Brainstorm an idea](#3-brainstorm-an-idea)**
+[**3 Brainstorm an idea**](#3-brainstorm-an-idea)
 - [Successful Business Ideas](#successful-business-ideas)
 - [How to Find an Idea](#how-to-find-an-idea)
 - [Do a Tiny Product First](#do-a-tiny-product-first)
 - [Start By Finding an Audience](#start-by-finding-an-audience)
 
-4 Create your MVP
+[**4 Create your MVP**](#4-create-your-mvp)
+- [Going from Idea to Product](#going-from-idea-to-product)
+- [Examples of Building Products](#examples-of-building-products)
 
 5 Find your first customers
 
@@ -254,5 +256,21 @@ Whatever market you choose for your business, make sure you select it with confi
 [my summary](../micro-saas-ebook.md#chapter-4-from-idea-to-minimum-viable-product)
 
 ## Examples of Building Products
+[source link: What tech stacks are indie hackers using for their products?](https://www.indiehackers.com/post/what-tech-stacks-are-indie-hackers-using-for-their-products-2ab076c62f)  
+
+### newCo
+- Ben Tossell, founder of 🇬🇧 newCo ($24,000/mo)
+- Screencasts for Building Products without Code: Webflow, Typeform, Stripe, Airtable, Zapier
+
+### Closet Assistant
+- Jordan O'Connor, founder of 🇺🇸 Closet Assistant ($16,000/mo)
+- Poshmark Automation Tool
+  - App/Website Hosting: Github Pages
+  - SSL: Cloudflare
+  - Back end: Webtask
+  - Authentication/Database: Firebase
+  - Payments: Stripe
+  - Analytics: Google Analytics
+
 ## Coding Products Quickly
 ## Learn to Build Without Code
