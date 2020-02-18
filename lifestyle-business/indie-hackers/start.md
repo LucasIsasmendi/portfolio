@@ -19,6 +19,7 @@
 [**4 Create your MVP**](#4-create-your-mvp)
 - [Going from Idea to Product](#going-from-idea-to-product)
 - [Examples of Building Products](#examples-of-building-products)
+- [Coding Products Quickly](#coding-products-quickly)
 
 5 Find your first customers
 
@@ -273,4 +274,12 @@ Whatever market you choose for your business, make sure you select it with confi
   - Analytics: Google Analytics
 
 ## Coding Products Quickly
+[source link: How I build my minimum viable products](https://levels.io/how-i-build-my-minimum-viable-products/)  
+
+Since I’ve launched my 12 startups in 12 months challenge, the #1 question I get asked is about my work flow and how I can ship so fast.
+
+- Solve your own problems
+- My development philosophy: Programming is not my passion. Making stuff is my passion. Sites minimal and basic
+- tech stack: Linode hosting, ubuntu server, nginx, node.js, scss, NameCheap for domain, TRello for todo-list (week-done, now, today, tomorrow, week, month, year)
+
 ## Learn to Build Without Code
