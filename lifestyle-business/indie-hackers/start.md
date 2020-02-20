@@ -21,7 +21,7 @@
 - [Examples of Building Products](#examples-of-building-products)
 - [Coding Products Quickly](#coding-products-quickly)
 
-5 Find your first customers
+[**5 Find your first customers**](#5-find-your-first-customers)
 
 6 Build in public
 
@@ -283,3 +283,19 @@ Since I’ve launched my 12 startups in 12 months challenge, the #1 question I g
 - tech stack: Linode hosting, ubuntu server, nginx, node.js, scss, NameCheap for domain, TRello for todo-list (week-done, now, today, tomorrow, week, month, year)
 
 ## Learn to Build Without Code
+https://www.makerpad.co/
+Build tools & automate at work without code
+
+# 5 Find your first customers
+
+## Ultimate Guide for Marketing
+[link source: Growth Marketing - Julian Shapiro](https://www.julian.com/guide/growth/intro)  
+
+[my resume](./../growth-marketing.md)
+
+## Do Things That Don't Scale
+## Case Studies for Finding Users
+## A Good Product Isn't Enough
+## Skip the Big Launch
+## How to Grow an Audience
+## Your First Ten Customers
