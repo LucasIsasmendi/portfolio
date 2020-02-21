@@ -22,6 +22,8 @@
 - [Coding Products Quickly](#coding-products-quickly)
 
 [**5 Find your first customers**](#5-find-your-first-customers)
+- [Ultimate Guide for Marketing](#ultimate-guide-for-marketing)
+- [Do Things That Don't Scale](#do-things-that-dont-scale)
 
 6 Build in public
 
@@ -294,6 +296,49 @@ Build tools & automate at work without code
 [my resume](./../growth-marketing.md)
 
 ## Do Things That Don't Scale
+[link source](http://paulgraham.com/ds.html)  
+startups take off because the founders make them take off.
+
+### Recruit
+The most common unscalable thing founders have to do at the start is to recruit users manually.
+There are two reasons founders resist going out and recruiting users individually. One is a combination of shyness and laziness (CEO should spend a lot of time on sales and marketing). 
+The other reason founders ignore is the power of compound growth. We encourage every startup to measure their progress by weekly growth rate. If you have 100 users, you need to get 10 more next week to grow 10% a week (after 2 years is 2 millon users).
+
+### Fragile
+Airbnb was so fragile that about 30 days of going out and engaging in person with users made the difference between success and failure. The big danger is that you'll dismiss your startup yourself. Even Bill Gates made that mistake. He returned to Harvard for the fall semester after starting Microsoft. The optimal path to dominating a big market is believe and do it.
+
+How do you find users to recruit manually? If you build something to solve your own problems, then you only have to find your peers, which is usually straightforward. 
+
+### Delight
+You should take extraordinary measures not just to acquire users, but also to make them happy. Build something usefull. Don't worry about scalability. By being small you can provide a level of service no big company can.
+How far you could go to delight your users?
+
+### Experience
+Your attention to users should be insanely great. It's not the product that should be insanely great, but the experience of being your user. The product is just one component of that.
+Perfectionism is often an excuse for procrastination, and in any case your initial model of users is always inaccurate. The feedback you get from engaging directly with your earliest users will be the best you ever get.
+
+### Fire
+Sometimes the right unscalable trick is to focus on a deliberately narrow market. It's like keeping a fire contained at first to get it really hot before adding more logs. It's always worth asking if there's a subset of the market in which you can get a critical mass of users quickly
+
+### Consult
+Sometimes we advise founders of B2B startups to take over-engagement to an extreme, and to pick a single user and act as if they were consultants building something just for that one user.
+Another consulting-like technique for recruiting initially lukewarm users is to use your software yourselves on their behalf.
+
+### Manual
+There's a more extreme variant where you don't just use your software, but are your software. When you only have a small number of users, you can sometimes get away with doing by hand things that you plan to automate later.
+
+### Big
+I should mention one sort of initial tactic that usually doesn't work: the Big Launch. So why do founders think launches matter? A combination of solipsism and laziness. They think what they're building is so great that everyone who hears about it will immediately sign up. But even if what you're building really is great, getting users will always be a gradual process — partly because great things are usually also novel, but mainly because users have other things to think about.
+
+Partnerships too usually don't work. They don't work for startups in general, but they especially don't work as a way to get growth started.
+
+> It's not enough just to do something extraordinary initially. You have to make an extraordinary effort initially. 
+
+### Vector
+Startup is a vector of pairs of what you're going to build, plus the unscalable thing(s) you're going to do initially to get the company going. Recruit users manually and give them an overwhelmingly good experience.
+In the best case, both components of the vector contribute to your company's DNA: the unscalable things you have to do to get started are not merely a necessary evil, but change the company permanently for the better. 
+And most importantly, if you have to work hard to delight users when you only have a handful of them, you'll keep doing it when you have a lot.
+
 ## Case Studies for Finding Users
 ## A Good Product Isn't Enough
 ## Skip the Big Launch
