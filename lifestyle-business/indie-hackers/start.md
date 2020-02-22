@@ -24,6 +24,7 @@
 [**5 Find your first customers**](#5-find-your-first-customers)
 - [Ultimate Guide for Marketing](#ultimate-guide-for-marketing)
 - [Do Things That Don't Scale](#do-things-that-dont-scale)
+- [Case Studies for Finding Users](#case-studies-for-finding-users)
 
 6 Build in public
 
@@ -340,6 +341,48 @@ In the best case, both components of the vector contribute to your company's DNA
 And most importantly, if you have to work hard to delight users when you only have a handful of them, you'll keep doing it when you have a lot.
 
 ## Case Studies for Finding Users
+[link source: How to Find Your Earliest Users](https://www.indiehackers.com/article/how-to-find-your-earliest-users-5df383c1ad)  
+
+Looking to find users for your product? Learn by example from dozens of entrepreneurs who share how they drove traffic to their websites and began to build an audience.
+
+### Photo-to-Painting Service
+Chris Chen, founder of Instapainting($32k/mo)
+- SEO is one of the largest sources of organic traffic that I can actually control. 
+- continuing to put effort and money into press (from small blogs to large publications).
+
+### WordPress eCommerce Plugins
+Pippin Williamson,founder of Sandhills Development, LLC($245k/mo)
+Early on, my customers came from two primary sources:
+- The large existing audience of CodeCanyon.net, the marketplace that I was publishing my products on.
+- A naturally grown audience I was building through my frequent writing.
+
+### SoundCloud Multi-Channel Network and Music Distributor
+Jeff Ponchick,founder of Repost Network($500k/mo)
+- The first six months cold email, Now it's all word of mouth, we have virtually no sales team.
+- Use company name linked to SEO based on special word in SoundCloud: repost (is like a retweet on twitter)
+
+### Simple Wiki for Team Knowledge Sharing
+Nelson Joyce,co-founder of Tettra($61k/mo)
+- Blog post
+- betalist, product hunt
+- SEO keywords. All we did was put the term "Slack Wiki" in our website title tags and headers, and that was good enough to rank for a new term.
+
+### Headless Browser Service
+Joel Griffith,founder of browserless($13.4k/mo)
+- Answering question in stackoverflow and github
+- you just need to know the problem well and where to find the frustrated users.
+
+### Premium Web Design Services
+Robin Vander Heyden,founder of ManyPixels($55k/mo)
+- messages in facebook groups
+
+### Tool for Measuring the Accuracy of Watches
+Marc Montagne,creator of Toolwatch.io($4k/mo)
+- read traction by Gabriel Weinberg and Justin Mares
+- nice article when launch
+- infographics
+- blog
+
 ## A Good Product Isn't Enough
 ## Skip the Big Launch
 ## How to Grow an Audience
