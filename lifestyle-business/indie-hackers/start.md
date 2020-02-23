@@ -25,6 +25,7 @@
 - [Ultimate Guide for Marketing](#ultimate-guide-for-marketing)
 - [Do Things That Don't Scale](#do-things-that-dont-scale)
 - [Case Studies for Finding Users](#case-studies-for-finding-users)
+- [A Good Product Isn't Enough](#a-good-product-isnt-enough)
 
 6 Build in public
 
@@ -384,6 +385,33 @@ Marc Montagne,creator of Toolwatch.io($4k/mo)
 - blog
 
 ## A Good Product Isn't Enough
+[link source: Why Product Market Fit Isn't Enough](https://brianbalfour.com/essays/product-market-fit-isnt-enough)  
+
+One of my main observations is that there are certain companies where growth seems to come easily (Smooth Sailers - a little effort for lots of speed).
+In other companies, growth feels much harder (Tugboats - a lot of effort for little speed).
+
+What is the difference between these two types of companies? This is a question I’ve pondered for a long time and have pieced together a framework to explain the difference. Before the framework, the differences. What is not...
+
+### It’s Not Just Great Product
+Building a great product is a piece of the puzzle, but it’s far from the full picture. Build a great product leads to product death cyle.
+
+These are the phases of the product death cycle:
+- Add New Features: Team adds new exciting product features.
+- Launch: Features are launched with some press.
+- Spike: A short term spike in growth occurs. 
+- Growth Flattens: Within weeks the growth flattens off.
+- (repeat) Add New Features: Team ends up back where they started, adding new features to get another spike. 
+
+### It’s Not Just Product Market Fit
+The issue with the product market fit mantra is that we have taken it to the extreme and developed tunnel vision.
+
+### It’s Definitely Not Growth Hacking
+The problem with hacktics are that they are short lived and never sustainable. Before tactics you need a [growth process](https://brianbalfour.com/essays/growth-process-first-tactics-second)(check links). 
+
+### What is the difference between Smooth Sailer and Tugboat companies?
+able to make four pieces in a puzzle fit: Model, Market, Product, Channel.
+There are four essential fits: Market Product Fit, Product Channel Fit, Channel Model Fit, Model Market Fit. All of them in detail on this [Framework-Fit](../framework-fit.md)
+
 ## Skip the Big Launch
 ## How to Grow an Audience
 ## Your First Ten Customers
