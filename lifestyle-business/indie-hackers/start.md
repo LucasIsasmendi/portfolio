@@ -26,6 +26,7 @@
 - [Do Things That Don't Scale](#do-things-that-dont-scale)
 - [Case Studies for Finding Users](#case-studies-for-finding-users)
 - [A Good Product Isn't Enough](#a-good-product-isnt-enough)
+- [Skip the Big Launch](#skip-the-big-launch)
 
 6 Build in public
 
@@ -413,5 +414,25 @@ able to make four pieces in a puzzle fit: Model, Market, Product, Channel.
 There are four essential fits: Market Product Fit, Product Channel Fit, Channel Model Fit, Model Market Fit. All of them in detail on this [Framework-Fit](../framework-fit.md)
 
 ## Skip the Big Launch
+[link source: You Probably Shouldn't Launch on Product Hunt](https://stackingthebricks.com/dont-launch-product-hunt/)  
+
+Just because you have access to them, doesn’t mean they’re the people you want to reach.
+
+The truth is that just because your launch rises up the leaderboard doesn’t mean you have a success on your hands. The flip side is equally true: just because the upvoting masses don’t click, doesn’t mean your product is doomed to failure.
+
+Your job is to be clear about who you’re trying to reach, so clear that you can say the thing they identify as (or a problem they identify with) and they’d turn around in the crowded room of the internet.
+
+When you are starting from scratch and you have no audience, the temptation is to seek out the biggest audiences and figure out how to get them to pay attention. The much more effective approach is to seek out places where you can skip the noise and earn trust or even borrow it from others.
+
+### Here’s to build your own audiences to launch to, from scratch.
+1. Pick 1-3 online communities where you know your SPECIFIC audience looks to and trusts when they need help, advice, ideas, inspiration. 
+2. Get active in those communities. Start reading, listening, and taking notes. Pay special attention to the challenges and problems that people talk about. Look for questions, and answer them thoughtfully.
+3. Be helpful and supportive. Don’t just talk about you and your stuff - talk WITH them and their stuff.
+4. Continue doing this a few times a week. Remember you’re here to earn trust, and learn what they really care about.
+5. By the time you’re sharing something of your own, the members and leaders of that community can and often will signal boost too.
+
+This is the groundwork for building audiences you can reach AND who convert to customers.
+There aren’t really shortcuts. It takes time. But it’s reliable as hell and the results compound quickly over time.
+
 ## How to Grow an Audience
 ## Your First Ten Customers
