@@ -27,6 +27,7 @@
 - [Case Studies for Finding Users](#case-studies-for-finding-users)
 - [A Good Product Isn't Enough](#a-good-product-isnt-enough)
 - [Skip the Big Launch](#skip-the-big-launch)
+- [How to Grow an Audience](#how-to-grow-an-audience)
 
 6 Build in public
 
@@ -435,4 +436,30 @@ This is the groundwork for building audiences you can reach AND who convert to c
 There aren’t really shortcuts. It takes time. But it’s reliable as hell and the results compound quickly over time.
 
 ## How to Grow an Audience
+[source link: How to grow an audience through curating content](https://nathanbarry.com/curate/)  
+
+When you focus on curating content from other creators you are able to start building an audience without the burden of creating everything yourself. Then you have full control and can slowly work in your own content as you become more comfortable creating it.
+
+### Learn from the best
+There are so many great examples of audiences built through curation and even seasoned creators who provide value each week through curation.
+- [Tim Ferriss](https://tim.blog/) runs one of the largest email newsletters on the internet (it’s powered by ConvertKit!) and he built it through curation. 
+- Hiten Shah runs a weekly newsletter called [Product Habits](https://producthabits.com/blog/). Each week it has articles on business, product, design, and marketing.
+- [Peter Cooper](https://cooperpress.com/publications/) has grown developer newsletters JavaScript Weekly into a substantial business. 
+
+### Earning a living from a curated audience
+Once you capture attention you can turn it into a living a few different ways:
+- Sponsored content: For 45,000 readers the sponsored link costs $1,500. $6,000 a month as baseline revenue.
+- Affiliate marketing
+- Promoting your own products
+
+### Curate your own audience
+#### Make a system
+The first step is to make a system you can work
+- Choose a narrow topic
+- Choose a cadence: weekly or monthly
+- Systematize idea collection: Decide exactly how you are going to log ideas (whiteboard, google doc, etc)
+- Automate your reminders: to keep you consistent (d3 prep newsletter, d5 publish newsletter)
+
 ## Your First Ten Customers
+
+# 6 Build in public
