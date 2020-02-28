@@ -461,5 +461,44 @@ The first step is to make a system you can work
 - Automate your reminders: to keep you consistent (d3 prep newsletter, d5 publish newsletter)
 
 ## Your First Ten Customers
+[source link](https://stripe.com/atlas/guides/starting-sales)  
+> Scrappily start your sales process by identifying, approaching, and converting prospects into customers one at a time (for a start).   
+
+Entrepreneurs have to actively recruit their own few first customers. This is hard, important work, because the first few customers will help you refine your product, begin understanding how to position it in the market, and provide important social proof for your company.
+
+You have advantages most sales reps lack: the ring of authenticity, commanding understanding of the problem domain, and the ability to make changes to the product to close early deals almost in real time.
+
+### How do you find prospects for your company?
+You will tend to close many more sales from warm introductions than you will from an equivalent amount of cold pitches, so start by picking this low-hanging fruit.
+Find places where customers congregate online.
+
+### How do you determine if prospects are good or not?
+Good customers for early startups share a few attributes, though, so you can prioritize these:
+- **Early adopters**: someone who has bought similar things before. Look into competitors customers.
+- **On the internet**: Active in communities online
+- **Light sales cycles**: Even within a particular market, some firms have more process for particular purchases and some have less.
+- **Intrinsically reachable**: Some businesses and some decisionmakers are intrinsically easier to reach than others.
+
+### How should you communicate with customers?
+The most common option is cold email to get a phone call. 
+- **Prove you put in some work**: Sound like a human, do some research first, say something about prospect previous work/event. 
+- **Start providing value**: tell and show
+- **Ask for a specific, small thing**: short phone conversation. Make it very easy for them to say Yes to your ask: *15 minutes this Thursday*
+
+### How should you go about following up?
+we’re trained to read social signals adroitly and interpret non-response as disinterest. Keep pinging.
+
+### What should you ask for on the call?
+Instead of offering free trials, strongly consider offering ludicrously good help with onboarding or integrating the customer.
+
+You can offer a 30-day moneyback guarantee to decrease resistance to adopting you, since this has dynamics very different than a free trial does. 
+
+### How can you get better at this over time?
+experiment boldly with what customers you go after, how you pitch them, and what the structure of your offering is.
+As time goes on, you’re going to start codifying this process so that you can execute on it repeatedly, as if from a script. Then improve it, then build process and systems.
+
+In addition to building the sales process itself, as you get more mature as a company, you’re going to produce things adjacent to the product which make the sales process better.
+
+
 
 # 6 Build in public
