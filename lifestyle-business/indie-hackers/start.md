@@ -33,6 +33,7 @@
 [**6 Build in public**](#6-build-in-public)  
 - [Why You Should Build in Public](#why-you-should-build-in-public)
 - [Where to Share Your Progress](#where-to-share-your-progress)
+- [Gain a Competitive Advantage ](#gain-a-competitive-advantage)
 
 # 1 Commit to a goal
 
@@ -528,3 +529,9 @@ Why build a product in public? Successful products have users. To get users for 
 Building in public is a long-term commitment. Over time doing these things will help grow your audience and lead to people using your product.
 
 ## Gain a Competitive Advantage 
+[source link: Building in public forces true competitive advantage](https://blog.asmartbear.com/building-in-public.html)  
+
+if your code is public, nothing you create there represents a technical competitive advantage, because your competitors can also use it. You are therefore forced to build some other competitive advantage into your business. 
+Typically a technical advantage is a fleeting advantage, because most technical things can be replicated. 
+
+Building in public forces you to create permanent competitive advantages. To a company with exceptional culture and an organization of empowerment and purpose.
