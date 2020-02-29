@@ -28,8 +28,10 @@
 - [A Good Product Isn't Enough](#a-good-product-isnt-enough)
 - [Skip the Big Launch](#skip-the-big-launch)
 - [How to Grow an Audience](#how-to-grow-an-audience)
+- [Your First Ten Customers](#your-first-ten-customers)
 
-6 Build in public
+[**6 Build in public**](#6-build-in-public)  
+
 
 # 1 Commit to a goal
 
@@ -502,3 +504,14 @@ In addition to building the sales process itself, as you get more mature as a co
 
 
 # 6 Build in public
+## Why You Should Build in Public
+[source link](https://thenextweb.com/dd/2014/04/21/build-product-public/)  
+
+By providing a sneak peak and involving users in the design process, founders can:
+1. Increase Buy-In: when their feedback is acknowledged, their investment in the product increases.
+2. Get Feedback Early
+3. Excite the People!
+
+## Where to Share Your Progress
+
+## Gain a Competitive Advantage 
