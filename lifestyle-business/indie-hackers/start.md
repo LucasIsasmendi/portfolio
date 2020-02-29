@@ -31,7 +31,8 @@
 - [Your First Ten Customers](#your-first-ten-customers)
 
 [**6 Build in public**](#6-build-in-public)  
-
+- [Why You Should Build in Public](#why-you-should-build-in-public)
+- [Where to Share Your Progress](#where-to-share-your-progress)
 
 # 1 Commit to a goal
 
@@ -513,5 +514,17 @@ By providing a sneak peak and involving users in the design process, founders ca
 3. Excite the People!
 
 ## Where to Share Your Progress
+[source link](https://hackernoon.com/how-to-build-a-product-in-public-1b4159d5df6b)  
+
+Why build a product in public? Successful products have users. To get users for your product, people have to know about it. Building in public will help people find out about your product.
+
+- Get social: Use Twitter to gain followers interested in your industry by tweeting relevant information. Show followers pictures of what the product looks like. Ask for feedback or ideas.
+- Log your work in public: Makerlog allows your audience to see your progress from day one.
+- Write consistently: Having to write about your ideas and problems will give you a better understanding of them, is also a way to help expand your audience
+- Create a podcast
+- Live stream your progress: Twitch, youtube, periscope
+- Join relevant communities
+
+Building in public is a long-term commitment. Over time doing these things will help grow your audience and lead to people using your product.
 
 ## Gain a Competitive Advantage 
