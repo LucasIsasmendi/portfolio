@@ -5,3 +5,5 @@
 - cupboard `ˈkəbərd`: alacena
 - urn `ərn`: urna
 - fur `fər`: piel
+
+- sieve `siv`: tamiz
