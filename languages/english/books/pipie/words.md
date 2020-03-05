@@ -36,3 +36,12 @@
 - dim: oscuro - deem: considerar
 - dip: inmersion - deep: profundo
 - fist: puño - feast: banquete
+
+### u5-`/uw/`
+- lieu `/luː/`: lugar
+`/u/` vs `/uw/`
+- stood `/stʊd/`: destacad@ - stewed `/stjuːd/`: estofado
+- wood: madera - wooed: cortejad@
+- hood `/hʊd/`: capucha - who'd `/huːd/`: quien
+- cookie - kooky `/ˈkuːki/`: chiflad@
+- nook: rincon - nuke: arma nuclear
