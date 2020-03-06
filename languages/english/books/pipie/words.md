@@ -45,3 +45,12 @@
 - hood `/hʊd/`: capucha - who'd `/huːd/`: quien
 - cookie - kooky `/ˈkuːki/`: chiflad@
 - nook: rincon - nuke: arma nuclear
+
+### u6-`/iuw/`
+- yew: tejo (arbol)
+- ewe: oveja
+- feud: feudo
+- hue: matiz
+- understatement: atenuacion
+- gadget: artilugio
+- eulogy: elogio
