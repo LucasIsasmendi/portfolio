@@ -54,3 +54,15 @@
 - understatement: atenuacion
 - gadget: artilugio
 - eulogy: elogio
+
+### u7-`/ʌ/`
+- son: hijo
+- cousin: prim@
+- rough: asper@
+- flood: inundar
+- rug: alfombra
+- tuck: pliegue
+- buck: dolar
+- putt: golpe corto
+- cud: rumia
+- tough: dur@
