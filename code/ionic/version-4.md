@@ -43,7 +43,19 @@ https://devdactic.com/ionic-4-firebase-angularfire/
 https://www.djamware.com/post/5be52ce280aca72b942e31bc/ionic-4-angular-7-and-cordova-tutorial-build-crud-mobile-apps
 
 ## TIPS
-### 
+### Nested Adday Update
+https://firebase.googleblog.com/2018/08/better-arrays-in-cloud-firestore.html
+
+https://stackoverflow.com/questions/55875241/how-to-remove-an-array-item-from-a-nested-document-in-firebase
+
+### Batch Update
+
+https://medium.com/google-developer-experts/performing-or-queries-in-firebase-cloud-firestore-for-javascript-with-rxjs-c361671b201e
+
+
+## Notifications
+https://firebase.googleblog.com/2018/05/web-notifications-api-support-now.html
+
 
 ## PWA
 
