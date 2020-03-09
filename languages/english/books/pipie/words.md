@@ -66,3 +66,28 @@
 - putt: golpe corto
 - cud: rumia
 - tough: dur@
+
+### u8-`/ɛ/`
+- meadow: prado
+- heifer: novilla, vaquilla
+- bury: enterrar
+- peck: picotear
+- bid: oferta
+- lid: tapa
+- wrist: muñeca (mano)
+- beg: medigar
+- fell: cayó
+- gem: joya, gema
+- tin: estaño
+- slipped: resbaló
+- slept: dormid@
+- mitt: guante
+- met: reunió
+- beat: ritmo
+- bet: apuesta
+- geese: gans@s
+- heed: atención
+- mean: medi@
+- reed: junco
+- sealing: sellando
+- ceiling: techo
