@@ -91,3 +91,30 @@
 - reed: junco
 - sealing: sellando
 - ceiling: techo
+
+### u9-`/ow/`
+- plateau: meseta
+- yeoman: hacendado
+- depot: deposito
+- though: aunque
+- groan: gemido
+- sew: coser
+- faux: falso
+- brooch: broche
+- wore: llevaba
+- warm: calid@
+- pour: verter
+- soar: remontarse
+- drawer: cajón
+- roam: vagar
+- hum: tararear
+- crumb: miga
+- shun: rehuir
+- shone: brilló
+- rub: frotar
+- robe: túnica
+- mud: barro
+- mowed: cortad@
+- rug: alfombra
+- rogue: pícar@
+- nut: nuez
