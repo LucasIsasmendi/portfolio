@@ -7,7 +7,7 @@ The Bootstrapper’s Compendium
 [2. The FeedbackPanda Story](#2-the-feedbackpanda-story)  
 [3. The Four Stages of a Bootstrapped Business in a Nutshell](#3-the-four-stages-of-a-bootstrapped-business-in-a-nutshell)  
 [4. The Preparation Stage](#4-the-preparation-stage)  
-5. The Survival Stage 
+[5. The Survival Stage](#5-the-survival-stage)  
 6. The Stability Stage
 7. The Growth Stage
 8. Bonus: The Many Roles of a Bootstrapped Founder
@@ -75,3 +75,48 @@ Set a price, make people aware of it, convince them to purchase, transform them 
 - **Do You Need a Co-Founder?**: depends on the circumstances of your business and yourself. [More here](https://thebootstrappedfounder.com/co-founder/)
 
 ## 5. The Survival Stage
+In this stage, you will work on rapid product iterations, on building resilient systems to deal with the complexity of operating a business. You will look for reliable and repeatable processes to guarantee a profitable engine of sustainable growth and will work on helping customers first to find the product and then find their way through it.
+
+### Mental Health: It’s Not Optional
+Running a bootstrapped company is particularly hard.
+Learning about how to deal with perfectionism, impostor syndrome, and similar psychological hurdles will make you resilient to self-sabotage. Focus on what matters most: building a life-changing bootstrapped business.
+
+- **Real and Imaginary Responsibilities of a Bootstrapped Founder**: Avoid perfectionism. Avoid feeling like a fraud (impostor syndrome). Be aware of "this is how it is done" cult, built the company you need. [More here](https://thebootstrappedfounder.com/real-and-imaginary-responsibilities-of-a-bootstrapped-founder/)
+- **The Bootstrapper’s Plight: The Social Headaches of Building a Business**: Understand that your time has value, and your vision deserves respect. Don’t let people distract you from your goals. Find supportive people. Find your fellow founders. They’ll get you. [More here](https://thebootstrappedfounder.com/the-bootstrappers-plight/)
+
+### Product Evolution: Controlled Growth and Saying No
+Saying “no” to feature requests becomes a necessary skill to learn. Only add features that provide value to all of the customers and can be easily moved out. What is required today may be obsolete or harmful tomorrow.
+
+**Building the Right Things**: which items are more critical and which requests may sound vital but are not.
+- **First Things First: Feature Prioritization Frameworks**: RICE (Reach, Impact, Confidence against Effort), DIE (Demand and Impact against Effort), Kano, Opportunity Scoring, Story Mapping. Make sure to stick to one system once you have found it to be usable for your business. 
+- **Build for Value, Not for Applause: Product Management Under Heavy Constraints**: for every feature or improvement make sure it impacts as many customers as possible at the same time. Don’t go overboard with the optics. 
+
+**Building Things Right**: Building your product with abstractions and flexibility in mind will allow you to change it easier and more securely later.
+- **Abstractions**: never integrate third-party-service directly. Abstract integeations, create modules to handle them: payment, authentication, notifications, chat, email, database connections, logging, and metrics collection.
+- **Flexible Architecture**: start small and cheap, scaling only when you need to. Begin by encapsulating your backend systems in Docker containers. This flexibility extends to selling the business as well. 
+- **Making Tech Choices: Don’t Add Risk to an Already Risky Business**: Choose the technology that works best for you and your business. Many technical founders see a new startup as an opportunity to figure out a modern tech stack. That is a precarious move. When in doubt, stick to what you know. For data storage systems like databases, use tried and tested systems like PostgreSQL.
+
+### Customers: Building Relationships That Last
+it’s easier to keep a customer than it is to find a new one. In the SaaS world, maintaining a relationship with customers is critical, keep them happy. Move away from customers that are not right for your business.
+
+- **How to Do Maximum Customer Service with Minimum Effort**: chat widgets (sync tools) for real problems. Automatic responses and resolution chatbots (async tools, last resort) to help customers. Knowledge bases for self-help (favorite). Example tool: intercom. [More here](https://thebootstrappedfounder.com/how-to-do-maximum-customer-support-with-minimum-effort/)
+- **You May Be Barking Up the Wrong Tree: Re-Evaluating Your Audience**: you don’t have to bend your product into a shape that works for a market that doesn’t value your vision. Of course, if all of your customers exhibit this behavior, you should stop and reflect if you are talking to the wrong audience altogether. Find the customers that don’t complain and see what makes them happy. Find more of them.
+- **Churn, Retention, and Revenue: What Makes Customers Stick Around and Why That’s Important**: The first and obvious goal is to continuously provide them with a valuable product throughout their customer journey. Reaching out manually will be extremely fruitful to find and resolve the issues that motivate customers to leave. Value Nurturing: showing the customer the value they’re receiving from your product while they are using it (statistics, time saving). [More here](https://thebootstrappedfounder.com/churn-retention-and-revenue/)
+
+### Pricing: Subscriptions, Plans, And Other Money Troubles
+Strategies that will help you find the plans and prices that work best.
+- **Price Is Not Set In Stone: Strategies For Increasing Your Revenue**: Inform every customer who will be affected by this change, don't be sneaky. use the price from trial. Enterprise customers are dangerous beasts.
+- **Not All Subscribers Are Equal: How to Deal with Plans That No Longer Work**: avoid life-long discount and Grandfathering. Allow them to keep the lower price for a year if they upgrade to a yearly subscription. Force them to upgrade to the new price
+- **Not All Subscriptions Are Equal: Offer Yearly Plans from the Start**: they trust your business to be around in a year, product, and stick with you. Discount your yearly subscriptions, a discounted plan can come with a non-refundable clause.
+- **Seller Beware: Pricing Models That Can Break Your Business**: Two pricing models can be hazardous if not implemented carefully: freemium (set clear limits) and lifetime accounts (resource consumption).
+
+### Business
+- **Make It Sell Itself: On Referral Systems**: be careful to provide a clear value proposition to the referrer and the referred. [More here](https://thebootstrappedfounder.com/on-referral-systems/)
+
+### Marketing and Sales
+Spreading the word is an essential part of running a business, and so is convincing potential customers to try the product and eventually purchase it.
+- **Spreading the Word: How to Do Marketing on a Shoestring Budget**: poeple in a niche are organized in communities where word of mouth spreads quickly. Genuinely participate in niche communities. Don’t just use them as a marketing platform. Contribute, don't advertise, create meaningful content around your product. In a way, you want to become part of and eventually lead a tribe.  Listen to what people ask and complain about and offer your product embedded in more general advice. Create easy-to-consume and easy-to-share content
+- **How to Sell as a Bootstrapper: Strategies That Work**: You don’t have time or the resources to sell them what they want. You will need to sell them what they will buy. If you value your independence, go after a large number of smaller customers instead of just a few big ones. Improve your sales process with real people.
+- **Being Small Is a Benefit: How to Leverage Being a Bootstrapper**: People treat you differently when you show that you’re in the market because you care. In the end, it boils down to honesty. 
+- **Too Many Eyes: Why Bootstrapped Companies Stop Being Transparent (Eventually)**: Essentially, being outspoken and transparent about your business is a form of marketing. You’re building a brand around your honesty, your ambition, and your commitment. However, there comes the point when being too transparent can cause damage to your business. [More Here](https://thebootstrappedfounder.com/too-many-eyes/)
+
