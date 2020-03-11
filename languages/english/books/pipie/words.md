@@ -118,3 +118,11 @@
 - rug: alfombra
 - rogue: pícar@
 - nut: nuez
+
+### u10-`/oiy/`
+- soil: suelo, tierra
+- poise: equilibrio
+- noisy: ruidos@
+- ploy: táctica
+- foiled: frustrad@
+- spoiled: mimado, consentido, estropeado
