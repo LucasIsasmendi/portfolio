@@ -126,3 +126,26 @@
 - ploy: táctica
 - foiled: frustrad@
 - spoiled: mimado, consentido, estropeado
+
+### u11-`/eə/`
+- ran: corrió
+- craft: arte
+- heir: hereder@
+- fanned: avivad@
+- leaned: inclinad@
+- bear: os@
+- cheer: animar
+- peer: par
+- pear: pera
+- steer: dirigir
+- stare: mirar fijamente
+- fair: justo
+- fare: tarifa
+- hear: oír
+- ear: oreja
+- tier: nivel
+- tear: lágrima, desgarrar
+- pan: pan, cacerola
+- mast: mástil
+
+
