@@ -148,4 +148,17 @@
 - pan: pan, cacerola
 - mast: mástil
 
-
+### u12-`/eiy/`
+- ate: comió
+- suede: ante
+- rein: rienda
+- gauge: medir, calibrar
+- pale: pálid@
+- raid: redada
+- bait: cebo
+- mace: mazo
+- taste: gusto
+- shed: cobertizo
+- tent: tienda
+- taint: mancha
+- 
