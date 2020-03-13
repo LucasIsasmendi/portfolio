@@ -8,12 +8,12 @@ The Bootstrapper’s Compendium
 [3. The Four Stages of a Bootstrapped Business in a Nutshell](#3-the-four-stages-of-a-bootstrapped-business-in-a-nutshell)  
 [4. The Preparation Stage](#4-the-preparation-stage)  
 [5. The Survival Stage](#5-the-survival-stage)  
-6. The Stability Stage
+6. The Stability Stage 
 7. The Growth Stage
-8. Bonus: The Many Roles of a Bootstrapped Founder
+[8. Bonus: The Many Roles of a Bootstrapped Founder](#8-bonus-the-many-roles-of-a-bootstrapped-founder)  
 9.  Beyond Bootstrapping
-10. Further Reading: Other Guides and Resources
-11. Closing Words
+10.  Further Reading: Other Guides and Resources
+11.  Closing Words
 
 ## 1. An Introduction to Zero to Sold
 This book will show you what the life of a bootstrapped founder will look like,  roles required and task in each stage. In the end, you are the agent of your own success. Read and learn as much as you can, but treat all guidance and direction as anecdotal. You will have to find your own combination of strategies and tactics.
@@ -120,3 +120,17 @@ Spreading the word is an essential part of running a business, and so is convinc
 - **Being Small Is a Benefit: How to Leverage Being a Bootstrapper**: People treat you differently when you show that you’re in the market because you care. In the end, it boils down to honesty. 
 - **Too Many Eyes: Why Bootstrapped Companies Stop Being Transparent (Eventually)**: Essentially, being outspoken and transparent about your business is a form of marketing. You’re building a brand around your honesty, your ambition, and your commitment. However, there comes the point when being too transparent can cause damage to your business. [More Here](https://thebootstrappedfounder.com/too-many-eyes/)
 
+
+## 8. Bonus: The Many Roles of a Bootstrapped Founder
+imagine how your company looks five years from now and draw an imaginary org chart with all the positions that you will need to hire for. Then, put your name into each box. Now you know precisely what you will need to do throughout the lifetime of your business.
+
+**The Four Bootstrapper Quadrants**
+1. **The Builder** technical skill and operational work. Implementation. *How* to solve a problem.
+2. **The Architect** technical expertise and structural thinking. Analysis. *What* needs to be done. Includes billing and financials.
+3. **The Thinker** creative thinking and structural analysis. planning and forecasting. *Why* things are the way they are and what can be done about it. Design: UX, Ad. You will work on extracting insights and learnings from past data, and then turning that into strategies and visions for the future of the business. 
+4. **The Communicator** creative solutions and operational interactions. communication and distribution. *Who* we are serving, helping, and talking to. If talking to people is not for you, then find someone who loves to do that. 
+
+Depending on what stage of your bootstrapped business you’re in, you will focus more on some jobs and less on others.
+As a guideline, try to do work that will generate revenue or revenue opportunities. Those will move your business forward. Introduce new activities and responsibilities as they become necessary, not before.
+
+> bootstrapping is the act of creating a valuable, sustainable business with little to no funding. It’s a founder mindset, a focus on making fiscally responsible business decisions and looking for sustainable long-term growth, and meaningful relationships with every single customer.
