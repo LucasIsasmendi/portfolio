@@ -1,6 +1,11 @@
 # Book Summaries
 [source link](https://www.samuelthomasdavies.com/book-summaries/)
 
+# 6. Psychology
+## 59 Seconds by Richard Wiseman
+[summarie link](https://www.samuelthomasdavies.com/book-summaries/psychology/59-seconds/)
+> Think a little Change a lot
+
 # 7. Self-Help
 ## The 7 Habits of Highly Effective People by Stephen R. Covey
 [summarie link](https://www.samuelthomasdavies.com/book-summaries/self-help/the-7-habits-of-highly-effective-people/)
