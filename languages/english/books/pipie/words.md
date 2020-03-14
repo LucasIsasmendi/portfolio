@@ -161,4 +161,21 @@
 - shed: cobertizo
 - tent: tienda
 - taint: mancha
-- 
+
+### u13-/ɔ/
+- caught: atrapad@
+- lawn: cesped
+- cough: tos
+- faucet: canilla
+- cuff: brazalete
+- bought: compró
+- lung: pulmón
+- sung: cantad@
+- rung: peldaño
+- loafed: holgazanead@
+- loft: desván
+- bowl: cuenco
+- boast: presumir
+- bossed: dirigid@
+- mole: topo
+- boat: barco
