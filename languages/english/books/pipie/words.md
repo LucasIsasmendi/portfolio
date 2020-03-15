@@ -75,7 +75,7 @@
 - bid: oferta
 - lid: tapa
 - wrist: muñeca (mano)
-- beg: medigar
+- beg: medigar, rogar
 - fell: cayó
 - gem: joya, gema
 - tin: estaño
@@ -179,3 +179,29 @@
 - bossed: dirigid@
 - mole: topo
 - boat: barco
+
+### u14-/æ/
+- tap: grifo
+- pad: almohadilla
+- cab: taxi
+- plaid: cloth made with a tartan pattern
+- snap: chasquido
+- feat: hazaña ~ feet: pies
+- sat: se sentó
+- lap: vuelta, circuito
+- heed: atención
+- neat: ordenad@
+- gnat: mosquito
+- shack: choza
+- bag: bolso
+- head: cabeza
+- met: reunió
+- mat: felpudo, tapete
+- pat: pamada
+- wreck: ruina, accidente
+- rack: estante
+- pled: ??
+
+fat, leap, he'd, sad, heat
+sad, has, he's, seed, feat
+mat set, wreck, had sad
