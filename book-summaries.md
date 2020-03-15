@@ -1,6 +1,28 @@
 # Book Summaries
 [source link](https://www.samuelthomasdavies.com/book-summaries/)
 
+# 5. Philosophy
+## A Manual For Living by Epictetus
+[summarie link](https://www.samuelthomasdavies.com/book-summaries/philosophy/a-manual-for-living/)  
+> It’s not what happens to you, but how you react to it that matters.
+
+### Big Ideas
+1. You are in control of your thoughts, your impulse, your will to get and your will to avoid.
+2. What disturbs men’s minds is not events but their judgments on events.
+3. Don’t blame others for hindering or disturbing or distressing you; blame your own judgments.
+4. Never say of anything, “I lost it,” but say, “I gave it back.”
+5. Behave in life as you would at a party.
+
+### Summary
+- You are but an impression, and not at all what you seem to be.
+- To accuse others of our own misfortunes is a sign we need to educate ourselves. To accuse ourselves shows that our education has begun; to accuse neither ourselves nor others shows that our education is complete.
+- Ask not that events should happen as you will, but let your will be that events should happen as they do, and you shall have peace.
+- Exercise yourself in what lies in your power.
+- Let him then who wishes to be free not wish for anything or avoid anything that depends on others; or else he is bound to be a slave.
+- You can be invincible if you never enter on a contest where victory is not in your power. 
+- when anyone makes you angry, know that it is your own thought that has angered you.
+- No one shall harm you, without your consent; you will only be harmed, when you think you are harmed.
+
 # 6. Psychology
 ## 59 Seconds by Richard Wiseman
 [summarie link](https://www.samuelthomasdavies.com/book-summaries/psychology/59-seconds/)
