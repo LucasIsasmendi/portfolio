@@ -1,7 +1,8 @@
 # Building Micro-SaaS Businesses
 Bootstrapping a profitable SaaS Business.
+[source link](https://tylertringas.com/micro-saas-ebook/)
 
-Chapter 1: What is Micro-SaaS and Why Should You Read This?
+[1. What is Micro-SaaS and Why Should You Read This?](#1-what-is-micro-saas-and-why-should-you-read-this)  
 Chapter 2: What Makes a Good Micro-SaaS Idea?
 Chapter 3: Finding Micro-SaaS Ideas  
 [Chapter 4: From Idea to Building a Minimum Viable Product](#chapter-4-from-idea-to-minimum-viable-product)  
@@ -13,6 +14,17 @@ Chapter 9: Going Full-time on your Micro-SaaS
 Chapter 10: From Solo Founder to Micro-SaaS Team
 Chapter 11: Strategies for Micro-SaaS at Scale
 Chapter 12: The Micro-SaaS End Game
+
+## 1. What is Micro-SaaS and Why Should You Read This?
+[on May 11, 2016](https://tylertringas.com/1-what-is-micro-saas/)  
+The main difference between SaaS and other software is the business model: customers pay monthly or annually for continued access. “micro” just means small.
+I think a Micro-SaaS business is possibly the most powerful lifestyle business model out there right now. 
+
+### Why Would You Want a Micro-SaaS Business?
+- Owning a Craft: see the fruits of your labors directly delivered. 
+- Location Independence
+- Time Leverage: The Magic of Recurring Revenue. SaaS can be a business that not only yields money, but starts to give you back your time.
+- Building a Financial Launchpad: a Micro-SaaS business could fund you while you spend six month writing a novel or trying to make it big in the acting or music business or starting a big risky ambitious project.
 
 ## Chapter 4: From Idea to Minimum Viable Product
 on November 29, 2016
