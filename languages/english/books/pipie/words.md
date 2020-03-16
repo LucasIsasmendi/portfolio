@@ -202,6 +202,12 @@
 - rack: estante
 - pled: ??
 
-fat, leap, he'd, sad, heat
-sad, has, he's, seed, feat
-mat set, wreck, had sad
+## u15-/æow/
+- bough: rama
+- aloud: en voz alta
+- sour: agri@
+- flour: harina
+- sauerkraut: chucrut
+- gown: vestido
+- wound: herir - enrollar
+- grower: cultivador/a
