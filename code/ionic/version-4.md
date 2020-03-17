@@ -55,6 +55,7 @@ https://medium.com/google-developer-experts/performing-or-queries-in-firebase-cl
 
 ## Notifications
 https://firebase.googleblog.com/2018/05/web-notifications-api-support-now.html
+https://medium.com/@david.dalbusco/add-web-push-notifications-to-your-ionic-pwa-358f6ec53c6f
 
 
 ## PWA
