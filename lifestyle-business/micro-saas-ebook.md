@@ -2,8 +2,9 @@
 Bootstrapping a profitable SaaS Business.
 [source link](https://tylertringas.com/micro-saas-ebook/)
 
+**Index**  
 [1. What is Micro-SaaS and Why Should You Read This?](#1-what-is-micro-saas-and-why-should-you-read-this)  
-Chapter 2: What Makes a Good Micro-SaaS Idea?
+[2. What Makes a Good Micro-SaaS Idea?](#2-what-makes-a-good-micro-saas-idea)  
 Chapter 3: Finding Micro-SaaS Ideas  
 [Chapter 4: From Idea to Building a Minimum Viable Product](#chapter-4-from-idea-to-minimum-viable-product)  
 Chapter 5: Getting Your First Customers
@@ -15,6 +16,9 @@ Chapter 10: From Solo Founder to Micro-SaaS Team
 Chapter 11: Strategies for Micro-SaaS at Scale
 Chapter 12: The Micro-SaaS End Game
 
+[**Links**](#links)  
+Business Ideas Meat Grinder
+
 ## 1. What is Micro-SaaS and Why Should You Read This?
 [on May 11, 2016](https://tylertringas.com/1-what-is-micro-saas/)  
 The main difference between SaaS and other software is the business model: customers pay monthly or annually for continued access. “micro” just means small.
@@ -25,6 +29,26 @@ I think a Micro-SaaS business is possibly the most powerful lifestyle business m
 - Location Independence
 - Time Leverage: The Magic of Recurring Revenue. SaaS can be a business that not only yields money, but starts to give you back your time.
 - Building a Financial Launchpad: a Micro-SaaS business could fund you while you spend six month writing a novel or trying to make it big in the acting or music business or starting a big risky ambitious project.
+
+## 2. What Makes a Good Micro-SaaS Idea?
+[on October 28, 2016](https://tylertringas.com/good-micro-saas-ideas/)  
+failure and trial and error seem to be essential parts of the process
+
+### The Meat Grinder
+It is far more important that you develop a fast and effective way to reject business ideas than finding ways to come up with new ideas. [more here](https://tylertringas.com/business-ideas-meat-grinder/)  
+
+### What Makes a Good Micro-SaaS Idea
+- **Be 5x better than customers currently pay**: (1) your potential customers should already be spending money on the pain point your product solves. (2) you must be 5x cheaper or 5x better
+- **Other players in the field**: do not follow the Silicon Valley “Zero To One” theory of creating something completely and totally new. The best scenario is finding consultants who serve the market inefficiently and expensively or customers currently suffering with horribly out-dated software. 
+- **A defined group that needs your product**: This one is so critical. Avoid theoretically be used by anybody but in reality get used by nobody. Built for a defined audience so you can narrow the marketing effort and focus the product features. Think about how easy is it to actually find this target market. Consider whether you actually like interacting with the target market.
+- **Have at least one channel for the first 25 and 250 customers**: get the first 25 customers for free. Think about whether these customers congregate around any particular places, directories, locations, websites.
+- **Line of sight to a Minimum Viable Product that you can build**: build your MVP in a month only on weekends. You have to build in resiliency for the inevitably high likelihood that your idea actually still sucks. Build and launch fast.
+- **Do you have founder/product fit**: discards ideas if they are not right fit for you
+
+### Tactical Suggestions
+- **Focus on Automation**
+- **Sell to growing markets**: Make sure your total addressable market is going in the right direction.
+- **Small online businesses are the sweet spot**: Freelancers or individuals can move quickly because you only have to deal with one customer
 
 ## Chapter 4: From Idea to Minimum Viable Product
 on November 29, 2016
@@ -55,4 +79,9 @@ most important thing, it will help keep the scope pared back.
 ### Conclusion
 Shipping a first version of the product is the biggest hurdle in the entire journey to a profitable software business.
 Use this chapter to pare back an idea to it’s essence, schedule the time and ship it.
+
+
+# Links
+## Business Ideas Meat Grinder
+[post link](https://tylertringas.com/business-ideas-meat-grinder/)  
 
