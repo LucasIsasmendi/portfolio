@@ -1,9 +1,65 @@
 # Book Summaries
 [source link](https://www.samuelthomasdavies.com/book-summaries/)
 
+**Index**  
+[**1. Business**](#1-business)  
+[The 7 Day Startup by Dan Norris](#the-7-day-startup-by-dan-norris)
+
+[**5. Philosophy**](#5-philosophy)  
+
+# 1. Business
+
+## The 7 Day Startup by Dan Norris
+[summary link ](https://www.samuelthomasdavies.com/book-summaries/business/the-7-day-startup/)  
+
+### The Book in Three Sentences
+1. You have to spend time on the things that are most likely to bring you customers
+2. If you want to be an entrepreneur, you have to ’ship’ your product.
+3. You have to build a business idea in order to test it.
+
+### The Five Big Ideas
+1. Gradually get more customers
+2. enter email != pay
+3. idea  {huge void} successful business
+4. be passionate about growing a business
+5. Solve problems where people are already paying for solutions.
+
+### Summary
+- You don’t learn until you launch
+- extreme uncertainty.
+- spend time on the things that will bring you customers
+- Assets are built over time by ignoring short-term distractions in favor of a bigger, long-term vision
+- A common MVP mistake is over-emphasizing the ‘minimum’ and under-emphasizing the ‘viable.
+- forget about automation and figure out what you can do manually.
+
+**The 9 Elements of a Bootstrapped Business Idea**
+1. Enjoyable daily tasks
+2. Product/founder fit
+3. Scalable business model
+4. Operates profitably without the founder
+5. An asset you can sell
+6. Large market potential
+7. Tap into pain or pleasure differentiators
+8. Unique lead generation advantage
+9. Ability to launch quickly
+
+- How can you perform a service or offer a product to real customers?
+- How will you get them to pay you after seven days?
+- How close will your MVP be to the final vision of your product?
+- The only way to win is to learn faster than anyone else.
+
+**7 Days to Startup**
+1. Brainstorm and evaluation against the checklist
+2. Write down exactly what you will launch on Day 7
+3. Brainstrom business names. GRab the best domain
+4. Build the website
+5. Your marketing methods
+6. Create a spreadsheet that covers the first few months in business, the number of signups, revenue, estimated costs, and monthly growth
+7. Launch and start executing your marketing plan
+
 # 5. Philosophy
 ## A Manual For Living by Epictetus
-[summarie link](https://www.samuelthomasdavies.com/book-summaries/philosophy/a-manual-for-living/)  
+[summary link](https://www.samuelthomasdavies.com/book-summaries/philosophy/a-manual-for-living/)  
 > It’s not what happens to you, but how you react to it that matters.
 
 ### Big Ideas
@@ -25,12 +81,12 @@
 
 # 6. Psychology
 ## 59 Seconds by Richard Wiseman
-[summarie link](https://www.samuelthomasdavies.com/book-summaries/psychology/59-seconds/)
+[summary link](https://www.samuelthomasdavies.com/book-summaries/psychology/59-seconds/)
 > Think a little Change a lot
 
 # 7. Self-Help
 ## The 7 Habits of Highly Effective People by Stephen R. Covey
-[summarie link](https://www.samuelthomasdavies.com/book-summaries/self-help/the-7-habits-of-highly-effective-people/)
+[summary link](https://www.samuelthomasdavies.com/book-summaries/self-help/the-7-habits-of-highly-effective-people/)
 
 ### The Book in Three Sentences
 1. Success encompasses a balance of personal and professional effectiveness.
