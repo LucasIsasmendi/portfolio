@@ -202,7 +202,7 @@
 - rack: estante
 - pled: ??
 
-## u15-/æow/
+### u15-/æow/
 - bough: rama
 - aloud: en voz alta
 - sour: agri@
@@ -211,3 +211,32 @@
 - gown: vestido
 - wound: herir - enrollar
 - grower: cultivador/a
+
+### u16-/a/ (ä)
+- wand: varita mágica
+- cot: cuna
+- encore: repetir
+- ennui: tedio, aburrimiento
+- fond: aficionad@
+- mop: lampazo
+- crops: cultivos
+- hut: choza
+- buddy: compañer@
+- cup: taza
+- cop: policia
+- rut: rutina no productivadificil de cambiar
+- rot: putrefacción
+- shut: cerrar
+- shot: disparo, dosis
+- pot: maceta, marijuana
+- gut: intestino, tripa
+- got: tiene
+- knot: nudo
+- supper: cena
+- shorts: pantalones cortos
+- fussing: quejarse
+- carve: esculpir
+- guard: guardia
+- heart: corazón
+- ribbon: cinta
+- polish: pulir
