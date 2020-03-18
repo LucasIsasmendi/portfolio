@@ -5,8 +5,8 @@ Bootstrapping a profitable SaaS Business.
 **Index**  
 [1. What is Micro-SaaS and Why Should You Read This?](#1-what-is-micro-saas-and-why-should-you-read-this)  
 [2. What Makes a Good Micro-SaaS Idea?](#2-what-makes-a-good-micro-saas-idea)  
-Chapter 3: Finding Micro-SaaS Ideas  
-[Chapter 4: From Idea to Building a Minimum Viable Product](#chapter-4-from-idea-to-minimum-viable-product)  
+[3. Finding Micro-SaaS Ideas](#3-finding-micro-saas-ideas)  
+[4. From Idea to Building a Minimum Viable Product](#4-from-idea-to-minimum-viable-product)  
 Chapter 5: Getting Your First Customers
 Chapter 6: Thriving in the Long, Slow, SaaS Grind
 Chapter 7: Retention & Customer Support as a Solo Founder
@@ -50,7 +50,16 @@ It is far more important that you develop a fast and effective way to reject bus
 - **Sell to growing markets**: Make sure your total addressable market is going in the right direction.
 - **Small online businesses are the sweet spot**: Freelancers or individuals can move quickly because you only have to deal with one customer
 
-## Chapter 4: From Idea to Minimum Viable Product
+## 3. Finding Micro-SaaS Ideas
+[on October 28, 2016](https://tylertringas.com/finding-micro-saas-business-ideas/)  
+
+- **Scratch your own itch**: examples like Basecamp, Baremetrics. If you live an interesting or unique life, you will generate new and unique itches to scratch. If something about your life is really unique, then you can use scratch your own itch in that.
+- **Niche versions of existing SaaS**: Looking at generalized products like Salesforce, Quickbooks, Basecamp, Freshbooks, Shopify and WordPress can be a good source of ideas for niche SaaS products. Even something as simple a building a simple CRM with data fields and workflows pre-built for a particular industry could be enough of a UX improvement to sell well. Salesforce for wedding photographers. Freshbooks for dentists. Play around with combinations until something passes the Meat Grinder.
+- **Repeatable freelance and consulting work**: if you see a specific type of job that businesses are paying contractors to do over and over again from scratch, there may be an opportunity to build a SaaS solution. The best way to sniff out these kinds of opportunities is to actually become a consultant in a particular field and really learn what customers need.
+- **Automate manual tasks**: 
+- **Build upon growing platforms**: Stripe, Zapier
+
+## 4. From Idea to Minimum Viable Product
 on November 29, 2016
 
 Once you get an idea that looks worth doing, you should carve out time to build a Minimum Viable Product (MVP) as soon as possible. 
