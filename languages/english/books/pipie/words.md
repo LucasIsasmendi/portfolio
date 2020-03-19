@@ -240,3 +240,12 @@
 - heart: corazón
 - ribbon: cinta
 - polish: pulir
+
+### u17-/aiy/
+- dried: sec@
+- choir: coro
+- aisle: pasillo
+- height: altura
+- diaper: pañal
+- rye: centeno
+- indict: procesar, enjuiciar, condenar
