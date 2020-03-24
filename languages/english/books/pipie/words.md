@@ -1,5 +1,9 @@
 # Words
-## p1
+- [p1 English Vowels Sounds](#p1-english-vowels-sounds)
+- [p2 English Consonants Sounds](#p2-english-consonants-sounds)
+- 
+
+# p1 English Vowels Sounds
 `/ə/`
 - syrup `sirəp`: jarabe
 - pigeon `ˈpijən`: paloma
@@ -162,7 +166,7 @@
 - tent: tienda
 - taint: mancha
 
-### u13-/ɔ/
+### u13-`/ɔ/`
 - caught: atrapad@
 - lawn: cesped
 - cough: tos
@@ -180,10 +184,10 @@
 - mole: topo
 - boat: barco
 
-### u14-/æ/
+### u14-`/æ/`
 - tap: grifo
 - pad: almohadilla
-- cab: taxi
+- cab: taxi, cabina
 - plaid: cloth made with a tartan pattern
 - snap: chasquido
 - feat: hazaña ~ feet: pies
@@ -197,12 +201,12 @@
 - head: cabeza
 - met: reunió
 - mat: felpudo, tapete
-- pat: pamada
+- pat: palmadita
 - wreck: ruina, accidente
 - rack: estante
 - pled: ??
 
-### u15-/æow/
+### u15-`/æow/`
 - bough: rama
 - aloud: en voz alta
 - sour: agri@
@@ -212,7 +216,7 @@
 - wound: herir - enrollar
 - grower: cultivador/a
 
-### u16-/a/ (ä)
+### u16-`/a/` (ä)
 - wand: varita mágica
 - cot: cuna
 - encore: repetir
@@ -241,7 +245,7 @@
 - ribbon: cinta
 - polish: pulir
 
-### u17-/aiy/
+### u17-`/aiy/`
 - dried: sec@
 - choir: coro
 - aisle: pasillo
@@ -249,3 +253,45 @@
 - diaper: pañal
 - rye: centeno
 - indict: procesar, enjuiciar, condenar
+
+# p2 English Consonants Sounds
+## u18.1-`/p/`
+- peck: picotear, besar
+- pit: pozo, hoyo
+- praise: alabanza, elogio
+- lamp: lámpara
+- limp: cojear
+- sharp: agud@, fuerte, penetrante
+- grasp: agarrar
+- wasp: avispa
+- scalp: cuero cabelludo
+- hiccoughs: hipo
+
+## u18.2-`/b/`
+- bread: pan
+- bulb: bulbo
+- rubber: caucho
+- sobbing: cry noisily
+- bloom: floración
+- brags: presumir, alardear
+- tomb: tumba
+- womb: matriz
+- subtle: sutil
+- subpoena: citación
+- pin: alfiler, broche
+- pole: polo
+- pore: poro
+- bore: aburrir
+- punch: puñetazo
+- bunch: manojo
+- braid: trenza
+- repel: repeler
+- rebel: rebelde
+- rabid: rabios@
+- roped: cuerda
+- ripped: rasgad@
+- ribbed: acanalad@
+- bare: desnud@, descubiert@
+
+red B 1:50, original 4:20
+words contrasting `/p/`-`/b/`
