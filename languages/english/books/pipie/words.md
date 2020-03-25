@@ -293,5 +293,20 @@
 - ribbed: acanalad@
 - bare: desnud@, descubiert@
 
-red B 1:50, original 4:20
-words contrasting `/p/`-`/b/`
+## u19-1-`/t/`
+- tame: domar
+- thyme: tomillo (planta)
+- fault: culpa
+- borscht: sopa de remolacha
+- taped: grabad@
+- stove: estufa
+- bast: fibra de liber?
+- bite: picadura, mordedura
+- beast: bestia, animal, bruto
+- coat: saco, abrigo
+- fountain: fuente, manantial
+- tore up: romper
+- skirt: falda
+- boots: botas
+- hasten: acelerar
+- mortgage: hipoteca
