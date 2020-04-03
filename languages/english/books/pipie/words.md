@@ -310,3 +310,17 @@
 - boots: botas
 - hasten: acelerar
 - mortgage: hipoteca
+
+## u19-2-`/d/`
+- dime: moneda de diez centavos
+- dwarf: enan@
+- lid: tapa, párpado
+- tide: marea
+- muddy: lodos@
+- grated: rallad@
+- fitted: cabid@
+- rubbed: frotad@
+- rolled: arrollad@
+- hemmed: dobladillo
+- canned: enlatad@
+- buzzed: zumbó
