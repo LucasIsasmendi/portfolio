@@ -7,7 +7,7 @@ Bootstrapping a profitable SaaS Business.
 [2. What Makes a Good Micro-SaaS Idea?](#2-what-makes-a-good-micro-saas-idea)  
 [3. Finding Micro-SaaS Ideas](#3-finding-micro-saas-ideas)  
 [4. From Idea to Building a Minimum Viable Product](#4-from-idea-to-minimum-viable-product)  
-Chapter 5: Getting Your First Customers
+[5. Getting Your First Customers](#5-getting-your-first-customers)  
 Chapter 6: Thriving in the Long, Slow, SaaS Grind
 Chapter 7: Retention & Customer Support as a Solo Founder
 Chapter 8: Micro-SaaS Marketing & Passive Customer Acquisition Channels
@@ -89,6 +89,29 @@ most important thing, it will help keep the scope pared back.
 Shipping a first version of the product is the biggest hurdle in the entire journey to a profitable software business.
 Use this chapter to pare back an idea to it’s essence, schedule the time and ship it.
 
+
+## 5. Getting Your First Customers
+[on January 19, 2017](https://tylertringas.com/chapter-5-getting-your-first-customers/)  
+
+Keep working from both directions to refine or reject ideas, both working backwards from target markets of customers and working to find customers for certain ideas that otherwise seem valid.
+
+In my experience, successful Micro-SaaS businesses consistently use one of the following strategies for acquiring their first customers.
+
+- **Become a consultant**: Consulting for e-commerce businesses was a fantastic way to learn about exactly what kind of products they needed, their willingness to pay for solutions and where the pain points where strongest. 
+- **Forums and IRL conferences**
+- **Aggregator sites and blogs**: Become a member, be helpful and without spamming folks, politely point them towards your app when it’s a relevant solution.
+- **Business directories (or hit the streets)**: Build an app for ice cream parlors, bodegas or drug stores and you can find customers by just strolling around your city and chatting with the owner. 
+- **Steal business from jobs boards and freelancer sites**
+- **Ride the wave**: If you initially built your SaaS as a standalone, rather than directly integrated to a platform, it may be worth some development time to build an integration with a growing platform if you think it will help you ride the wave.
+- **The Parallel Track: Build the audience**: The best and hardest method of acquiring your first customers is to carefully cultivate an audience over time, gain their trust, learn their pain points and build product for them. 
+
+### How NOT to get your first customers
+- Any cost per acquisition
+- Compete with funded startups
+- Heavy time investment
+- Un-vetted signups: Channels that bring in a random slice of people on the internet should be avoided. Examples: Adwords, Facebook ads, etc
+- SEO tricks
+- Affiliate deals and partnerships
 
 # Links
 ## Business Ideas Meat Grinder
