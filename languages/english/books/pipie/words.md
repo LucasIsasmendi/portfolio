@@ -324,3 +324,14 @@
 - hemmed: dobladillo
 - canned: enlatad@
 - buzzed: zumbó
+
+## u20-1-`/k/`
+- kettle: tetera
+- mosque: mezquita
+- lanky: larguiruch@
+- tickle: cosquillas
+- wicked: malvad@
+- lacquer: barniz
+- scrape: raspar
+- blackguard: canalla
+- indict: procesar
