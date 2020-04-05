@@ -335,3 +335,16 @@
 - scrape: raspar
 - blackguard: canalla
 - indict: procesar
+
+## u20-2-/g/
+- rugged: escabros@, tosco
+- drag: arrastrar
+- cane: caña, bastón
+- glean: espigar
+- curl: rizo, bucle
+- rag: trapo
+- bicker: disputa
+- sacked: despedid@
+- sagged: hundid@
+- tacked: clavad@
+- tagged: etiquetad@
