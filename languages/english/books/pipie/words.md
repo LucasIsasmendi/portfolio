@@ -348,3 +348,18 @@
 - sagged: hundid@
 - tacked: clavad@
 - tagged: etiquetad@
+
+## u21-1-/f/
+- fall: otoño
+- baffle: deflector
+- puffed: hinchad@
+- muff: manguito
+- sapphire: zafiro
+- tough: dur@
+- cough: tos
+- fin: aleta
+- pine: pino
+- pail: cubo, balde
+- fray: refriega
+- pieced: reconstruid@
+- rift: grieta
