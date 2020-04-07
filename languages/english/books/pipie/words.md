@@ -363,3 +363,20 @@
 - fray: refriega
 - pieced: reconstruid@
 - rift: grieta
+
+## u21-2-/v/
+- vet: veterinario
+- vase: florero
+- base: base
+- vise: tornillo
+- veil: velo
+- bail: fianza
+- bale: bala
+- vale: valle
+- valet: ayudante de cámara
+- bent: doblad@
+- vent: respiradero
+- vest: chaleco
+- marble: mármol
+- marvel: maravilla
+- stiff: rígido
