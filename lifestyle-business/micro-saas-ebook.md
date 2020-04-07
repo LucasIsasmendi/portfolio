@@ -8,7 +8,7 @@ Bootstrapping a profitable SaaS Business.
 [3. Finding Micro-SaaS Ideas](#3-finding-micro-saas-ideas)  
 [4. From Idea to Building a Minimum Viable Product](#4-from-idea-to-minimum-viable-product)  
 [5. Getting Your First Customers](#5-getting-your-first-customers)  
-Chapter 6: Thriving in the Long, Slow, SaaS Grind
+[6. Thriving in the Long, Slow, SaaS Grind](#6-thriving-in-the-long-slow-saas-grind)  
 Chapter 7: Retention & Customer Support as a Solo Founder
 Chapter 8: Micro-SaaS Marketing & Passive Customer Acquisition Channels
 Chapter 9: Going Full-time on your Micro-SaaS
@@ -112,6 +112,40 @@ In my experience, successful Micro-SaaS businesses consistently use one of the f
 - Un-vetted signups: Channels that bring in a random slice of people on the internet should be avoided. Examples: Adwords, Facebook ads, etc
 - SEO tricks
 - Affiliate deals and partnerships
+
+## 6: Thriving in the Long, Slow, SaaS Grind
+[on March 14, 2017](https://tylertringas.com/chapter-6-thriving-in-the-long-slow-saas-grind/)
+
+So you’ve run dozens of ideas through the meat grinder, launched a few that went nowhere. Finally, you launch one that starts to attract paying customers. Congratulations, you’ve made it far farther than most.
+
+What happens next?
+
+Most SaaS businesses will at some point encounter “the long, slow, SaaS ramp of death.” Examples [Baremetrics](https://baremetrics.com/blog/how-we-went-from-weeks-of-cash-left-in-the-bank-to-profitable-in-8-months#.s9mr0jbub)
+
+The power of SaaS is that recurring revenue compounds, eventually yielding a very predictable stream of revenue. But it can take a long time to get there.
+
+### Year 1: From beer money to rent money
+Monthly recurring revenue chugged slowly upward from $150 (beer money) to $2,180 (rent money).
+Setting a limit of something like 15 hours per week is beneficial for a number of reasons:
+- You have set a manageable path for yourself.
+- You will build a tighter, simpler product and customer acquisition funnel.
+- You won’t be tempted to over-fiddle.
+- Parkinson’s Law: form 60 hours per week, 10 will be very productive
+
+Most of the first year of Storemapper I spent refining the customer onboarding process.
+
+### How to keep growing while staying sane
+1. **Don’t compare the hourly rate**: SaaS is much more scalable than consulting and every new referrer can compound nearly infinitely. 
+2. **Become a stoic, mentally walk thru disaster**
+3. **Don’t spend a dime on marketing**: it’s not worth the time and frustration, particularly at this stage of the business.
+4. **Don’t build features until there is a revolt**: Every new feature you build adds an exponentially larger time commitment to supporting and explaining that feature to new customers. Don’t build a feature until a very large number of potential customers refuse to sign up without it, or a large number of existing customers threaten to cancel without it. 
+5. **Don’t Pre-build For Scale.**: If you have issues, email and explain to your customers
+
+### Pitfalls of running a growing side business
+As a side-business starts growing the most important thing is to keep focused and executing on the core business.
+- **Accounting, Bookkeeping, and Legal**: deal when you get “rent money” from your business. Get a basic checking account and bookkeeping started. Once you start to see real traction you can create a simple business entity and open accounts in the business’s name.
+- **Partnerships**: giant waste of time 
+- **Acquisition Offers**: You don't want to keep the business, strategic acquisition. is extremely unlikely you’ll get an attractive enough acquisition offer during this phase of your business to make it worth the time suck of talking to buyers. Much better to spend the time on growing your business.
 
 # Links
 ## Business Ideas Meat Grinder
