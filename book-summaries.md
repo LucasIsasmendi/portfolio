@@ -4,6 +4,7 @@
 **Index**  
 [**1. Business**](#1-business)  
 [The 7 Day Startup by Dan Norris](#the-7-day-startup-by-dan-norris)
+[The 22 Immutable Laws of Marketing by Al Ries and Jack Trout](#the-22-immutable-laws-of-marketing-by-al-ries-and-jack-trout)  
 
 [**5. Philosophy**](#5-philosophy)  
 
@@ -56,6 +57,31 @@
 5. Your marketing methods
 6. Create a spreadsheet that covers the first few months in business, the number of signups, revenue, estimated costs, and monthly growth
 7. Launch and start executing your marketing plan
+
+## The 22 Immutable Laws of Marketing by Al Ries and Jack Trout
+The Law of...
+1. **Leadership**: It’s better to be first than it is better.
+2. **Category**: If you can’t be first in a category, set up a new category you can be first in. You have no competition.
+3. **The Mind**: It’s better to be first in the mind than to be first in the marketplace. 
+4. **Perception**: Marketing is not a battle of products, it’s a battle of perception.
+5. **Focus**: The most powerful concept in marketing is owning a word in the prospect’s mind.
+6. **Exclusivity**: Two companies cannot own the same word in the prospect’s mind.
+7. **The Ladder**: The strategy you use depends on which rung you occupy on the ladder. The higher the better.
+8. **Duality**: In the long run, every market becomes a two-horse race.
+9. **Opposite**: If you’re shooting for second place, your strategy is determined by the leader.
+10. **Diversion**: Over time, a category will divide and become two or more categories. 
+11. **Perspective**: Marketing effects take place over an extended period of time. 
+12. **Line Extension**: There’s an irresistible pressure to extend the equity of the brand.
+13. **Sacrifice**: You have to give up something in order to get something.
+14. **Attributes**: For every attribute, there is an opposite, effective attribute.
+15. **Candor**: When you admit a negative, the prospect will give you a positive.
+16. **Singularity**: In each situation, only one move will produce substantial results.
+17. **Predictability**: Unless you write your competitors’ plans, you can’t predict the future.
+18. **Success**: Success often leads to arrogance, and arrogance to failure.
+19. **Failure**: Failure is to be expected and accepted.  
+20. **Hype**: A situation is often the opposite of the way it appears in the press.
+21. **Acceleration**: Successful programs are not built on fads, they’re built on trends. 
+22. **Resources**: Without adequate funding, an idea won’t get off the ground.
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
