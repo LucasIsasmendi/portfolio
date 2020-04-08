@@ -380,3 +380,10 @@
 - marble: mármol
 - marvel: maravilla
 - stiff: rígido
+
+## u22-/ch,j/
+- chase: persecución
+- lunch: almuerzo
+- Checkers: juego de damas, verificadores
+- jam: mermelada, atasco
+- ajar: entreabierto
