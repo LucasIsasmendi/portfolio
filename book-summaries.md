@@ -7,6 +7,7 @@
 [The 22 Immutable Laws of Marketing by Al Ries and Jack Trout](#the-22-immutable-laws-of-marketing-by-al-ries-and-jack-trout)  
 [Anything You Want by Derek Sivers](#anything-you-want-by-derek-sivers)  
 [Become an Idea Machine by Claudia Azula Altucher](#become-an-idea-machine)  
+[Choose Yourself by James Altucher](#choose-yourself)  
 
 [**5. Philosophy**](#5-philosophy)  
 
@@ -137,6 +138,27 @@ The Law of...
 - Remember: complaining is draining. So I wanted to make better use of that energy rather than fight it
 - And change can only start with us. From within by making sure we are physically, mentally, spiritually and emotionally healthy
 - When an idea has electricity in it you will have no choice but to move into action. And you will love it because it will set your heart on fire
+
+## Choose Yourself
+[summary link](https://www.samuelthomasdavies.com/book-summaries/business/choose-yourself/)
+### The Book in Three Sentences
+1. “The world is changing. No longer is someone coming to hire you, to invest in your company, to sign you, to pick you. It’s up to you to make the most important decision in your life: Choose Yourself”.
+2. “You build a house by laying a solid foundation: by building physical, emotional, mental, and spiritual health”.
+3. “Success comes from continually expanding your frontiers in every direction—creatively, financially, spiritually, and physically. Always ask yourself, what can I improve? Who else can I talk to? Where else can I look?”
+
+### The Five Big Ideas
+1. “In this new era, you have two choices: become a temp staffer (not a horrible choice) or become an artist-entrepreneur”.
+2. “Rejection—and the fear of rejection—is the biggest impediment we face to choosing ourselves”.
+3. “Only think about the people you enjoy. Only read the books you enjoy, that make you happy to be human. Only go to the events that actually make you laugh or fall in love. Only deal with the people who love you back, who are winners and want you to win too”.
+4. “The only skills you need to be an entrepreneur are the ability to fail, to have ideas, to sell those ideas, to execute on them, and to be persistent so even as you fail you learn and move onto the next adventure”.
+5. “Pretend everyone was sent to this planet to teach you”.
+
+### Summary
+- I have to count the things that are abundant in my life. Literally count them. If I don’t they will begin to disappear
+- ‘The learned man aims for more. But the wise man decreases. And then decreases again’
+- This is about a new phase in history where art, science, business, and spirit will join together, both externally and internally, in the pursuit of true wealth
+- Instead of counting sheep to get back to sleep, count all the things you are grateful for. Even the negative parts of your life. Figure out why you should be grateful for them. Try to get up to one hundred
+- Success comes from continually expanding your frontiers in every direction—creatively, financially, spiritually, and physically. Always ask yourself, what can I improve? Who else can I talk to? Where else can I look?
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
