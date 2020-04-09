@@ -5,10 +5,16 @@
 [**1. Business**](#1-business)  
 [The 7 Day Startup by Dan Norris](#the-7-day-startup-by-dan-norris)
 [The 22 Immutable Laws of Marketing by Al Ries and Jack Trout](#the-22-immutable-laws-of-marketing-by-al-ries-and-jack-trout)  
+[Anything You Want by Derek Sivers](#anything-you-want-by-derek-sivers)  
+Become an Idea Machine by Claudia Azula Altucher
 
 [**5. Philosophy**](#5-philosophy)  
 
+[**8. Writing**](#8-writing)  
+
+
 # 1. Business
+[catalog list](https://www.samuelthomasdavies.com/book-summaries/business/)
 
 ## The 7 Day Startup by Dan Norris
 [summary link ](https://www.samuelthomasdavies.com/book-summaries/business/the-7-day-startup/)  
@@ -82,6 +88,35 @@ The Law of...
 20. **Hype**: A situation is often the opposite of the way it appears in the press.
 21. **Acceleration**: Successful programs are not built on fads, they’re built on trends. 
 22. **Resources**: Without adequate funding, an idea won’t get off the ground.
+
+## Anything You Want by Derek Sivers
+[summary link](https://www.samuelthomasdavies.com/book-summaries/business/anything-you-want/)
+
+### The Book in Three Sentences
+1. “Business is not about money. It’s about making dreams come true for others and for yourself”.
+2. “Making a company is a great way to improve the world while improving yourself”.
+3. “Never do anything just for the money”.
+
+### The Five Big Ideas
+1. “Don’t pursue business just for your own gain. Only answer the calls for help”.
+2. “Success comes from persistently improving and inventing, not from persistently promoting what’s not working”.
+3. “You don’t need money to start helping people”.
+4. “The real point of doing anything is to be happy, so do only what makes you happy”.
+5. “When deciding whether to do something, if you feel anything less than ‘Wow! That would be amazing! Absolutely! Hell yeah!’—then say ‘no.’”
+
+### Summary
+- avoid pursue little distractions instead of big dreams.
+- Business is not about money. It’s about making dreams come true for others and for yourself
+- Making a company is a great way to improve the world while improving yourself
+- When you make a company, you make a utopia. It’s where you design your perfect world
+- Never do anything just for the money
+- You can’t please everyone, so proudly exclude people
+- Make yourself unnecessary to the running of your business
+- No plan survives first contact with customers
+- Necessity is a great teacher
+- Never forget that absolutely everything you do is for your customers
+- Never forget why you’re really doing what you’re doing
+- Trust, but verify. Remember it when delegating. You have to do both
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
