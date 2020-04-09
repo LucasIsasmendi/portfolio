@@ -387,3 +387,17 @@
 - Checkers: juego de damas, verificadores
 - jam: mermelada, atasco
 - ajar: entreabierto
+
+## u23-1-/sh/
+- anxious: ansios@
+- chin: barbilla
+- shin: espinilla
+- chop: picar, cortar
+- cheek: mejilla
+- chic: elegante, atractiv@
+- witch: bruja
+- matching: pareo
+- mashing: machacando
+- crutch: muletas
+- crush: persona especial, aplastar, triturar
+
