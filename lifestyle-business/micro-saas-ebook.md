@@ -9,7 +9,7 @@ Bootstrapping a profitable SaaS Business.
 [4. From Idea to Building a Minimum Viable Product](#4-from-idea-to-minimum-viable-product)  
 [5. Getting Your First Customers](#5-getting-your-first-customers)  
 [6. Thriving in the Long, Slow, SaaS Grind](#6-thriving-in-the-long-slow-saas-grind)  
-Chapter 7: Retention & Customer Support as a Solo Founder
+[7. Retention & Customer Support as a Solo Founder](#7-retention--customer-support-as-a-solo-founder)  
 Chapter 8: Micro-SaaS Marketing & Passive Customer Acquisition Channels
 Chapter 9: Going Full-time on your Micro-SaaS
 Chapter 10: From Solo Founder to Micro-SaaS Team
@@ -146,6 +146,61 @@ As a side-business starts growing the most important thing is to keep focused an
 - **Accounting, Bookkeeping, and Legal**: deal when you get “rent money” from your business. Get a basic checking account and bookkeeping started. Once you start to see real traction you can create a simple business entity and open accounts in the business’s name.
 - **Partnerships**: giant waste of time 
 - **Acquisition Offers**: You don't want to keep the business, strategic acquisition. is extremely unlikely you’ll get an attractive enough acquisition offer during this phase of your business to make it worth the time suck of talking to buyers. Much better to spend the time on growing your business.
+
+## 7. Retention & Customer Support as a Solo Founder
+[on July 31, 2017](https://tylertringas.com/chapter-7-retention-customer-support/)  
+
+Churn is the biggest threat to a new Micro-SaaS business. Keeping happy customers with a high retention rate makes every other part of running a Micro-SaaS progressively easier so it is critical to get your support and retention strategy dialed in early on.
+I’ll dive into my favorite tools and introduce the idea of automating empathy: a series of tactics I use for effective, automated, proactive support.
+
+### Why retention is so important
+- **Conversion from free trial to paid users**: intuitive onboarding process and fast, useful answers to common questions. A single unsolved support ticket during the free trial can be enough to tip a potential customer toward a competing app
+- **Churn**: Repeatedly frustrating customer support interactions are a great way to increase the number of customers canceling each month.
+- **Expansion Revenue**: Great support includes surfacing various features of your app at the right moment of need. Premium feature for difficult tasks
+
+High retention rate and great support also have indirect effects on almost every other key metric for your business: lifetime value, reduce customer acquisition cost, increase referrals.
+
+### Customer Support as a Solo Founder is hard
+Good support is critical to onboarding and retaining paying customers.
+
+**The Guiding Principle: Every support ticket is an opportunity**
+your worst customer is the one who signs up for your app, then cancels without ever giving you a word of feedback. Customers who take the time and energy to write you a support email have now taken a vested interest in getting your app to work for them. It’s important to listen to them, ask follow-up questions and not just view the goal as getting the customer from A to B as quickly as possible.
+An apology, done well, is a powerful thing.
+
+### Attitude hacks: Providing great support as a team of one
+- **Don’t use the Royal We**: just use “I” and be exactly what you are. 
+- **Seriously, it’s okay to be honest**: show that you are independent developer or indie hacker
+- **But don’t overshare**: don't explain in technical way, be clear and concise
+- **Apologize often and empathetically**: It’s important to stay zen and apologize frequently. Even if you don’t mean it. Say you’re sorry and repeat back to them how frustrating this must be for them
+- **Do it > Show it > Tell it**: If you can do it on behalf of the user, show the steps (skitch, screenflow). Your medium of last resort should be a long-form written out instructions (Tell it). Your customers are busy and just want to move on as quickly as possible.
+- **Ping customers even when you have no updates**: This kind of little thing is the difference between the adequate support that will retain most customers and excellent support that will turn them into champions of your product.
+
+### The One Weird Trick: Massively over-deliver value
+Providing great support is primarily about beating expectations. High prices often come with high expectations. Raise your prices by 50% and every single new customer now comes with those higher expectations. This can quickly ratchet up the stress level of every support interaction. 
+
+By contrast, keeping your prices low-to-reasonable may leave a little revenue on the table, but allows you to massively over-deliver value.
+
+### Tools of the trade
+The minimum set of tools you need for good customer support breaks down into three simple solutions: a single inbox to queue requests, a way to reuse common responses, and a searchable help desk site.
+- For reusable templates: TextExpander 
+- WordPress “help desk” or “FAQ” theme for FAQs and support articles. Storemapper uses  "KnowHow theme"
+
+Once Storemapper was a little more mature I added Intercom as our primary support tool. But in my opinion, Intercom is overkill until you have enough revenue that you are adding employees to do support.
+
+### Tactics: Automate Empathy
+You want to make each point of friction for your customers incrementally less likely over time. View each ticket support as an opportunity to improve
+- **In-app screencasts**: Any complex page of your app should have a short screencast demonstrating how to use it.
+- **Helpful UI Empty States**: what should you put in the UI when the datasets are empty? Most people use skeleton UI, is elegant but unhelpful. A better idea is to have the empty state show how to fill it up with data.
+- **Custom Onboarding Flow**: series of squeeze pages that shows empty states altogether. This kind of hand-holding onboarding does wonders for getting customers to key milestones in your app where you can begin providing value. Include skip button.
+- **BCC support on critical error emails**: lets you monitor the frequency of errors and at least gives you the opportunity to reach out and help the user.
+- **Better Error Messages**: Humanize the language. Use full sentence structure. Suggest the most common problem. Provide helpful links. Provide one-click way to reach support
+- **Track and trigger off errors key progress metrics**: After some time, errors are not related with the code, but points of failure where something is going wrong in the user experience. Track when users not complete a key milestone
+
+### How to stay sane
+Here are a few tricks I’ve developed for staying sane and productive while handling all your own support tickets.
+- **Last In, Last Answered**: most of customers figure out solutions after some time.
+- **Remember you can only do your best**: If you are doing well, you will generate a support request queue that you can’t satisfy entirely. In some cases explain to customers taht you are just one person and doing your best.
+- **Set a time cap, then get back to product work**: set aside time and energy to work on the product to keep the business moving forward. Work on product first thing and don’t start on support until the afternoon. 
 
 # Links
 ## Business Ideas Meat Grinder
