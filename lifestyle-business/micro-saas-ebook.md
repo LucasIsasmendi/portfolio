@@ -17,7 +17,7 @@ Chapter 11: Strategies for Micro-SaaS at Scale
 Chapter 12: The Micro-SaaS End Game
 
 [**Links**](#links)  
-Business Ideas Meat Grinder
+[Business Ideas Meat Grinder](#business-ideas-meat-grinder)  
 
 ## 1. What is Micro-SaaS and Why Should You Read This?
 [on May 11, 2016](https://tylertringas.com/1-what-is-micro-saas/)  
@@ -205,4 +205,20 @@ Here are a few tricks I’ve developed for staying sane and productive while han
 # Links
 ## Business Ideas Meat Grinder
 [post link](https://tylertringas.com/business-ideas-meat-grinder/)  
+
+First of all you should be coming up with at least five possible business ideas every day. 
+
+Think people around you what are their problems, desires. What do they spend money on. Which of those things are broken or could be done massively better or cheaper or faster. You should be constantly thinking this way. 
+
+The secret to coming up with a successful business idea is putting hundreds of ideas through the meat grinder.
+A note: the meat grinder is not useful if you are looking for genuine moonshot ideas. If you want to build the next Facebook or Tesla by all means ignore this list and chase your dreams. 
+
+Here are some of the basic questions in my meat grinder for business ideas.
+- **Can I make this?**
+- **Are people currently spending money on it?**: skip if they use free tools (or be 10x better), or is an unknown problem.
+- **How will I get the first 25 customers? Then the next 250?**: these numver are for B2B businesses. For consumers, multiply them both by 10x.
+- **If it works, will it be sustainable?**: Make sure that you won’t just be doing a larger company’s R&D work for them.
+- **Am I the person to build this business?**
+
+**Just the beginning**  Building on and refining your meat grinder is the path to finding a profitable business idea. Make it your mission to discard five business ideas per day for a week. If something comes out the other side, and you really just can’t get rid of it. Odds are you’ve got something worth your time. You already know that you can go out and build it, so build a first version and launch it. If it flops, figure out what you can learn from that to improve your meat grinder and get back to grinding.
 
