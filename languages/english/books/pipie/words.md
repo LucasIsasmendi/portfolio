@@ -401,3 +401,5 @@
 - crutch: muletas
 - crush: persona especial, aplastar, triturar
 
+## u23-2-/zh/
+- azure: color azul brillante
