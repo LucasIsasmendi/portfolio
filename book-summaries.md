@@ -8,6 +8,7 @@
 [Anything You Want by Derek Sivers](#anything-you-want-by-derek-sivers)  
 [Become an Idea Machine by Claudia Azula Altucher](#become-an-idea-machine)  
 [Choose Yourself by James Altucher](#choose-yourself)  
+[Contagious by Jonah Berger](#contagious)  
 
 [**5. Philosophy**](#5-philosophy)  
 
@@ -159,6 +160,25 @@ The Law of...
 - This is about a new phase in history where art, science, business, and spirit will join together, both externally and internally, in the pursuit of true wealth
 - Instead of counting sheep to get back to sleep, count all the things you are grateful for. Even the negative parts of your life. Figure out why you should be grateful for them. Try to get up to one hundred
 - Success comes from continually expanding your frontiers in every direction—creatively, financially, spiritually, and physically. Always ask yourself, what can I improve? Who else can I talk to? Where else can I look?
+
+## Contagious
+[summary link](https://www.samuelthomasdavies.com/book-summaries/business/contagious/)
+
+### The Six Big Ideas
+1. People share things that make them look good to others.
+2. Top of mind means tip of the tongue.
+3. When we care, we share.
+4. If something is built to show, it’s built to grow.
+5. People like to pass along practical, useful information. News you can use.
+6. Information travels under the guise of idle chatter.
+
+### The 6 Principles of Virality
+1. Social Currency                
+2. Triggers
+3. Emotion 
+4. Public
+5. Practical Value
+6. Stories   
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
