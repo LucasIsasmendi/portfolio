@@ -9,6 +9,7 @@
 [Become an Idea Machine by Claudia Azula Altucher](#become-an-idea-machine)  
 [Choose Yourself by James Altucher](#choose-yourself)  
 [Contagious by Jonah Berger](#contagious)  
+[Create or Hate by Dan Norris](#create-or-hate)  
 
 [**5. Philosophy**](#5-philosophy)  
 
@@ -179,6 +180,46 @@ The Law of...
 4. Public
 5. Practical Value
 6. Stories   
+
+## Create or Hate
+[summary link](https://www.samuelthomasdavies.com/book-summaries/business/create-or-hate/)  
+- Successful people make things
+- Creativity isn’t about wild talent as much as it’s about productivity. To find a few ideas that work, you need to try a lot that don’t. It’s a pure numbers game.
+- Haters don’t create anything, and instead get caught up in a never-ending cycle of Hate feeding Hate and criticism triumphing over creation
+- Learn how to use your time more productively to free up time for making things
+- Things like single-tasking, smaller projects, tracking your progress, setting goals, doing timed work sessions free of interruption, and adding accountability are all proven methods for maximizing your productivity in a short amount of time.
+- When you have less time, you become more productive. It’s often then that you really start to see where your priorities lie.
+- If you can fail quickly and without worry, you can correct course quicker, improve quicker, learn more, and achieve more
+- Comparison is a major creativity killer.
+- Do more of what you love and you will be more successful.
+
+### Zero Tolerance for Negativity
+- Avoid Negativity in Other People: cut with negative people
+- Avoid Negativity in Yourself: eliminate negative self-talk. Practice self-awareness, gratitude, and empathy on a regular basis.
+
+### Cultivate Self-Awareness
+### Be More Grateful, Be More Creative
+- Having a lack of gratitude will lead directly to negativity
+- Practice gratitude daily
+- Let difficult circumstances trigger gratitude
+- Don’t watch the news
+
+### Empathy Breeds Creativity
+Becoming a more empathic person makes you more understanding, more grateful, less negative, and therefore more creative.
+- Don’t rush into responses and don’t rush to judgment.
+- If you can judge people less, you can understand people better.
+- Notice people who are curious, who don’t just talk about themselves but eagerly want to hear about others.
+- Don’t talk as much. During a conversation, listen more and ask open questions.
+- Create more things
+- Practice reading other people’s emotions. The more you can understand how people express emotions, the more you will understand other people.
+- `If you are an entrepreneur, empathy is your business.`
+
+### Create More Than You Consume
+- Understand that you have two choices: to create something or consume something
+- If you want to be an actively creative person, you have to create more than you consume.
+- Create so much they can’t ignore you
+- `Make your creative projects simpler, and you’ll be more likely to start`
+- Create with others, help others, and creativity will flourish.
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
