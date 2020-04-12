@@ -403,3 +403,34 @@
 
 ## u23-2-/zh/
 - azure: color azul brillante
+
+## u24-1-/s/
+- square: cuadrado
+- leased: arrendad@
+- cell: célula, pila, celda
+- waltz: vals (el baile)
+- tuxedo: esmoquin
+- rink: pista
+- hat: sombrero
+- baths: piscina
+- wasps: avispas
+- grasps: agarra
+- sly: astut@
+- spins: giros
+- sled: trineo
+- corps: cuerpo
+- aisle: pasillo
+- chute: tolva
+- suit: traje
+- sue: demandar
+- sow: sembrar
+- shame: verguenza, lástima
+- sheet: sábana, hoja
+- shock: conmoción
+- sock: calcetín
+- ship: embarcacion
+- sip: sorbo
+- shelf: estante
+- shave: afeitado
+- leash: correa
+- mesh: malla, engrane
