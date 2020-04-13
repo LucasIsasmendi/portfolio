@@ -10,6 +10,7 @@
 [Choose Yourself by James Altucher](#choose-yourself)  
 [Contagious by Jonah Berger](#contagious)  
 [Create or Hate by Dan Norris](#create-or-hate)  
+[Decisive by Chip & Dan Heath](#decisive)  
 
 [**5. Philosophy**](#5-philosophy)  
 
@@ -220,6 +221,43 @@ Becoming a more empathic person makes you more understanding, more grateful, les
 - Create so much they can’t ignore you
 - `Make your creative projects simpler, and you’ll be more likely to start`
 - Create with others, help others, and creativity will flourish.
+
+## Decisive
+### The Five Big Ideas
+1. The four villains of decision making are (1) narrow framing, (2) confirmation bias, (3) short-term emotion, and (4) over-confidence.
+2. Avoid “whether or not” decisions. Instead, consider several options simultaneously.
+3. Ask yourself, “Who else is struggling with a similar problem, and what can I learn from them?”
+4. When gathering good information and reality-testing your ideas, go talk to an expert.
+5. Rather than choose “all” or “nothing,” chose “a little something.”
+
+### Summary
+we are quick to jump to conclusions because we give too much weight to the information that’s right in front of us while failing to consider the information that’s just offstage.
+Narrow framing is see choices in binary terms.
+
+The mnemonic `WRAP` captures the four actions needed to protect you from the four villains:
+- Widen your optins.
+- Reality-test your assumptions.
+- Attain distance before deciding.
+- Prepare to be wrong.
+
+To escape narrow frames, be aware of “whether or not” decisions. Example: “You cannot choose any of the current options you’re considering. What else could you do?”
+
+“Multitracking” involves considering several options simultaneously. 
+
+We need to downplay short-term emotion in favor of long-term values and passions. To do a 10/10/10 analysis, think about a decision on three different time frames: How will you feel about it 10 minutes from now? How about 10 months from now? How about 10 years from now?
+
+When you put these two forces together—the mere-exposure(we like what’s familiar to us) principle and loss aversion(losses are more painful than gains are pleasant.)—what you get is a powerful bias for the way things work today.
+In helping us to make a decision, the single most effective question may be: What would I tell my best friend to do in this situation?
+
+set a timer that goes off once every hour, and when it beeps, we should ask ourselves, “Am I doing what I most need to be doing right now?”
+
+Core priorities are long-term emotional values, goals, aspirations.
+By identifying and enshrining your core priorities, you make it easier to resolve present and future dilemmas. To carve out space to pursue our core priorities, we must go on the offense against lesser priorities.
+
+> By bookending—anticipating and preparing for both adversity and success—we stack the deck in favor of our decisions.
+
+The goal of a tripwire is to jolt us out of our unconscious routines (autopilot) and make us aware that we have a choice to make.
+At some point, the virtue of being persistent turns into the vice of denying reality.
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
