@@ -434,3 +434,26 @@
 - shave: afeitado
 - leash: correa
 - mesh: malla, engrane
+
+## u24-2-/z/
+- xerox: fotocopia
+- exert: ejercer, esforzar
+- zip: Código Postal, cierre
+- loose: suelt@, flojo, a granel
+- lose: perder
+- rice: arroz
+- rise: subir
+- cease: cesar, parar
+- raced: corrió
+- raised: elevad@, criad@
+- grease: grasa , mugre
+- leaves: hojas
+- rides: paseos
+- bruise: moretón, contusión
+- brush: cepillo, pincel
+- grapes: uvas
+- cans: latas
+- radish: rábano
+- peach: durazno
+- britch: calzon
+- sash: faja
