@@ -457,3 +457,9 @@
 - peach: durazno
 - britch: calzon
 - sash: faja
+
+## u25-1-/l/
+- alley: callejón, paseo, bolera
+- halve: reducir a la mitad
+- half: medio
+- salve: ungüento, bálsamo
