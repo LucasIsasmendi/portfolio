@@ -11,6 +11,7 @@
 [Contagious by Jonah Berger](#contagious)  
 [Create or Hate by Dan Norris](#create-or-hate)  
 [Decisive by Chip & Dan Heath](#decisive)  
+[Deep Work by Cal Newport](#deep-work)  
 
 [**5. Philosophy**](#5-philosophy)  
 
@@ -258,6 +259,38 @@ By identifying and enshrining your core priorities, you make it easier to resolv
 
 The goal of a tripwire is to jolt us out of our unconscious routines (autopilot) and make us aware that we have a choice to make.
 At some point, the virtue of being persistent turns into the vice of denying reality.
+
+## Deep Work
+[summary link](https://www.samuelthomasdavies.com/book-summaries/business/deep-work/)
+### The Book in Three Sentences
+1. Deep work is the ability to focus without distraction on a cognitively demanding task.
+2. Shallow work is non-cognitively demanding, logistical-style work, often performed while distracted.
+3. Deep work is like a superpower in our increasingly competitive twenty-first-century economy.
+
+### The Five Big Ideas
+1. In order to produce the absolute best stuff you’re capable of, you need to commit to deep work.
+2. The ability to quickly master hard things and the ability to produce at an elite level, in terms of both quality and speed, are two core abilities for thriving in today’s economy.
+3. “To learn hard things quickly, you must focus intensely without distraction.”
+4. “Your work is craft, and if you hone your ability and apply it with respect and care, then like the skilled wheelwright you can generate meaning in the daily efforts of your professional life.”
+5. “The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration.”
+
+### Summary
+- To learn hard things quickly, you must focus intensely without distraction
+- When you switch from some Task A to another Task B, your attention doesn’t immediately follow—a residue of your attention remains stuck thinking about the original task.
+- To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction
+- Clarity about what matters provides clarity about what does not
+- Human beings, it seems, are at their best when immersed deeply in something challenging
+- You have a finite amount of willpower that becomes depleted as you use it.
+- Your ritual needs to specify a location for your deep work efforts
+#### The Four Disciplines of Execution (4DX)
+1. Focus on the Wildly Important
+2. Act on the Lead Measures: turn your attention to improving the behaviors you directly control in the near future that will then have a positive impact on your long-term goals
+3. Keep a Compelling Scoreboard
+4. Create a Cadence of Accountability
+
+- At the end of the workday, shut down work thinking completely.
+- Deep work training must involve two goals: improving your ability to concentrate intensely and overcoming your desire for distraction.
+- Schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times.
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
