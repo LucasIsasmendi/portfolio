@@ -463,3 +463,19 @@
 - halve: reducir a la mitad
 - half: medio
 - salve: ungüento, bálsamo
+
+## u25-2-/r/
+- race: carrera, raza
+- cozy: acogedor, cómodo
+- cozier: más acojedor
+- liver: hígado
+- raft: balsa
+- bereave: privar, despojar
+- belly: barriga, panza, vientre
+- berry: baya
+- prays: reza
+- clam: almeja
+- cram: atestar
+- fright: susto, espanto
+- pare: cortar, trim (something) by cutting away its outer edges.
+- pair: pareja, par
