@@ -479,3 +479,17 @@
 - fright: susto, espanto
 - pare: cortar, trim (something) by cutting away its outer edges.
 - pair: pareja, par
+
+## u26-1-/m,n/
+- camp: acampar
+- comb: peine
+- climb: escalada, subida, escalar
+- thin: delgad@, flac@, adelgazar
+- gotten: conseguid@
+- mere: mer@
+- dine: cenar
+- hen: gallina
+- lame: coj@, lisiado, flojo
+- lane: carril, calle, divisorias
+- simmer: hervir a fuego lento,fermentar
+- sinner: pecador/a
