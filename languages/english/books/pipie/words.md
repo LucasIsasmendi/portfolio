@@ -493,3 +493,21 @@
 - lane: carril, calle, divisorias
 - simmer: hervir a fuego lento,fermentar
 - sinner: pecador/a
+
+## u26-2-`/ŋ/`
+- hanger: percha
+- belonged: pertenecía
+- tangle: enredo, maraña, lío
+- sinking: hundimiento, amortización
+- rim: borde
+- rum: ron, extraño
+- sum: suma, total, cantidad
+- swin: nadar
+- swing: columpio
+- swinger: mundan@
+- singer: cantante
+- sang: cantó
+- fang: colmillo
+- fan: ventilador, admirador
+- stun: aturdir
+- stung: picad@
