@@ -511,3 +511,24 @@
 - fan: ventilador, admirador
 - stun: aturdir
 - stung: picad@
+
+## u27-/θ,ð/
+- truthful: veraz
+- wealthy: ric@, adinerado
+- births: nacimientos
+- width: anchura
+- depth: profundidad
+- length: longuitud
+- breadth: amplitud, ancho
+- oath: juramento
+- ruthless: despiadad@
+- uncouth: tosc@
+- sought: buscad@
+- thought: pensamiento
+- sank: se hundió
+- thumb: pulgar
+- seem: parecer
+- seam: costura
+- miss: señorita, perder
+- truce: tregua
+
