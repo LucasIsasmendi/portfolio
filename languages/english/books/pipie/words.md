@@ -512,7 +512,7 @@
 - stun: aturdir
 - stung: picad@
 
-## u27-/θ,ð/
+## u27-1-`/θ/`
 - truthful: veraz
 - wealthy: ric@, adinerado
 - births: nacimientos
@@ -531,4 +531,31 @@
 - seam: costura
 - miss: señorita, perder
 - truce: tregua
+
+## u27-2-`/ð/`
+- those: aquell@s
+- lather: espuma
+- bathe: bañarse
+- breathe: respirar
+- soothed: calmad@ // soothe: calmar, aliviar
+- loathes: detesta, odia
+- seethed: enfurecido // seethe: hervir, bullir, enfurecer
+- leather: cuero
+- dare: atrevimiento
+- dough: masa, pasta
+- den: guarida
+- ladder: escalera
+- wetter: mas mojad@
+- weather: clima
+- whether: ya sea
+- letter: letra, carta
+- utter: pronunciar
+- udder: ubre
+- fodder: forraje, pasto
+- mutter: murmurar
+- writhing: retorciéndose
+- breed: raza, casta, criar, educar, reproducirse, engendrar
+- sued: demandad@
+- skating: patinaje
+- scathing: mordaz, cáustico 
 
