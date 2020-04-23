@@ -12,6 +12,7 @@
 [Create or Hate by Dan Norris](#create-or-hate)  
 [Decisive by Chip & Dan Heath](#decisive)  
 [Deep Work by Cal Newport](#deep-work)  
+[Digital Minimalism by Cal Newport](#digital-minimalism)  
 
 [**5. Philosophy**](#5-philosophy)  
 
@@ -291,6 +292,30 @@ At some point, the virtue of being persistent turns into the vice of denying rea
 - At the end of the workday, shut down work thinking completely.
 - Deep work training must involve two goals: improving your ability to concentrate intensely and overcoming your desire for distraction.
 - Schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times.
+
+## Digital Minimalism
+Digital Minimalism is a philosophy of technology in which you focus your online time on a few carefully selected activities that support the things you value.
+
+### The Five Big Ideas
+1. focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else
+2. Digital Declutter: A practice in which you define your technology rules, take a thirty-day break, and reintroduce technology.
+3. Solitude Deprivation: A state in which you spend close to zero time alone with your own thoughts and free from input from other minds.
+4. The Social Media Paradox: Social media makes you feel both connected and lonely, happy and sad. 
+5. The Bennett Principle: A practice in which you prioritize demanding activity over passive consumption
+
+### Summary
+- checking “likes” is the new smoking.
+- Tech companies encourage behavioral addiction through:
+  - Intermittent positive reinforcement; and
+  - The drive for social approval.
+- Minimalists don’t mind missing out on small things,
+- trying to learn and apply one new skill every week, over a period of six weeks.
+- The “attention economy” describes the business sector that makes money gathering consumers’ attention and then repackaging and selling it to advertisers. To join The Attention Resistance:
+- Delete social media from your phone;
+- Turn your devices into single-purpose computers;
+- Use social media like a professional;
+- Embrace slow media; and
+- Dumb down your smartphone.
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
