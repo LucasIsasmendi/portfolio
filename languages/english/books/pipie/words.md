@@ -559,3 +559,12 @@
 - skating: patinaje
 - scathing: mordaz, cáustico 
 
+## u28-/h/
+- hay: heno
+- mahogany: caoba
+- preheat: precalentar
+- whole: tod@, entero, total
+- hutch: conejera, jaula
+- herb: hierba
+- heir: heredero
+- shepherd: pastor/a
