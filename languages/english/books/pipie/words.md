@@ -568,3 +568,23 @@
 - herb: hierba
 - heir: heredero
 - shepherd: pastor/a
+
+## u29-1-`/w/`
+- whistle: silbar, pitar
+- awhile: un rato, un momento
+- whom: quien
+- whose: cuyo
+- whole: entero, todo
+- sword: espada
+- toward: hacia
+- vine: vid, parra
+- wine: vino
+- vary: variar
+- wary: cautelos@
+- wheel: rueda, volante, timón
+- weigh: peso
+- vow: voto, promesa, juramento
+- wow: guau!
+- vile: vil, infame, detestable
+- veer: virar, girar, cambiar
+- west: oeste, occidente
