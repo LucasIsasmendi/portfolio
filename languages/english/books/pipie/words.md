@@ -588,3 +588,17 @@
 - vile: vil, infame, detestable
 - veer: virar, girar, cambiar
 - west: oeste, occidente
+
+## u29-2-`/y/`
+- youth: juventud
+- jeer: burla
+- jello: gelatina
+- major: mayor
+- mayor: alcalde/sa
+- yam: batata
+- yoke: orquilla, yunta
+- jet: chorro
+- yet: todavía, aún
+- yell: grito, chillido
+- jot: jota
+- yacht: yate, velero
