@@ -602,3 +602,6 @@
 - yell: grito, chillido
 - jot: jota
 - yacht: yate, velero
+
+## u30-/double consonants/
+- pup: cachorro, perrito
