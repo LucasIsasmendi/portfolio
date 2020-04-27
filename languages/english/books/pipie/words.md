@@ -1,7 +1,7 @@
 # Words
 - [p1 English Vowels Sounds](#p1-english-vowels-sounds)
 - [p2 English Consonants Sounds](#p2-english-consonants-sounds)
-- 
+- [p3 Stress Patterns](#p3-stress-patterns)
 
 # p1 English Vowels Sounds
 `/ə/`
@@ -605,3 +605,9 @@
 
 ## u30-/double consonants/
 - pup: cachorro, perrito
+
+# p3 Stress Patterns
+## u32.1 - two-syllable words
+- folded: doblada
+- seated: sentad@
+- nephew: sobrino
