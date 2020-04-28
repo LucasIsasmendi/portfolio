@@ -611,3 +611,35 @@
 - folded: doblada
 - seated: sentad@
 - nephew: sobrino
+
+## u32.2 - introducing second stress
+- makeup: maquillaje
+- landlord: propietario, dueño
+- blackmail: chantaje
+- downgrade: degradar
+- kidnap: secuestrar
+- barefoot: descalz@
+- carefree: despreocupad@
+- foremost: principal, primero
+- homesick: nostálgic@
+- newborn: recién nacid@
+- withdraw: retirar
+- cashier: cajer@
+- retell: volver a encontrar
+- reword: expresar en otras palabras
+
+### phrasal verbs
+- back off: apártate
+- call off: cancelar
+- dream up: inventar
+- give up: rendirse
+- give in: ceder
+- hand in: entregar
+- hand out: repartir
+- leave out: dejar
+- put off: posponer
+- take in: tomar
+- take out: eliminar
+- take off: quitarse
+- use up: úsalo
+- wind up: terminar
