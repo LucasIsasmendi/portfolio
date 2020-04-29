@@ -13,7 +13,7 @@
 [Decisive by Chip & Dan Heath](#decisive)  
 [Deep Work by Cal Newport](#deep-work)  
 [Digital Minimalism by Cal Newport](#digital-minimalism)  
-
+[The Dip by Seth Godin](#the-dip)  
 [**5. Philosophy**](#5-philosophy)  
 
 [**8. Writing**](#8-writing)  
@@ -316,6 +316,33 @@ Digital Minimalism is a philosophy of technology in which you focus your online 
 - Use social media like a professional;
 - Embrace slow media; and
 - Dumb down your smartphone.
+
+## The Dip
+> The Extraordinary Benefits of Knowing When to Quit (and When to Stick) by Seth Godin
+
+### in 3 Sentences
+1. Winners quit the right stuff at the right time.
+2. People settle for good enough instead of best in the world.
+3. Being well rounded is not the secret to success.
+
+### 5 Big Ideas
+1. “To be a superstar, you must do something exceptional. Not just survive the Dip, but use the Dip as an opportunity to create something so extraordinary that people can’t help but talk about it, recommend it, and, yes, choose it.”
+2. “The next time you catch yourself being average when you feel like quitting, realize that you have only two good choices: Quit or be exceptional. Average is for losers.”
+3. “Winners understand that taking that pain now prevents a lot more pain later.”
+4. “The decision to quit or not is a simple evaluation: Is the pain of the Dip worth the benefit of the light at the end of the tunnel?”
+5. Quitting as a short-term strategy is a bad idea. Quitting for the long term is an excellent idea because it frees you up to excel at something else.
+
+### Summary
+- Extraordinary benefits accrue to the tiny minority of people who are able to push just a tiny bit longer than most.
+- Quit the wrong stuff. Stick with the right stuff. Have the guts to do one or the other
+- With limited time or opportunity to experiment, we intentionally narrow our choices to those at the top
+- The Dip is the long slog between starting and mastery. A long slog that’s actually a shortcut, because it gets you where you want to go faster than any other path
+- The Dip creates scarcity; scarcity creates value.
+- It’s not enough to survive your way through this Dip. You get what you deserve when you embrace the Dip and treat it like the opportunity that it really is.
+- Quitting when you hit the Dip is a bad idea. If the journey you started was worth doing, then quitting when you hit the Dip just wastes the time you’ve already invested.
+- If you can’t make it through the Dip, don’t start.
+- Selling is about a transference of emotion, not a presentation of facts. 
+- If you’re not able to get through the Dip in an exceptional way, you must quit. And quit right now.
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
