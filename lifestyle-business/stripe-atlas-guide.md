@@ -3,6 +3,8 @@
 [source link](https://stripe.com/atlas/guides)
 
 - [Writing copy for landing pages](#writing-copy-for-landing-pages)
+- [Email marketing for e-commerce](#email-marketing-for-e-commerce)   
+- Your first ten customers 
 
 ## Writing copy for landing pages
 > Write copy that delights visitors, persuades prospects, and wins customers
@@ -52,3 +54,30 @@ Landing page copy is an underleveraged, powerful tool. Done right, it builds bra
 
 [No Time](https://stripe.com/atlas/guides/landing-page-copy#quick-wins-for-better-landing-page-copy)
 [Time](https://stripe.com/atlas/guides/landing-page-copy#the-foundational-elements-of-effective-landing-page-copy)
+
+## Email marketing for e-commerce 
+[post](https://stripe.com/atlas/guides/email-marketing-ecommerce)
+
+> Send the right email to the right customer at the right time
+
+### Using triggered emails
+where you put tagging and segmenting to good use.
+re-engage subscribers who aren't taking action any longer
+Order confirmation. Request a review. Promotional offers. 
+
+### Reduce cart abandonment
+### Tag & segment your customers
+### 10x your customer communications
+Tags are a great way to segment your audience according to their engagement, buying status, product purchase and much more.
+- Prospect: For people who have not yet purchased
+- Customer: For one- time purchasers
+- Repeat-customer: For people who have bought more than once
+- High-Value: For customers that spend over $X in your store
+- Product-specific: For customers interested in or purchasing a certain type of product
+
+### Supercharge your sales with segmenting
+### Writing subject lines that convert
+Be useful, Make them curious, Get personal, Comparison shop, Request reciprocity, 
+## Your first ten customers
+[post](https://stripe.com/atlas/guides/starting-sales#how-should-you-communicate-with-customers)
+
