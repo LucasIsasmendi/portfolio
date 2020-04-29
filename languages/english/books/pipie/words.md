@@ -643,3 +643,10 @@
 - take off: quitarse
 - use up: úsalo
 - wind up: terminar
+
+## u33 - three or more syllable
+- affectionately: afectuosamente
+- tablecloth: manteles
+- beautician: cosmetólog@
+- outstanding: excepcional, sobresaliente
+- auctioneer: subastador/a
