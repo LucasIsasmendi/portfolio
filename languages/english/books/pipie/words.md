@@ -659,3 +659,6 @@
 - antifreeze: anticongelante
 - automat: aparato mecanico
 - counterpoint: contrapunto
+
+## u36 suffixes
+- scholastic: escolar
