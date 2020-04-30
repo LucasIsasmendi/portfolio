@@ -653,3 +653,9 @@
 
 ## u34 - one-syllable prefixes
 - sublet: subarrendar
+
+## u35 - two-syllable prefixes
+- antedate: preceder en el tiempo
+- antifreeze: anticongelante
+- automat: aparato mecanico
+- counterpoint: contrapunto
