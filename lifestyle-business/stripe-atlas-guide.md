@@ -78,6 +78,9 @@ Tags are a great way to segment your audience according to their engagement, buy
 ### Supercharge your sales with segmenting
 ### Writing subject lines that convert
 Be useful, Make them curious, Get personal, Comparison shop, Request reciprocity, 
+
 ## Your first ten customers
-[post](https://stripe.com/atlas/guides/starting-sales#how-should-you-communicate-with-customers)
+[original post](https://stripe.com/atlas/guides/starting-sales#how-should-you-communicate-with-customers)
+
+[Summary indie-hackers/start](./indie-hackers/start.md#your-first-ten-customers)
 
