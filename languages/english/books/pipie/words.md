@@ -650,3 +650,6 @@
 - beautician: cosmetólog@
 - outstanding: excepcional, sobresaliente
 - auctioneer: subastador/a
+
+## u34 - one-syllable prefixes
+- sublet: subarrendar
