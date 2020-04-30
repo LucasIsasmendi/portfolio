@@ -14,6 +14,8 @@
 [Deep Work by Cal Newport](#deep-work)  
 [Digital Minimalism by Cal Newport](#digital-minimalism)  
 [The Dip by Seth Godin](#the-dip)  
+[Do The Work by Steven Pressfield](#do-the-work)  
+
 [**5. Philosophy**](#5-philosophy)  
 
 [**8. Writing**](#8-writing)  
@@ -343,6 +345,42 @@ Digital Minimalism is a philosophy of technology in which you focus your online 
 - If you can’t make it through the Dip, don’t start.
 - Selling is about a transference of emotion, not a presentation of facts. 
 - If you’re not able to get through the Dip in an exceptional way, you must quit. And quit right now.
+
+## Do The Work
+> Overcome Resistance and Get Out of Your Own Way
+### Three Sentences
+1. Resistance is what prevents us from doing our best work.
+2. The more important a call or action is to, the more Resistance we will feel toward pursuing it.
+3. The worst thing we can do is to stop once we’ve started.
+
+### Five Ideas
+1. “The warrior and the artist live by the same code of necessity, which dictates that the battle must be fought anew every day.”
+2. Our mightiest ally (our indispensable ally) is the belief in something we cannot see, hear, touch, taste, or feel.
+3. “When we conquer our fears, we discover a boundless, bottomless, inexhaustible well of passion.”
+4. “We can never eliminate Resistance. It will never go away. But we can outsmart it, and we can enlist allies that are as powerful as it is.”
+5. “Research can be fun. It can be seductive. That’s its danger. We need it, we love it. But we must never forget that research can become Resistance.”
+
+### Summary
+- Resistance is a repelling force. It’s negative. Its aim is to shove us away, distract us, prevent us from doing our work.
+- Prepare yourself to make new friends. They will appear, trust me.
+- Ignorance and arrogance are the artist and entrepreneur’s indispensable allies.
+- Don’t think. Act. We can always revise and revisit once we’ve acted. But we can accomplish nothing until we act.
+- You’re allowed to read three books on your subject. No more.
+- Let the unconscious do its work.
+- Research can become Resistance. We want to work, not prepare to work.
+- Get your idea down on paper. You can always tweak it later.
+- Figure out where you want to go; then work backward from there.
+- We can never eliminate Resistance. It will never go away. But we can outsmart it, and we can enlist allies that are as powerful as it is.
+- Do research early or late. Don’t stop working. Never do research in prime working time.
+- Only one thing matters in this initial draft: get SOMETHING done, however flawed or imperfect. You are not allowed to judge yourself.
+- Stay stupid. Follow your unconventional, crazy heart.
+- Ideas come according to their own logic. That logic is not rational. It’s not linear. We may get the middle before we get the end. We may get the end before we get the beginning. Be ready for this. Don’t resist it.
+- Forget rational thought. Play. Play like a child.
+- Our job is not to control our idea; our job is to figure out what our idea is (and wants to be)—and then bring it into being.
+- Ask yourself what’s missing. Then fill that void.
+- You are not to blame for the voices of Resistance you hear in your head.
+- Our greatest fear is fear of success
+- When we experience panic, it means that we’re about to cross a threshold. We’re poised on the doorstep of a higher plane.
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
