@@ -662,3 +662,6 @@
 
 ## u36 suffixes
 - scholastic: escolar
+
+## u37 - sentence stress
+## u37-2 - sentence stress practice
