@@ -2,6 +2,7 @@
 - [p1 English Vowels Sounds](#p1-english-vowels-sounds)
 - [p2 English Consonants Sounds](#p2-english-consonants-sounds)
 - [p3 Stress Patterns](#p3-stress-patterns)
+- [p4 Intonation Patterns](#p4-intonation-patterns)
 
 # p1 English Vowels Sounds
 `/ə/`
@@ -665,3 +666,10 @@
 
 ## u37 - sentence stress
 ## u37-2 - sentence stress practice
+
+# p4 Intonation Patterns
+## u38 - greetings
+## u39 - statements
+## u40 - questions
+## u41 - counting and listing
+## u42 - options
