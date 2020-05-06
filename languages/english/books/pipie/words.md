@@ -3,6 +3,7 @@
 - [p2 English Consonants Sounds](#p2-english-consonants-sounds)
 - [p3 Stress Patterns](#p3-stress-patterns)
 - [p4 Intonation Patterns](#p4-intonation-patterns)
+- [p5 Appendix](#p5-appendix)
 
 # p1 English Vowels Sounds
 `/ə/`
@@ -673,3 +674,20 @@
 ## u40 - questions
 ## u41 - counting and listing
 ## u42 - options
+
+# p5 Appendix
+## u43 - practice in context
+
+## u44 - practice [ə-ɪ-u]
+- ajar: entreabierto, entornado
+- fig: higo
+- gin: ginebra
+- guild: gremio, cofradía
+- quilt: edredón, colcha
+- cymbal: platillo
+- nymph: ninfa
+- cushion: amortiguar, acolchonar, usar un cojín
+- pudding: pudín, budín, postre
+- rook: la torre, estafar
+- wool: lana
+
