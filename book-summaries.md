@@ -3,7 +3,7 @@
 
 **Index**  
 [**1. Business**](#1-business)  
-[The 7 Day Startup by Dan Norris](#the-7-day-startup-by-dan-norris)
+[The 7 Day Startup by Dan Norris](#the-7-day-startup-by-dan-norris)  
 [The 22 Immutable Laws of Marketing by Al Ries and Jack Trout](#the-22-immutable-laws-of-marketing-by-al-ries-and-jack-trout)  
 [Anything You Want by Derek Sivers](#anything-you-want-by-derek-sivers)  
 [Become an Idea Machine by Claudia Azula Altucher](#become-an-idea-machine)  
@@ -17,6 +17,11 @@
 [Do The Work by Steven Pressfield](#do-the-work)  
 
 [**5. Philosophy**](#5-philosophy)  
+[A Manual For Living by Epictetus](#a-manual-for-living-by-epictetus)  
+[The Good Life Handbook by Epictetus](#the-good-life-handbook)  
+
+[**7. Self-Help**](#7-self-help)  
+[The 7 Habits of Highly Effective People](#the-7-habits-of-highly-effective-people-by-stephen-r-covey)  
 
 [**8. Writing**](#8-writing)  
 
@@ -403,6 +408,36 @@ Digital Minimalism is a philosophy of technology in which you focus your online 
 - You can be invincible if you never enter on a contest where victory is not in your power. 
 - when anyone makes you angry, know that it is your own thought that has angered you.
 - No one shall harm you, without your consent; you will only be harmed, when you think you are harmed.
+
+## The Good Life Handbook
+### Three Sentences
+1. There are things over which we have complete control and things over which we have no control at all.
+2. If you think you can control things over which you have no control, then you will be hindered and disturbed.
+3. If you desire and avoid only those things that are under your control, then you will not feel victimized by things you dislike.
+
+### Five Big Ideas
+1. Focus on the things over which you have control.
+2. Welcome everything that happens in life.
+3. You have all the resources you need to overcome challenges.
+4. You cannot lose anything you don’t own, to begin with.
+5. Always conduct yourself as though you are at a formal dinner.
+
+### Summary
+- What things are under your total control? What you believe, what you desire or hate, and what you are attracted to or avoid.
+- Select carefully what you want to choose and what you want to refuse. Be disciplined and detached while making the choice.
+- When you blame others for your negative feelings, you are being ignorant. When you blame yourself for your negative feelings, you are making progress. You are being wise when you stop blaming yourself or others.
+- Don’t wish for things to happen the way you would like them to. Rather, welcome whatever happens. This is the path to peace, freedom, and happiness.
+- If you practice attributing the correct source to problems you face, whatever happens, you will soon find that nothing that happens outside of you pertains to you.
+- What you lose is what you pay for your peace of mind.
+- It is essential not to respond to impressions impulsively. Take some time before reacting. You will see you are in better control.
+- Compared to death, none of the things you face in life is important enough to worry about.
+- If you decide to live by lofty principles, be prepared to be laughed at by others.
+- Learn to accept whatever happens.
+- While you should take care of your body, you should spend most of your time taking care of your mind.
+- Not judging others too quickly will save you from misperceiving their actions.
+- If you have chosen a simple life, don’t make a show of it. If you want to practice simplicity, do so quietly and for yourself, not for others.
+- Decide that you are an adult, and you are going to devote the rest of your life to making progress. Stick closely to what is best. If you are distracted by pleasure or pain, glory or disrepute, realize that the time is now. The game has started and waiting any further is not an option. Win or lose will be decided today. Use reason to meet every challenge.
+
 
 # 6. Psychology
 ## 59 Seconds by Richard Wiseman
