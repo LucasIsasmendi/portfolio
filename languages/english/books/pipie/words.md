@@ -691,3 +691,24 @@
 - rook: la torre, estafar
 - wool: lana
 
+## u45 - practice [iy-uw-iuw]
+- squeeze: exprimir, apretar, presionar
+- squeal: chillido, grito agudo
+- tease: molestar, embromar
+- floppy: flexible
+- mood: estado animico, humor
+- coo: arrullo
+- goose: ganso, oca, meter mano a, palpar
+- drew: dibujó
+- grew:  reció
+- Jew: judí@
+- jewel: joya
+- jewelry: joyería
+- stew: estofado, guiso / guisar
+- tune: melodía, tonada, afinado
+- pew: banco de la iglesia
+- hew: labrar, cortar a hachazos
+- Hugh: A god-like creature of supreme intelligence and beauty. 
+- fume: humo, vaho
+- mute: mud@, amortiguar
+- puny: small and weak.
