@@ -71,7 +71,7 @@
 - buck: dolar
 - putt: golpe corto
 - cud: rumia
-- tough: dur@
+- tough: dur@, difícil, resistente
 
 ### u8-`/ɛ/`
 - meadow: prado
@@ -357,7 +357,6 @@
 - puffed: hinchad@
 - muff: manguito
 - sapphire: zafiro
-- tough: dur@
 - cough: tos
 - fin: aleta
 - pine: pino
@@ -712,3 +711,37 @@
 - fume: humo, vaho
 - mute: mud@, amortiguar
 - puny: small and weak.
+
+## u46 - practice `/ʌ/ɛ/ow/owr/oiy`
+- dove: paloma
+- shove: empujón
+- ton: tonelada
+- bun: bollo, moño
+- ugh: used to express disgust or horror.
+- bend: curva, doblar
+- crept: deslizar, arrastrarse, reptar
+- mend: remiendo, arreglar
+- regret: lamentar, pesar, arrepentirse de
+- leapt: saltad@, brincad@
+- stead: lugar, the place or role that someone or something should have or fill 
+- tread: huella, pisada, paso
+- jeopardy: peligro, danger of loss, harm, or failure.
+- loaf: haraganear, pan
+- boulder: roca
+- although: a pesar de que, aunque
+- dough: masa, pasta, guita
+- tow: remolcar
+- mow: cortar (cesped), segar
+- foe: enemig@, rival
+- toe: dedo del pie
+- gore: sangre, cornear
+- tore: rasgó
+- dork: idiota
+- worn: desgastad@
+- boor: patán
+- wart: verruga
+- court: corte, juzgado, tribunal
+- hoard: acumular, atesorar, acaparar. Amass (money or valued objects) and hide or store away.
+- roar: rugido, estruendo
+- groin: ingle
+- loin: lomo
