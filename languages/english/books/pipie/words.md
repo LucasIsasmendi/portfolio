@@ -146,7 +146,7 @@
 - steer: dirigir
 - stare: mirar fijamente
 - fair: justo
-- fare: tarifa
+- fare: tarifa, pasaje, comida
 - hear: oír
 - ear: oreja
 - tier: nivel
@@ -361,7 +361,7 @@
 - fin: aleta
 - pine: pino
 - pail: cubo, balde
-- fray: refriega
+- fray: refriega, lucha, combate, deshilachar, desgastar
 - pieced: reconstruid@
 - rift: grieta
 
@@ -386,7 +386,7 @@
 - chase: persecución
 - lunch: almuerzo
 - Checkers: juego de damas, verificadores
-- jam: mermelada, atasco
+- jam: mermelada, atasco, squeeze or pack tightly into a specified space.
 - ajar: entreabierto
 
 ## u23-1-/sh/
@@ -745,3 +745,22 @@
 - roar: rugido, estruendo
 - groin: ingle
 - loin: lomo
+
+## u47 - practice `/eə/eiy/`
+- van: camioneta, furgoneta
+- glare: destello, mirada penetrante
+- crate: caja, jaula
+- crave: pedir, implorar
+- staple: grapa
+- clay: arcilla
+- refrain: estribillo, abstenerse
+- stain: manchar, teñir
+- grey/gray: gris UK/US
+- whey: suero de leche
+- buffet: cantina, abofetear
+- feign: fingir, aparentar
+- freight: carga, mercancías, flete
+- weight : weigh??
+- prey: presa, victima
+- plane: avión
+- plain: llanura, planicie, lisa y llanamente
