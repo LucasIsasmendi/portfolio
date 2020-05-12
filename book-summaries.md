@@ -22,6 +22,7 @@
 
 [**7. Self-Help**](#7-self-help)  
 [The 7 Habits of Highly Effective People](#the-7-habits-of-highly-effective-people-by-stephen-r-covey)  
+[Awaken The Giant Within by Anthony Robbins](#awaken-the-giant-within-by-anthony-robbins)  
 
 [**8. Writing**](#8-writing)  
 
@@ -474,6 +475,42 @@ Digital Minimalism is a philosophy of technology in which you focus your online 
 - Proactive people focus their efforts in the Circle of Influence.
 
 A good affirmation has five basic ingredients: personal, positive, present tense, visual, emotional.
+
+## Awaken The Giant Within by Anthony Robbins
+### 3 Sentences
+1. “Any time you sincerely want to make a change, the first thing you must do is to raise your standards and believe you can meet them”.
+2. “We must change our belief system and develop a sense of certainty that we can and will meet the new standards before we actually do”.
+3. “It’s not what we do once in a while that shapes our lives, but what we do consistently”.
+
+### 5 Ideas
+1. “The three decisions that control your destiny are: 1. What to focus on. 2. what things mean to you. 3. what to do to create the results you desire”.
+2. “By changing any one of these five elements—whether it’s a core belief or rule, a value, a reference, a question, or an emotional state—you can immediately produce a powerful and measurable change in your life”.
+3. “Everything you and I do, we do either out of our need to avoid pain or our desire to gain pleasure”.
+4. “It’s not the events of our lives that shape us, but our beliefs as to what those events mean”.
+5. “Focus on where you want to go, not on what you fear”.
+
+### Summary
+- If you don’t set a baseline standard for what you’ll accept in your life, you’ll find it’s easy to slip into behaviors and attitudes or a quality of life that’s far below what you deserve
+- Making a true decision means committing to achieving a result, and then cutting yourself off from any other possibility
+- In order to succeed, you must have a long-term focus
+- Make decisions often and learn from them
+- Ask yourself, ‘What’s good about this? What can I learn from this?
+- Stay committed to your decisions, but stay flexible in your approach
+- Most of us base our decisions about what to do on what’s going to create pain or pleasure in the short term instead of the long term
+- It’s not the events of our lives that shape us, but our beliefs as to what those events mean
+- If you develop the absolute sense of certainty that powerful beliefs provide, then you can get yourself to accomplish virtually anything, including those things that other people are certain are impossible
+- The way to expand our lives is to model the lives of those people who are already succeeding. 
+- There are three specific beliefs about responsibility that a person must have if they’re going to create long-term change: Something must change, I must change it, I can change it
+- So often we blame the wrong cause, and thereby close ourselves off from possible solutions
+- A genuine quality of life comes from consistent, quality questions
+- The words you habitually choose also affect how you communicate with yourself and therefore what you experience
+- Simply by changing your habitual vocabulary—the words you consistently use to describe the emotions of your life—you can instantaneously change how you think, how you feel, and how you live
+- Many people know what they want to have, but have no idea of who they want to be
+- Anytime you have difficulty making an important decision, you can be sure that it’s the result of being unclear about your values
+- If you ever feel angry or upset with someone, remember, it’s your rules that are upsetting you, not their behavior
+- Design your rules so that you’re in control, so that the outside world is not what determines whether you feel good or bad. Set it up so that it’s incredibly easy for you to feel good, and incredibly hard to feel bad
+- Limited references create a limited life. If you want to expand your life, you must expand your references by pursuing ideas and experiences that wouldn’t be a part of your life if you didn’t consciously seek them out
+- As we develop new beliefs about who we are, our behavior will change to support the new identity
 
 # 8. Writing
 - [100 Ways to Improve Your Writing by Gary Provost](https://www.samuelthomasdavies.com/book-summaries/writing/100-ways-to-improve-your-writing/)
