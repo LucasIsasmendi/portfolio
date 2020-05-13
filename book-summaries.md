@@ -15,6 +15,7 @@
 [Digital Minimalism by Cal Newport](#digital-minimalism)  
 [The Dip by Seth Godin](#the-dip)  
 [Do The Work by Steven Pressfield](#do-the-work)  
+[Drive by Daniel H. Pink](#drive-by-daniel-h-pink)  
 
 [**5. Philosophy**](#5-philosophy)  
 [A Manual For Living by Epictetus](#a-manual-for-living-by-epictetus)  
@@ -387,6 +388,21 @@ Digital Minimalism is a philosophy of technology in which you focus your online 
 - You are not to blame for the voices of Resistance you hear in your head.
 - Our greatest fear is fear of success
 - When we experience panic, it means that we’re about to cross a threshold. We’re poised on the doorstep of a higher plane.
+
+## Drive by Daniel H. Pink
+> The Surprising Truth About What Motivates Us
+
+### 3 Sentences
+The carrot and stick approach to motivation is flawed.
+
+### 5 Ideas
+1. extrinsic rewards can be effective for algorithmic tasks
+2. We have three innate psychological needs—competence, autonomy, and relatedness.
+3. The new approach to motivation has three essential elements: (1) Autonomy—the desire to direct our own lives; (2) Mastery—the urge to get better and better at something that matters; and (3) Purpose—the yearning to do what we do in the service of something larger than ourselves.
+
+### Summary
+- When money is used as an external reward for some activity, the subjects lose intrinsic interest for the activity.
+- Rewards, by their very nature, narrow our focus. That’s helpful when there’s a clear path to a solution. They help us stare ahead and race faster. But “if-then” motivators are terrible for challenges like the candle problem. As this experiment shows, the rewards narrowed people’s focus and blinkered the wide view that might have allowed them to see new uses for old objects.
 
 # 5. Philosophy
 ## A Manual For Living by Epictetus
