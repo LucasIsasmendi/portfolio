@@ -170,7 +170,7 @@
 
 ### u13-`/ɔ/`
 - caught: atrapad@
-- lawn: cesped
+- lawn: cesped, pasto
 - cough: tos
 - faucet: canilla
 - cuff: brazalete
@@ -352,7 +352,7 @@
 - tagged: etiquetad@
 
 ## u21-1-/f/
-- fall: otoño
+- fall: otoño, caída, descenso
 - baffle: deflector
 - puffed: hinchad@
 - muff: manguito
@@ -764,3 +764,44 @@
 - prey: presa, victima
 - plane: avión
 - plain: llanura, planicie, lisa y llanamente
+
+## u48 - practice `/ɔ/æ/`
+- prong: dientes de un tenedor
+- mall: centro comercial
+- caucus: junta politica
+- daunt: acobardar, desalentar, intimidar
+- gaunt: flaco, demacrad@, especially because of suffering, hunger, or age.
+- jaundice: ictericia, a medical condition with yellowing of the skin or whites of the eyes
+- jaunt: excursión, viaje
+- jaunty: alegre, desenvuelto
+- raucous: estridente, ronco
+- taut: tens@, tirante
+- fraught: tens@, lleno de tensión
+- haughty: arrogante, altanero
+- taught: enseñó, enseñado
+- bawdy: obscen@, verde, dealing with sexual matters in a comical way
+- crawl: gatear, arrastrarse, rebajarse
+- dawdle: holgazanear, waste time; be slow.
+- flaw: falla, desperfecto, imperfección
+- jaw: mandíbula, hablar sin fin
+- raw: crudo, puro, en rama
+- saw: sierra, serrucho
+- tawny: leonad@
+- brought: trajo
+- fought: luchó
+- wrought: forjad@
+- broad: anch@, abierto, general, extenso
+- brat: mocos@
+- cap: gorra
+- dagger: daga
+- dapper: apuest@, impecable
+- fasten: sujetar, atar, abrocharse
+- flap: solapa, batir, aletear
+- flat: piso, plano, apartamento
+- gag: mordaza, chiste
+- gash: tajo, cuchilllada
+- pack: empacar, embasar
+- quack: curandero, charlatan, matasanos
+- sack: despedir, ir a dormir, saqueo
+- slash: barra oblicua, auchillar
+- tack: tachuela
