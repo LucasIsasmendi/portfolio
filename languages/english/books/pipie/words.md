@@ -805,3 +805,29 @@
 - sack: despedir, ir a dormir, saqueo
 - slash: barra oblicua, auchillar
 - tack: tachuela
+
+## u49 - practice `/æow/a/ar`
+- bower: cenador, ancla
+- frown: fruncir el ceño
+- howl: aullido
+- jowl: papada
+- owl: búho, lechuza
+- plow: arado, tierra arada
+- prowl: merodear, rondar, caza
+- shower: ducha, lluvia
+- dour: auster@
+- gouge: gubia (herramienta de carpinteria)
+- loud: ruidos@, fuerte, alto
+- wad: taco, tapón, fajo
+- crop: cosecha, cultivo
+- flop: fracaso, descanso
+- plot: trama
+- stock: valores, surtir, abastecer
+- entree: the main course of a meal. Main dish
+- ennui: tedio
+- barn: granero, establo
+- carve: esculpir
+- farther: más lejos, más allá
+- jar: tarro, frasco, jarra
+- starve: morir de hambre
+- tar: alquitrán, brea
