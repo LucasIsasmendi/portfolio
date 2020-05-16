@@ -831,3 +831,21 @@
 - jar: tarro, frasco, jarra
 - starve: morir de hambre
 - tar: alquitrán, brea
+
+## u50 - practice `/aiy/`
+- quite: bastante, absolutamente
+- trite: trillad@
+- denied: negad@, denegar
+- dried: sec@
+- fried: frito
+- tie: corbata, lazo, atar
+- blight: plaga, arruinar
+- plight: situación, apuro
+- sigh: suspiro
+- slight: liger@, leve, 
+- haiku: poem structure, five syllables, seven syllables, five syllables
+- height: altura, estatura, talla
+- cypress: ciprés, planta
+- fry: freir, fritada
+- dye: colorante, tinte, teñir
+- lye: lejía, solucion alcalina para lavar
