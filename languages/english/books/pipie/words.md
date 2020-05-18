@@ -849,3 +849,35 @@
 - fry: freir, fritada
 - dye: colorante, tinte, teñir
 - lye: lejía, solucion alcalina para lavar
+
+## u51 - changes `/I-aiy/aə-eiy/æ-eiy/`
+- hid: escondid@
+- hide: esconder, ocultar
+- rid: emilinar, librar
+- ride: paseo, viaje, montar
+- din: estruendo, meter algo en la cabeza
+- fine: multa, fino, bueno
+- gripe: queja
+- pip: pipa, pepita
+- pipe: tubo, conducto
+- ripe: fruta madura, lista
+- trip: viaje
+- tripe: tripas, callos
+- dam: represa, presa, madre
+- dame: dama, señora
+- lam: justicia, ser fugitivo, golpear fuerte a
+- ban: prohibición, bando
+- bane: perdición, plaga, veneno, ruina de
+- can: lata, bote, poder, saber
+- cane: caña, bastón, vara, azotar
+- pane: cristal, vidrio
+- fad: moda, novedad, manía
+- fade: desvanecerse
+- lad: muchacho, joven, chico
+- lade: cargar
+- gap: brecha
+- gape: mirar boquiabierto
+- rape: violación
+- mate: compañer@, pareja
+- rat: rata, canalla
+- rate: velocidad, tarifa, precio, calificar
