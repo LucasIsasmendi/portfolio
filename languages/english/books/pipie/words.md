@@ -881,3 +881,34 @@
 - mate: compañer@, pareja
 - rat: rata, canalla
 - rate: velocidad, tarifa, precio, calificar
+
+## u52 - changes `/a-eə/a-eiy/a-ow/ɛ-iy/ʌ-uw/ʌ-iuw/`
+- mar: estropear
+- mare: a very unpleasant or frustrating experience.
+- tare: tara
+- wade: vadear, caminar por el agua
+- rob: robar, atracar
+- cod: bacalao
+- mod: modificación
+- nod: cabecear, inclinar la cabeza
+- node: nodo
+- rod: varilla, barra, de madera o metal
+- rode: montó
+- tome: tomo, a book, especially a large, heavy, scholarly one.
+- cope: capa pluvial, hacer frente a
+- hop: salto, lúpulo, be stimulated or intoxicated by or as if by a psychoactive drug.
+- hope: esperanza
+- mope: melancólic@, estar deprimido
+- slop: agua sucia, heces
+- slope: pendiente, inclinación, declive
+- dote: adorar
+- tot: nene, a very young child. Traguito
+- tote: totalizador
+- mete: asignar, imponer un castigo
+- rube: palurdo, patán
+- tub: tina, bañera
+- tube: tubo, metro
+- dud: not working or meeting standards; faulty.
+- dude: tipo, a man; a guy.
+- dun: pardo. of a dull grayish-brown color.
+- dune: duna
