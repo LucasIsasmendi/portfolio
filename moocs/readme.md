@@ -40,3 +40,11 @@
   [digest](economics/game-theory-II/readme.md)  
 
 ## Varios
+### Marketing
+- Use Mailchimp to Build an E-mail Marketing Campaign [coursera](https://www.coursera.org/projects/mailchimp-build-email-marketing-campaign)
+
+### Wordpress
+- Increase SEO Traffic with WordPress [coursera](https://www.coursera.org/projects/increase-seo-traffic-with-wordpress)
+- How To Create a Website in a Weekend! (Project-Centered Course) [coursera](https://www.coursera.org/learn/how-to-create-a-website)
+- Use WordPress to Create a Blog for your Business [coursera](https://www.coursera.org/projects/wordpress-create-blog-business)
+- Build a Full Website using WordPress [coursera](https://www.coursera.org/projects/build-a-full-website-using-wordpress)
