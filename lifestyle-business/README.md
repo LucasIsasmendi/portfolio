@@ -1,6 +1,9 @@
 # Lifestyle Business
 Bootstrappers, Indie Hackers, Founders, Creators, Solopreneurs
 
+## Sites
+https://www.quicksprout.com/
+
 ## Guides
 - [Zero to Sold](./zero-to-sold.md): The Bootstrapper’s Compendium
 - [Micro-Saas eBook](./micro-saas-ebook.md): Bootstrapping a profitable SaaS Business.

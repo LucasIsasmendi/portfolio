@@ -1,5 +1,8 @@
 # ENGLISH
 
+Rachel
+https://gumroad.com/l/Sounds_of_American_English
+
 ## MOOCS
 
 ## Resources

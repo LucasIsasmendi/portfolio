@@ -13,6 +13,11 @@ for serviceAccountKey
 https://www.simoahava.com/analytics/getting-started-with-google-analytics-app-web/
 
 ## Knowledge Base
+
+### EVENTS
+
+#### subscribe/unsubscribe
+
 ### Database
 #### id
 https://firebase.googleblog.com/2015/02/the-2120-ways-to-ensure-unique_68.html
