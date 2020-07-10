@@ -4,8 +4,8 @@
 **Index**  
 [Tools for Learning](#tools-for-learning)  
 [1. Getting Started: Placement](#1-getting-started-placement)  
-[2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)
-3. Vowels
+[2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
+[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ)  
 4. Diphthongs
 5. Consonants
 6. Consonant Clusters
@@ -334,7 +334,7 @@ Examples words ON[an], SONG[sɔŋ]
 Switch back and forth between AH and NG to feel your soft palate.
 Get used to the idea of keeping your soft palate raised in all vowel sounds and most consonant sounds in American English (avoid nasal sounds)
 
-## 2. Introduction to Stress, Rhythm, and Intonation]
+## 2. Introduction to Stress, Rhythm, and Intonation
 > Sounds don’t matter the most—character matters the most. The character is based on the placement, rhythm, and melody. We will get to the sounds, but first lay the foundation. It is your best chance at successfully transforming your spoken English.
 
 In some languages, all syllables are the same length. In English, we have long (stressed) and short (unstressed) syllables.
@@ -375,3 +375,68 @@ So the shape of a stressed syllable has the pitch gliding up and the pitch glidi
 
 ### Note
 ACCENT and STRESS mean the same thing. A stressed syllable is the same as an accented syllable, an unstressed syllable is the same as an unaccented syllable.
+
+## 3. Vowels
+We’ve gotten to the point where we can put it all together—placement, rhythm, and the sounds: vowels.
+There are eleven vowels in American English.
+
+### [a3.1 — Vowels](engl.io/ad1)
+ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, əә, ɜ
+
+- `stressed` In a stressed syllable, the vowel curves up then down. ⤵️
+- `unstressed`: In an unstressed syllable, it’s lower and flatter in pitch, and a little quieter and quicker ➖
+
+### `ʌ`
+This is a very relaxed sound. Because there is no tension, the placement—resonance—is low, at the base of the neck and very upper chest.
+You’ll see this sound spelled several ways in American English. 
+- oe: does [dʌz]
+- o: love [lʌv]
+- oo: blood [blʌd]
+- ou: trouble [ˈtɹʌb-əәl]
+- u: up [ʌp]
+
+#### [v3.1 `ʌ` — The UH as in BUTTER [ʌ] Vowel](engl.io/ad4)
+- stuff [stʌf]: `stressed` ⤵️
+- undo [ʌn'du]: `unstressed` ➖
+
+Notice the jaw may drop a bit more for a stressed syllable.
+
+#### a3.2 — The UH as in BUTTER [ʌ] Vowel.
+Listen + Repeat.
+- sounds in `stressed syllables` are longer, louder, have an up/down shape (intonation, or melody) in the voice, use the full voice. These 
+- sounds in `unstressed syllables` are shorter, flatter in pitch, quieter, and don’t use the whole voice (less air is being used). 
+- If any of this is still unclear or confusing, work with Chapter Two again.
+
+### `ɑ` 
+like ʌ but with tension in the tongue.
+The jaw drops some for this sound, and the tongue presses down in the back while the tip stays forward. Because of this tension in the tongue, the placement lifts a little bit. Though still connected to the chest, the resonance is more in the open space of the mouth. The lips are relaxed. Like all vowels, the soft palate is lifted to close the passage to the nasal cavity, letting no air through.
+
+#### [v3.2 `ɑ` — The AH as in FATHER [ɑ] Vowel](engl.io/ada)
+- job [dʒɑb]: `stressed` ⤵️ 
+- blockade [blɑ'keid]: `unstressed` ➖
+
+#### [a3.4 - Listen + Repeat: AH [ɑ] vs. UH [ʌ]](engl.io/adh)
+Listen to this file 10-20 times a day without trying to repeat.
+- ah [ɑ], uh [ʌ]
+- shot [ʃɑt], shut [ʃʌt]
+- gone [gɑn]*, gun [gʌn]
+- boss [bɑs], bus [bʌs]
+- crossed [kɹɑst]*, crust [kɹʌst]
+
+#### [a3.5 — Test Yourself: AH [ɑ] vs. UH [ʌ] Test](engl.io/adk)
+Listen to the minimal pairs over and over, 10 minutes a day, everyday.
+
+### `ɔ`
+the tongue lifts up and shifts back. The lips come forward, flaring a bit. To aid this, you can think of pushing the corners of the lips away from the face. Feel the cheeks come in a little bit. The resonance is in the middle of the mouth.
+
+####  [v3.4 — The AW as in LAW [ɔ] Vowel](engl.io/adm)
+- `stressed` ⤵️ : saw [sɔ], boss[bɔs], long [lɔŋ], login [ˈlɔgˌɪn], wrong [ɹɔŋ], daughter [ˈdɔ-dəɹ]
+- `unstressed` ➖: on [ɔn], runoff [ˈrʌnˌɔf], lifelong [ˈlaɪfˌlɔŋ]. Jaw drops less, the lips are more relaxed, and the tongue doesn’t shift back as much.
+- it can be affected by `R`, The lips flare more, and the tongue pulls back more, and up a little bit: core[cɔɹ], sore[sɔɹ]
+
+#### [a3.6 - Listen + Repeat: The AW as in LAW [ɔ] Vowel](engl.io/adp)
+- ⤵️:aw [ɔ], saw [sɔ], along [əәˈlɔŋ], wrong [ɹɔŋ]
+- ➖:aw [ɔ], recall [ˈɹi kɔl] (noun — the verb is [ɹɪˈkɔl]!), runoff [ˈɹʌn ɔf]
+
+#### How to Pronounce Quarter
+quarter in dictionary is [ˈkwɔɹ-dɜɹ], but americans pronunciate [ˈkɔɹ-dɜɹ]
