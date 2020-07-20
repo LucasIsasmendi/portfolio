@@ -5,7 +5,7 @@
 [Tools for Learning](#tools-for-learning)  
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
-[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ)  
+[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ)  
 4. Diphthongs
 5. Consonants
 6. Consonant Clusters
@@ -407,6 +407,13 @@ Listen + Repeat.
 - sounds in `unstressed syllables` are shorter, flatter in pitch, quieter, and don’t use the whole voice (less air is being used). 
 - If any of this is still unclear or confusing, work with Chapter Two again.
 
+You’ll see this sound spelled several ways in American English. 
+- oe: does [dʌz] 
+- o: love [lʌv]
+- oo: blood [blʌd]
+- ou: trouble [ˈtɹʌb-əәl]
+- u: up [ʌp]
+
 ### `ɑ` 
 like ʌ but with tension in the tongue.
 The jaw drops some for this sound, and the tongue presses down in the back while the tip stays forward. Because of this tension in the tongue, the placement lifts a little bit. Though still connected to the chest, the resonance is more in the open space of the mouth. The lips are relaxed. Like all vowels, the soft palate is lifted to close the passage to the nasal cavity, letting no air through.
@@ -426,6 +433,13 @@ Listen to this file 10-20 times a day without trying to repeat.
 #### [a3.5 — Test Yourself: AH [ɑ] vs. UH [ʌ] Test](engl.io/adk)
 Listen to the minimal pairs over and over, 10 minutes a day, everyday.
 
+You’ll see this sound spelled several ways in American English. - a: father [ˈfɑ-ðəәɹ]
+- aa: bazaar [bəәˈzɑɹ]
+- e: sergeant [ˈsɑɹ-dʒəәnt]
+- ea: heart [hɑɹt]
+- ou: cough [kɑf]
+- o: body [ˈbɑd-i]
+
 ### `ɔ`
 the tongue lifts up and shifts back. The lips come forward, flaring a bit. To aid this, you can think of pushing the corners of the lips away from the face. Feel the cheeks come in a little bit. The resonance is in the middle of the mouth.
 
@@ -440,6 +454,12 @@ the tongue lifts up and shifts back. The lips come forward, flaring a bit. To ai
 
 #### How to Pronounce Quarter
 quarter in dictionary is [ˈkwɔɹ-dɜɹ], but americans pronunciate [ˈkɔɹ-dɜɹ]
+
+You’ll see this sound spelled several ways in American English. - a: fall [fɔl]
+- au: cause [kɔz]
+- augh: daughter [ˈdɔd-əәɹ]
+- aw: shawl [ʃɔl]
+- ough: thought [θɔt]
 
 ### `æ`
 jaw drops quite a bit. The tongue tip stays forward, lightly touching the back of the bottom front teeth. The back part of the tongue stretches up. Slightly lift the top lip
@@ -475,3 +495,40 @@ Listen several times:
 
 #### [a3.10 - Listen + Repeat: AA [æ] followed by Nasal Consonants](engl.io/aed)
 ban [bæn] -> [bæʌn], exam [ɪgˈzæm] -> [ɪgˈzæʌm], thanks [θænks] -> [θeɪnks]
+
+You’ll see this sound spelled several ways in American English. - a: bat [bæt]
+- au: aunt [ænt]
+- ai: plaid [plæd]
+- i: timbre [ˈtæm-bəәɹ]
+
+### `ɛ`
+- `jaw` drops a good bit
+- `tongue tip` is forward and down, lightly touching the back of the bottom front teeth
+- `tongue middle/front` lifts towards the roof of the mouth. Make the middle of the tongue wider as it lifts.
+- `resonates` in the middle of the mouth, but it’s still connected to the core placement in the upper chest and lower neck.
+
+#### [v3.10 — The EH as in BED [ɛ] Vowel](engl.io/aee)
+- ⤵️: said[sɛd], jaw drops more
+- ➖: employ[ɛmˈplɔɪ], is shorter, there isn’t enough time to make the full jaw drop
+
+#### [a3.11 - Listen + Repeat: The EH as in BED [ɛ] Vowel](engl.io/aeg)
+
+#### [v3.11 — EH [ɛ] vs. AA [æ]](engl.io/aei)
+- `Lips` are very relaxed for HE. Top lip up for AA.
+- `Tongue` mid/front part is stretching up for HE. Raise in the back part for AA.
+- `Jaw` drops more for AA
+
+minimal pairs: Bat/bet. Capped/kept. Jam/gem. Tack/tech. Rack/wreck.
+
+#### [a3.12 - Listen + Repeat: AA [æ] vs. EH [ɛ]](engl.io/aek)
+#### [a3.13 - Test Yourself: EH [ɛ] vs. AA [æ] Test](engl.io/aen)
+1.[æ], 2.had [æ], 3.leapt [ɛ], 4.guess [ɛ], 5.cattle [æ]
+
+You’ll see this sound spelled several ways in American English. - a: share [ʃɛəәɹ]
+- ai: said [sɛd]
+- ay: says [sɛz]
+- ea: head [hɛd]
+- e: shed [ʃɛd]
+- eo: leopard [ˈlɛp-əәɹd]
+- ie: friend [fɹɛnd]
+- u: bury [ˈbɛɹ-i]
