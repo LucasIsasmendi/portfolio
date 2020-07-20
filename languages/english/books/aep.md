@@ -5,7 +5,7 @@
 [Tools for Learning](#tools-for-learning)  
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
-[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ)  
+[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ)  
 4. Diphthongs
 5. Consonants
 6. Consonant Clusters
@@ -384,7 +384,7 @@ There are eleven vowels in American English.
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, əә, ɜ
 
 - `stressed` In a stressed syllable, the vowel curves up then down. ⤵️
-- `unstressed`: In an unstressed syllable, it’s lower and flatter in pitch, and a little quieter and quicker ➖
+- `unstressed`: In an unstressed syllable, it’s lower and flatter in pitch, more relax, and a little quieter and quicker ➖
 
 ### `ʌ`
 This is a very relaxed sound. Because there is no tension, the placement—resonance—is low, at the base of the neck and very upper chest.
@@ -429,7 +429,7 @@ Listen to the minimal pairs over and over, 10 minutes a day, everyday.
 ### `ɔ`
 the tongue lifts up and shifts back. The lips come forward, flaring a bit. To aid this, you can think of pushing the corners of the lips away from the face. Feel the cheeks come in a little bit. The resonance is in the middle of the mouth.
 
-####  [v3.4 — The AW as in LAW [ɔ] Vowel](engl.io/adm)
+#### [v3.4 — The AW as in LAW [ɔ] Vowel](engl.io/adm)
 - `stressed` ⤵️ : saw [sɔ], boss[bɔs], long [lɔŋ], login [ˈlɔgˌɪn], wrong [ɹɔŋ], daughter [ˈdɔ-dəɹ]
 - `unstressed` ➖: on [ɔn], runoff [ˈrʌnˌɔf], lifelong [ˈlaɪfˌlɔŋ]. Jaw drops less, the lips are more relaxed, and the tongue doesn’t shift back as much.
 - it can be affected by `R`, The lips flare more, and the tongue pulls back more, and up a little bit: core[cɔɹ], sore[sɔɹ]
@@ -440,3 +440,38 @@ the tongue lifts up and shifts back. The lips come forward, flaring a bit. To ai
 
 #### How to Pronounce Quarter
 quarter in dictionary is [ˈkwɔɹ-dɜɹ], but americans pronunciate [ˈkɔɹ-dɜɹ]
+
+### `æ`
+jaw drops quite a bit. The tongue tip stays forward, lightly touching the back of the bottom front teeth. The back part of the tongue stretches up. Slightly lift the top lip
+
+#### [v3.6 — The AA as in BAT [æ] Vowel](engl.io/adv)
+This is a sound that changes depending on the following sound.
+You can see the tongue, bacause is high in the back and low in the front, not as in `ɑ` sound. You can also see the corners of the mouth pull back and up a little bit.
+
+- ⤵️➖: backtrack ['bækˌtɹæk]
+- ⤵️: chapter['tʃæp-təɹ], can[kæn], act[ækt], last[læst], bank[bæŋk]
+- ➖: baypass['baɪˌpæs]
+
+- [æ] + [m] or [n] = the tongue relaxes in the back, making an UH sound after AA. AA-UH. It’s not a pure AA sound. The jar is no so open. The corners of the mouth do not come back and up as much. The tongue position is the same. Example: exam[ig'zæm], man[mæn], hand. [æ]+[n] = `æʌ` or `æə`
+- [æ] + [ŋ] = ay[eɪ]. Example: gang[gæŋ]
+
+#### [a3.8 - AH [ɑ] vs. AA [æ]](engl.io/ae4)
+The back of the tongue presses down for [ɑ] and lifts for [æ]: ah [ɑ], aa [æ] - top [tɑp], tap [tæp] - mop [mɑp], map [mæp] - hot [hɑt], hat [hæt] - sock [sɑk], sack [sæk]
+
+#### [a3.9 -AH [ɑ] vs. AA [æ] Test](engl.io/ae7)
+Listen several times: 
+1. [ɑ] or [æ]
+2. bomb [ɑ] or bam [æ] 
+3. bog [ɑ] or bag [æ]
+4. rock [ɑ] or rack [æ] 
+5. lost [ɑ] or last [æ]
+
+#### [v3.8 — The AA as in BAT Vowel followed by N, M, and NG](engl.io/ae9)
+- `n-m`: HAcer el a original y mover con el sonido a una a mas cerrada: e-a
+- `ŋ`: eɪ
+- the API is not a perfect tool, does not capture everything
+
+#### [v3.9 —  English in Real Life: Easter](engl.io/aeb)
+
+#### [a3.10 - Listen + Repeat: AA [æ] followed by Nasal Consonants](engl.io/aed)
+ban [bæn] -> [bæʌn], exam [ɪgˈzæm] -> [ɪgˈzæʌm], thanks [θænks] -> [θeɪnks]
