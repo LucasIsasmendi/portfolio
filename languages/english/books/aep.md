@@ -5,7 +5,7 @@
 [Tools for Learning](#tools-for-learning)  
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
-[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ)  
+[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i)  
 4. Diphthongs
 5. Consonants
 6. Consonant Clusters
@@ -532,3 +532,34 @@ You’ll see this sound spelled several ways in American English. - a: share [ʃ
 - eo: leopard [ˈlɛp-əәɹd]
 - ie: friend [fɹɛnd]
 - u: bury [ˈbɛɹ-i]
+
+### `i`
+- `jaw`: little bit of drop
+- `tongue`: tip stays behind the bottom front teeth, and the middle/front part of the tongue arches up towards the roof of the mouth. It doesn’t touch the roof of the mouth, but it is very close.
+- `lips`: The corners of the lips pull a little wide, sort of like a smile—they’re not quite relaxed.
+- `tension`: little jaw and tongue tension as possible.
+- `resonte`: Feel the vibration between your tongue and hard palate. But, as always, keep it connected to that lower placement at the base of the neck and upper chest.
+
+#### [v3.12 — The EE as in SHE [i] Vowel](engl.io/aer)
+- ⤵️: please[pliz], keep[kip], police[pәˈlis], meet[mit], each[itʃ]
+- ➖: busy[ˈbɪz-i], early[ˈɜɹ-li], coffee[ˈkɔ-fi]. More relax, no time to make full mouth position
+
+#### [a3.14 - Listen + Repeat: The EE as in SHE [i] Vowel](engl.io/aet)
+You’ll see this sound spelled several ways in American English.
+- ay: quay [ki]
+- ea: heat [hit]
+- e: be [bi]
+- ee: weep [wip]
+- ei: receive [ɹɪˈsiv]
+- eo: people [ˈpi pəәl]
+- ey: key [ki]
+- ie: brief [bɹif]
+- i: police [pəәˈlis]
+- y: busy [ˈbɪz i]
+
+
+
+## Shortcuts
+ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, əә, ɜ
+θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w
+ɹ
