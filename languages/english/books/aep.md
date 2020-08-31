@@ -538,7 +538,7 @@ You’ll see this sound spelled several ways in American English. - a: share [ʃ
 - `tongue`: tip stays behind the bottom front teeth, and the middle/front part of the tongue arches up towards the roof of the mouth. It doesn’t touch the roof of the mouth, but it is very close.
 - `lips`: The corners of the lips pull a little wide, sort of like a smile—they’re not quite relaxed.
 - `tension`: little jaw and tongue tension as possible.
-- `resonte`: Feel the vibration between your tongue and hard palate. But, as always, keep it connected to that lower placement at the base of the neck and upper chest.
+- `resonate`: Feel the vibration between your tongue and hard palate. But, as always, keep it connected to that lower placement at the base of the neck and upper chest.
 
 #### [v3.12 — The EE as in SHE [i] Vowel](engl.io/aer)
 - ⤵️: please[pliz], keep[kip], police[pәˈlis], meet[mit], each[itʃ]
@@ -557,9 +557,60 @@ You’ll see this sound spelled several ways in American English.
 - i: police [pəәˈlis]
 - y: busy [ˈbɪz i]
 
+### `ɪ` 
+- `jaw`: drops a bit more than for the EE as in SHE [i], which means the arch of the tongue isn’t as close to the roof of the mouth. 
+- `tongue`: tongue tip is forward, lightly touching the back of the bottom front teeth, and the front/mid part lifts up towards the roof of the mouth.
+- `lips`: lips and the corners of the lips, stay relaxed.
+- `placement`: For the EE as in SHE vowel, the vibration is along the front half of the hard palate. For the IH as in SIT [ɪ] vowel, it’s more in the middle of the mouth.
 
+Tip: start with the EE as in SHE [i] vowel, then create a little more space between the tongue and the roof of the mouth by dropping your jaw just a bit more.
+
+#### [v3.13 - The IH as in SIT Vowel](engl.io/aex)
+- ⤵️: fix [fɪks]
+- ➖: office [ˈɔ-fɪs]
+
+#### [a3.15 - Listen + Repeat: The IH as in SIT [ɪ] Vowel](engl.io/aez)
+
+#### [v3.14 - EE [i] vs. IH [ɪ]](engl.io/af2)
+Remember for the EE [i](she) vowel, the tongue is very close to the roof of the mouth and the corners of the lips pull wide. For the IH [ɪ](sit) vowel, the lips are relaxed and the jaw drops a little more, allowing a little more space between the arch of the tongue and the roof of the mouth. 
+
+Minimal pairs: it[ɪt], eat[it] - rich [ɹɪtʃ], reach [ɹitʃ] - living [ˈlɪv-ɪŋ], leaving [ˈliv-ɪŋ] - fist [fɪst], feast [fist] - ship [ʃɪp], sheep [ʃip] - tick[tɪk], teak[tik] - lip[lɪp], leap[lip] - snicker[ˈsnɪk-əɹ], sneaker[ˈsnik-əɹ]
+
+#### [v3.15 - EE, IH, and Vowel Length](engl.io/af3)
+don’t think about the length of the vowel being tied to the vowel itself. It’s tied to the syllable, and the sentence position, and maybe the ending consonant.
+cap, cab - beat[bit], bid[bɪd] -  
+
+#### [v3.16 - Beach vs. Bitch]
+- good words: [i] beach, sheet. Tongue tip is down, and the front part of the tongue is lifting, very close to the roof of the mouth EE
+- bad words: [ɪ] bitch, shit. More space between the tongue and the roof of the mouth. IH
+
+#### [a3.16 - Listen + Repeat: IH [ɪ] vs. EE [i]](engl.io/af8)
+Stressed: ih [ɪ], ee [i] - bin [bɪn], bean [bin] - fist [fɪst], feast [fist] - rich [ɹɪʧ], reach [ɹiʧ] - ship [ʃɪp], sheep [ʃip]
+
+#### [a3.17 - Test Yourself: IH [ɪ] vs. EE [i] Test](engl.io/afb)
+4/5 - failed #4
+
+**TIP**: Avoid to make the EH as in BED [ɛ] instead of the IH as in SIT [ɪ], try dropping your jaw a little less, and lift your tongue more in the front.
+- bean[i] bid[I] bed[ɛ]
+
+#### [a3.18 - Listen + Repeat: EH [ɛ] vs. IH [ɪ]](engl.io/afc)
+Stressed: eh [ɛ], ih [ɪ] - when [wɛn], win [wɪn] - ten [tɛn], tin [tɪn] - bed [bɛd], bid [bɪd] - mess [mɛs], miss [mɪs]
+
+#### [a3.19 - EH [ɛ] vs. IH [ɪ] Test](engl.io/aff)
+4/5 - failed #1
+
+You’ll see this sound spelled several ways in American English.
+- a: private [ˈpɹaɪ vɪt]
+- e: pretty [prɪd i]
+- ee: been [bɪn]
+- i: him [hɪm]
+- ui: build [bɪld]
+- o: women [ˈwɪm-ɪn]
+- u: minute [ˈmɪn-ɪt]
+- y: symbol [ˈsɪm bəәl]
 
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, əә, ɜ
 θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w
 ɹ
+ˈˌ
