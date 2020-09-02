@@ -5,7 +5,7 @@
 [Tools for Learning](#tools-for-learning)  
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
-[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i)  
+[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ)  
 4. Diphthongs
 5. Consonants
 6. Consonant Clusters
@@ -608,6 +608,34 @@ You’ll see this sound spelled several ways in American English.
 - o: women [ˈwɪm-ɪn]
 - u: minute [ˈmɪn-ɪt]
 - y: symbol [ˈsɪm bəәl]
+
+### `u`
+This vowel sounds really American when it’s more about the movement into the position than the position itself.
+
+- `lips`: start relaxed, then round. This movement is important
+- `tongue`: tip stays forward, and the back part lifts.
+- `placement`: middle of the mouth
+
+#### [v3.17 - The OO as in BOO [u] Vowel](engl.io/afh)
+- ⤵️: do[du], blu[blu], suit[sut], move[muv], two[tu]
+- ➖: visual[ˈvɪʒ-u-әl], issue[ˈɪʃ-u], influence[ˈɪn-flu-әns]
+
+#### [a3.20 - Listen + Repeat: The OO as in BOO [u] Vowel](engl.io/afk)
+- ⤵️: oo[u], stupid[ˈstu-pɪd], shoes[ʃuz]
+- ➖: oo[u], argue [ˈɑɹ-gju]
+
+You’ll see this sound spelled several ways in American English.
+- eu: sleuth [sluθ]
+- ew: blew [blu]
+- o: do [du]
+- oe: shoe [ʃu]
+- oo: too [tu]
+- ou: you [ju]
+- ough: through [θɹu]
+- u: flute [flut]
+- ue: blue [blu]
+- ui: juice [dʒus]
+- wo: two [tu]
 
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, əә, ɜ
