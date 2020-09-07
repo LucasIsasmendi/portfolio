@@ -5,7 +5,7 @@
 [Tools for Learning](#tools-for-learning)  
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
-[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  -[ʊ](#ʊ)  
+[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə)    
 4. Diphthongs
 5. Consonants
 6. Consonant Clusters
@@ -660,6 +660,39 @@ You’ll see this sound spelled several ways in American English.
 - oo: wood [wʊd]
 - ou: could [kʊd]
 - u: sugar [ˈʃʊg-әɹ]
+
+### `ə`
+Knows as **schwa sound**: is only in unstressed syllables
+- `lips`: part but there’s almost no jaw drop
+- `tongue`: relaxed, low in the mouth, with the tip forward, lightly touching the back of the bottom front teeth
+- `placement`: in the upper chest.
+
+#### [v3.19 - The UH as in SUPPLY [əә] (Schwa) Vowel](engl.io/afx)
+The schwa goes with the syllabic consonants L[əl], M[əl], N[əl], and R[əl]. That means when you have a syllable with a schwa followed by one of these consonants, you don’t need to make the schwa. It gets absorbed by the next sound.
+
+- ➖: sofa[ˈsoʊ-fə], ability[əˈbɪl-ɪ-di], allow[əˈlaʊ], extra[ˈɛk-stɹə], data[ˈdeɪ-də], again[əˈgɛn], visa[ˈvi-zə], about[əˈbaʊt]
+
+#### [a3.24 - Listen + Repeat: UH as in SUPPLY [əә] (Schwa)](engl.io/ag1)
+- China [ˈʧaɪ-nә]
+
+#### [a3.25 - Listen + Repeat:  Syllabic Consonants](engl.io/ag3)
+The schwa is different when it’s followed by an M[m], N[N], L[l], or R[ɹ] sound. These are called syllabic consonants, which means they take over the whole syllable: you don’t need to make a schwa sound at all.
+Examples: 
+- system[ˈsɪs-tәm] — go straight from the T to the M. 
+- open [ˈoʊp-әn] — go straight from the P to the N.
+- pencil [ˈpɛn-sәl] — go straight from the S to the Dark L.
+- mother [ˈmʌð-әɹ] — go straight from the TH to the R.
+
+You’ll see this sound spelled several ways in American English.
+- a: about [əˈbaʊt]
+- ea: ocean [ˈoʊ-ʃәn]
+- e: anthem [ˈæn-θәm]
+- eu: chauffeur (verb) [ˈʃoʊ-fәɹ]
+- i: possible [ˈpɑs-ә-bəl]
+- o: bottom [ˈbɑd-әm]
+- ou: jealous [ˈdʒɛl-әs]
+- u: autumn [ˈɔ-dәm]
+- y: syringe [sәˈɹɪndʒ]
 
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
