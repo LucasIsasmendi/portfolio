@@ -5,7 +5,7 @@
 [Tools for Learning](#tools-for-learning)  
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
-[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə)    
+[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 4. Diphthongs
 5. Consonants
 6. Consonant Clusters
@@ -693,6 +693,30 @@ You’ll see this sound spelled several ways in American English.
 - ou: jealous [ˈdʒɛl-әs]
 - u: autumn [ˈɔ-dәm]
 - y: syringe [sәˈɹɪndʒ]
+
+### `ɜ`
+It’s basically the R consonant acting like a vowel.
+The most common mistake with this sound is not lifting the tongue enough.
+- `tongue`: It should be quite high in the mouth, pulled back and up so the tip isn’t touching anything.
+- `lips`: corners come in so the lips can flare and push away from the face.
+- `placement`: Feel the vibration in the front of the mouth, between the front of the tongue and the roof of the mouth
+
+#### [v3.20 - The UR as in BIRD Vowel](engl.io/ag5)
+- ⤵️: hurt[hɜɹt], earth[ɜɹθ], search[sɜɹʧ], circle[ˈsɜɹ-kəl], return[ɹɜˈtɜɹn]
+- ➖: research[ˈri-sɜɹʧ], thirteen[θɜɹˈtin], outburst[ˈaʊt|-bɜɹst]
+
+#### [a3.26 - Listen + Repeat: UR as in BIRD [ɜ]](engl.io/ag8)
+- ⤵️: ur[ɜɹ], bird[bɜɹd], early[ˈɜɹ-li], nurse[nɜɹs]
+- ➖: ur[ɜɹ], research[ˈri-sɜɹʧ], thirteen [θɜɹˈtin]
+
+You’ll see this sound spelled several ways in American English.
+- ea: learn [lɜɹn]
+- eu: chauffeur [ʃoʊˈfɜɹ] (noun)
+- i: bird [bɜɹd]
+- ou: journey [ˈdʒɜɹ-ni]
+- o: word [wɜɹd]
+- u: burn [bɜɹn]
+- y: myrtle [ˈmɜɹ-dәl]
 
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
