@@ -6,7 +6,7 @@
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
-4. Diphthongs
+[4. Diphthongs](#4-diphthongs)  
 5. Consonants
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
@@ -381,7 +381,7 @@ We’ve gotten to the point where we can put it all together—placement, rhythm
 There are eleven vowels in American English.
 
 ### [a3.1 — Vowels](engl.io/ad1)
-ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, əә, ɜ
+ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ә, ɜ
 
 - `stressed` In a stressed syllable, the vowel curves up then down. ⤵️
 - `unstressed`: In an unstressed syllable, it’s lower and flatter in pitch, more relax, and a little quieter and quicker ➖
@@ -717,6 +717,50 @@ You’ll see this sound spelled several ways in American English.
 - o: word [wɜɹd]
 - u: burn [bɜɹn]
 - y: myrtle [ˈmɜɹ-dәl]
+
+### American vs. British English - Vowels
+
+## 4. Diphthongs
+A diphthong is two vowel sounds together.
+The mouth position matters: what defines the diphthong is that there are two different sounds. This means there has to be a movement, going from a starting position to an ending position.
+
+### [a4.1 - Diphthongs](engl.io/aha)
+oʊ, aʊ, aɪ, eɪ, ɔɪ, ju
+
+### `oʊ`
+- `jaw`: drops for the beginning position, relax up for the ending position
+- `lips`: might round some for the beginning position, but round even more for the ending position
+- `tongue`: shifts back a little bit at the beginning, and the back lifts in the ending position. The back is more lifted here than in the pure [ʊ] (‘push’ [pʊʃ]).
+
+#### [v4.1 - OH as in NO [oʊ] Diphthong](engl.io/ahd)
+- sample words: lonely[ˈloʊn-li], owner[ˈoʊ-nəɹ], thelephone[ˈtɛl-ə-ˌfoʊn] [oʊ]
+- sample sentence: The window of the hotel was blown out and broken[ðə-ˈwin-doʊ-ʌv-ðə-hoʊ-ˈtɛl-wɜz-bloʊn-aʊt-ænd|ˈbɹoʊ-kən].
+
+#### [a4.2 - OH as in NO [oʊ] Diphthong](engl.io/ahf)
+If you don’t round their lips enough, this diphthong can sound like the AW as in LAW [ɔ] or AH as in FATHER [ɑ] vowel instead. Remember, it’s the movement of rounding the lips that defines this diphthong. Exaggerate it a little bit.
+- ⤵️: oh[oʊ], go[goʊ], know[noʊ], below[bɪˈloʊ]
+- ➖: oh[oʊ], borrow[ˈbɑɹ-oʊ], yellow[ˈjɛl-oʊ]
+
+#### [a4.3 - OH [oʊ] vs. AW [ɔ] or AH [ɑ]](engl.io/ahg)
+- aw [ɔ], oh [oʊ]
+- nod [nɑd], node [noʊd]
+- ball [bɔl], bowl [boʊl]
+- called [kɔld], cold [koʊld]
+- mop [mɑp], mope [moʊp]
+
+#### [a4.4 - Test: OH [oʊ] vs. AW [ɔ] or AH [ɑ]](engl.io/ahj)
+4/5 (testp64 - answers p260)
+
+You’ll see this sound spelled several ways in American English. 
+- o: go [goʊ]
+- oo: brooch [bɹoʊʧ]
+- ou: soul [soʊl]
+- ow: row [ɹoʊ]
+- oa: oat [oʊt]
+- oe: foe [foʊ]
+- ough: though [ðoʊ]
+- au: chauffeur [ˈʃoʊ-fәɹ]
+- eau: beau [boʊ]
 
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
