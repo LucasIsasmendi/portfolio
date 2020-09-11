@@ -6,7 +6,7 @@
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
-[4. Diphthongs](#4-diphthongs)  
+[4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ)    
 5. Consonants
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
@@ -761,6 +761,38 @@ You’ll see this sound spelled several ways in American English.
 - ough: though [ðoʊ]
 - au: chauffeur [ˈʃoʊ-fәɹ]
 - eau: beau [boʊ]
+
+### `aʊ`
+The beginning position of this diphthong, [a], is not a vowel in AmEng
+- `jaw`: drop for beginning, relax for end
+- `lips`: should not round at all for the beginning of this sound. Shape of the mouth as a rectangle rather than a circle. Round for the ending position
+- `tongue`: wide and flat for beginning, touch front teeth, and lifting the back for ending.
+
+#### [v4.2 - OW as in NOW [aʊ] Diphthong](engl.io/ahm)
+- sample words: cow[kaʊ], bow[baʊ], sound[saʊnd]
+- sample sentence: I found my flowers dead and brown when I came back to town [aɪ_faʊnd_maɪ_ˈflaʊ-əɹz_dɜd_ænd_braʊn_wɛn~aɪ_keɪm_bæk_tə_taʊn]
+
+#### [a4.5 - Listen + Repeat - OW as in NOW [aʊ]](engl.io/ahp)
+- ⤵️: ow[aʊ], now[naʊ], sound[saʊnd], power[ˈpaʊ-əәɹ]
+- ➖: ow[aʊ], letdown[ˈlɛt│-daʊn], blackout[ˈblæk-aʊt]
+
+#### [a4.6 - Listen + Repeat -  OW[aʊ] vs. AW[ɔ] or AH[ɑ]](engl.io/ahr)
+Just like the OH[oʊ] diphthong, it can sound like the AW as in LAW[ɔ] or AH as in FATHER[ɑ] vowel instead when you don’t round your lips.
+Remember, the OW [aʊ] diphthong is made by a movement, you must round your lips to get the right sound.
+Work with these minimal pairs and take your time rounding your lips. Exaggerate it a little bit.
+- ow[aʊ], aw[ɔ]
+- down[daʊn], dawn[dɔn]
+- pound[paʊnd], pond[pɑnd]
+- mouse[maʊs], moss[mɔs]
+- spout[spaʊt], spot[spɑt]
+
+#### [a4.7 - Test: OW[aʊ] vs. AW[ɔ] or AH[ɑ]](engl.io/ahu)
+5/5 (testp67 - answers p260)
+
+You’ll see this sound spelled several ways in American English. 
+- ou: round[ɹaʊnd]
+- ow: cow[kaʊ]
+- ough: bough[baʊ]
 
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
