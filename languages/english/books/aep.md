@@ -6,7 +6,7 @@
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
-[4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ)    
+[4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ)  
 5. Consonants
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
@@ -793,6 +793,32 @@ You’ll see this sound spelled several ways in American English.
 - ou: round[ɹaʊnd]
 - ow: cow[kaʊ]
 - ough: bough[baʊ]
+
+### `aɪ`
+- `jaw`: drop for beginning (more than aʊ), relax for end
+- `lips`: should not round at all for the beginning of this sound. Shape of the mouth as a rectangle. totally relaxed for the ending position
+- `tongue`: wide and flat for beginning (more than aʊ), touch front teeth. The top, front part arches up towards the roof of the mouth.
+
+focus on arching the tongue while keeping everything else relaxed
+
+#### [v4.3 - AI as in BUY [aɪ] Diphthong](engl.io/ahw)
+- sample words: shy[ʃaɪ], write[ɹaɪt], goodbye[gʊdˈbaɪ]
+- sample sentence: My sister is bright with a nice sense of style [maɪ_ˈsɪs-təɹ_ɪz_bɹaɪt|_wɪθ_ə_naɪs_sɛns_ʌv_staɪl]
+
+#### [a4.8 - Listen + Repeat - AI as in BUY [aɪ]](engl.io/ahy)
+- ⤵️: ai[aɪ], buy[baɪ], united[juˈnaɪ-dɪd], mind[maɪnd]
+- ➖: ai[aɪ], idea [aɪˈdi-ә], exercise[ˈɛk-sәɹˌsaɪz]
+
+You’ll see this sound spelled several ways in American English.
+- y: my [maɪ]
+- ai: aisle [aɪl]
+- ie: lie [laɪ]
+- ye: bye [baɪ]
+- uy: buy [baɪ]
+- igh: sight [saɪt]
+- eigh: height [haɪt]
+- aye: aye [aɪ]
+- i: time [taɪm]
 
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
