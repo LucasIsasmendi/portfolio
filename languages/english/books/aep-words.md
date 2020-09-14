@@ -18,3 +18,5 @@
 - heel [hiːl]: the rounded back part of the foot. talon
 - hill [hɪl]: an area of land that is higher than the surrounding land. colina
 
+### 4.12
+- envoy [ˈɑn-vɔɪ]: a messenger or representative, especially one on a diplomatic mission.

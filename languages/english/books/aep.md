@@ -6,7 +6,7 @@
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
-[4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ)  
+[4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ)  
 5. Consonants
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
@@ -725,7 +725,7 @@ A diphthong is two vowel sounds together.
 The mouth position matters: what defines the diphthong is that there are two different sounds. This means there has to be a movement, going from a starting position to an ending position.
 
 ### [a4.1 - Diphthongs](engl.io/aha)
-[oʊ](#oʊ), [aʊ](#aʊ), [aɪ](#aɪ), [eɪ](#eɪ), ɔɪ, ju
+[oʊ](#oʊ), [aʊ](#aʊ), [aɪ](#aɪ), [eɪ](#eɪ), [ɔɪ](#ɔɪ), ju
 
 ### `oʊ`
 - `jaw`: drops for the beginning position, relax up for the ending position
@@ -823,7 +823,7 @@ You’ll see this sound spelled several ways in American English.
 ### `eɪ`
 This sound begins with the [e] vowel, which is not a vowel on its own in American English.
 - `jaw`: (1)drops some. (2)drop less
-- `lips`:
+- `lips`: relaxed
 - `tongue`: (1) tip stay down, touching behind the bottom of the top front teeth. The mid-front part lifts slightly towards the roof of the mouth. Think of making the top of the tongue extra wide. (2)front part arches up towards the roof of the mouth, just like the ending of the AI as in BUY [aɪ] diphthong.
 
 #### [v4.4 - AY as in SAY [eɪ] Diphthong](engl.io/ah2)
@@ -861,6 +861,24 @@ You’ll see this sound spelled several ways in American English.
 - ay: say [seɪ]
 - eight: eight [eɪt]
 - ey: they [ðeɪ]
+
+### `ɔɪ`
+- `jaw`: (1)will drop some, and the lips will flare and round. (2) close some
+- `lips`: (1)round more than they do for the pure vowel by itself, like in ‘law’ [lɔ] (un poco mas para adelante). (2) relax, corners will move out into their natural position again
+- `tongue`: (1)lifts, front and back, and the tip might pull back just a bit so it’s not touching the back of the front teeth. (2)tip stays down and touches the back of the bottom front teeth, but the front part arches up towards the roof of the mouth.
+
+#### [v4.5 - OY as in TOY [ɔɪ] Diphthong](engl.io/aie)
+- Sample words: avoid[əˈvɔɪd], point[pɔɪnt], enjoyable[ɛnˈdʒɔɪ-ə-bəl]
+- Sample sentence: The boy is annoying, but a loyal employee. [ðə_bɔɪ_ɪz~ə-ˈnɔɪ-ɪŋ_bʌd~ə_ˈlɔɪ-əl_ɛmˈplɔɪ-i]
+
+#### [a4.12 - Listen + Repeat - OY as in TOY [ɔɪ]](engl.io/aig)
+- ⤵️: oy [ɔɪ], toy [tɔɪ], employs [ɛmˈplɔɪz], voice [vɔɪs]
+- ➖: oy [ɔɪ], steroid [ˈstɛɹ-ɔɪd], envoy [ˈɑn-vɔɪ]
+
+You’ll see this sound spelled several ways in American English. 
+- oi: moist [mɔɪst]
+- oy: boy [bɔɪ]
+
 
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
