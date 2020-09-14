@@ -6,7 +6,7 @@
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
-[4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ)  
+[4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ)  
 5. Consonants
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
@@ -725,7 +725,7 @@ A diphthong is two vowel sounds together.
 The mouth position matters: what defines the diphthong is that there are two different sounds. This means there has to be a movement, going from a starting position to an ending position.
 
 ### [a4.1 - Diphthongs](engl.io/aha)
-oʊ, aʊ, aɪ, eɪ, ɔɪ, ju
+[oʊ](#oʊ), [aʊ](#aʊ), [aɪ](#aɪ), [eɪ](#eɪ), ɔɪ, ju
 
 ### `oʊ`
 - `jaw`: drops for the beginning position, relax up for the ending position
@@ -819,6 +819,48 @@ You’ll see this sound spelled several ways in American English.
 - eigh: height [haɪt]
 - aye: aye [aɪ]
 - i: time [taɪm]
+
+### `eɪ`
+This sound begins with the [e] vowel, which is not a vowel on its own in American English.
+- `jaw`: (1)drops some. (2)drop less
+- `lips`:
+- `tongue`: (1) tip stay down, touching behind the bottom of the top front teeth. The mid-front part lifts slightly towards the roof of the mouth. Think of making the top of the tongue extra wide. (2)front part arches up towards the roof of the mouth, just like the ending of the AI as in BUY [aɪ] diphthong.
+
+#### [v4.4 - AY as in SAY [eɪ] Diphthong](engl.io/ah2)
+- Sample words: maybe[ˈmeɪ-bi], play[pleɪ], neighbor[ˈneɪ-bəɹ].
+- Sample sentence: I was afraid if I stayed late that I’d be tired today [aɪ_wəz_ə-fɹeɪd_ɪf_aɪ_steɪd_leɪt_ðəd_aɪd_bi_taɪɹd_tə-ˈdeɪ]. 
+
+#### [a4.9 - Listen + Repeat - AY as in SAY [eɪ]](engl.io/ah5)
+- ⤵️: ay[eɪ], play[pleɪ], stay[steɪ], late[leɪt]
+- ➖: ay[eɪ], highway [ˈhaɪ-weɪ], always[ˈɔl-weɪz]
+
+#### [a4.10 - Listen + Repeat - AY [eɪ] vs. IH [ɪ] vs. EE [i]](engl.io/ah8)
+Remember, for the AY as in SAY [eɪ] diphthong, your mouth should be moving from a beginning position to an ending position. The other two sounds are vowels, so the mouth shouldn’t move as you’re making them.
+[e]->[ɪ]->[i]:
+- `jaw` will go from most[e] to least lowered[ɪ] then even less [i]
+- `tongue` will go from further away from the roof of the mouth[e] to arching up closer[ɪ], then closer to the roof [i]
+
+Words
+- ay [eɪ], ih [ɪ], ee [i]
+- shape [ʃeɪp], ship [ʃɪp], sheep [ʃip]
+- tame [teɪm], Tim [tɪm], team [tim]
+- sane [seɪn], sin [sɪn], seen [sin]
+- ate [eɪt], it [ɪt], eat [it]
+
+#### [a4.11 - Test: AY[eɪ] vs. IH[ɪ] vs. EE[i]](engl.io/aib)
+1/5 (testp72 - answers p260)
+- eI i I + ok
+- I i eI
+- i eI I
+- I eI i
+- eI I i
+
+You’ll see this sound spelled several ways in American English. 
+- a: age [eɪʤ]
+- ai: aid [eɪd]
+- ay: say [seɪ]
+- eight: eight [eɪt]
+- ey: they [ðeɪ]
 
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
