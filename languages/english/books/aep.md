@@ -6,7 +6,7 @@
 [1. Getting Started: Placement](#1-getting-started-placement)  
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
-[4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ)  
+[4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
 5. Consonants
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
@@ -725,7 +725,7 @@ A diphthong is two vowel sounds together.
 The mouth position matters: what defines the diphthong is that there are two different sounds. This means there has to be a movement, going from a starting position to an ending position.
 
 ### [a4.1 - Diphthongs](engl.io/aha)
-[oʊ](#oʊ), [aʊ](#aʊ), [aɪ](#aɪ), [eɪ](#eɪ), [ɔɪ](#ɔɪ), ju
+[oʊ](#oʊ), [aʊ](#aʊ), [aɪ](#aɪ), [eɪ](#eɪ), [ɔɪ](#ɔɪ), [ju](#ju)
 
 ### `oʊ`
 - `jaw`: drops for the beginning position, relax up for the ending position
@@ -879,6 +879,25 @@ You’ll see this sound spelled several ways in American English.
 - oi: moist [mɔɪst]
 - oy: boy [bɔɪ]
 
+
+### `ju`
+- `tongue`: (1)top, front part touching the roof of the mouth, press with a forward motion. Tip down, touch the back of the bottom front teeth. (2) move into the OO as in BOO vowel [u] shape. Lifts in the back, pulls away from the roof in the front part
+- `lips`: (1) relax. (2) round
+- `extra`:  there’s a sort of pinching off in the throat that gives the Y sound that quality.
+
+#### [v4.6 - EW as in FEW [ju] Diphthong](engl.io/aik)
+- Sample words: view[vju], use[juz], music[ˈmju-zɪk].
+- Sample sentence: You are one of few pupils writing beautiful poetry. [ju_ɑɹ_wʌn~ʌv_fju_ˈpju-pəlz_ˈɹaɪ-dɪŋ_ˈbju-dɪ-fəl_ˈpoʊ-ə-tɹi]
+
+#### [a4.13 - Listen + Repeat - EW as in FEW [ju]](engl.io/ain)
+- ⤵️: ew[ju], few[fju], beauty[ˈbju-di], view[vju]
+- ➖: ew[ju], U.S.[juˈɛs], January[ˈdʒæn-ju-ˌɛɹ-i]
+
+You’ll see this sound spelled several ways in American English.
+- u: use[juz]
+- eu: feud[fjud]
+- ew: few[fju]
+- eau: beauty[ˈbju-di]
 
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
