@@ -899,6 +899,20 @@ You’ll see this sound spelled several ways in American English.
 - ew: few[fju]
 - eau: beauty[ˈbju-di]
 
+### Test Unit 4
+If you see a different set of diphthongs in another resource, it’s not wrong. It’s just what seems right to someone else!
+
+#### na4.1
+6/6 (pagina 77 - respuesta 260)
+
+#### a4.14
+6/6 (pagina 77 - respuesta 260)
+
+#### a4.15
+12/14 (pagina 78 - respuesta 260)
+- errors: ɑ-ʌ, u-ʊ
+- doubts: ɑ-æ, ε-æ, ɪ-ε
+
 ## Shortcuts
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
 θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w
