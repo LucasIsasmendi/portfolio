@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-5. Consonants
+[5. Consonants](#5-consonants): [b-p](#b-p)  
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
 8. Linking
@@ -913,8 +913,77 @@ If you see a different set of diphthongs in another resource, it’s not wrong. 
 - errors: ɑ-ʌ, u-ʊ
 - doubts: ɑ-æ, ε-æ, ɪ-ε
 
+## 5. Consonants
+there is no stressed and unstressed versions, because the shape and length of a syllable generally comes from the vowel or diphthong sound, not the consonants.
+
+One consonant can represent various sounds, and you have to learn the pronunciation of each word as you learn the word.
+
+Consonants fall into two categories, 🔈`voiced` and 🔇`unvoiced`
+
+### [a5.1 - Paired Consonants](engl.io/ak4)
+Paired Consonants (🔈`voiced` | 🔇`unvoiced`):
+- 🔈 B[b] | 🔇 P[b]
+- 🔈 G[g] | 🔇 K[k]
+- 🔈 D[d] | 🔇 T[t]
+- 🔈 V[v] | 🔇 F[f]
+- 🔈 Z[z] | 🔇 S[s]
+- 🔈 ZH[ʒ] | 🔇 SH[ʃ]
+- 🔈 TH[ð] | 🔇 TH[θ]
+- 🔈 J[dʒ] | 🔇 CH[tʃ]
+
+### [a5.2 - Unpaired Consonants](engl.io/ak7)
+The rest of the consonants are unpaired. That means they have a unique mouth position. 
+- 🔇`unvoiced`: H[h]
+- 🔈`voiced`: M[m], N[n], NG[ŋ], Y[j], W[w], R[ɹ], ligh L[l], dark L[l] (nasal), with the vocal cords buzzing with the sound.
+
+**Section 1: Paired Consonants**
+
+### `b-p`
+Stop consonants: stop happens when the lips close
+- `jaw`: drop a little
+- `lips`: remain closed
+- `tongue`: forward
+
+#### [v5.2 - B[b] and P[p] Consonants](engl.io/ak8)
+- sample words: pad[pæd|], bad[bæd|], pot[pɑt|], bought[bɔt|]
+- sample sentence: Pick a big print for the bedspread [pɪk~ə_bɪg|_pɹɪnt|_fəɹ_ðə_ˈbɛd|spɹɛd]
+
+When the B or P is at the end of a sentence, the release will be dropped, or the release will be light
+
+#### [v5.3 - Stop Consonants](engl.io/aka)
+The definition of a stop consonant has three parts
+1. tongue or the lips close off the air flow entirely.
+2. build up of pressure
+3. release
+
+There are 6 different stop consonants: 
+- close by lips: [p-b]
+- close by tongue: [t-d]
+- close by tongue back: [k-g]
+
+IPA rachel symbol for release in a stop consonant is not pronunced: `|`. Examples: stop[stɑp|], wait[weɪt|]
+
+#### [a5.3 - Listen + Repeat - B[b] and P[p]](engl.io/akd)
+- ▶️: b[b], p[p], put[pʊt], boss[bɔs], shopping[ˈʃɑp-ɪŋ], subway[ˈsʌb-weɪ], stop[stɑp]
+- ⏹️: job[ʤɑb│]
+
+You’ll see these sounds spelled several ways in American English.
+- b: bought [bɔt]
+- bb: wobble [ˈwɑb əәl]
+- p: put [pʊt]
+- pp: happy [ˈhæp i]
+- gh: hiccough [ˈhɪk ʌp] (this is an unusual spelling, it’s usually spelled ‘hiccup’)
+
 ## Shortcuts
-ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
-θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w
-ɹ
-ˈˌ
+- ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
+- θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w
+- ɹ
+- ˈˌ
+
+### Emoji symbols
+- ⤵️: `stressed`
+- ➖: `unstressed`
+- 🔈: `voiced`
+- 🔇: `unvoiced`
+- ▶️ : `released`
+- ⏹️: `unreleased`
