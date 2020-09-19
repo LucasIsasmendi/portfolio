@@ -974,6 +974,34 @@ You’ll see these sounds spelled several ways in American English.
 - pp: happy [ˈhæp i]
 - gh: hiccough [ˈhɪk ʌp] (this is an unusual spelling, it’s usually spelled ‘hiccup’)
 
+### `g-k`
+- `tongue`: lifting the back, touches the soft palate, then pulling down to release the tongue and the air. Tongue tip: do not affect this sound
+- `jaw`: drop a little
+- `lips`: do not affect this sound. They can take the shape of the next sound
+
+The G[g] sound is `voiced` 🔈, and the K[k] sound is `unvoiced` 🔇.
+These consonants are stop consonants. Sometimes you’ll hear a stop, and sometimes you’ll hear a light release.
+
+#### [v5.4 - G[g] and K[k] Consonants](engl.io/akf)
+- Sample words: cap[kæp]/gap[gæp], curl[kɜɹl]/girl[gɜɹl], kill[kɪl]/gill[kɪl]
+- Sample sentence: Chris carried the gray crate to the gate [kɹɪs_ˈkeɪɹ-id_ðə_gɹeɪ_kɹeɪt_tə_ðə_geɪt]
+
+#### [a5.4 - Listen + Repeat - G[g] and K[k]](engl.io/akh)
+- ▶️: gg[g], kk[k], click[klɪk], dog[dɔg]
+- ⏩: cut[kʌt], go[goʊ], location[loʊˈkeɪ-ʃəәn], ugly[ˈʌg-li]
+
+You’ll see these sounds spelled several ways in American English. [g]
+- g: go [goʊ]
+- gg: wiggle [ˈwɪg əәl]
+[k]
+- c: can [kæn]
+- cc: occur [əәˈkɜɹ]
+- k: skip [skɪp]
+- ck: tick [tɪk]
+- ch: character [ˈkæɹ ɪk təәɹ]
+- x: extra [ˈεk stɹəә]
+- q: quite [kwaɪt]
+
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
 - θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w
@@ -986,4 +1014,5 @@ You’ll see these sounds spelled several ways in American English.
 - 🔈: `voiced`
 - 🔇: `unvoiced`
 - ▶️ : `released`
+- ⏩: `released into`
 - ⏹️: `unreleased`
