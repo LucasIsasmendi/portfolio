@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p)  
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d)  
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
 8. Linking
@@ -1002,11 +1002,165 @@ You’ll see these sounds spelled several ways in American English. [g]
 - x: extra [ˈεk stɹəә]
 - q: quite [kwaɪt]
 
+### `t-d`
+T is one of the hardest consonants because there is more than one pronunciation.
+First, let me clarify that we’re talking about the sounds [t] and [d], not the letters T and D.
+
+#### [v5.5 - Contractversation](engl.io/akj)
+- going to -> to[də]
+- Do you -> [djə]
+- want to -> wanna
+- thank you -> thanks
+- I have -> I've
+- got to -> [gɑt|tu]
+- get done -> [gɛt|dʌn]
+- I will -> I'll[ɔl]
+- I would -> I'd
+- That will -> that'll[ˈðæd-əl]
+- you -> [jə]
+
+**Ways to pronounce [t]**
+#### (1) Stop T [t│] 
+- When the next sound is a consonant: cutback [ˈkʌt│ˌbæk], put my [pʊt│_mɑɪ]
+- At the end of a thought or sentence: I knew that. [ɑɪ_ˈnu_ðæt│]. Neat. [nit│]
+- In the T-schwa-N sequence: important [ɪmˈpɔɹ-t│ənt│], mountain[ˈmaʊn-t│ən]
+
+The Stop T is made when you stop the air and don’t release it before starting the next sound (skipping the release).
+You leave your tongue tip down, middle tongue stop de air.
+It changes the vocal shape of the word, end more abruptly. The melody shape isn’t as curved.
+
+##### [a5.5 - Listen + Repeat - Stop T vs. No T](engl.io/akm)
+Words without the stop T go down in pitch at the end. Words with the Stop T end more abruptly.
+- way [weɪ] — wait [weɪt│]
+- bay [beɪ] — bait [beɪt│]
+- day [deɪ] — date [deɪt│]
+- fee [fi] — feet [fit│]
+- she [ʃi] — sheet [ʃit│]
+- pow [paʊ]— pout [paʊt│]
+
+#### (2) Flap T [d]
+- When the T comes between vowel sounds: pretty [ˈpɹɪd-i]
+about it [əәˈbaʊd‿ɪt│]
+- When the T comes after an R before a vowel sound: party [ˈpɑɹ-di], sort of [ˈsɔɹd‿əv]
+
+It sounds like the R [ɾ] in Spanish (caro). Not the American R [ɹ].
+The very front of tongue bounces against the roof of the mouth quickly. The air does not stop, the word flows
+
+##### [v5.6 - The Flap T like in PARTY](engl.io/akp)
+Flap T after R, before a vowel.
+- example words: alerted[ə-ˈlɜɹ-dɪd], article[ˈɑɹ-dɪ-kəl], charter[ˈtʃɑɹ-dəɹ], mortified[ˈmɔɹ-də-ˌfaɪd], sorted[ˈsɔɹ-dɪd], vertical[ˈvɜɹ-dɪ-kəl]
+- example phrases: part of[ˈpɑɹ‿dəv], expert in[ˈɛk-spɜɹ‿dɪn], airport on[ˈɛəɹ-pɔɹ‿dɑn]
+
+##### [v5.7 - The Flap T like in PRETTY](engl.io/akr)
+Flap T between vowels. Not starting a stressed syllable
+- example words: pretty[ˈpɹɪd-i], city[ˈsɪd-i], matter[ˈmæd-əɹ]
+- example phrases: thought of[θɔd‿əv], what is it[wʌd‿ɪz‿ɪt|],
+
+#### (3) No T at All
+Drop the T sound between consonants, is not as strong of a habit for Americans as using the Flap and Stop T.
+- Examples: exactly[ɪgˈzæk-li], kept my [kεp│_maɪ]
+- After the N sound: internet[ˈɪn-əɹˌnεt│], wanted[ˈwɑn-ɪd]
+
+##### [v5.8 - On the Farm](engl.io/akt)
+- out: out[aʊt|], out of[aʊd‿əv], out[aʊt](depends of the situation)
+- phrases: what is[wʌd‿ɪz], just said[dʒʌs‿sɛd], kind of ->'kinda'[ˈkaɪnd‿ə], out lately[aʊt|-ˈleɪt|-li], about to[ə-ˈbaʊt|-tə]
+- drop T: exact[ɪɡˈzækt] -> exactly[ɪgˈzæk-li]
+- true T: great[gɹeɪt]
+
+##### [v5.9 - T and D between Consonants](engl.io/akv)
+When the T and D sounds come between two other consonant sounds, many Americans will drop them.
+- words: exactly[ɪgˈzæk-li], 
+- links: grand piano, grand theft auto, just one[dʒʌs_wʌn](the one word is w consonant),just once, just for, must be, stand for
+
+#### (4) True T[t]
+At the beginning of a stressed syllable. In consonant clusters.
+The True T is a stop consonant: 
+- `step 1`: stop the air in the throat, close your teeth, and bring the tip of the tongue to the roof of your mouth, behind your front teeth. 
+- `step 2`: The release is a burst of air: lower your tongue, let your teeth part, and release the air, beginning the next sound
+
+#### [v5.10 - T and D Consonants](engl.io/akx)
+- pat[pæt]
+- Stop consonants are sometimes pronounced without the second part, without this release, when they come at the end of a syllable or a word. Example: I bet you did[aɪ_bɛt|‿jʊ_dɪd]
+- when the T comes between two vowel sounds, it sounds like a d: madder[ˈmæd-əɹ] and matter[ˈmæd-əɹ]
+- The lip position of these sounds is influenced by the sound that comes next: dime[daɪm], drain[dɹeɪn], do[du]
+- example words: time[taɪm]/dime[daɪm], tad[tæd|]/dad[dæd|], tote[toʊt|]/dote[doʊt|]
+- example sentence: Tom tasted Dad’s dark chocolate treats[tɑm_ˈteɪst-ɪd‿dædz_dɑɹk_ˈʧɑk-lət|‿tɹits]
+
+Exceptions:
+- into [ˈɪn-tu]: True T
+- seventy [ˈsεv-әn-di] and ninety[ˈnaɪn-di]: Flap T’s
+- politics [ˈpɑl-ә-tɪks]: True T
+
+#### [v5.11 - The Word SEVENTY](engl.io/amz)
+#### na5.1 - Test yourself — How should the T’s be pronounced?
+9/10 (pagina 92 - respuesta 261)
+
+#### [a5.6 - Listen + Repeat - The Three T Sounds](engl.io/anb)
+- True: tt[t], time[taɪm], attain[әˈteɪn]
+- Flap: party[ˈpɑɹ-di], city[ˈsɪd-i]
+- Stop: might[maɪt│], definitely[ˈdεf-ә-nɪt│-li]
+
+#### [v5.12 — T Pronunciations](engl.io/anc)
+- True:[t], tap
+  1. when it begins with a word or stressedd syllable: telephone, attend
+  2. when it is part of a consonant cluster: 
+     - At the start: st-(stop), str-(strain), tr-(tram)
+     - At the end: -ct(connect), -ft(soft), -lt(lilt), -st(first), -pt(slept); 
+     - Exception: -nt(environment[ɛnˈvaɪ.ɹən.mɛnt|])
+     - Exception: when speak quickly: t(to) -> d(də): Quarter to three
+- Flap:[d], auto
+  1. between two vowel or diphthongs sounds in a word: mutter[ˈmʌ-dəɹ]
+  2. between two vowel diphthongs sounds if they are linked in the sentence: What about me?[wʌd‿əˈboʊt|_mi]
+  3. Exceptions: followed by the schwa and the n sound, is a flap T: tighten[ˈtaɪt|-ən]
+  4. Order: rule#1 > rule#2: auto[ˈɑ-doʊ], atone[ə-ˈtoʊn]
+- Stop:[t|], wait
+  1. ending cluster -nt: environment, sent[sɛnt|]
+  2. followed by the schwa and the n sound[ən]: tighten[ˈtaɪt|-ən]
+  3. words en in t, except clusters and when it links to a word beginning with a vowel: about[ə-baʊt|], fitness[ˈfɪt|-nɪs]
+  4. Words: Christmass, whistle, mortgage
+  5. unofficial lazy pronunciations (very yankee): interview[ˈɪn-əɹ-vju], wanted[ˈwɑn-ɪd]
+
+#### [v5.13 — T Pronunciations Test](engl.io/ane)
+- words: time, water, softer, fountain[faʊnt|-ən], carpet[ˈkɑɹ-pɪt|], string, splatter[ˈsplæd-əɹ], until[ʌn-ˈtɪl], attack[əˈ-tæk], attitude[ˈæ-di-tud]
+- frases: What time tomorrow[wʌt|-taɪm-tə-ˈmɒɹ-oʊ]. At seven[æt|_ˈsεv-ɪn]. I'm out of here[aɪm_aʊd‿ə_hiɹ]. I'm going to the bank[aɪm_ˈgoʊ-ɪŋ_tə‿ðə_bænk]. Tell me the truth[tɛl_mi_ðə_tɹuθ]. At eight[æd‿eɪt|]. An acquaintance told me[ən_ə-ˈkweɪnt|-əns_toʊld_mi]. I slept well last night[aɪ_slɛpt_wɛl‿læst_naɪt|]
+
+#### [a5.7 — What T do you Hear?](engl.io/ang)
+5/8 (pagina 94 - respuesta 261)
+
+#### The D Sounds
+- `tongue`: (1) stop the air in your throat and bring the tongue tip to the roof of the mouth. (2) Release the tongue with your voice—this is a voiced consonant—and go right into the next sound.
+- `jaw`: teeth close or not
+
+Stop T and a D that’s not released sound almost the same. With the D, however, there is a bit of a voiced sound in the throat, even in the stop.
+Another tip: when two words are the same but one ending is voiced and the other unvoiced, the vowel before the voiced ending is just a little longer. So ‘hid’[hɪd│] is a little longer than ‘hit’[hɪt│], ‘buzz’ is a little bit longer than ‘bus’, and so on.
+
+If the D comes between two vowels or diphthongs (“body”), or after an R and before a vowel or diphthong (“hardy”), the air doesn’t stop. These are the same rules for the Flap T, and it sounds just like the Flap T.
+Because the Flap T and the D between vowel sounds the same, these words sound the same: 
+- matter[ˈmæd-əɹ] — madder[ˈmæd-әɹ]
+- writer[ˈɹaɪ-dәɹ] — rider[ˈɹaɪ-dәɹ]
+
+#### [v5.14 - Homophone Phrases](engl.io/anj)
+A homophone is a pair or set of words that have different meanings and often different spellings, but sound the same, like flour/flower. The context will tell you which one is.
+- [ˈgɑd-ə]: got a/got to/I’ve got to.
+- [ˈlɛd-ər]: let her/lead her/letter. 
+- [ˈbʌd-ər]: but her/butter
+- [ˈgeɪv-əm]: gave him/gave them
+
+#### [a5.8 - Listen + Repeat - The D [d] Consonant](engl.io/anm)
+- ▶️: dd[d], need[nid] ,add[æd]
+- ⏩:do[du], die[daɪ], lady[ˈleɪ-di], medicine[ˈmεd-ә-sɪn]
+
+You’ll see these sounds spelled several ways in American English. 
+- t: tap[tæp]
+- tt: attain[әˈteɪn]
+- d: dog[dɔg]
+- dd: add[æd]
+
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
 - θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w
 - ɹ
-- ˈˌ
+- ˈˌ ‿
 
 ### Emoji symbols
 - ⤵️: `stressed`
@@ -1016,3 +1170,8 @@ You’ll see these sounds spelled several ways in American English. [g]
 - ▶️ : `released`
 - ⏩: `released into`
 - ⏹️: `unreleased`
+- 👉: check this
+
+## Cambridge IPA -> Rachel IPA
+https://dictionary.cambridge.org/dictionary/english  
+- t̬ -> d
