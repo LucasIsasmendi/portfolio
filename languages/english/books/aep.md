@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d)  
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f)  
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
 8. Linking
@@ -1155,6 +1155,30 @@ You’ll see these sounds spelled several ways in American English.
 - tt: attain[әˈteɪn]
 - d: dog[dɔg]
 - dd: add[æd]
+
+### `v-f`
+These consonants are ‘fricatives’, which means we pass the air through a narrow channel made by the lips, tongue, or teeth.
+In this case, we bring the bottom lip up to touch the bottom of the top front teeth and pass air through this pressed space. The F[🔇] is unvoiced, and the V[🔈] is voiced.
+We don’t want it to curl in, just lift. It’s the inside of the bottom lip that should touch the bottom of the top front teeth.
+The lips have to be loose, without tension, so they can vibrate with the air.
+hold them out for several seconds as you practice, to fine-tune your mouth position.
+
+#### [v5.15 - V[v] and F[f] Consonants](engl.io/anp)
+- Sample words 🔇[f]-🔈[v]: fan[fæn] - van[væn], fault[fɔlt] - vault[vɔlt], photo[ˈfoʊˌdoʊ] - vote[voʊt|]
+- Sample sentence: They served a very fresh oven-baked flounder fillet [ðeɪ_sɜɹvd‿ə_ˈvɛ-ɹi_fɹɛʃ_ˈʌv-ən-beɪkt_ˈflaʊn-dəɹ_fɪ-ˈleɪ]
+
+#### [a5.9 - Listen + Repeat - V[v] and F[f] Consonants](engl.io/ans)
+vv[v], ff[f], fail[feɪl], vest[vεst], delivery[dɪˈlɪv-ә-ɹi], differ [ˈdɪf əәɹ], leave[liv], leaf[lif]
+- The [v] at the end of ‘leave’ is weak. Not like the [v] in ‘vest’
+- ‘Leaf’ is a little shorter.
+
+You’ll see these sounds spelled several ways in American English. 
+- f: fun[fʌn]
+- ff: stuff[stʌf]
+- ph: phone[foʊn]
+- gh: laugh[læf]
+- v: love[lʌv]
+- vv: savvy[ˈsæv-i]
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
