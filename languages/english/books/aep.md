@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f)  
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s)  
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
 8. Linking
@@ -1179,6 +1179,38 @@ You’ll see these sounds spelled several ways in American English.
 - gh: laugh[læf]
 - v: love[lʌv]
 - vv: savvy[ˈsæv-i]
+
+### `z-s`
+These sounds are also fricatives. Here, the air passage is made narrow with the teeth. The `teeth` come together, and the `tongue` can take one of two positions. It can either point down, so it presses against the back of the bottom front teeth (that’s how I make it). Or, it can point up, where the tongue tip doesn’t touch anything, but is close to the roof of the mouth. The S is unvoiced(🔇) and the Z is voiced(🔈).
+
+#### [v5.16 - S[s] and Z[z] Consonants](engl.io/anu)
+- Sample words 🔇[s]-🔈[z]: sip[sɪp]-zip[zɪp], see[si]-zebra[ˈzi-brə], bus[bʌs]-buzz[bʌz]
+- Sample sentence: Because it’s sunny and he’s fair-skinned, he has to wear sunscreen [bɪ-kʌz_ɪts‿ˈsʌn-i_ænd_hiz_fɛəɹ-skɪnd], [hi_hæs_tə_wɛəɹ_ˈsʌn-skɹin]
+
+#### [a5.10 - Listen + Repeat - Z[z] and S[s] Consonants](engl.io/anw)
+- zz[z], ss[s], sun[sʌn], zoo[zu], dressy[ˈdɹεs-i], Brazil [bɹәˈzɪl], lays[leɪz], lace[leɪs]
+
+Spanish speakers, make a very clear S[s] sound for every S they see. But many S’s are pronounced as a Z: busy[ˈbɪz.i], business[ˈbɪz.nɪs], husband[ˈhʌz.bənd], cousin[ˈkʌz.ən], as[əz], these[ðiːz], president[ˈprɛzəˌdɛnt], always[ˈɔlˌweɪz]. You just need to learn the pronunciation of them as you learn the word.
+
+#### [v5.17 - Letter S as the [z] Sound](engl.io/anz)
+- 🔈[z]: cousin[ˈkʌz.ən], husband[ˈhʌz.bənd], because[bɪˈkɔz], bruise[bruz], is[ɪz], his[hɪz], was[wʌz], design[dɪˈzaɪn], lose[luz]
+- (as a verb): use[juz]/ house[haʊz]
+- (as a noun): use[jus] / house[haʊs]
+
+You’ll see these sounds spelled several ways in American English. 
+- [s]
+- s: sun [sʌn]
+- ss: mess [mεs]
+- x: extra [ˈεk stɹəә]
+- cc: accept [ækˈsεpt]
+- c: cell [sεl]
+- sc: scent [sεnt]
+- [z]
+- z: zoo [zu]
+- zz: buzz [bʌz]
+- s: busy [ˈbɪz i]
+- ss: dessert [dɪˈzɜɹt]
+
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
