@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s)  
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh)  
 6. Consonant Clusters
 7. Rhythm and Intonation: Multi-Syllable Words
 8. Linking
@@ -1210,6 +1210,34 @@ You’ll see these sounds spelled several ways in American English.
 - zz: buzz [bʌz]
 - s: busy [ˈbɪz i]
 - ss: dessert [dɪˈzɜɹt]
+
+### `sh-zh`
+These sounds are also fricatives. 
+- `teeth`: come together for these sounds to constrict the air passage.
+- `tongue`: tip lifts so the tip and the front part of the tongue are very close to the front part of the roof of the mouth, but not touching.
+- `lips`: flare out.
+
+SH[ʃ]is unvoiced(🔇) and ZH[ʒ] is voiced(🔈).
+
+#### [v5.18 - SH[ʃ] and ZH[ʒ] Consonants](engl.io/an2)
+- sample words: ship[ʃɪp], measure[ˈmɛʒ-əɹ] / dish[dɪʃ], decision[dɪ-ˈsɪʒ-ən] / wash[wɑʃ], mirage[mɪ-ˈɹɑʒ]
+- Sample sentence: She made the decision to get a beige bed spread with chic striped sheets. [ʃi_meɪd|‿ðə_dɪ-ˈsɪʒ-ən_tə_gɛd‿ə_beɪʒ] [ˈbɛd|_sprɛd_wɪθ_ʃik_stɹaɪpt_ʃits]
+
+#### [a5.11 - Listen + Repeat - SH[ʃ] and ZH[ʒ] Consonants](engl.io/an4)
+sh[ʃ], zh[ʒ], shame[ʃeɪm], genre[ˈʒɑn-ɹә], official[əˈfɪʃ-әl], Asia[ˈeɪ-ʒә], stash[stæʃ], beige[beɪʒ]
+
+You’ll see these sounds spelled several ways in American English.
+- [ʃ]
+- sh: ship [ʃɪp]
+- sch: schwa [ʃwɑ]
+- ti: action[ˈæk-ʃəәn]
+- ci: crucial[ˈkɹu-ʃəәl]
+- ssi: mission[ˈmɪʃəәn]
+- s: sure [ʃʊəәɹ]
+- [ʒ]
+- s: usual [ˈju-ʒu-әl]
+- ge: beige [beɪʒ]
+- z: azure[ˈæʒ-әɹ]
 
 
 ## Shortcuts
