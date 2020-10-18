@@ -7,16 +7,16 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh)  
-6. Consonant Clusters
-7. Rhythm and Intonation: Multi-Syllable Words
-8. Linking
-9. Rhythm and Intonation: Stresses Words
-10. Unstressed Words and Words that Reduce
-11. Coontractions
-12. Gonna, Wanna, Gotta
-13. Putting it all togheter
-14. Continuing to Work
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð)  
+1. Consonant Clusters
+2. Rhythm and Intonation: Multi-Syllable Words
+3. Linking
+4. Rhythm and Intonation: Stresses Words
+5.  Unstressed Words and Words that Reduce
+6.  Coontractions
+7.  Gonna, Wanna, Gotta
+8.  Putting it all togheter
+9.  Continuing to Work
 
 ## Tools for Learning
 English is not a phonetic language (no relation between letters and sounds). Rather than relying on a letter to represent a sound, experts have come up with a unique symbol for each sound: IPA.
@@ -1239,6 +1239,26 @@ You’ll see these sounds spelled several ways in American English.
 - ge: beige [beɪʒ]
 - z: azure[ˈæʒ-әɹ]
 
+### `th(θ-ð)`
+These sounds are also fricatives. Here, the air passage is constricted by the tongue and the teeth. To make these sounds, the tongue tip needs to come through the teeth, just a little bit.
+Students often substitute the F and V, the S and Z, or the T and D sounds. Don’t do that, get comfortable with these new sounds.
+
+Common mistakes: aside from the substitutions, put too much of the tongue through the teeth. It should just be the tip. Also, make this a stop sound, with tension that releases. This should not be a stop, there should be a continuous flow of air. The tongue has to be relaxed for the air to flow freely.
+
+#### [v5.19 - TH[θ-ð] Consonants](engl.io/an7)
+- [θ]🔇 and [ð]🔈
+- For the THR consonant cluster, the lips will begin to move into position for the R while the TH is being made: three[θriː]
+- In some cases, these sounds will be replaced with a similar sound, when the tongue does not quite come through the teeth. Instead it presses against the closed teeth.  This will happen in an unstressed word only, when there isn’t enough time given to the word for teeth to part and the tongue to come through: What’s in the car?[wɒts_ɪn_ðə_kɑː?]->[wɒts_ɪn_də_kɑː?]
+- sample words: thin[θɪn]/this[ðɪs], thief[θif]/these[ðiz], birthday[ˈbɜɹθ-deɪ]/worthy[ˈwɜɹ-ði]
+- sample sentence:  I thought of using these Lily of the Valleys rather than those thorny roses. [aɪ_θɔt‿ʌv_ˈju-zɪŋ_ðiːz_ˈlɪ-li_ɒv_ðə_ˈvæl-iz] [ˈɹæð-əɹ_ðən_ðoʊz_ˈθoʊɹ-ni_ˈroʊz-əz]
+
+#### [a5.12 - Listen + Repeat - Two TH [θ-ð] Consonants](engl.io/ap2)
+th[θ], th[ð], think[θɪŋk], this[ðɪs], something[ˈsʌmˌθɪŋ], brother[bɹʌð-әɹ], with[wɪθ], loathe[loʊð]
+
+These two sounds are only spelled with the letters ‘th’: - [θ]
+- th: theme[θim]
+- [ð]
+- th: this[ðɪs]
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
