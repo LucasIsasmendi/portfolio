@@ -20,7 +20,7 @@
 4. Sustainable cities
 5. National policies
 
-## Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development
+### Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development
 [coursera link](https://www.coursera.org/learn/beyond-the-sustainable-development-goals-addressing-sustainability-and-development) - Weeks:
 1. Introductions to the Course
 2. Climate Change
@@ -28,7 +28,13 @@
 4. Biodiversity Loss and Ecosystem Degradation
 5. Trade Offs and Synergies
 
-## Become a Sustainable Business Change Agent Specialization
+### The Sustainable Development Goals – A global, transdisciplinary vision for the future
+[coursera link](https://www.coursera.org/learn/global-sustainable-development) - Weeks:
+1. Sustainable Development as a Global Goal
+2. Managing human impacts on the natural world 
+3. Social sustainability and the way forward
+4. 
+### Become a Sustainable Business Change Agent Specialization
 [coursera link](https://www.coursera.org/specializations/sustainable-business-change-agent) - Courses:
 1. First Steps in Making the Business Case for Sustainability
 2. More on Change and Sustainability
@@ -54,6 +60,14 @@
 5. Module 10: Corporate Social Responsibility in the Agro-Food Sector, Module 11: Coordination in the Agro-food Value Chain
 6. Module 12: Coordination, Quality and Modern Retail, Module 13: Industrial Standards 
 
+## Unravelling solutions for Future Food problems
+[coursera link](https://www.coursera.org/learn/solutions-future-food-problem) - Weeks:
+1. Introduction Future Food & Food Shortage Part I
+2. Food Shortage Part II: Sustainable solutions
+3. Healthy Choices Part I: Food & Health
+4. Healthy Choices Part II: Food-related behavior and interventions
+5. An interdisciplinary approach to food
+
 ## Climate
 ### Act on Climate: Steps to Individual, Community, and Political Action
 [coursera link](https://www.coursera.org/learn/act-on-climate) - Weeks:
@@ -65,3 +79,12 @@
 6. Climate Action Plan
 7. Conclusion
 
+## Circular Economy
+### Circular Economy - Sustainable Materials Management
+[coursera link](https://www.coursera.org/learn/circular-economy) - Weeks:
+1. Introduction - Materials
+2. Circular Business Models
+3. Circular Design, Innovation and Assessment
+4. Policies and Networks
+5. Circular Societies
+6. 
