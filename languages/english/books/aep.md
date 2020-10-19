@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð)  
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ch-jj](#ch-jj)  
 1. Consonant Clusters
 2. Rhythm and Intonation: Multi-Syllable Words
 3. Linking
@@ -1260,9 +1260,39 @@ These two sounds are only spelled with the letters ‘th’: - [θ]
 - [ð]
 - th: this[ðɪs]
 
+### ch-jj
+These sounds are stops and fricatives, combining the tongue position of T[t] and D[d] with the lip position of SH[ʃ] and ZH[ʒ]. 
+The `tongue` tip is at the roof of the mouth, the `teeth` are together, and the `lips` flare. Because they are stop consonants, you cannot hold them out the way you can hold out SH[ʃ] and ZH[ʒ].
+Stop the air in the throat with the tongue tip at the roof of the mouth, and release the air by pulling the tongue down. Unlike the stop consonants, you cannot skip the release on these words.
+
+#### [v5.19 - CH[ʧ] and JJ[ʤ] Consonants](engl.io/ap5)
+- CH[ʧ]🔇 / JJ[ʤ]🔈 
+- sample words: char[ʧɑɹ] /jar[ʤɑɹ], chump[ʧʌmp] /jump[ʤʌmp]
+- sample sentence: I was on the edge of my seat watching each match of the major tournament. [aɪ_wʌz‿ɒn_ði_ɛʤ‿ʌv_maɪ_sit_ˈwɒʧ-ɪŋ_iʧ] [mæʧ‿ʌv_ðə_ˈmeɪʤ-əɹ_ˈtɜɹ-nə-mənt]
+
+#### [a5.13 - Listen + Repeat - CH[ʧ] and JJ[ʤ] Consonants](engl.io/ap8)
+ch[ʧ], jj[dʒ], cheap[ʧip], job[ʤɑb], kitchen[ˈkɪʧ-әn], major[ˈmeɪ-ʤәɹ], much[mʌʧ], age [eɪʤ]
+
+#### [a5.14 - Listen + Repeat - SH[ʃ] vs. CH[ʧ]](engl.io/apb)
+- wish[wɪʃ], which[wɪʧ]
+- chin[ʧɪn], shin[ʃɪn]
+- batch[bæʧ], bash[bæʃ]
+- ditch[dɪʧ], dish[dɪʃ]
+
+You’ll see these sounds spelled several ways in American English.
+- [ʧ]
+- ch: change[ʧeɪnʤ]
+- tch: match[mæʧ]
+- [dʒ]
+- j: jam [ʤæm]
+- g: gell [ʤεl]
+- dg: budget [ˈbʌʤ-ɪt]
+- di: soldier [ˈsoʊl-ʤəɹ]
+- dj: adjective [ˈæʤ-ɪk-tɪv]
+
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
-- θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w
+- θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w ʤ ʧ
 - ɹ
 - ˈˌ ‿
 
