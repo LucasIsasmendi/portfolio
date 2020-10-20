@@ -8,9 +8,9 @@
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
 [5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ch-jj](#ch-jj)  
-1. Consonant Clusters
-2. Rhythm and Intonation: Multi-Syllable Words
-3. Linking
+6. Consonant Clusters
+7. Rhythm and Intonation: Multi-Syllable Words
+8. Linking
 4. Rhythm and Intonation: Stresses Words
 5.  Unstressed Words and Words that Reduce
 6.  Coontractions
@@ -1260,7 +1260,7 @@ These two sounds are only spelled with the letters ‘th’: - [θ]
 - [ð]
 - th: this[ðɪs]
 
-### ch-jj
+### `ch-jj`
 These sounds are stops and fricatives, combining the tongue position of T[t] and D[d] with the lip position of SH[ʃ] and ZH[ʒ]. 
 The `tongue` tip is at the roof of the mouth, the `teeth` are together, and the `lips` flare. Because they are stop consonants, you cannot hold them out the way you can hold out SH[ʃ] and ZH[ʒ].
 Stop the air in the throat with the tongue tip at the roof of the mouth, and release the air by pulling the tongue down. Unlike the stop consonants, you cannot skip the release on these words.
@@ -1289,6 +1289,18 @@ You’ll see these sounds spelled several ways in American English.
 - dg: budget [ˈbʌʤ-ɪt]
 - di: soldier [ˈsoʊl-ʤəɹ]
 - dj: adjective [ˈæʤ-ɪk-tɪv]
+
+**Section 2: Non-Paired consonants**
+### `m`
+The `lips` press lightly together, and likely the `jaw` will drop just a little to get ready for the next vowel or diphthong sound. You can hold this sound out continuously. When you practice, hold it for 5 seconds and feel the buzz of the voice. This is a voiced consonant.
+
+#### [v5.21 - M[m] Consonant](engl.io/apd)
+Is categorized as a nasal consonant along with N and NG[ŋ]. Air pass up over the soft palate.
+- sample words: map[mæp], hammer[ˈhæm-əɹ], bottom[ˈbɒd-əm]
+- sample sentence: My mom might come tomorrow morning [maɪ_mɒm‿maɪt|_kʌm_tə-ˈmɒɹ-oʊ_ˈmɔɹn-ɪŋ]
+
+#### [a5.15 - Listen + Repeat - M[m]](engl.io/apf)
+mm[m], my[maɪ], human[ˈhju-mәn], some[sʌm]
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
