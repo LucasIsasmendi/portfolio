@@ -7,10 +7,10 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ch-jj](#ch-jj)  
-6. Consonant Clusters
-7. Rhythm and Intonation: Multi-Syllable Words
-8. Linking
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ)   
+1. Consonant Clusters
+2. Rhythm and Intonation: Multi-Syllable Words
+3. Linking
 4. Rhythm and Intonation: Stresses Words
 5.  Unstressed Words and Words that Reduce
 6.  Coontractions
@@ -1260,7 +1260,7 @@ These two sounds are only spelled with the letters ‘th’: - [θ]
 - [ð]
 - th: this[ðɪs]
 
-### `ch-jj`
+### `ʧ-ʤ`
 These sounds are stops and fricatives, combining the tongue position of T[t] and D[d] with the lip position of SH[ʃ] and ZH[ʒ]. 
 The `tongue` tip is at the roof of the mouth, the `teeth` are together, and the `lips` flare. Because they are stop consonants, you cannot hold them out the way you can hold out SH[ʃ] and ZH[ʒ].
 Stop the air in the throat with the tongue tip at the roof of the mouth, and release the air by pulling the tongue down. Unlike the stop consonants, you cannot skip the release on these words.
@@ -1301,6 +1301,33 @@ Is categorized as a nasal consonant along with N and NG[ŋ]. Air pass up over th
 
 #### [a5.15 - Listen + Repeat - M[m]](engl.io/apf)
 mm[m], my[maɪ], human[ˈhju-mәn], some[sʌm]
+
+You’ll see this sound spelled two ways in American English.
+- m: man[mæn]
+- mm: yummy[ˈjʌm-i]
+
+### `ŋ`
+This nasal sound is a little different from [m] and [n]: it doesn’t start any words in American English. It only comes in the middle (“singer”) or at the end of a word (“ring”). It’s made by lifting the back part of the tongue to touch the lowered soft palate. The tongue tip stays down in the front, but it might not be quite touching the back of the bottom front teeth. Jaw drop and lip position don’t affect this sound, as long as the tongue is in the right position.
+
+Because of the -ing [ɪŋ] form of verbs, this is a very common ending sound. Except in the most casual and common phrases (What are you doing? → Whatcha doin’? [ˈwʌʧ‿əˈdo-ɪn]).
+
+The letters ‘ng’ and the the NG [ŋ] sound can be 
+- ng = [ndʒ]: change [tʃeɪndʒ], angel [ˈeɪn-ʤəl]
+- ng = [ng]: unglue [ʌnˈglu], engaged [εnˈgeɪʤd]
+- ng = [ŋg]: angle [ˈæŋ-gәl], English [ˈɪŋ-glɪʃ]
+- nk = [ŋk]: ankle [ˈæŋ-kəl], bank [bæŋk]
+- nk = [nk]: unkept [ʌnˈkεpt], unkind [ʌnˈkaɪnd] (‘un’ is a prefix)
+
+#### [v5.21 - NG[ŋ] Consonant](engl.io/aph)
+- sample words: sing[sɪŋ], think[θɪŋk], running[ˈɹʌn-ɪŋ]
+- Sample sentence: Studying English and practicing speaking is rewarding. [ˈstʌd-i-ɪŋ_ˈɪŋg-lɪʃ_ænd|_ˈpræk-tɪs-ɪŋ] [ˈspik-ɪŋ_ɪz_ɹɪ-ˈwɔɹ-dɪŋ]
+
+#### [a5.16 - Listen + Repeat - NG[ŋ]](engl.io/apk)
+ng[ŋ], song[sɔŋ], English[ˈɪŋ-glɪʃ], young[jʌŋ]
+
+You’ll see this sound spelled two ways in American English. 
+- ng: thing [θɪŋ]
+- n: thank [θæŋk]
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
