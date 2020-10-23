@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ)   
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n)   
 1. Consonant Clusters
 2. Rhythm and Intonation: Multi-Syllable Words
 3. Linking
@@ -1328,6 +1328,37 @@ ng[ŋ], song[sɔŋ], English[ˈɪŋ-glɪʃ], young[jʌŋ]
 You’ll see this sound spelled two ways in American English. 
 - ng: thing [θɪŋ]
 - n: thank [θæŋk]
+
+### `n`
+This is the hardest of the three nasal consonants. Is very different from NG.
+It is made with the front of the tongue at the front of the mouth. Lift the tongue so it is flat and wide—this means the rest of the tongue is relaxed. The top of the front of the tongue, not the tip, will touch the roof of the mouth. The tip of the tongue will be just behind the top front teeth.
+Think of keeping the back of the tongue as wide as possible. That will help keep it lower.
+
+#### [v5.23 - N[n] Consonant](engl.io/apm)
+- sample words: nice[naɪs], can[kæn], dinner[ˈdɪn-əɹ]
+- sample sentence: Now I don’t know when I can come. [naʊ‿aɪ_doʊnt|_noʊ‿wɛn‿aɪ_kən_kʌm]
+
+#### [v5.24 - How to Make N[n], Relating to D[d]](engl.io/app)
+‘dice’ and ‘nice’. A good exercise to work on your N is to switch back and forth between syllables that start with a D and syllables that start with an N. Da-da-da-da-da, na-na-na-na-na, for example. Do use a mirror to make sure that it’s the front part of your tongue that’s raising. 
+
+#### [v5.25 - N[n] vs. NG[ŋ]](engl.io/aps)
+The nn sound: feels more forward, because the part of the tongue that raises is more forward. The NG sound, it feels further back because the part of the tongue that raises is further back, that raises and touches the throat/back part of the mouth. Also, the jaw makes a small shift, but that is only to accommodate the part of the tongue that is moving. Example: Running (Run - ning)
+
+#### [v5.26 - N[n] vs NG[ŋ] Test](engl.io/apv)
+wing[wiŋ], tan[tæn], song[sɔŋ], feeling[ˈfi-lɪŋ], on[ɔn], fun[fʌn], lung[lʌŋ], seeing[ˈsi-ɪŋ], done[dʌn], strong[stɹɔŋ], fine[faɪn]
+
+#### [a5.17 - Listen + Repeat - N[n]](engl.io/apx)
+n[n], need[nid], down[daʊn], undone[ʌnˈdʌn]
+
+#### [a5.18 - Listen + Repeat - N[n] vs. NG[ŋ]](engl.io/apz)
+#### [a5.19 - Test - N[n] vs. NG[ŋ]](engl.io/ar1)
+3/5 (p115 - rta262)
+
+You’ll see this sound spelled several ways in American English.
+- n: no [noʊ]
+- nn: inn [ɪn]
+- kn: know [noʊ]
+- gn: gnaw [nɔ]
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
