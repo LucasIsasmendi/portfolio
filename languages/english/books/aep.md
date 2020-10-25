@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n)   
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n), [h](#h)   
 1. Consonant Clusters
 2. Rhythm and Intonation: Multi-Syllable Words
 3. Linking
@@ -1359,6 +1359,17 @@ You’ll see this sound spelled several ways in American English.
 - nn: inn [ɪn]
 - kn: know [noʊ]
 - gn: gnaw [nɔ]
+
+### h
+The H consonant is unique because it will never end a word. It only occurs at the beginning of a word (“happy”) or in the middle (“unhappy”).
+
+#### [v5.27 - H[h] Consonant](engl.io/ar3)
+This sound is simply made by passing air through a slightly constricted throat. The rest of the mouth position depends on the sound that comes next. 
+- sample words: happen[ˈhæp-ən], have[hæv], home[hoʊm]
+- sample sentence: He said hello to her when he got here [hi_sɛd_hə-ˈloʊ_tə_hər_wɛn_hi_gɑt|_hir]
+
+#### [a5.20 - Listen + Repeat - H [h] Consonant](engl.io/ar5)
+h[h], hi[haɪ], ahead[eˈhεd], neighborhood[ˈneɪ-bәɹˌhʊd]
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
