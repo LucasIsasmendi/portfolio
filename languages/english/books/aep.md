@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n), [h](#h)   
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n), [h](#h), [y](#y)   
 1. Consonant Clusters
 2. Rhythm and Intonation: Multi-Syllable Words
 3. Linking
@@ -1370,6 +1370,26 @@ This sound is simply made by passing air through a slightly constricted throat. 
 
 #### [a5.20 - Listen + Repeat - H [h] Consonant](engl.io/ar5)
 h[h], hi[haɪ], ahead[eˈhεd], neighborhood[ˈneɪ-bәɹˌhʊd]
+
+You’ll see this sound spelled two ways in American English. 
+- h: hi[haɪ]
+- wh: whole[hoʊl]
+
+### y
+This consonant is a ‘glide’ consonant, which is actually considered a ‘semi-vowel’. 
+No words in English end in this sound, though many end in the letter Y (they [ðeɪ], by [baɪ], say [seɪ]). This sound is only at the beginning of a word (“your”) or, rarely, in the middle (“unyielding”).
+
+To make this sound, the tip of the tongue pushes the back of the bottom front teeth. The jaw drops just a little bit and there is a little tightening in the throat. The middle part of the tongue lifts and presses against the roof of the mouth in an up and forward motion.
+
+#### [v5.28 - Y[j] Consonant](engl.io/ar8)
+- sample words: yeah[jɛə], yard[jɑɹd], yield[jild], yogurt[ˈjoʊ-gəɹt]
+- sample sentence: Did you buy the yellow kayak yesterday? [dɪd_jʊ_baɪ_ðə_ˈjɛl-oʊ_ˈkaɪ-æk_ˈjɛst-ər- ˌdeɪ]
+
+#### [a5.20 - Listen + Repeat - Y[j]](engl.io/arb)
+y[j], yes[jεs], year[jɪәɹ], unyielding[ʌnˈjil-dɪŋ]
+
+This sound is only spelled with the letter Y: 
+- y: yes[jεs]
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
