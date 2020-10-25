@@ -4,8 +4,9 @@
 - [linktr](https://linktr.ee/guiahernanpisotti)
 
 **Contenido**  
-[ Sobre Procastinacion](#sobre-procastinacion)  
+[Sobre Procastinacion](#sobre-procastinacion)  
 [Sobre Amor a Un@ Mism@](#sobre-amor-a-un-mism)  
+[Sobre Creencias Limitantes](#sobre-creencias-limitantes)  
 
 ## Sobre Procastinacion
 [Instagram - Vivo e interactivo 270920](https://www.instagram.com/tv/CFqQac7F5Ix/)
@@ -30,7 +31,7 @@ Vamos aprendiendo del otro, alquien que quizas necesites tener en tu cabeza de r
 
 **Como se trabaja el amor incondicional a uno mismo cuando no fue entregado por la madre?** [Instagram - Vivo e interactivo 270920 - 23:10](https://www.instagram.com/tv/CFqQac7F5Ix/)
 
-El amor incondicional no es tan incondicional como nosotros pensamos. El ego al tener conciencia de finitud, la incondicionalidad es algo que cuesta. Lo que mas se asemeja a esa incondicionalidad es el amor de la madre por el hijo, y en funcion a ese amor de la madre por el hijo, el que podamos tomar como alla venido, va desarrollando en nosotros nuestra capacidad de amarnos. La experiencia de cuando el alma se funde con el todo, sensacion de frecuencia alta, es una sensacion de incondicionalidad, el amor como energia, ese amor, es el que nosotros tenemos que lograr.
+El amor incondicional no es tan incondicional como nosotros pensamos. El ego al tener conciencia de finitud, la incondicionalidad es algo que cuesta. Lo que mas se asemeja a esa incondicionalidad es el amor de la madre por el hijo, y en funcion a ese amor de la madre por el hijo, el que podamos tomar como haya venido, va desarrollando en nosotros nuestra capacidad de amarnos. La experiencia de cuando el alma se funde con el todo, sensacion de frecuencia alta, es una sensacion de incondicionalidad, el amor como energia, ese amor, es el que nosotros tenemos que lograr.
 El punto de partida que tenemos para esta experiencia, es el amor que tomamos de nuestra madre y del entorno. Es un proceso que lleva el alma, por lo que podes hacerlo en multiples vidas.
 
 El amor incondicional que podemos trabajar es el de nosotros por nosotros. Algunos lo tenemos muy lejano porque sentimos que el amor esta afuera y no esta adentro. Cuando sentimos que tenemos que ir a buscar afuera cosas para hacernos sentir mejor. Somos nosotros el eje de nuestro proceso de evolucion, no desde un lugar egoista, nosotros primero tenemos que ocuparnos de nosotros.
@@ -45,3 +46,16 @@ Sean amorosos con ustedes mismos, haganse mimos
 Ojo con el tema de `perdonar a nuestros padres`, eso nos pone en el lugar de jueces, como si estuvieramos por arriba de ellos, juzgando lo que hicieron. No es sano para vos, ni para la familia. Aceptar y decirle que si a que `hicieron lo mejor que pudieron`.
 
 **Perdon Radical**: perdonate por exponerte a determinadas situaciones (camino que tu alma decidio recorrer) que tu ego no hubiera elegido, para experimentar lo que viniste a experimentar, y aprender lo que viniste a aprender. No las podes soltar o no le encontras el sentido a ese tipo de experiencia.
+
+## Sobre Creencias Limitantes
+[Instagram - Vivo e interactivo 270920 - 35:10](https://www.instagram.com/tv/CFqQac7F5Ix/)  
+Lo que experimentamos como ausencias nos marca el camino de evolucion. No renegar del contexto, porque nos ayuda a ser quien vinimos a ser, cuando comenzas a ver tu evolucion como una pelicula, no como una foto, mas te permitis fluir en la vida.
+Vos tenes lo agujeros en tu raiz de amar y creer, necesarios para poder llevar adelante y experimentar tu proceso de evolucion.
+Comenza a integrar y amar esas partes oscuras, esas cuestiones que no te gustan tanto.
+
+Los agujeros en las raices son inseguridades, los miedos, el no ser que tocamos para darnos cuenta quienes somos. Cuales son las inseguridades que me llevan a postergar?. Son los miedos que me limitan por mi capacidad de confiar y creer en mi mismo. Si las trato como algo negativo, lo que hago es resistirlas y negarlas, cuando lo que hay que hacer es aceptarlas, integrarlas, quererlas y darle lugar y superarlas para poder movilizar y generar los cambios que necesito generar.
+El tiempo interno es Kayros, no es cronologico, tenes que aprender a ver cual es tu tiempo interno, si se dilata mucho, va a generar malestar.
+
+A veces vemos tantas cosas que son malas y nos enfocamos en cambiarlas y no paramos a ver el sentido que a lo mejor eso que vemos como malo tiene algo bueno. Mayor toma de conciencia de lo que nos esta pasando, cual es el proceso y poder abordarlo, no quedarse con lo bueno o malo, profundizar y ver que hay un sentido en todo eso, juzgar como bueno o malo entorpece el proceso.
+
+El padre es sinonimo de contencion, de soporte, esa energia se usa para superar miedos, en cada situacion se va ganando confianza.
