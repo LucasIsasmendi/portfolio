@@ -7,8 +7,8 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n), [h](#h), [y](#y)   
-1. Consonant Clusters
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n), [h](#h), [y](#y), [w](#w)   
+6. Consonant Clusters
 2. Rhythm and Intonation: Multi-Syllable Words
 3. Linking
 4. Rhythm and Intonation: Stresses Words
@@ -1390,6 +1390,23 @@ y[j], yes[jεs], year[jɪәɹ], unyielding[ʌnˈjil-dɪŋ]
 
 This sound is only spelled with the letter Y: 
 - y: yes[jεs]
+
+### w
+W[w] is the other glide consonant in American English. No words in English end in this sound, though many end in the letter (know [noʊ], new [nu], law [lɔ]). This sound is only at the beginning of a word (“water”), or in the middle (“unwind”).
+
+The lips must round. There is a little tightening in the throat, just like the glide consonant Y. The tongue tip is forward, lightly touching the back of the bottom front teeth. The back part of the tongue stretches up towards the soft palate.
+
+#### [v5.29 - W[w] Consonant](engl.io/are)
+- sample words: whisper[ˈwɪs-pəɹ], wish[wɪʃ], wine[waɪn]
+- 'wh': can be pronounced [hw] or [w]
+- sample sentence: When would you want to see the flower show? [wɛn_wʊd_ju_wɑnt|_tə_si] [ðə_ˈflaʊ-əɹ_ʃoʊ]
+
+#### [a5.22 - Listen + Repeat - W[w]](engl.io/arf)
+w[w], west[wεst], walk[wɔk], unwind[ʌnˈwaɪnd]
+
+You’ll see this sound spelled two ways in American English.
+- w: was [wʌz]
+- o: one [wʌn]
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
