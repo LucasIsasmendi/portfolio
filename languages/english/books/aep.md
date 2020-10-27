@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n), [h](#h), [y](#y), [w](#w)   
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n), [h](#h), [y](#y), [w](#w), [ɹ](#ɹ)   
 6. Consonant Clusters
 2. Rhythm and Intonation: Multi-Syllable Words
 3. Linking
@@ -1360,7 +1360,7 @@ You’ll see this sound spelled several ways in American English.
 - kn: know [noʊ]
 - gn: gnaw [nɔ]
 
-### h
+### `h`
 The H consonant is unique because it will never end a word. It only occurs at the beginning of a word (“happy”) or in the middle (“unhappy”).
 
 #### [v5.27 - H[h] Consonant](engl.io/ar3)
@@ -1375,7 +1375,7 @@ You’ll see this sound spelled two ways in American English.
 - h: hi[haɪ]
 - wh: whole[hoʊl]
 
-### y
+### `y`
 This consonant is a ‘glide’ consonant, which is actually considered a ‘semi-vowel’. 
 No words in English end in this sound, though many end in the letter Y (they [ðeɪ], by [baɪ], say [seɪ]). This sound is only at the beginning of a word (“your”) or, rarely, in the middle (“unyielding”).
 
@@ -1391,7 +1391,7 @@ y[j], yes[jεs], year[jɪәɹ], unyielding[ʌnˈjil-dɪŋ]
 This sound is only spelled with the letter Y: 
 - y: yes[jεs]
 
-### w
+### `w`
 W[w] is the other glide consonant in American English. No words in English end in this sound, though many end in the letter (know [noʊ], new [nu], law [lɔ]). This sound is only at the beginning of a word (“water”), or in the middle (“unwind”).
 
 The lips must round. There is a little tightening in the throat, just like the glide consonant Y. The tongue tip is forward, lightly touching the back of the bottom front teeth. The back part of the tongue stretches up towards the soft palate.
@@ -1407,6 +1407,39 @@ w[w], west[wεst], walk[wɔk], unwind[ʌnˈwaɪnd]
 You’ll see this sound spelled two ways in American English.
 - w: was [wʌz]
 - o: one [wʌn]
+
+### `ɹ`
+the sound is mostly defined by the tongue—but because of the jaw and lip position, you can’t see the tongue.
+
+tongue back and up. jaw only needs to drop a little bit, more of a relaxation than a drop. The middle part of the tongue can touch the middle part of the roof of the mouth, or the teeth on the upper sides of the mouth. Corners of the lips come in so the lips can flare.
+
+There is another position that can make the R sound. curl the tip of the tongue up. It still shouldn’t touch anything. Flare your lips to help shape the sound. (como la r sp)
+
+#### [v5.30 - R[ɹ]  Consonant](engl.io/arh)
+R sounds at the beginning of syllables feel more forward in the face, whereas R sounds at the end of syllables feel further back in the mouth.
+- sample words: run[ɹʌn], relax[ɹɪ-ˈlæks], father[ˈfɑð-əɹ]. 
+- sample sentence: Whenever Rebecca drives her car to New York, she really worries about parking it on the street. [wɛn-ˈɛv-əɹ‿ɹə-ˈbɛk-ə_dɹaɪvz_həɹ_kɑɹ] [tu_nu-jɔɹk,_ʃi_ˈɹɪ-ə-li_wɜɹ-iz‿ə-ˈbaʊt|] [ˈpɑɹ-kɪŋ_ɪd‿ɑn_ðə_stɹit]
+
+#### [a5.23 - Listen + Repeat - R[ɹ]](engl.io/arj)
+r[ɹ], right [ɹaɪt], area[ˈεәɹ-i-ә], car[kɑɹ]
+
+#### [v5.31 - R[ɹ] vs W[w]](engl.io/arm)
+Sometimes people make a W [w] sound instead of an R [ɹ]. This happens when the front of the tongue stays down and the back lifts. To make the R sound, do the opposite. Lift the tongue tip so it doesn’t touch anything.\
+So, with the W, the tongue is stretching. With the R, the tongue is sort of pulling up into itself. 
+Consontant clusters: BRead, CRash, DRop, FRiend, GReat, PRice, SCReen, SHRed, SPRing, STReet, THRee, TRee
+
+#### [a5.24 - Listen + Repeat - R[ɹ] vs W[w]](engl.io/arp)
+- r[ɹ], w[w]
+- rest[ɹεst], west[wεst]
+- rag[ɹæg], wag[wæg]
+- ray[ɹeɪ], way[weɪ]
+
+#### [a5.25 - Test -  R [ɹ] vs. W [w]](engl.io/arr)
+5/5 (p125 / answers 262)
+
+You’ll see this sound spelled two ways in American English. 
+- r: run [ɹʌn]
+- rr: array [əˈɹeɪ]
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
