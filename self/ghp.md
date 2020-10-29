@@ -3,13 +3,18 @@
 - [web](https://www.hernanpisotti.com/)
 - [linktr](https://linktr.ee/guiahernanpisotti)
 
-**Contenido**  
+**Canales**  
+- [Instagram](#instagram)
+- [youtube](#youtube)
+
+## Instagram
+**Mis Apuntes**  
 [Sobre Procastinacion](#sobre-procastinacion)  
 [Sobre Amor a Un@ Mism@](#sobre-amor-a-un-mism)  
 [Sobre Creencias Limitantes](#sobre-creencias-limitantes)  
 
-## Sobre Procastinacion
-[Instagram - Vivo e interactivo 270920](https://www.instagram.com/tv/CFqQac7F5Ix/)
+### Sobre Procastinacion
+[link Instagram - Vivo e interactivo 270920](https://www.instagram.com/tv/CFqQac7F5Ix/)
 
 Los que tenemos tendencia a procastinar, tenemos tendencia a salir de la zona de equilibrio (zona de confort, que no necesariamente es confortable) en la cual estamos.
 Cuando hay que dar el paso, nos quedamos, porque esa tendencia al equilibrio termina siendo mas fuerte que el impulso que tenemos para poder romperlo. Necesitamos Cargar combustible hasta que llegamos a las 88mph y se da el cambio.
@@ -27,9 +32,10 @@ A veces esta bueno tener a alguien de quien aprender esto (taller no sos vos soy
 Alguien de quien aprender, porque el camino de aprendizaje consiste en desarrollar mas lo que esta del otro lado de la moneda de lo que yo tengo.
 Vamos aprendiendo del otro, alquien que quizas necesites tener en tu cabeza de referencia y decir "**COMO** haria X en esta situacion"
 
-## Sobre Amor a Uno Mismo
+### Sobre Amor a Uno Mismo
 
-**Como se trabaja el amor incondicional a uno mismo cuando no fue entregado por la madre?** [Instagram - Vivo e interactivo 270920 - 23:10](https://www.instagram.com/tv/CFqQac7F5Ix/)
+**Como se trabaja el amor incondicional a uno mismo cuando no fue entregado por la madre?**  
+[link Instagram - Vivo e interactivo 270920 - 23:10](https://www.instagram.com/tv/CFqQac7F5Ix/)
 
 El amor incondicional no es tan incondicional como nosotros pensamos. El ego al tener conciencia de finitud, la incondicionalidad es algo que cuesta. Lo que mas se asemeja a esa incondicionalidad es el amor de la madre por el hijo, y en funcion a ese amor de la madre por el hijo, el que podamos tomar como haya venido, va desarrollando en nosotros nuestra capacidad de amarnos. La experiencia de cuando el alma se funde con el todo, sensacion de frecuencia alta, es una sensacion de incondicionalidad, el amor como energia, ese amor, es el que nosotros tenemos que lograr.
 El punto de partida que tenemos para esta experiencia, es el amor que tomamos de nuestra madre y del entorno. Es un proceso que lleva el alma, por lo que podes hacerlo en multiples vidas.
@@ -47,8 +53,8 @@ Ojo con el tema de `perdonar a nuestros padres`, eso nos pone en el lugar de jue
 
 **Perdon Radical**: perdonate por exponerte a determinadas situaciones (camino que tu alma decidio recorrer) que tu ego no hubiera elegido, para experimentar lo que viniste a experimentar, y aprender lo que viniste a aprender. No las podes soltar o no le encontras el sentido a ese tipo de experiencia.
 
-## Sobre Creencias Limitantes
-[Instagram - Vivo e interactivo 270920 - 35:10](https://www.instagram.com/tv/CFqQac7F5Ix/)  
+### Sobre Creencias Limitantes
+[link Instagram - Vivo e interactivo 270920 - 35:10](https://www.instagram.com/tv/CFqQac7F5Ix/)  
 Lo que experimentamos como ausencias nos marca el camino de evolucion. No renegar del contexto, porque nos ayuda a ser quien vinimos a ser, cuando comenzas a ver tu evolucion como una pelicula, no como una foto, mas te permitis fluir en la vida.
 Vos tenes lo agujeros en tu raiz de amar y creer, necesarios para poder llevar adelante y experimentar tu proceso de evolucion.
 Comenza a integrar y amar esas partes oscuras, esas cuestiones que no te gustan tanto.
@@ -59,3 +65,36 @@ El tiempo interno es Kayros, no es cronologico, tenes que aprender a ver cual es
 A veces vemos tantas cosas que son malas y nos enfocamos en cambiarlas y no paramos a ver el sentido que a lo mejor eso que vemos como malo tiene algo bueno. Mayor toma de conciencia de lo que nos esta pasando, cual es el proceso y poder abordarlo, no quedarse con lo bueno o malo, profundizar y ver que hay un sentido en todo eso, juzgar como bueno o malo entorpece el proceso.
 
 El padre es sinonimo de contencion, de soporte, esa energia se usa para superar miedos, en cada situacion se va ganando confianza.
+
+## Youtube
+**Mis Resumenes**  
+[Tonalidades](#tonalidades)  
+
+### Tonalidades
+[link youtube](https://www.youtube.com/watch?v=aZ9paAZoNjU)
+
+Tonalidades: autoconocimiento. Usamos test, analisis, numerologia, astrologia.
+Hay personas que se manejan en una polaridad, blanco o negro, y otras en tonalidades gris. Todos somos todo, yo estoy manifestando una, porque entiendo que sale en automatico, pero puede no ser la que quiero manifestar, pero podemos cambiar las cosas y manifestar lo que queremos
+
+Blanco & Negro | Gris 
+- a todo o nada | depende
+- shock | gradualismo
+- extremista | moderado
+- cuando se siente amenazado ataca | tiende a huir
+- las cosas son asi | las cosas son segun quien las mira
+- firmeza | blandura
+- "no" facil | "si" facil
+- siempre o nunca | a veces
+- mirada absoluta | mirada relativa
+
+La distorcion cognitiva reduce todo a bien o mal, es una estrategia para reducir la carga de informacion.
+Tomar B&N como ideologia de vida puede ser peligrosa, conlleva una falta de empatia.
+El Gris es relativo, no es extremista, la mirada reduccionista puede tener la cuestion de no jugarsela, no tomar posicion, procastinar.
+
+Emocionalmente, como  me doy cuenta que mi B&N me esta afectando? El sufrimiento va a tender a alguna de las familias del enojo, la realidad tiene que responder a como lo ves. 
+Con que cosas soy B&N, con cuales Gris?.\
+Con cuales me conviene ser B&N y en cuales Gris?\
+
+El B&N tiene su camino de evolucion en el Gris, El gris tiene su camino de evolucion en el B&N. Buscamos complementarnos para tener una mirada mas completa. El otro es alguien que te esta mostrando lo que tenes que aprender, es un tema de unir, no separar. 
+
+Estar siendo evolucionado es cuando podes disponer de multiples realidades internas para poder habitar las multiples realidades externas. No es cuando sale en automatico.
