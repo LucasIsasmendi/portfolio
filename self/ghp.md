@@ -9,9 +9,9 @@
 
 ## Instagram
 **Mis Apuntes**  
-[Sobre Procastinacion](#sobre-procastinacion)  
-[Sobre Amor a Un@ Mism@](#sobre-amor-a-un-mism)  
-[Sobre Creencias Limitantes](#sobre-creencias-limitantes)  
+- [Sobre Procastinacion](#sobre-procastinacion)  
+- [Sobre Amor a Un@ Mism@](#sobre-amor-a-un-mism)  
+- [Sobre Creencias Limitantes](#sobre-creencias-limitantes)  
 
 ### Sobre Procastinacion
 [link Instagram - Vivo e interactivo 270920](https://www.instagram.com/tv/CFqQac7F5Ix/)
@@ -68,7 +68,8 @@ El padre es sinonimo de contencion, de soporte, esa energia se usa para superar 
 
 ## Youtube
 **Mis Resumenes**  
-[Tonalidades](#tonalidades)  
+- [Tonalidades](#tonalidades)  
+- [Raiz de Amar](#raiz-de-amar)
 
 ### Tonalidades
 [link youtube](https://www.youtube.com/watch?v=aZ9paAZoNjU)
@@ -97,4 +98,29 @@ Con cuales me conviene ser B&N y en cuales Gris?\
 
 El B&N tiene su camino de evolucion en el Gris, El gris tiene su camino de evolucion en el B&N. Buscamos complementarnos para tener una mirada mas completa. El otro es alguien que te esta mostrando lo que tenes que aprender, es un tema de unir, no separar. 
 
-Estar siendo evolucionado es cuando podes disponer de multiples realidades internas para poder habitar las multiples realidades externas. No es cuando sale en automatico.
+> Estar siendo evolucionado es cuando podes disponer de multiples realidades internas para poder habitar las multiples realidades externas. No es cuando sale en automatico.
+
+### Raiz de Amar
+[link youtube](https://www.youtube.com/watch?v=3PYDEAOiUQw)\
+
+La raiz de amar es nuestra fuerza interior, es al esencia del amor que nosotros somos, es la representacion del amor, de la union y también de la separación. 
+Comienza a formarse en el 5to mes de embarazo. Desde el punto de vista espiritual, se estima que el alma encarna
+
+Tiene una parte plena y otra con agujeros.\
+La parte plena tiene que ver con el amor, con lo que somos, con lo que vinimos a hacer al mundo.\
+Los agujeros son la representacion de la ausencia existencial. Funcionan como motor de evolución.\
+
+Embarazo es union, nacimiento es separacion. Hay una separacion energetica de nuestras madres que se va dando con el correr de los años (Eric Fromm). Amor leche: cuidado y responsabilidad, amor miel: por la vida, dulzura, felicidad de estar vivo.
+La mayoria de las madres tienen leche para dar, son menos las que pueden dar miel, solo una madre que esta en su camino de evolucion, puede dar amor miel a su hijo.
+
+Si yo no experimento la separacion de mi madre, no puedo ser conciente de que soy un ser separado y al momento de eso, puedo ser conciente de que al unirme con el todo soy un ser integral.
+
+Piso Tips:
+1. Averigua sobre tu embarazo: contexto, situaciones, vinculos, perdidas, mudanzas
+2. Presta atencion a tu realidad hoy: identifica que estas necesitando, como se manifiesta un malestar emocional. Las emociones son guias.
+3. Como estas manifestando 
+   - el amor leche: para con vos, lo que tiene que ver con tu cuidado y con tu responsabilidad y crecimiento fisico, emocional, mental y espiritual. Quien estas siendo
+   - el amor miel: cuanto estas disfrutando de la vida, que tan cerca estas de manifestar tu proposito
+4. Revisa tus vinculos: cuales requieren de cuidado y cuales de conectar con el disfrute
+5. Busca espacios donde vos sientas que perteneces, donde sientas que estas unido a otros, que se comparte, que existe un dar y un tomar equilibrado. Al sentir eso estas desarrollando raiz de amar. Y principalmente dar
+6. LA accion que te va a ayudar a sanar un agujero es dar aquello que vos sentis que estas necesitando y no estas teniendo. Da aquello que sos y que estas siendo al mundo
