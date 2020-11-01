@@ -7,7 +7,7 @@
 [2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
 [3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
 [4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n), [h](#h), [y](#y), [w](#w), [ɹ](#ɹ)   
+[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n), [h](#h), [y](#y), [w](#w), [ɹ](#ɹ), [l](#l)   
 6. Consonant Clusters
 2. Rhythm and Intonation: Multi-Syllable Words
 3. Linking
@@ -1440,6 +1440,100 @@ Consontant clusters: BRead, CRash, DRop, FRiend, GReat, PRice, SCReen, SHRed, SP
 You’ll see this sound spelled two ways in American English. 
 - r: run [ɹʌn]
 - rr: array [əˈɹeɪ]
+
+### `l`
+The L consonant has two types, `Dark` and `Light`. Unfortunately, dictionaries use only one IPA symbol [l] for the two kinds,
+- **light**: before the vowel or diphthong in a syllable: lie[laɪ], glass[glæs], allow[әˈlaʊ]. is made by lifting the tongue so the tip is pointed up, touching the roof of the mouth just behind the top front teeth. Alternately, some people make this by pressing the tongue tip up against the bottom of the top front teeth.  Sounds feel in the front 
+- **dark**: after the vowel or diphthong in a syllable: feel[fil], syllable[ˈsɪl-ә-bәl]. It has two parts:
+  1. **dark part**: pulling the back part of the tongue back. The tip stays forward, so the tip is touching the back of the bottom front teeth. It’s also flat in the mouth, not lifted. But the back part stretches back. Sounds feel in teh back
+  2. **the finish**: This is made just like the Light L, lifting the tongue tip to the roof of the mouth. Most of the time, Americans will leave this part out and just make the Dark part. Example: Rachel[ˈɹeɪ-tʃəl].
+
+#### [v5.32 - L[l] Consonant](engl.io/aru)
+- sample words ligh l: lap[læp], fly[flaɪ], relief[ɹɪ-ˈlif]
+- saple words dark l: fill[fɪl], tool[tul], cuddle[ˈkʌd-əl]. Fall
+- sample sentence: Last fall we got a good deal on last minute flights when we flew to California [læst_fɔl_wi_gɑd‿ə_gʊd|‿dil_ɑn_læst|_ˈmɪn_ɪt] [flaɪts_wɛn_wi_flu_tə‿ˌkæl-ɪ-ˈfɔrn-jə]
+
+#### [a5.26 - Listen + Repeat - L[l]](engl.io/arw)
+- `light`: l[l], lean[lin], lip[lɪp]
+- `dark`: l[l], pull[pʊl], feel[fil]
+
+#### [a5.27 - Listen + Repeat - L[l] vs OH[oʊ]](engl.io/arz)
+For the Dark L, let the lips relax. This sound is made at the back of the mouth, **when the back of the tongue pulls back**.
+- l [l], oh [oʊ]
+- real[ˈɹi-әl], Rio[ˈɹi-oʊ]
+- kneel[nil], neo-[ˈni-oʊ]
+- special [ˈspεʃ-әl], speci-o[ˈspεʃ-oʊ](not a word!)
+
+#### [a5.28 - Listen + Repeat - R[ɹ] vs L[l]](engl.io/as2)
+Both of these sounds can be held out, so always hold them out for 3 or 4 seconds as you’re working on complicated words. This will solidify the correct position. Sometimes it even helps to hold your finger up to your cheek and make the shape of the tongue with your finger. Make the connection between the sound and the correct tongue position strong.
+
+- r[ɹ], l[l] (light L)
+- wrong[ɹɔŋ], long[lɔŋ] (light L)
+- road[ɹoʊd], load[loʊd] (light L)
+- flame[fleɪm], frame[fɹeɪm] (light L, cluster)
+- ply[plaɪ], pry[pɹaɪ] (light L, cluster)
+- title[ˈtaɪ-dәl], tighter[ˈtaɪ-dәɹ] (dark L)
+- male[meɪl], mayor[ˈmeɪ-әɹ] (dark L)
+
+#### [v5.33 - Comparing R[ɹ] and L[l]](engl.io/as4)
+to make the L sound, the tongue tip is up and forward, and to make the R sound it is down and further back. In the R sound, the tip of the tongue is not touching anything. Also, in the L sound, the lips remain more neutral. In the R sound, they round somewhat. And sometimes, at the beginning of a word especially, they round a lot.
+- beginning: rate, late
+- end: cuddle, cutter
+- middle: fearing, feeling
+
+When you practice, use a mirror. And make sure that you see in the mirror the correct mouth position for these sounds.
+
+#### [v5.34 - Listen and Repeat, R[ɹ] and L[l]](engl.io/as7)
+At the beginning of the word:
+- wrap[ɹæp], lap[læp]
+- rain[ɹeɪn], lane[leɪn]
+- rest[ɹɛst], lest[lɛst]
+- rate[ɹeɪt], late[leɪt]
+- write[ɹaɪt], light[laɪt]
+- rent[ɹɛnt], lent[lɛnt]
+
+At the end of the word:
+- Cobble[ˈkɑbəl], robber[ˈrɑbər]
+- Apple[ˈæpəl], dapper[ˈdæpər]
+- Label[ˈleɪbəl], later[ˈleɪtər]
+- Battle[ˈbætəl], batter[ˈbætər]
+- Shovel[ˈʃʌvəl], shudder[ˈʃʌdər]
+- Frank[fræŋk], flank[flæŋk]
+- Grass[græs], glass[glæs]
+- Brain[breɪn], blame[bleɪm]
+- Broke[broʊk], blown[bloʊn]
+- Press[prɛs], please[pliz]
+- Creep[krip], clip[klɪp]
+- Sorrow[ˈsɑroʊ], shallow[ˈʃæloʊ]
+
+Reversed sounds:
+- Rail[reɪl], lair[lɛr]
+- Real[riəl], leer[ˈlɪər]
+- Role[roʊl], lore[lɔr]
+- Rule[rul], lure[lʊr]
+
+#### [a5.29 - Test - R[ɹ] vs L[l]](engl.io/as9)
+5/5 (p131 / answers 262)
+
+You’ll see this sound spelled two ways in American English. 
+- l: love [lʌv]
+- ll: really [ˈɹi-ә-li]
+
+#### na5.2 - Test - Match the Symbol to the Sound
+19/24 (p132 / answers 262)\
+**REPASAR**: 
+- Unvoiced TH[θ]
+- Voiced TH[ð]
+- CH[tʃ]
+- J[dʒ]
+- Y[j]
+
+#### na5.3 - Test - Which are American English IPA Symbols?
+18/20 (p132 / answers 262)\
+
+#### [a5.30 - Test - What Consonant do you Hear?](engl.io/asc)
+9/16 (p133 / answers 262)\
+**PRACTICAR**
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
