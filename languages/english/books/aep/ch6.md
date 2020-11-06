@@ -65,6 +65,22 @@ The most common mistake in making this cluster is leaving out the W sound.
 #### [V6.6 - How to Pronounce Quarter](engl.io/ads)
 quarter[ˈkwɔɹ-dəɹ], but most americans won’t make the W sound: [ˈkɔɹ-dəɹ]
 
+### Focus: S-Clusters
+Speakers of Spanish and Portuguese can have a tough time with S-clusters. These combinations don’t exist at the beginning of words in those languages
+
+#### [V6.7 - How to Pronounce S-Clusters](engl.io/atk)
+study -> ~~estudy~~\
+- ST: student
+- STR: street[strit]
+- SM: smart
+- SN: snake
+- SL: slap[slæp]
+- SK: school[skul], scoop[skup], skip[skɪp], square[skwɛr]
+- SP: space
+- SPL: split
+- SPR: spring
+- SW: swift[swɪft]
+
 ## Middle and Ending Consonant Clusters
 
 ## Shortcuts
