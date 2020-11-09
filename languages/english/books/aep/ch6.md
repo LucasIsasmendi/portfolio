@@ -82,6 +82,76 @@ study -> ~~estudy~~\
 - SW: swift[swɪft]
 
 ## Middle and Ending Consonant Clusters
+Though we can list the beginning consonant clusters, there are too many possibilities for clusters in the middle of and at the end of a word.
+What makes them even more difficult is that some of these clusters involve stop consonants.
+
+### Middle
+#### [V6.8 - Practice Tip: NTH Cluster](engl.io/atm)
+what most native speakers will do, instead of N + TH, is they’ll make the N with the tongue tip out between the teeth. What’s happening there is just behind the tip of my tongue is raising to the gum ridge for the N, and my tongue tip is already prepared for that TH sound. 
+- words: month, tenth, nineteenth
+
+#### [V6.9 - How to Make the TS Sound](engl.io/atp)
+what is the difference between the S and the TS?  A stop, the T stop [t|]. 
+Rather than lifting the tip for the T, the tip stays down here. And it’s further back, the front part of the tongue, but not the tip, that will raise and touch the roof of the mouth, to cut off the air flow.
+So rather than the tip coming up, it’s simply the front part raising. 
+- Practice: s-- + t|^. t|^+s--
+- words: let's, what's, cats, it's, that's, fights, guts
+
+#### [V6.10 - Dropping T and D between Consonants](engl.io/akv)
+When the T and D sounds come between two other consonant sounds, many Americans will drop them. `Check v5.9`
+- examples: must be, just one[dʒʌs_wʌn], stand for, exactly, grand piano
+
+#### [V6.11 - Study: Ending T Clusters in Real English](engl.io/atu)
+- T drop: just confirm, just by, just the, 
+- L drop: already[ɔlˈrɛd-i]->[ɔˈrɛd-i], alright[ˌɔlˈraɪt]->[ˌɔˈraɪt]
+- Homophone: flour-flower[ˈflaʊər], need-knead[nid], yolk-yoke[joʊk]
+- H drop: you have|had|her|his a [jʊ_həv_eɪ]->[jʊ‿æv‿ə]
+- reductions: want to -> wanna[ˈwʌn-ə], because -> cuz[kəz]
+
+#### [A6.3 — Middle and Ending Clusters](engl.io/atw)
+
+- [dθ] — width [wɪdθ]
+- [dv] — advance [ædˈvæns]
+- [kp] — backpack [ˈbækˌpæk]
+- [kt] — fact [fækt]
+- [ft] — left [lεft]
+- [lb] — bulb [bʌlb]
+- [ld] — hold [hoʊld]
+- [ldʒ] — bulge [bʌlʤ]
+- [lf] — self [sεlf]
+- [lk] — milk [mɪlk]
+- [lm] — film [fɪlm]
+- [lp] — help [hεlp]
+- [ls] — pulse [pʌls]
+- [lt] — melt [mεlt]
+- [ltʃ] — mulch [mʌlʧ]
+- [lθ] — filth [fɪlθ]
+- [lv] — solve [sɑlv]
+- [mf] — triumph [ˈtɹaɪ-әmf]
+- [mp] — limp [lɪmp]
+- [nd] — mind [maɪnd]
+- [ndʒ] — change [ʧeɪnʤ]
+- [nt] — mint [mɪnt]
+- [ntʃ] — pinch [pɪnʧ]
+- [nθ] — month [mʌnθ]
+- [nz] — lens [lεnz]
+- [nzm] — transmission [tɹænsˈmɪʃ-әn]
+- [ŋk] — pink [pɪŋk]
+- [ŋgl] — English [ˈɪŋ glɪʃ]
+- [ŋθ] — length [lεŋθ]
+- [ɹb] — yearbook [ˈjɪәɹˌbʊk]
+- [ɹʧ] — fortune [ˈfɔɹ ʧәn]
+- [ps] — snaps [snæps]
+- [pθ] — depth [dεpθ]
+- [ɹθ] — birth [bɜɹθ]
+- [sk] — risk [ɹɪsk]
+- [sp] — grasp [gɹæsp]
+- [st] — least [list]
+- [sʧ] — question [ˈkwεs-ʧәn]
+
+### Ending
+#### Plural Nouns & -ed Endings
+
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
