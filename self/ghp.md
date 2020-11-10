@@ -70,6 +70,7 @@ El padre es sinonimo de contencion, de soporte, esa energia se usa para superar 
 **Mis Resumenes**  
 - [Tonalidades](#tonalidades)  
 - [Raiz de Amar](#raiz-de-amar)
+- [Perdón](#perdón)
 
 ### Tonalidades
 [link youtube](https://www.youtube.com/watch?v=aZ9paAZoNjU)
@@ -101,7 +102,7 @@ El B&N tiene su camino de evolucion en el Gris, El gris tiene su camino de evolu
 > Estar siendo evolucionado es cuando podes disponer de multiples realidades internas para poder habitar las multiples realidades externas. No es cuando sale en automatico.
 
 ### Raiz de Amar
-[link youtube](https://www.youtube.com/watch?v=3PYDEAOiUQw)\
+[link youtube](https://www.youtube.com/watch?v=3PYDEAOiUQw)
 
 La raiz de amar es nuestra fuerza interior, es al esencia del amor que nosotros somos, es la representacion del amor, de la union y también de la separación. 
 Comienza a formarse en el 5to mes de embarazo. Desde el punto de vista espiritual, se estima que el alma encarna
@@ -124,3 +125,30 @@ Piso Tips:
 4. Revisa tus vinculos: cuales requieren de cuidado y cuales de conectar con el disfrute
 5. Busca espacios donde vos sientas que perteneces, donde sientas que estas unido a otros, que se comparte, que existe un dar y un tomar equilibrado. Al sentir eso estas desarrollando raiz de amar. Y principalmente dar
 6. LA accion que te va a ayudar a sanar un agujero es dar aquello que vos sentis que estas necesitando y no estas teniendo. Da aquello que sos y que estas siendo al mundo
+
+
+### Perdón
+[link](https://www.youtube.com/watch?v=q3CorJFU2DY)  
+Cada vez que entramos en el terreno de la culpa perdemos posibilidad de encausar la situacion que ocurrio.
+
+Siempre que sentis que personas a alguien, el proceso no se sana hasta que no te perdonas a vos mismo. Todo lo fuiste generando vos.
+
+El perdón no es porque algo esta mal. El perdonarse es un acto declarativo de liberacion personal, cortamos la cadena de resentimiento. Es como decirle basta a un proceso abierto.
+
+Generar distintas miradas sobre lo que pasó
+
+Pasos:
+1. Identificar el `costo` que tiene para nosotros el resentimiento y elegir culpar. Elegimos culpar porque sentimos que ganamos algo: la simpatia del otro, ser inocentes, bienestar ilusorio y temporal. Tener el coraje de darte cuenta porque estas eligiendo culpar. Ver esa satisfaccion secreta que me esta trayendo el culpar, es inconsciente
+2. Encontrar la `cuestion interna` que es opuesta a culpar, voluntad de reconocer y dejar de lado ese sentimiento de culpa y tomar el positivo. Ver la grandeza en uno mismo: si veo avaricia afuera, donde esta mi generosidad adentro, conectar con eso. Identificar lo que esta del otro lado de la cara de la moneda y ponerlo en juego en pequeñas cosas. Siempre esta la dualidad. Si estoy culpando, que es lo que no me estoy permitiendo
+3. Tener `empatia` con la situacion. Cuando comenzamos a tener esa miradad profunda no hay un perdón hacia afuera, hay un perdón hacia mi mismo. Tener una mirada multiple de la situacion, cual era la intencion del otro?, tener un nivel de comprension mayor sobre lo que ocurrio. Tambien me va a ayudar a conectar con el otro lado de la moneda, donde tengo que hacer foco. Para tener empatia con uno, tenes que ponerte en los zapatos del que eras vos en ese momento para soltar hoy y perdonar
+4. Revisar en un sentido mas profundo que `esto es crecion tuya`. Poder ver que eso que ocurrio, tiene un sentido en tu vida. Aunque sea lo mas doloroso que viviste. Ya paso, ya ocurrio, ni lo nieges ni lo sufras. PAra que generaste que eso halla pasado? Que es lo que sentis que tenias que aprender? Que es lo que te quisiste mostrar? Para que trajiste a otro como maestro para mostrarte algo? Duele. Mejor que duela y que sane que tener una herida abierta que cada tanto se abre
+5. `Agradecer`. Sentir gratitud por lo que paso. Si lograste conectar con tu grandeza, podes comprender lo que paso, si lograste perdonarte, ahora te queda agredecer. No esperen hacerlo cuando esta doliendo.
+
+Ustedes son mucho mas de lo que les esta pasando. No se dejen dominar por la situacion, no le den su poder a otros.
+Recuerden que son creadores de todo lo que es esta pasando.
+Cuanto mas se puedan conectar con la pequeñez, mas van a conectar con la grandeza.
+Quieren mas, metanse con lo que no estan siendo
+Su vida es su camino de evolucion, no se metan en escaleras que no pueden subir, fijense hoy las cosas que les estan pasando.
+Si sienten que no pueden, pidan ayuda.
+
+### El Ego y El Alma
