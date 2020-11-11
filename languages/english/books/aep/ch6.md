@@ -151,20 +151,59 @@ When the T and D sounds come between two other consonant sounds, many Americans 
 
 ### Ending
 #### Plural Nouns & -ed Endings
+Making a plural noun, or adding an -ed ending to make a regular verb past tense, often makes a consonant cluster at the end of the word. 
 
+#### Regular Plural Nouns
+When is the ‘s’ pronounced [s] and when [z]? Remember that all vowels and diphthongs are voiced, so they all follow the rule for a voiced ending, where the plural adds a [z] sound.
 
-## Shortcuts
-- ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
-- θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w ʤ ʧ
-- ɹ
-- ˈˌ ‿
+We’re talking about final sounds, not final letters. What’s important is that the word ‘tube’ [tub], ends in the consonant sound [b], not the vowel letter ‘e’.
 
-### Emoji symbols
-- ⤵️: `stressed`
-- ➖: `unstressed`
-- 🔈: `voiced`
-- 🔇: `unvoiced`
-- ▶️ : `released`
-- ⏩: `released into`
-- ⏹️: `unreleased`
-- 👉: check this
+final sound -> plural pronunciation
+- `voiced` -> `s[z]` : cube+s[kjubz], bed+s[bεdz], egg+s[εgz], executive+s[ɪgˈzεk-jә-dɪvz], bomb+s[bɑmz], son+s[sʌnz], song+s[sɔŋz], pill+s[pɪlz], flower+s[ˈflaʊ-әɹz], lathe+s[leɪðz]
+- `unvoiced` -> `s[s]`: tip+s[tɪps], bit+s[bɪts], trick+s[tɹɪks],  roof+s*[ɹufs], month+s[mʌnθs]
+- `special cases` -> `s or es = [ɪz]`: glass+es[ˈglæs-ɪz], size+s [ˈsaɪz-ɪz], wish+es[ˈwɪʃ-ɪz], garage+s[gәˈɹɑʒ-ɪz], match+es[ˈmæʧ-ɪz], page+s[peɪ-ʤɪz]
+- `*` Note: Plurals of words that end in -f or -fe usually change: drop the -f or -fe, add -ves. Example: leaf[lif] — leaves[livz].
+- [ɪz] syllable is always unstressed, so make it very short.
+
+#### [V6.12 - How to Pronounce Plural Nouns](engl.io/atz)
+1. Voiced [z]: 
+   - vowel: trees[triz]
+   - diphthong: cafe[kæˈfeɪz]
+   - consonants: [B t g v m n ŋ L ɹ ð], apple[ˈæp-əlz]
+2. Unvoiced [s]:
+   - ships[ʃɪps]
+   - consonants: [p t k f θ]
+3. special cases -es[ɪz]
+   - ending sounds: [s z ʃ ʒ ʧ ʤ]: wish+es[ˈwɪʃ-ɪz]
+
+Examples: age+s[ˈeɪʤ-ɪz](3), time+s[taɪmz], box+es[ˈbɑks-ɪz](3), dog+s[dɑgz](1), cat+s[kæts](2)
+
+#### [A6.4 — Plural Nouns](engl.io/au2)
+- [z]: cubes, beds 
+- [s]: tips, bits
+- [ɪz]: glasses, sizes
+
+Remember these rules are for regular plural nouns, where you add -s or -es. There are, of course, some irregular nouns that do their own thing. For example: child->children,  man->men, moose->moose, nucleus->nuclei, mouse->mice
+
+#### Test - na6.1 — How is the Plural Ending Pronounced?
+9/10 (page 142 - answers 263)\
+check plough
+
+#### Regular -ed Endings
+If the final sound is...Then the regular -ed ending is...:
+- voiced -> [d]: [b] [g] [v] [m] [n] [ŋ] [l] [ɹ] [ð] [z] [dʒ] [ʒ]
+- Unvoiced -> [t]: [p] [k] [f] [s] [ʧ] [ʃ] [θ]
+- Special cases -> [ɪd]: [t] [d]
+
+#### [V6.13 — How to Pronounce -ed Endings](engl.io/au4)
+- **Case 1**: Unvoiced coonsonant ending. -ed[t]: pack->packed[pækt]
+- **Case 2**: Voiced consonant, vowel, or diphthong ending. -ed[d]: save->saved[seɪvd]
+- **Case 3**: Verb ends in [t] or [d]. -ed[ɪd]: land->landed[ˈlæn-dɪd]
+
+#### [A6.5 — Regular Past Tense](engl.io/au7)
+- [d]: loved[lʌvd], robbed[rɑbd] 
+- [t]: camped[kæmpt], picked[pɪkt] 
+- [ɪd]: hunted[ˈhʌntɪd], landed[ˈlændɪd]
+
+#### Test - na6.2 — How is the -ed Ending Pronounced?
+10/10 (page 144 - answers 264)
