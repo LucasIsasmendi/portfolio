@@ -1,6 +1,6 @@
-# Mindfulness
+# Mindfulness > Videos
 
-## Videos
+## Talks
 ### How mindfulness changes the emotional life of our brains
 | Richard J. Davidson | TEDxSanFrancisco | [yt](https://www.youtube.com/watch?v=7CBfCW67xT8)  
 
