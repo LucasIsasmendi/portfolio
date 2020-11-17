@@ -4,6 +4,8 @@ As you start to practice your pronunciation on longer words and sentences, it’
 Smooth and connected.
 Some languages are angular, but English is not. Think instead of softness. The voice is always moving up or down, never flat.
 
+- `*` are part of the Word of the Week series. This means there is a video that goes over, in depth
+
 ### Three-Syllable Words
 Let’s start with three-syllable words. As you already know, multi-syllable words in English can only have one syllable that has primary stress. That means we have three options for stress: DA-da-da, da-DA-da, da-da-DA.
 
@@ -39,13 +41,40 @@ As you learn new worlds, learn stress patterns to.
 2. `da-DA-da`: burrito*[bәˈɹi-doʊ], computer[kəmˈpju-dәɹ], December[dɪˈsɛm-bәɹ], imagine[ɪˈmæ-ʒɪn], important[ɪmˈpɔɹt│-әnt│], November[noʊˈvɛm-bәɹ], October[ɑkˈtoʊ-bәɹ], procedure*[pɹəˈsi-dʒәɹ], September[sɛpˈtɛm-bәɹ], tomorrow*[tәˈmɑɹ-oʊ], vacation*[veɪˈkeɪ-ʃәn]
 3. `DA-da-da`: beautiful*[ˈbju-dɪ-fәl], comfortable*[ˈkʌmf-dәɹ-bәl], definite[ˈdɛ-fɪ-nɪt│], general[ˈdʒɛn-әɹ-әl], graduate*[ˈgɹæ-dʒu-ɪt│], interview*[ˈɪn-tәɹ-vju], neighborhood[ˈneɪ-bәɹ-ˌhʊd], president[ˈpɹɛ-zɪ-dənt│], privacy[ˈpɹaɪ-vә-si], probably*[ˈpɹɑ-bә-bli], yesterday*[ˈjɛs-tәɹ-ˈdeɪ]
         
-- `*` are part of the Word of the Week series. This means there is a video that goes over, in depth
 - How short can you make the short syllables? How simple? Remember, the more relaxed your mouth and neck are, the more easily and quickly you can make these unstressed syllables.
 - Practicing the unstressed syllables on their own, like in `A7.1`, is valuable.
 
 #### [A7.2 — 3-Syllable Words Test](engl.io/av8)
 8/10 (page 149 - answers 264)\
 check rectangle, magazine?
+
+### Two-Syllable Words
+Most two-syllable nouns and adjectives will have stress on the `first syllable`: 
+- `Nouns`: present[ˈpɹɛ-zәnt│], coffee*[ˈkɔ-fi], money[ˈmʌ-ni], Google*[ˈgu-gәl]
+- `Adjectives`: present[ˈpɹɛ-zənt│], sorry*[ˈsɔɹ-i], funny[ˈfʌ-ni], awkward[ˈɔk-wəɹd]
+
+Most two-syllable verbs will have stress on the `last syllable`:
+- `Verbs`: present[pɹɪˈzɛnt], decide[dɪˈsaɪd], arrange[әˈɹeɪndʒ], divide[dɪˈvaɪd]
+
+There are words that can be a noun, verb, and sometimes an adjective too! Stress helps determine which meaning is correct.
+- address: noun[ˈæ-dɹɛs], verb[əˈdrɛs]
+- produce: noun[ˈpɹoʊ-dus], verb[pɹəˈdus]
+- object: noun[ˈɑb-dʒɛkt], verb[əbˈdʒɛkt]
+- record: noun[ˈɹɛk-әɹd], verb[ɹɪˈkɔɹd]
+- perfect: noun[ˈpɜɹ-fɪkt], verb[pəɹˈfɛkt]
+- project: noun[ˈpɹɑdʒ-ɛkt], verb[pɹәˈdʒɛkt]
+
+This is not limited to two-syllable words.
+- overflow: noun[ˈoʊv-әɹˌfloʊ], verb[ˌoʊv-əɹˈfloʊ]
+
+These are **heteronyms**. Heteronyms are words that are spelled the same, but have different meanings and pronunciations.
+
+#### [V7.3 — Heteronyms](engl.io/ava)
+- dove, close, alternate, desert, lead, tear
+
+#### [A7.3 — Verbs vs. Nouns](engl.io/avd)
+- present (noun - first syllable stress), present (verb - second syllable stress)
+- overflow (noun - first syllable stress), overflow (verb - second syllable stress)
 
 
 ## Shortcuts
