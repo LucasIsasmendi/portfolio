@@ -76,6 +76,43 @@ These are **heteronyms**. Heteronyms are words that are spelled the same, but ha
 - present (noun - first syllable stress), present (verb - second syllable stress)
 - overflow (noun - first syllable stress), overflow (verb - second syllable stress)
 
+### Suffixes
+- Primary stress is **on the suffix**:
+  - `-ee`: trustee[tɹʌˈsti], guarantee[ˌgæɹ-ənˈti], referee [ˌɹεf-әˈɹi], exception: committee[kәˈmɪd-i]
+  - `-eer`: career[kəˈrɪәɹ], engineer[ˌεn-ʤәˈnɪəɹ], volunteer[ˌvɑl-әnˈtɪәɹ]
+  - `-ese`: Chinese[ʧaɪˈniz], Japanese[ˌʤæp-әˈniz], legalese[ˌli-gәˈliz]
+  - `-ette`: cigarette[ˌsɪ-gәˈɹεt], kitchenette[ˌkɪʧ-әˈnεt], silhouette[ˌsɪl-uˈεt], exceptions: etiquette[ˈεd-ɪ-kɪt], omelette[ˈɑm-lɪt] (also spelled ‘omelet’)
+  - `ique`: technique[tεkˈnik], unique[juˈnik], critique[kɹɪˈtik]
+- Primary stress is **on the syllable just before the suffix**.
+  - `-cious` (1s): delicious[dɪˈlɪʃ-әs], precious[ˈpɹεʃ-әs], suspicious[sәˈspɪʃ-әs]
+  - `-eous` (1|2 s): spontaneous(2) [spɑnˈteɪ-ni-әs], outrageous (1) [aʊt|ˈɹeɪ-ʤəs],gorgeous (1) [ˈgɔɹ-ʤәs]
+  - `-graphy` (2s): geography[ʤiˈɑg-ɹə-fi], biography[baɪˈɑg-ɹə-fi], photography[fәˈtɑg-ɹə-fi]
+  - `-ial` (1|2 s): official(1)[əˈfɪʃ-әl], material(2) [məˈtɪəɹ-i-әl], potential(1) [pәˈtεn-ʃәl]
+  - `-ian` (1|2 s): politician(1) [ˌpɑl-ɪˈtɪʃ-әn] guardian(2) [ˈgɑɹ-di-әn], historian(2) [hɪˈstɔɹ-i-әn]
+  - `-ible` (2s): possible[ˈpɑs-ә-bәl], responsible[ɹɪˈspɑn-sә-bәl], terrible[ˈtεɹ-ә-bәl], exception: words with –ligible, like eligible [ˈεl-ɪ-ʤә-bәl], negligible[ˈnεg-lɪ-ʤə-bәl], intelligible[ɪnˈtεl-ɪ-ʤә-bәl]
+  - `-ic` (1s): economic[ˌεk-әˈnɑm-ɪk], metallic[mәˈtæl-ɪk], poetic[poʊˈεd-ɪk], exception: Catholic can be pronounced [ˈkæθ-ə-lɪk]
+  - `-ical` (2s): political[pәˈlɪd-ɪ-kәl], physical[ˈfɪz-ɪ-kәl], practical[ˈpɹæk-tɪ-kәl]
+  - `-ience` (1|2 s): experience(2) [ɪkˈspɪәɹ-i-әns], audience(2) [ˈɔ-di-əns], convenience(2)[kənˈvin-jәns]
+  - `-ient` (1|2 s): patient(1)[ˈpeɪ-ʃənt], sufficient(1)[sәˈfɪʃ-әnt], recipient(2)[rɪˈsɪp-i-әnt]
+  - `-ify` (2s): identify[aɪˈdεn-tәˌfaɪ], clarify[ˈklæɹ-әˌfaɪ], notify[ˈnoʊ-dәˌfaɪ]
+  - `-ily` (2s): voluntarily[ˌvɑl-әnˈtεәɹ-ә-li], luckily[ˈlʌk-ә-li], momentarily[ˌmoʊ-mәnˈtεәɹ-ә-li], exception: satisfactorily[ˌsæd-ɪsˈfæk-tәɹ-ә-li]
+  - `-inal` (2s): marginal[ˈmɑɹ-ʤә-nәl], medicinal[mәˈdɪs-ə-nәl], spinal[ˈspaɪn-әl]
+  - `-ion` (1s): religion[ɹɪˈlɪʤ-әn], union[ˈjun-jәn], region[ˈɹi-ʤәn]
+  - `-ional` (2s): professional[pɹəˈfεʃ-ә-nәl], international*[ˌɪn-tәɹˈnæʃ-ə-nәl], educational[ˌεʤ-ʊˈkeɪ-ʃә-nәl]
+  - `-ious` (1|2 s): various(2)[ˈvεəɹ-i-әs], serious(2)[ˈsɪәɹ-i-әs], religious(1)[ɹɪˈlɪʤ-әs]
+  - `-itude` (2s): attitude[ˈæd-ɪˌtud], gratitude[ˈgɹæd-ɪˌtud], solitude[ˈsɑl-ɪˌtud]
+  - `-itute` (2s): institute*[ˈɪn-stɪˌtut], constitute[ˈkɑn-stɪˌtut], substitute[ˈsʌb-stɪˌtut]
+  - `-ity` (2s): community[kәˈmju-nɪ-di], opportunity*[ˌɑp-әɹˈtu-nɪ-di], responsibility[ɹɪˌspɑn-sәˈbɪl-ɪ-di]
+  - `-logy` (2s): technology[tεkˈnɑl-ә-ʤi], apology[әˈpɑl-ә-ʤi], terminology[ˌtɜɹ-mәˈnɑl-ә-ʤi]
+  - `-sion`* (1s): decision[dɪˈsɪʒ-ən], version[ˈvɜɹ-ʒәn], permission[pәɹˈmɪʃ-әn]
+  - `-tion` (1s): vacation*[veɪˈkeɪ-ʃəәn], pronunciation*[pɹәˌnʌn-siˈeɪ-ʃən], application*[ˌæp-lɪˈkeɪ-ʃәn]
+  - `-ual` (2s): individual[ˌɪn-dәˈvɪʤ-u-әl], gradual[ˈgɹæʤ-u-әl], casual[ˈkæʒ-u-әl], exception: spiritual[ˈspɪɹ-ɪ-ʧu-әl]
+  - `-uous` (2s): continuous[kәnˈtɪn-ju-әs], ambiguous[æmˈbɪg-ju-әs], virtuous[ˈvɜɹ-ʧu-әs]
+- Primary stress is **two syllables before the suffix**:
+  - `-al` (1s): industrial[ɪnˈdʌs-tɹi-әl], animal[ˈæn-ә-mәl], hospital[ˈhɑs-pɪ-dәl]
+  - `-ary` (2s): secretary[ˈsεk-ɹɪˌtεɹ-i], contemporary[kәnˈtεm-pәˌɹεɹ-i], secondary[ˈsεk-ənˌdεɹ-i]
+  - `-ate` (1s): separate[ˈsεp-әˌɹeɪt], celebrate[ˈsεl-әˌbɹeɪt], appreciate[әˈpɹi-ʃiˌeɪt]
+
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
