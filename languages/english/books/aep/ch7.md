@@ -159,7 +159,25 @@ Practice the rest of the words in those tables just like the audio files, focusi
 `TODO`
 - use https://www.morewords.com/
 
+### Compound Words
+Nouns that are compound words generally have stress on the first word. That’s easy if the compound word is just two syllables, like ‘boathouse’ [ˈboʊt│ˌhaʊs] (‘boat’ [boʊt] + ‘house’ [haʊs]).
+But what if the first or second word in the compound word has more than one syllable? You should put the stress on the stressed syllable of the first word.
+The compound rule is stronger than the suffix rules above. 
 
+#### [V7.4 — How to Pronounce DOWNLOAD](engl.io/acf)
+This is a two-syllable word with stress on the first syllable.  `DA-da`. download[ˈdaʊnˌloʊd]. Start with D, then OW diphthong (p1: drop the jaw + p2: lips will circle), N (flat and relaxed), L (move the tongue), OH diphthong (p1: drop the jaw less + p2: lips will circle), D (native make it stop consonant, stop air)
+
+#### [A7.7 — Compound Words](engl.io/avp)
+- airport[ˈεəɹˌpɔɹt]
+- anyone[ˈεn-iˌwʌn]
+- babysitter[ˈbeɪ-biˌsɪd-әɹ]
+- background[ˈbækˌgɹaʊnd]
+
+**More compound words to work with:**
+baseball[ˈbeɪsˌbɔl], basketball[ˈbæs-kɪt|ˌbɔl], boathouse [ˈboʊtˌhaʊs], bookcase[ˈbʊkˌkeɪs], bookstore[ˈbʊkˌstɔɹ], bypass[ˈbaɪˌpæs], carload[ˈkɑɹˌloʊd], commonplace[ˈkɑm-әnˌpleɪs], crosswalk[ˈkɹɔsˌwɔk], dishwasher[ˈdɪʃˌwɑʃ-әɹ], download*[ˈdaʊnˌloʊd], earthquake [ˈɜɹθˌkweɪk], everything[ˈεv-ɹiˌθɪŋ], eyeball[ˈaɪˌbɔl],
+firefighter[ˈfaɪәɹˌfaɪ-dәɹ], grandmother[ˈgɹænˌmʌð-әɹ], 
+grasshopper[ˈgɹæsˌhɑp-әɹ], honeymoon[ˈhʌn-iˌmun], household[ˈhaʊsˌhoʊld], keyboard[ˈkiˌbɔɹd], lifeboat[ˈlaɪfˌboʊt], lifetime[ˈlaɪfˌtaɪm], newsroom[ˈnuzˌɹʊm], passport[ˈpæsˌpɔɹt], peppermint[ˈpεp-әɹˌmɪnt], popcorn[ˈpɑpˌkɔɹn]
+railroad[ˈɹeɪlˌɹoʊd], raincheck[ˈɹeɪnˌʧεk], rattlesnake[ˈɹæd-әlˌsneɪk], something[ˈsʌmˌθɪŋ], sometimes[ˈsʌmˌtaɪmz], sunflower[ˈsʌnˌflaʊ-əɹ], teacup[ˈtiˌkʌp], thunderstorm[ˈθʌn-dәɹˌstɔɹm], underdog[ˈʌn-dәɹˌdɔg], weekend[ˈwikˌεnd]
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
