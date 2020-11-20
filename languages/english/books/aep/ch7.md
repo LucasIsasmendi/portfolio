@@ -113,6 +113,53 @@ These are **heteronyms**. Heteronyms are words that are spelled the same, but ha
   - `-ary` (2s): secretary[ˈsεk-ɹɪˌtεɹ-i], contemporary[kәnˈtεm-pәˌɹεɹ-i], secondary[ˈsεk-ənˌdεɹ-i]
   - `-ate` (1s): separate[ˈsεp-әˌɹeɪt], celebrate[ˈsεl-әˌbɹeɪt], appreciate[әˈpɹi-ʃiˌeɪt]
 
+Practice the rest of the words in those tables just like the audio files, focusing on making the suffixes unstressed and fast.
+
+`*`: ‘Cigarette’, ‘separate’, and ‘institute’ have Stop T’s on the audio. Though, in a sentence followed by a vowel or diphthong, most Americans will often make a Flap T.
+
+#### [A7.4 — Suffixes: Stress on the Suffix](engl.io/avf)
+- -ee — trustee
+- -eer — career 
+- -ese — Chinese 
+- -ette — cigarette* 
+- -ique — technique
+
+#### [A7.5 — Suffixes: Stress just before the Suffix](engl.io/avf)
+- -cious — delicious 
+- -eous — spontaneous 
+- -graphy — geography 
+- -ial — official
+- -ian — politician
+- -ible — possible
+- -ic — economic
+- -ical — political
+- -ience — experience 
+- -ient — patient
+- -ify — clarify
+- -ily — voluntarily
+- -inal — marginal
+- -ion — religion
+- -ional — professional 
+- -ious — various
+- -itude — attitude 
+- -itute — institute*
+- -ity — community 
+- -logy — technology 
+- -sion — decision
+- -tion — vacation
+- -ual — individual 
+- -uous — continuous
+
+#### [A7.6 — Suffixes: Stress two syllables before the Suffix](engl.io/avf)
+- -al — industrial 
+- -ary — secretary 
+- -ate — separate*
+
+#### nA7.1 — Suffixes: Which Syllable has Stress?
+`TODO`
+- use https://www.morewords.com/
+
+
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
