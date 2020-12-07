@@ -64,8 +64,59 @@ got it: DA-da: [ˈgɑd‿ɪt|]
 - I thought about it: thought about [θɔ‿dәˈbaʊt], about it [eˈbaʊ‿dɪt|]
 - Is it time?: is it [ɪ‿zɪt]
 
+## 3. Linking Consonant to Consonant
+This kind of linking is the hardest because some consonants don’t link well. Just think of making them with no gap or release in between. Practice the two sounds separately first, then go straight from one sound to the next, thinking about what has to change—just like with the consonant clusters we studied in Chapter 6.
+Remember: we’re talking about sounds and not letters.
 
+### [V8.6 — Linking Consonant to Consonant](engl.io/axk)
+- same consonant: gas station[gæs‿steɪ-ʃən], some might[sʌm‿maɪt]
+- for stop consonants [t,d,p,b,k,g] it should do the stop: hot today[hɑt|_təˈdeɪ], peanut butter[ˈpi-nʌt|_ˈbʌ-dəɹ]
+- all other cases, you’ll just need to: 
+  1. isolate the two sounds in question
+  2. practice separately
+  3. practice together, slowly
+  4. speed up
+  5. Put back in context
 
+Example: It's a tough one [tʌf‿wʌn], 
+
+Don't rush through it. Do the opposite! It will only become comfortable if you slow it down and understand the movement that needs to happen to move from one sound to the next.
+
+### [V8.7 — Linking and the TH](engl.io/axm)
+- S with the TH: this thing[ðɪs‿θɪŋ]
+- Z with the voiced TH: was that[wʌz‿ðæt] (tongue tip doesn’t really come through the teeth for the TH)
+- stop T with the voiced TH: sit there[sɪt|‿ðɛəɹ] (make the stop while bringing the tongue tip through the teeth)
+- V sound with the voiced TH: of these[əv‿ðiz]
+- P with the voiced TH: hope the[hoʊp‿ðə]
+- unvoiced TH with ST: north star[nɔrθ‿stɑɹ]
+- unvoiced TH with F: with funny[wɪθ‿ˈfʌn-i]
+- unvoiced TH with W: both will[boʊθ‿wɪl]
+- unvoiced TH with K: health code[hɛlθ‿koʊd]
+- unvoiced TH with S: south side[saʊθ‿saɪd]
+
+Practice word pairs like the 10 here, or other word pairs, and do them slowly. And practice them over and over. Repetition really will help you become more comfortable linking with the TH sound.
+
+### [V8.8 — Road Trip](engl.io/axp)
+How do stop consonants fit into linking? Even with the small pause, the flow of the voice can still move forward.
+- road trip[ɹoʊd|‿tɹɪp], hit the road[hɪt|‿ðə_roʊd]
+- fill her up[fɪll‿ˈər_ʌp]
+
+### [V8.9 — What time?](engl.io/axr)
+what time? - da-DA: [wʌt|_taɪm]
+
+- m: lips come together
+
+### [A8.4 — Linking the Stop T to a Consonant](engl.io/axu)
+- It was raining: it was [ɪt│‿wəz]
+- Wait for me: wait for [weɪt│‿fәɹ]
+- Let me see that: let me [lεt│‿mi]
+- I got Dad a gift: got Dad [gɑt│‿dæd]
+
+### na8.1 — Which kind of linking is it?
+10/10 (pagina167 - respuesta 265)
+
+### [A8.5 — Which Phrase is Linked?](engl.io/axw)
+5/5 (pagina167 - respuesta 265)
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
