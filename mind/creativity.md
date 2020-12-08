@@ -23,6 +23,19 @@
 ### 10 creativity exercises to train your artistic mind
 [link](https://99designs.com/blog/creative-thinking/creativity-exercises/)
 
+Creativity is a muscle. And, like any muscle, it needs exercise
+
+1. **Schedule a block of free creative time**: free to create without any expectations, deadlines or client work. Anything creative goes.
+2. **Set a creativity timer**: Set a timer for 7 minutes, and challenge yourself to create something.
+3. **Go for quantity over quality**: try the 30 Circles Exercise, in 3 minutes. Feeling generally stumped? Do 30 anything to help find some creative inspiration.
+4. **Become an idea machine**: come up with ten new ideas every single day. Have different topics each day. You won’t use most of these ideas, but that’s not the point. You’ll make new connections, start thinking outside of the box, and give your creativity a chance to shine in a new way.
+5. **Draw or design the same thing every day**: the more different mediums you use, the more creative bang for your buck you’ll get.
+6. **Get out of your office and into the world**: A change of scenery can spark your creativity
+7. **Look at something familiar in a new way**: encourages divergent thinking
+8. **Explore the bookstore**: explore a section completely unrelated to what you do. Pick up a book and read about something completely out of your realm of understanding. Expose yourself to new information to challenge your brain and get the creative juices flowing
+9. **Simplify**: design something using as few design elements as possible. It will force you to examine how to use each element effectively
+10. **Freewrite your way to creativity**: 
+
 ### 7 Simple Steps to Keep You Writing Creatively
 https://writetodone.com/7-steps-to-creativity-how-to-have-ideas/
 
@@ -33,3 +46,9 @@ https://writetodone.com/7-steps-to-creativity-how-to-have-ideas/
 ## Courses
 
 ## Books
+
+## Talks
+
+### Ted
+#### Tales of creativity and play
+http://www.ted.com/talks/tim_brown_on_creativity_and_play.html
