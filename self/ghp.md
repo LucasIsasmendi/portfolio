@@ -5,7 +5,7 @@
 
 **Canales**  
 - [Instagram](#instagram)
-- [youtube](#youtube)
+- [youtube](#youtube) - [link](https://www.youtube.com/channel/UCK1Q9_zu_i_UzoUSN7PDPJQ)
 
 ## Instagram
 **Mis Apuntes**  
@@ -71,6 +71,7 @@ El padre es sinonimo de contencion, de soporte, esa energia se usa para superar 
 - [Tonalidades](#tonalidades)  
 - [Raiz de Amar](#raiz-de-amar)
 - [Perdón](#perdón)
+- [Abandono](#abandono)
 
 ### Tonalidades
 [link youtube](https://www.youtube.com/watch?v=aZ9paAZoNjU)
@@ -150,5 +151,69 @@ Cuanto mas se puedan conectar con la pequeñez, mas van a conectar con la grande
 Quieren mas, metanse con lo que no estan siendo
 Su vida es su camino de evolucion, no se metan en escaleras que no pueden subir, fijense hoy las cosas que les estan pasando.
 Si sienten que no pueden, pidan ayuda.
+
+### Abandono
+Se puede padecer abandono. No es solo ausencia física, tambien es ausencia emocional de alguna de las personas mas influyentes del circulo familiar.
+
+Como te das cuenta de esto? porque es una situacion recurrente. Ejemplo: padezco mucho las separaciones afectivas amorosas. Padezco cuando no soy convocado. Tienen que ver con patrones de abandono que vienen de experiencias pasadas.
+
+Por que es tan relevante y lo sentimos tanto? Toca una fibra muy fuerte que funciona en un plano no conciente que esta muy abajo, es uno de los `agujero motor` que funciona como motor de evolución. Tiene que ver con la creencia de `no ser suficiente`, es una creencia muy comun en todos. Se manifiesta de diferentes maneras: alguien me dejo, una muerte temprana, nivel de exigencia alto.
+Consecuencias: no poder manifestar relaciones duraderas en la edad adulta. Te saboteas, no mereces ser feliz, ser amado.
+
+Prestar atencion a nivel autoestima, trabajar el perdon. El perdon no tiene que ver con el otro, es a mi mismo, por haberme creado determinadas experiencias.
+No verme, no perdonarme, no trabajar con las cosas que me pasaron, es abandonarme, y eso potencia el circulo vicioso
+
+
+### Expansión
+La evolución es un danza constante de 2 movimientos: 
+- expansión, quien soy, crisis de raiz amar
+- crecimiento, lo que puedo manifestar, crisis de raiz de creer
+
+La parte de expansion tiene que ver con aquellas situaciones que necesitamos ser mas de lo que venimos siendo. El ser humano evoluciona por vision-por quien me quiero convertir, quien quiero ser- o por crisis-no pudiste por el otro lado, una redefinicion mas profunda. 
+
+Todos sienten que les falta algo para sentirse plenos, esa sensacion de vacio, de aquello que nos falta, es lo que necesitamos ampliar. Como es adentro es afuera, la expansion se da adentro, y se ve afuera.
+
+> Las cosas no ocurren afuera. 
+
+La expansion por vision es cuando te pones metas super desafiantes que ameritan que vos seas alguien diferente a quien venias siendo. El verdadero valor de ponerte metas, no es el resultado que tenes, sino en quien te convertis vos en el proceso de conseguir ese resultado. Lo importante es el camino a ese resultado, en quien te convertis por estar recorriendo ese camino, eso es la verdadera ventaja, eso es lo que genera la expansion. En ese camino van a pasar muchas cosas. No es el resultado en si, yo soy mas porque vivi el proceso de conseguir ese resultado.
+
+La accion no es lo que manda, lo que logra, yo soy el que manda, el que logro. Si no tengo la capacidad de verme a mi mismo me quedo a mitad de camino, y asi nos frustramos.
+
+A veces cuando conseguimos cosas, entramos en un plano de arrogancia que es muy jodido. El fin justifica los medios: no importa el proceso, necesito conseguir ese resultado.
+
+La expansion es en el ser, no es en la capacidad de accion, es en la capacidad de amar. Tiene que ver con quien soy yo, tengo que convertirme en una persona.
+
+El segundo movimiento es el de la crisis. No soy suficiente para aquello que se me presenta como desafio. Me lleva a revisar creencias, formas de pensar, verdades. Una crisis de expansion nos acerca a nuestro proposito. Si estoy muy alejado de mi proposito, voy a generarme una crisis de expansion.
+Si en mi proceso de evolucion tengo que ser mas grande para afrontar mas metas, voy a vivir una crisis de expansion. Voy a sentir malestares de la linea de sufrimiento, enojo, bronca, frustracion, culpa, todo lo que me deja en esa sensacion de estar en falta. 
+El perdon amerita en mi tener que expandirme, tengo que lograr ser mas para poder perdonar.
+
+> **Te tenes que preguntar: quien necesitas ser ante esa situacion**
+
+Hay algunas crisis que son mas relevantes, hay cosas que traes de arrastre de los primeros anos. Generalmente lo enteros decenas son de crisis: 10, 20, 30, 40.
+son momentos donde tenes que aprender a ver en quien te tenes que convertir. Esas personas que te ayudan a expandirte, tienen una funcion particular: porque ellos son quienes son, te habilitan y te permitis vos ser quien sos. En ese contrato emocional tenes la libertad de operar vos tambien como sos.
+
+En las crisis de expansion, necesitamos rodearnos de gente que nos permitan vernos como somos, nos permitan darnos cuenta de quien necesitamos ser. 
+
+LA expansion ocurre para que vos puedas mejorar tu experiencia de vida, mayor expansion mayor sensacion de plenitud. Entender que es lo que nos esta pasando nos potencia. 
+
+La crisis funciona si podes capitalizarla.
+Como mitigar efecto secundarios y potenciar el proceso:
+1. Identificar en que proceso estas, vision o crisis, y que tendencia, si pones metas ambiciosas o vas por crisis.
+2. Si hay malestar, comprender en profundidad la inseguridad, que estas sintiendo, es bronca, enojo, frustacion, culpa, con quien esta vinculado. No te estas sintiendo suficiente para que?
+3. Que es lo que te estas pidiendo?. Necesidad de ser mas que? A quien miro, que hace, que hizo, como era antes
+4. Revisar en tu historia si hubo momentos en los cuales tuviste sensaciones similares.
+5. Conecta con tu gradeza. Ver y revisar que es lo que tenes para dar, como vas a mostrar ese nuevo ser. **Que virtud estoy necesitando poner en juego en este momento para ser ese quien necesito ser**.
+
+Cuando me expando, hay mas amor, cuando hay mas amor, aparece la sensacion de plenitud. Ese amor hacia mi es el que me llena.
+Si yo soy amor, ante esta situacion, que tendria que dar, qeu generar? Como sale ese amor, en forma de que?
+
+Hacerse cargo de aquellas cosas que necesitamos plantear/modificar para poder ser quienes venimos a ser al mundo, **revisen creencias, de esas que durante muchos años me hice al boludo**.
+Va a ver un duelo por lo que no fue, por lo que si fue, por sanar cuestiones. El miedo me va a llevar para otro lado, atravesar el dolor. HAcer y generar eso es lo que me expande, no la cima.
+
+Si la molestia es grande es porque el proposito es grande. Si aparece seguido, hay que seguir dandole vuelta. Vos te das cuenta cuando ya es, porque aparece esa version expandida.
+
+`Labs -> Desafio Virtudes: experimentar una virtud por semana`
+
+### Crecer
 
 ### El Ego y El Alma
