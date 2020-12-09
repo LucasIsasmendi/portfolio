@@ -72,6 +72,8 @@ El padre es sinonimo de contencion, de soporte, esa energia se usa para superar 
 - [Raiz de Amar](#raiz-de-amar)
 - [Perdón](#perdón)
 - [Abandono](#abandono)
+- [Expansión](#expansión)
+- [Crecer](#crecer)
 
 ### Tonalidades
 [link youtube](https://www.youtube.com/watch?v=aZ9paAZoNjU)
@@ -215,5 +217,43 @@ Si la molestia es grande es porque el proposito es grande. Si aparece seguido, h
 `Labs -> Desafio Virtudes: experimentar una virtud por semana`
 
 ### Crecer
+Encuentren situaciones en las cuales se superaron, y despues creyeron mas en ustedes mismos.
+Crecer tiene que ver con atreverse, superar. No es gratuito, duele. 
+En el proceso de expansión, vas generando un ser diferente tuyo, cuando concretas ese desafio de superarte, creces.
+Salir del vientre, es el primer momento en el cual se empieza a generar la raiz de creer, la capacidad de creer. Cuando me expando, estoy trabajndo con quien soy, cuando crezco estoy trabajando con la capacidad para manifestar ese que soy.
+En el proceso de crecimiento trabajo con darme cuenta que puedo manifestar ese que soy. **Si no creo en mi, no puedo manifestar quien soy.**
+
+No podes comenzar un ciclo de crecimiento, si no estas dispuesto a hacer algo distinto, a salir de la zona de confort.
+Igual que en expansion, existen dos maneras de sobrellevarlo, por vision-dado en quien me quiero convertir, como quiero manifestarme- y por crisis.
+
+Por `vision`: Caerte y levantarte tiene pequeñas dosis de registro de confianza, lo podes capitalizar, la experiencia que te sirve de inspiracion para despues ir por un desafio mayor. 
+Es muy importante prestarle atencion a lo que nos pasa en el cuerpo. El cuerpo nos esta avisando que estamos en una situacion de estas. La clave esta en el entorno que te estas generando y el entorno que te estas creando y verte creador de ese entorno, nunca va a existir un entorno completamente favorable y seguro.
+
+Por `crisis`: de manifestacion, no de sentido, me cuesta creer y confiar, me esta costando **hacer** algo. Pone en tela de juicio todas las creencias tuyas que tienen que ver con creer, con confianza, autoconfianza, con la sensacion de poder. Lo que hacemos es transformar estas creencias limitantes en creencias posibilitantes. Creer mas en mi, me siento poderoso, puedo confiar mas en los demas.
+Como te das cuenta que estas precisando crecer? porque estas trabado. Generalmente estas en un malestar pasivo, apatico, indiferente, desganado, desinteres. Estas negando. Cuando podes reconocer que estas en ese estado, podes salir de la zona de confort: o te plantes un desafio, seria por vision, o inconcientemente te creas una situacion critica para salir de ahi.
+Si estoy sintiendo `malestar pasivo`, necesito pegar un salto de crecimiento.
+Si es `malestar activo`, quiza necesito ser alguien diferente, que es uan crisis o movimiento de expansión
+
+`PisoTips` para potenciar proceso evolutivo de crecimiento:
+1. **entender donde estas parado**: es ciclo de expansion o crecimiento, presta atencion al plano emocional, es clave lo que sentis, lo que esta manifestando el cuerpo, si es malestar pasivo o activo.
+2. **identificar el miedo a superar**: por detras de ese desafio o esa crisis, cambiar la perspectiva, mira a esos miedos como maestros que te desafian, como algo que te esta ayudando
+3. **dejar de huir o luchar contra eso**: seguramente estas malgastando un monton de energia. El miedo es buen consejero pero mal guia, te avisa que esta pasando, pero te hace ir al lado contrario que realmente tenes que ir.
+4. **revisa tu pasado**: situaciones similares, como fueron, como las superaste, que experiencia tuviste, en que te podes apoyar para impulsar para superar la situacion
+5. **estar abierto**: prestar atencion a que es lo que estas creando, eso es para manifestar quien viniste a ser. Se te complica, pedi ayuda
+
+Recuerden que todo el proceso del ciclo de crecimiento es para que ustedes puedan manifestar quienes vinieron a ser al mundo.
+Cuanto mas alineado estas con quien sos, menos sensacion de crisis tenes. 
+Somos mucho mas grande de lo que creemos.
+Somos mucho mas grandes que los miedos que nos generamos en nuestras mentes.
+Si no creemos en nosotros mismos, el mundo se pierde de experimentar lo que tenemos para darle
+
+> "Lo único imperdonable, es tener un don y no darlo al mundo"
+
+`Labs -> Desafio Virtudes: experimentar una virtud por semana`
 
 ### El Ego y El Alma
+### Expresarte
+### Expectativas
+### Creer en Mi
+### Fluir
+### Coraje
