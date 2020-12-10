@@ -74,6 +74,8 @@ El padre es sinonimo de contencion, de soporte, esa energia se usa para superar 
 - [Abandono](#abandono)
 - [Expansión](#expansión)
 - [Crecer](#crecer)
+- [Expresarte](#expresarte)
+- [Expectataivas](#expectativas)
 
 ### Tonalidades
 [link youtube](https://www.youtube.com/watch?v=aZ9paAZoNjU)
@@ -253,7 +255,56 @@ Si no creemos en nosotros mismos, el mundo se pierde de experimentar lo que tene
 
 ### El Ego y El Alma
 ### Expresarte
+Cuando hay un problema de comunicación, no hay un problema de comunicación. La comunicacion es la parte visible de lo que vos estas pensando y de lo que tiene que ver con tu estado emocional, entonces cuando hay un tema de comunicacion, es porque hay otros temas en juego.
+
+Hacer diferente genera un ser diferente, el tema es que esos habitos se generan en tu sistema de creencias, con lo cual si no tenes la capacidad de ver que es lo que te esta limintando internamente, trabajar en el hacer va a durar poco. 
+
+Para que haya una comunicacion conciente, necesitamos una apertura a poder revisar que es todo lo que esta en juego en eso por lo cual yo me estoy comunicando.
+
+Tendemos a comunicar las cosas subjetivas de manera objetiva, a desaparecer de la escena y defender posturas que expresamos como genericas pero son personales.
+
+La comunicacion conciente requiere honestidad, sinceridad, mostrarme sin grietas.
+
+**Pisottips**
+1. **Evitar el NO**: lo que pasa, pasa. Ocurre de manera positiva. No corras vs anda despacio
+2. **Deber/Tener vs Querer/Poder**: "tengo" implica una obligacion y una carga. Hace foco en lo que queres y en lo que podes
+3. **Palabras Trampa**: nunca, siempre, nadie. 
+4. **El Pero**: puesto en la comunicacion invalida lo que dijiste. Cambiar el "pero" por el "y"
+5. **Lo que pienso vs lo que siento**: expresar lo que me esta pasando. El otro es desordenado vs tiene una mirada diferente del orden.
+
 ### Expectativas
+Tenemos expectativas que son concientes y otras inconcientes, vienen del sistema de creencias, no entendes que es lo que las esta generando. 
+Def: esperanza, sueño o ilusion de cumplir determinado proposito. Se asocia con que hay una posibilidad de que algo se concrete, pueda cumplirse. Diferente a un deseo. Hay una confianza de algo que yo pongo en juego de que peude llegar a ocurrir. 
+
+Mas profundo, es aquello que vos sentis que necesitas para vivir. A partir de mis necesidades genero expectativas que ponemos en el afuera.
+
+Si la realidad sobrepasa las espectativas, aparece alegria por sorpresa.
+Cuando la expectativa o deber ser se transforma en exigencia, dejas poco lugar para que otras cosas ocurran
+
+Que pasa cuando las expectativas no se cumplen? Cuando la realidad que yo vivo es distinta a la que yo espero?
+Lo primero que aparece es decepcion. Se genera una brecha, que implica un dolor por algo que se pierde, una perdida operativa de algo que no pasa, y una imaginaria, la ilusion.
+Cuando no podemos sobrellevar el dolor, aparece el sufrimiento. No podes zafar del dolor. La anestecia no sirve, la resignacion, la indiferencia.
+
+Yo tengo una expectativa y limita mi creacion conciente. Porque **una expectativa es un quiebre a tu libertad.** Ya que restringe el como se va a realizar eso. Condiciono el resultado a un solo camino. Se puede definir el que, el para que, pero no el como, con el como estas hachicando.
+
+Favorecer la intencion, tener intenciones, **trabajar en el plano de las preferencias.**
+Doy cierto marco, pero no interfiero, porque cuando tengo una expectativa, estoy limitando mi libertad.
+
+Las expectativas que ponemos sobre alguien tienen que ver con nuestras necesidades profundas respecto a nuestro ser y nuestro amor. **Todas las necesidades no resueltas que yo tengo, pasan a ser expectativas sobre alguien.** Lo que hago con otra persona es cubrir mis necesidades internas. Le voy a pedir al otro que sea todo lo que yo no soy. Padezco cuando no cumple. Padezco cuando cumple las necesidades, limita trabajar en mis propias necesidades.
+
+Revisar las personas alrededor que no estan cumpliendo lo que espero, y en lugar de exigirles mas, revisar mis necesidades apegadas a eso que le estoy exigiendo al otro que se comporte de determinada manera para yo poder estar en paz.
+
+La vida que quiero vivir es a traves de las intenciones, que nos llevan a las acciones necesarias para que eso ocurra. A mayor grado de conciencia, menores expectativas. 
+Vivir la vida sin necesidad de resultados especificos, eso es libertad, eso es una manifestacion del amor, por eso es un grado de experiencia de vida mayor.
+
+**Pisottips**
+1. **Presta atencion a tus exigencias**: te das cuenta porque aparece siempre un enojo. Ese es un deber ser manifestado.
+2. **concientiza tu expectativa**: que es lo que querias que pase, que estas buscand que ocurra
+3. **identifica si podes preferir otras opciones**: de expectativa a preferencia
+4. **todo lo que ocurre en tu vida es para tu mayor bien**
+5. **busca la aceptacion lo antes que puedas**: reconocer que lo que es, es. Lo que esta pasando, esta pasando. Evitar anesteciar, resignar.
+
 ### Creer en Mi
 ### Fluir
 ### Coraje
+### Creación
