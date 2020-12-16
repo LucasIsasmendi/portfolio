@@ -168,22 +168,3 @@ very ~> DA-da ~> [ˈvɛr-i]
 
 ### [V9.18 — Probably](engl.io/awg)
 probably ~> DA-da-da ~> [ˈprɑ-bə-bli] or [ˈprɑ-bli] or [ˈprɑ-li] 
-
-## Shortcuts
-- ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
-- θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w ʤ ʧ
-- ɹ
-- ˈˌ ‿
-
-### Emoji symbols
-- ⤵️: `stressed`
-- ➖: `unstressed`
-- 🔈: `voiced`
-- 🔇: `unvoiced`
-- ▶️ : `released`
-- ⏩: `released into`
-- ⏹️: `unreleased`
-- 👉: check this
-- ⤴: pitch up
-- ⤵︎: pitch down
-- 💪: Work Out
