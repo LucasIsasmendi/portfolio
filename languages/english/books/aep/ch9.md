@@ -29,6 +29,146 @@ A three-syllable word should take about as much time as three-syllable sentence.
 ## Content Words
 Content words are nouns, verbs, adjectives, and adverbs. They carry the most important information, the most meaning. Since they are the stressed words in a sentence, that means their stressed syllables should be the longest, loudest, clearest syllables of the sentence. They should have the up-down shape of a stressed syllable ⤵️.
 
+`Function words`, rather than including actual content, relate content words to each other within the sentence.
+
+Some common content words are:
+- **Nouns**: books[bʊks], school[skul], dinner[ˈdɪn-әɹ], store[stɔɹ], people[ˈpi-pәl], report[ɹɪˈpɔɹt|], subway[ˈsʌbˌweɪ], table[ˈteɪ-bәl], door[dɔɹ], shoes[ʃuz]
+- **Verbs**: run[ɹʌn], sat[sæt], eat[it], walk[wɔk], tell[tεl], whisper[ˈwɪs-pәɹ], slept[slεpt], read[ɹid], heard[hɜɹd], know[noʊ]
+- **Adjectives**: blue[blu], old[oʊld], happy[ˈhæp-i], used[juzd], helpful*[ˈhεlp-fәl], sorry*[ˈsɑɹ-i], disappointed[ˌdɪs-əˈpɔɪn-tɪd], excited[ɪkˈsaɪ-dɪd], favorite*[ˈfeɪv-ɹɪt], beautiful*[ˈbju-də-fəl]
+- **Adverbs**: quickly[ˈkwɪk-li], always[ˈɔl-weɪz], often[ˈɔ-fәn], really*[ˈɹi-li], definitely*[ˈdεf-ə-nɪt|-li], finally[ˈfaɪn-əl-i], usually[ˈju-ʒu-əl-i], very*[ˈvεɹ-i], probably*[ˈpɹɑb-ə-bli], occasionally[әˈkeɪ-ʒə-nәl-i]
+
+Unstressed syllables, even in stressed words, are just unstressed syllables. They should still be very quick, flatter, quieter, and with less energy in the voice.
+
+### [V9.2 — Content Words](engl.io/ay8)
+- nouns: Dad's at the bank -> DA-da-da-DA
+- verbs: She went to the store: da-DA-da-da-DA
+- adverbs: He'll be here soon -> da-DA-da-DA
+- adjetives: She took the red car -> da-DA-da-DA-da
+
+Sometimes words that are not content words are stressed to draw attention and emphasis to the idea: "Now let the world come to YOU" -> da-da-da-da-da-da-DA.
+
+### [V9.3 — Verbs](engl.io/aya)
+Main verbs will be stressed in a sentence.
+- I’m leaving soon -> da-DA-da
+- She's taking the bus -> da-DA-da-da
+- We're running late -> da-DA-da
+- I passed the test -> da-DA-da-da
+
+It’s important that you don’t rush through content words. Give them enough time to have this shape of up and down.
+
+### [A9.2 — Content Words](engl.io/ayc)
+books, school, dinner, run, sat, eat, blue, old, happy, quickly, always, often
+### [A9.3 — Content Words, Slow Motion](engl.io/aye)
+books, school, dinner, run, sat, eat, blue, old, happy, quickly, always, often
+
+### [V9.4 — Which word is the most stressed?](engl.io/ayh)
+Sentences can have more than one stressed word. Sometimes one stressed word in a sentence will be clearer than others.
+
+There is no one right way to stress a sentence. It depends on what piece of information is most important to the speaker.
+
+### [A9.4 — Which Word is the Most Stressed?](engl.io/ayk)
+7/10 (p173 - a265)
+
+### generalization about intonation and statements
+- The **melody** of a sentence **will fall** from the beginning to the end. 
+- Though **stressed** words will **pop out** from the melodic line of a sentence ⤵️
+- stressed words at the beginning of a sentence will generally be more stressed, clearer, and more energized than stressed words at the end of a sentence.
+- By the end of a sentence, even for a stressed word, the volume can be quiet and some of the energy of the voice gone, just like in an unstressed syllable.
+
+### [V9.5 — Word Stress and Sentence Position](engl.io/aym)
+‘I’ll be home by three,’ ‘Last night I drove the car home.’
+
+Make sure you’re not stressing the last word of a sentence by bringing it up in pitch or making it louder because in English it’s actually the opposite. The words at the end of the sentence will be lower in pitch and also softer. The final word in a sentence can sometimes be very low and very soft. 
+
+### stress problems
+Students know intuitively which syllables should be the most stressed. The problem is that they stress them the wrong way: flat and harsh, instead of with a softer curve up and down in the voice. The other main problem is making the unstressed syllables too long and clear. Again, this isn’t a problem with knowing which syllables are unstressed, but with not making them fast enough to contrast with the stressed syllables.
+
+### Intonation of Sentences: Up or Down?
+Some sentences don’t go down in pitch. If they lead into another thought often go up in pitch, to signal that there’s more to say.
+For example: We found out the flight was cancelled, so everyone got upset. The pitch is: ⤴,⤵︎
+
+### [A9.5 — One Thought Leading to Another](engl.io/ayp)
+We found out the flight was cancelled, so everyone got upset.
+Wewentforarun, ⤴
+we ate breakfast, ⤴
+and we started to work. ︎︎⤵︎
+
+### [V9.6 — Intonation and Lists](engl.io/ays)
+Each item goes up in pitch until the final item, which goes down in pitch. 
+- I’m driving you⤴, Dan⤴, and Cindy⤵︎ to the party.
+- You can have cereal⤴, pancakes⤴, or oatmeal⤵︎.
+
+### intonation in questions
+questions that can’t be answered with ‘yes’ or ‘no’ follow this trend of decreasing pitch, volume, and energy.
+- How are you? ⤵
+- What are you doing? ⤵︎ 
+- What’s your name? ⤵︎ 
+- What time? ⤵︎
+
+Questions that can be answered with a ‘yes’ or ‘no’, however, go up in pitch at the end.
+- Are you okay? ⤴
+- Are you sure? ⤴
+- Were you there? ⤴
+- Are you hungry? ⤴
+
+### [V9.7 — Intonation and Questions](engl.io/ayu)
+- `⤴`: The questions that go up in pitch at the end are **yes/no** questions. So, questions that start with words like did, does, is, and can.
+- `⤵︎`: Questions that go down in pitch at the end are **all other** questions.
+
+### [V9.8 — What time?](engl.io/axr)
+What time? ~> da-Da ~> [wʌt|_taɪm] ~> ⤵︎
+
+Spanish Students do nasal end, is an M, bring your lips together
+
+### [V9.9 — Are you okay?](engl.io/ayz)
+Are you okay? ~> da-Da-da-DA or da-da-da-DA ~> [əɹ_ˌjʊ_oʊˈkeɪ] ~> ⤴
+
+### [V9.10 — Are you sure?](engl.io/az2)
+Are you sure? ~> da-da-DA ~> [əɹ_jə_ʃɜɹ] ~> ⤴
+
+`💪 ESTOY SILBANDO CON LA S -> LABURAR ESTO!!!!!`
+
+### Tag questions
+Are little questions we add to the end of statements. They are always yes/no questions, so they go up in pitch:
+- It’s nice out ⤵︎︎, isn’t it? ⤴
+- You’re done ⤵︎, right? ⤴
+
+The intonation of a sentence does affect the meaning. If the intonation goes up, it means you’re expecting an answer or response. If goes down, is a statement
+
+### [A9.6 — Up or Down?](engl.io/az4)
+9/10 (questions page 177 - answers page 266)
+- CHECK: question, but not a yes/no question
+
+### [V9.11 — Helpful](engl.io/az7)
+helpful ~> DA-da ~> [ˈhɛlp-fəl]
+
+`💪 PRACTICAR DARK L: no toca la punta los dientes superiores "/", es plana hacia atras "_"`
+
+### [V9.12 — Sorry](engl.io/awp)
+sorry ~> DA-da ~> [ˈsɔɹ-i]
+
+`💪 ESTOY SILBANDO CON LA S -> LABURAR ESTO!!!!!`
+
+### [V9.13 — Favorite](engl.io/azb)
+favorite ~> DA-da-da ~> [ˈfeɪ-vər-ɪt] or [ˈfeɪv-rɪt]
+
+### [V9.14 — Beautiful](engl.io/aw5)
+beautiful ~> DA-da-da ~> [ˈbju-dɪ-fəl]
+
+`💪 PRACTICAR DARK L: no toca la punta los dientes superiores "/", es plana hacia atras "_"`
+
+### [V9.15 — Really](engl.io/azg)
+really ~> DA-da or DA-da-da ~> [ˈri-li] or [ˈrɪ-li]
+
+### [V9.16 — Definitely](engl.io/azj)
+definitely ~> DA-da-da-da ~> [ˈdɛfənɪt|li]
+
+### [V9.17 — Very](engl.io/azn)
+very ~> DA-da ~> [ˈvɛr-i]
+
+### [V9.18 — Probably](engl.io/awg)
+probably ~> DA-da-da ~> [ˈprɑ-bə-bli] or [ˈprɑ-bli] or [ˈprɑ-li] 
+
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
 - θ	ð	s	z	ʃ	ʒ	tʃ		dʒ	h	r	j	m	n ŋ l w ʤ ʧ
@@ -44,3 +184,6 @@ Content words are nouns, verbs, adjectives, and adverbs. They carry the most imp
 - ⏩: `released into`
 - ⏹️: `unreleased`
 - 👉: check this
+- ⤴: pitch up
+- ⤵︎: pitch down
+- 💪: Work Out
