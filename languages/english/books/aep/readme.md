@@ -4,19 +4,19 @@
 **Index**  
 [Tools for Learning](./ch0.md)  
 [1. Getting Started: Placement](./ch1.md)  
-[2. Introduction to Stress, Rhythm, and Intonation](#2-introduction-to-stress-rhythm-and-intonation)  
-[3. Vowels](#3-vowels): [ʌ](#ʌ) - [ɑ](#ɑ) - [ɔ](#ɔ) - [æ](#æ) - [ɛ](#ɛ) - [i](#i) - [ɪ](#ɪ) - [u](#u)  - [ʊ](#ʊ) - [ə](#ə) - [ɜ](#ɜ)  
-[4. Diphthongs](#4-diphthongs): [oʊ](#oʊ) - [aʊ](#aʊ) - [aɪ](#aɪ) - [eɪ](#eɪ) - [ɔɪ](#ɔɪ) - [ju](#ju)  
-[5. Consonants](#5-consonants): [b-p](#b-p), [g-k](#g-k), [t-d](#t-d), [v-f](#v-f), [z-s](#z-s), [sh-zh](#sh-zh), [th(θ-ð)](#thθ-ð), [ʧ-ʤ](#ʧ-ʤ), [m](#m),[ŋ](#ŋ), [n](#n), [h](#h), [y](#y), [w](#w), [ɹ](#ɹ), [l](#l)   
+[2. Introduction to Stress, Rhythm, and Intonation](./ch2.md)  
+[3. Vowels](./ch3.md): ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ  
+[4. Diphthongs](./ch4.md): oʊ, aʊ, aɪ, eɪ, ɔɪ, ju  
+[5. Consonants](./ch5.md): b-p, g-k, t-d, v-f, z-s, sh-zh, th(θ-ð), ʧ-ʤ, m, ŋ, n, h, y, w, ɹ, l   
 [6. Consonant Clusters](./ch6.md)  
 [7. Rhythm and Intonation: Multi-Syllable Words](./ch7.md)  
 [8. Linking](./ch8.md)  
 [9. Rhythm and Intonation: Stresses Words](./ch9.md)  
-10.  Unstressed Words and Words that Reduce
-11.  Coontractions
-12.  Gonna, Wanna, Gotta
-13.  Putting it all togheter
-14.  Continuing to Work
+[10. Unstressed Words and Words that Reduce](./ch10.md)  
+[11. Coontractions](./ch11.md)  
+12.   Gonna, Wanna, Gotta
+13.   Putting it all togheter
+14.   Continuing to Work
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
@@ -33,6 +33,9 @@
 - ⏩: `released into`
 - ⏹️: `unreleased`
 - 👉: check this
+- ⤴: pitch up
+- ⤵︎: pitch down
+- 💪: Work Out
 
 ## Cambridge IPA -> Rachel IPA
 https://dictionary.cambridge.org/dictionary/english  
