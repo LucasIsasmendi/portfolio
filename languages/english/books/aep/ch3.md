@@ -9,15 +9,21 @@ There are eleven vowels in American English.
 - [ɛ](#ɛ) EH
 - [i](#i) EE
 - [ɪ](#ɪ) IH
-- [u](#u)
-- [ʊ](#ʊ)
-- [ə](#ə)
-- [ɜ](#ɜ)  
+- [u](#u) OO
+- [ʊ](#ʊ) UH
+- [ə](#ə) UH - Schwa
+- [ɜ](#ɜ) UR
+- [test](#test-yourself)
 
 ## Tips
 ### Minimal Pairs
 Listen to the minimal pairs over and over, 10 minutes a day, everyday. Once tht you start to hear the difference, start repeating with the audio file.
 - `ɑ-ʌ`: [A3.4](#a34-ah-ɑ-vs-uh-ʌ)
+- `ɑ-æ`: [A3.8](#a38---ahɑ-vs-aaæ)
+- `ɛ-æ`: [A3.12](#a312---aaæ-vs-ehɛ)
+- `i-ɪ`: [A3.16](#a316---ih-ɪ-vs-ee-i)
+- `ɛ-ɪ`: [A3.18](#a318---ehɛ-vs-ihɪ)
+- `ʊ-u`: [A3.22](#a322---uhʊ-vs-oou)
 
 ## [a3.1 — Vowels](engl.io/ad1)
 ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ә, ɜ
@@ -32,7 +38,7 @@ You’ll see this sound spelled several ways in American English.
 - oe: does [dʌz]
 - o: love [lʌv]
 - oo: blood [blʌd]
-- ou: trouble [ˈtɹʌb-əәl]
+- ou: trouble [ˈtɹʌb-әl]
 - u: up [ʌp]
 
 ### [v3.1 `ʌ` — The UH as in BUTTER [ʌ] Vowel](engl.io/ad4)
@@ -160,7 +166,7 @@ ban [bæn] -> [bæʌn], exam [ɪgˈzæm] -> [ɪgˈzæʌm], thanks [θænks] -> [
 - a: bat [bæt]
 - au: aunt [ænt]
 - ai: plaid [plæd]
-- i: timbre [ˈtæm-bəәɹ]
+- i: timbre [ˈtæm-bәɹ]
 
 ## `ɛ`
 - `jaw` drops a good bit
@@ -195,12 +201,12 @@ Scores (q p38 - a p258):
 - 1. 5/5
 
 ### sound spelled ways in American English 
-- a: share [ʃɛəәɹ]
+- a: share [ʃɛәɹ]
 - ai: said [sɛd]
 - ay: says [sɛz]
 - ea: head [hɛd]
 - e: shed [ʃɛd]
-- eo: leopard [ˈlɛp-əәɹd]
+- eo: leopard [ˈlɛp-әɹd]
 - ie: friend [fɹɛnd]
 - u: bury [ˈbɛɹ-i]
 
@@ -305,73 +311,86 @@ Scores (q p44 - a p258):
 - u: minute [ˈmɪn-ɪt]
 - y: symbol [ˈsɪm-bәl]
 
-### `u`
+## `u`
 This vowel sounds really American when it’s more about the movement into the position than the position itself.
 
 - `lips`: start relaxed, then round. This movement is important
 - `tongue`: tip stays forward, and the back part lifts.
 - `placement`: middle of the mouth
 
-#### [v3.17 - The OO as in BOO [u] Vowel](engl.io/afh)
+### [v3.17 - The OO as in BOO [u] Vowel](engl.io/afh)
 - ⤵️: do[du], blu[blu], suit[sut], move[muv], two[tu]
 - ➖: visual[ˈvɪʒ-u-әl], issue[ˈɪʃ-u], influence[ˈɪn-flu-әns]
 
-#### [a3.20 - Listen + Repeat: The OO as in BOO [u] Vowel](engl.io/afk)
-- ⤵️: oo[u], stupid[ˈstu-pɪd], shoes[ʃuz]
-- ➖: oo[u], argue [ˈɑɹ-gju]
+### [a3.20 - The OO as in BOO[u]](engl.io/afk)
+- ⤵️: oo[u], blue[blu], stupid[ˈstu-pɪd], shoes[ʃuz]
+- ➖: oo[u], argue[ˈɑɹ-gju], issue[ˈɪʃ-u]
 
-You’ll see this sound spelled several ways in American English.
-- eu: sleuth [sluθ]
-- ew: blew [blu]
-- o: do [du]
-- oe: shoe [ʃu]
-- oo: too [tu]
-- ou: you [ju]
+### sound spelled ways in American English
+- eu: sleuth[sluθ]
+- ew: blew[blu]
+- o: do[du]
+- oe: shoe[ʃu]
+- oo: too[tu]
+- ou: you[ju]
 - ough: through [θɹu]
 - u: flute [flut]
 - ue: blue [blu]
 - ui: juice [dʒus]
 - wo: two [tu]
 
-### `ʊ` 
+## `ʊ` 
 - `tongue`: lifts in the back, towards the soft palate. Tip pulls slightly back so it’s not quite touching the back of the bottom front teeth.
 - `lips`: aren’t completely relaxed: the corners of the mouth come in a little so the lips flare and push away from the face.
 
-#### [v3.18 - The UH as in PUSH [ʊ] Vowel](engl.io/afm)
+### [v3.18 - The UH as in PUSH [ʊ] Vowel](engl.io/afm)
 - ⤵️: took [tʊk], could [kʊd], book [bʊk], sugar[ˈʃʊg-әɹ], woman[ˈwʊm-әn],  looking [ˈlʊk ɪŋ], stood [stʊd]
 - ➖: goodbye [gʊdˈbaɪ], firewood [ˈfaɪərˌwʊd], childhood [ˈʧaɪld-hʊd]
 
-#### [a3.21 - Listen + Repeat: The UH as in PUSH [ʊ] Vowel](engl.io/afp)
+### [a3.21 - The UH as in PUSH[ʊ]](engl.io/afp)
+- ⤵️: uh[ʊ], book[bʊk], looking[ˈlʊk-ɪŋ], stood[stʊd]
+- ➖: uh[ʊ], childhood[ˈʧaɪld-hʊd], goodbye[gʊdˈbaɪ]
 
-#### [a3.22 - Listen + Repeat: UH [ʊ] vs. OO [u]](engl.io/afs)
+### [a3.22 - UH[ʊ] vs. OO[u]](engl.io/afs)
 OO as in BOO [u] vowel vs UH as in PUSH [ʊ] vowel. The lips round much less for UH[ʊ] than for OO[u]. Relax your lips more for the first sound, then round them more for the second.
 
-Minimal pairs: uh[ʊ], oo[u] - stood[stʊ], stewed[stud] - pull[pʊl], pool[pul] - look[lʊk], Luke[luk] - soot[sʊt], suit[sut]
+**Minimal pairs**: 
+- uh[ʊ], oo[u] 
+- stood[stʊ], stewed[stud]
+- pull[pʊl], pool[pul]
+- look[lʊk], Luke[luk]
+- soot[sʊt], suit[sut]
 
-#### [a3.23 - UH [ʊ] vs. OO [u] Test](engl.io/afvs)
-1/5
+### [a3.23 - Test: UH[ʊ] vs. OO[u]](engl.io/afvs)
+Scores (q p52 - a p258):
+1. 1/5
+2. 5/5
 
-You’ll see this sound spelled several ways in American English.
+### sound spelled ways in American English
 - o: wolf [wʊlf]
 - oo: wood [wʊd]
 - ou: could [kʊd]
 - u: sugar [ˈʃʊg-әɹ]
 
-### `ə`
+## `ə`
 Knows as **schwa sound**: is only in unstressed syllables
 - `lips`: part but there’s almost no jaw drop
 - `tongue`: relaxed, low in the mouth, with the tip forward, lightly touching the back of the bottom front teeth
 - `placement`: in the upper chest.
 
-#### [v3.19 - The UH as in SUPPLY [əә] (Schwa) Vowel](engl.io/afx)
+### [v3.19 - The UH as in SUPPLY [ә] (Schwa) Vowel](engl.io/afx)
 The schwa goes with the syllabic consonants L[əl], M[əl], N[əl], and R[əl]. That means when you have a syllable with a schwa followed by one of these consonants, you don’t need to make the schwa. It gets absorbed by the next sound.
 
 - ➖: sofa[ˈsoʊ-fə], ability[əˈbɪl-ɪ-di], allow[əˈlaʊ], extra[ˈɛk-stɹə], data[ˈdeɪ-də], again[əˈgɛn], visa[ˈvi-zə], about[əˈbaʊt]
 
-#### [a3.24 - Listen + Repeat: UH as in SUPPLY [əә] (Schwa)](engl.io/ag1)
-- China [ˈʧaɪ-nә]
+### [a3.24 - UH as in SUPPLY[ә] (Schwa)](engl.io/ag1)
+- uh [ә]
+- again [әˈgɛn]
+- China [ˈʧaɪ-nә] 
+- extra [ˈɛk-stɹә] 
+- visa [ˈvi-zә]
 
-#### [a3.25 - Listen + Repeat:  Syllabic Consonants](engl.io/ag3)
+### [a3.25 - Syllabic Consonants](engl.io/ag3)
 The schwa is different when it’s followed by an M[m], N[N], L[l], or R[ɹ] sound. These are called syllabic consonants, which means they take over the whole syllable: you don’t need to make a schwa sound at all.
 Examples: 
 - system[ˈsɪs-tәm] — go straight from the T to the M. 
@@ -379,7 +398,13 @@ Examples:
 - pencil [ˈpɛn-sәl] — go straight from the S to the Dark L.
 - mother [ˈmʌð-әɹ] — go straight from the TH to the R.
 
-You’ll see this sound spelled several ways in American English.
+Audio:
+-tom [dәm], bottom [ˈbɑd-әm]
+- con- [kәn], control [kәnˈtɹoʊl] 
+- -ple [pәl], people [ˈpi-pәl]
+- syr- [sәɹ], syringe [sәˈɹɪndʒ]
+
+### sound spelled ways in American English
 - a: about [əˈbaʊt]
 - ea: ocean [ˈoʊ-ʃәn]
 - e: anthem [ˈæn-θәm]
@@ -390,22 +415,22 @@ You’ll see this sound spelled several ways in American English.
 - u: autumn [ˈɔ-dәm]
 - y: syringe [sәˈɹɪndʒ]
 
-### `ɜ`
+## `ɜ`
 It’s basically the R consonant acting like a vowel.
 The most common mistake with this sound is not lifting the tongue enough.
 - `tongue`: It should be quite high in the mouth, pulled back and up so the tip isn’t touching anything.
 - `lips`: corners come in so the lips can flare and push away from the face.
 - `placement`: Feel the vibration in the front of the mouth, between the front of the tongue and the roof of the mouth
 
-#### [v3.20 - The UR as in BIRD Vowel](engl.io/ag5)
+### [v3.20 - The UR as in BIRD Vowel](engl.io/ag5)
 - ⤵️: hurt[hɜɹt], earth[ɜɹθ], search[sɜɹʧ], circle[ˈsɜɹ-kəl], return[ɹɜˈtɜɹn]
 - ➖: research[ˈri-sɜɹʧ], thirteen[θɜɹˈtin], outburst[ˈaʊt|-bɜɹst]
 
-#### [a3.26 - Listen + Repeat: UR as in BIRD [ɜ]](engl.io/ag8)
+### [a3.26 - UR as in BIRD [ɜ]](engl.io/ag8)
 - ⤵️: ur[ɜɹ], bird[bɜɹd], early[ˈɜɹ-li], nurse[nɜɹs]
 - ➖: ur[ɜɹ], research[ˈri-sɜɹʧ], thirteen [θɜɹˈtin]
 
-You’ll see this sound spelled several ways in American English.
+### sound spelled ways in American English
 - ea: learn [lɜɹn]
 - eu: chauffeur [ʃoʊˈfɜɹ] (noun)
 - i: bird [bɜɹd]
@@ -415,3 +440,13 @@ You’ll see this sound spelled several ways in American English.
 - y: myrtle [ˈmɜɹ-dәl]
 
 ### American vs. British English - Vowels
+TODO
+
+## Test Yourself
+### [a3.27 — Vowel Test](engl.io/agc)
+Scores (Q: p58, A: p259):
+1. 7/11 (Wrong: IH as in SIT, UH as in PUSH, UH as in BUTTER, AH as in FATHER)
+
+### [a3.28 — Stressed or Unstressed?](engl.io/age)
+Scores (Q: p59, A: p259):
+1. 10/10
