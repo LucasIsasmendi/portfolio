@@ -17,11 +17,16 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `リーン` *rîn* (telefono de dial)
 - `ぱく ぱく` *pakupaku* (representa alguien que come con la boca abierta)
 - `もぐもぐ` *mogumogu* (sonido que hacemos al masticar con la boca cerrada)
+- `どきどき` *dokidoki* (cuando el corazon late rapido debido a la sorpresa o la ansiedad)
+- `どきっ` *doki´* (expresa un instante de sorpresa)
 - `` ** ()
 - `` ** ()
 - `` ** ()
-- `` ** ()
-- `` ** ()
+
+## Palabras en Katakana
+- `ケーキ` *kêki* (pastel)
+- `シュークリーム` *SHÛKURÎMU* (hojaldre de crema, bollo de crema)
+
 
 ## 1. `私はアンナです` *watashi wa anna desu*
 - [A] `は`*wa* [B] `です`*desu* (A es B)
@@ -89,7 +94,52 @@ Para hablar en forma cortes.
 En el pasado, el indicador de tema, WA, se pronunciaba HA, y naturalmente se escribía de la misma manera, HA. La pronunciación cambió gradualmente a WA, pero se conservó la escritura tradicional HA.
 
 ## 7. `シュークリームはありますか` *shûkurîmu wa arimasu ka* (¿Hay bollos de crema?)
-
+- `あります` *ARIMASU*: verbo `haber`, categoría `verbos de estado`
+- `が` *GA*: se cuando una persona u objeto aparece en la conversación por primera vez.
+- [_] `が`*ga* `あります`*arimasu* (Hay _): ARIMASU se usa junto a GA cuando se aplica al sujeto de la oración.
 - **Extra**: en una tienda comprar algo que no se como se llama, señalar con el dedo: *kore o kudasai*(esto, por favor)
+- `いっぱい` *ippai* (lleno, muchos)
+- `こちら` *KOCHIRA* (aqui)
+- `ください` *KUDASAI* (por favor)
 
-### Números
+### TSU: contador de objetos
+Cuando se trata de contar objetos, los números del 1 al 10 se modifican.
+- 1つ	HITOTSU
+- 2つ	FUTATSU
+- 3つ	MITTSU
+- 4つ	YOTTSU
+- 5つ	ITSUTSU
+- 6つ	MUTTSU
+- 7つ	NANATSU
+- 8つ	YATTSU
+- 9つ	KOKONOTSU
+- 10	TÔ
+
+## 8. `もう一度お願いします` *MÔICHIDO ONEGAI SHIMASU* (¿Podría repetirlo, por favor?)
+
+### Explicacion audio
+- `みなさん` *minasan* (todos)
+- `これ` *kore* (esto)
+- `を` *o* (particula que indica el objeto de una accion)
+- `覚えてください` *oboete kudasai* (memoricen)
+  - `覚えます` *oboemasu* (memorizar)
+  - `ください` *kudasai* (pedirle a alguien que haga algo, esta palabra tiene varios usos distintos)
+  - la forma `MASU ます` de los verbos viene siempre al final de la oracion. PAra usar verbos en la mitad de la oracion, hay que usar las formas conjugadas, como la forma `TE て`
+  - los verbos seguidos de kudasai, vienen en la forma `TE`
+- `試験` *shiken* (exámen o exámenes, pruebas)
+- `に` *ni*: indica el punto donde se dirige un movimiento o accion
+- `よく` *yoku* : (a menudo), adverbio
+- `出ます` *demasu*: aparecer
+- `先生` *sensei*-{sense} (maestro, profesor, cualquier docente)
+- `もう一度` *môichido* (una vez mas)
+- `お願い します` *onegai shimasu*-{yimas} (expresion cortes para solicitar algo)
+
+### Profesora: Verbos en forma TE + KUDASAI
+Para pedirle a alguien que haga algo, modo imperativo, se dice el verbo en forma TE seguido de KUDASAI "por favor". Los verbos en forma TE son una conjugación que termina en TE o DE, según el verbo.
+- *oboemasu*(memorizar) + *kudasai* -> *oboete*(memorice) + *kudasai*
+- *tabemasu*(comer) + *kudasai* -> *tabete*(coma) + *kudasai*
+- *mimasu*(mirar) + *kudasai* -> *mite*(mire) + *kudasai*
+- *shimasu*(hacer) + *kudasai* -> *shite*(haga) + *kudasai*
+- *kimasu*(venir) + *kudasai* -> *kite*(venga) + *kudasai*
+
+La forma TE de muchos verbos se obtiene cambiando MASU a TE. Los que tienen E o I antes de MASU
