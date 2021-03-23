@@ -19,8 +19,8 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `もぐもぐ` *mogumogu* (sonido que hacemos al masticar con la boca cerrada)
 - `どきどき` *dokidoki* (cuando el corazon late rapido debido a la sorpresa o la ansiedad)
 - `どきっ` *doki´* (expresa un instante de sorpresa)
-- `` ** ()
-- `` ** ()
+- `ギリギリ` `ぎりぎり` *girigiri* (cuando las circunstancias son tan exigentes que apenas nos alcanza el tiempo u otra cosa)
+- `すれすれ` *suresure* (cuando logramos algo tras estar a punto de fallar)
 - `` ** ()
 
 ## Palabras en Katakana
@@ -143,3 +143,47 @@ Para pedirle a alguien que haga algo, modo imperativo, se dice el verbo en forma
 - *kimasu*(venir) + *kudasai* -> *kite*(venga) + *kudasai*
 
 La forma TE de muchos verbos se obtiene cambiando MASU a TE. Los que tienen E o I antes de MASU
+
+## 9. `何時からですか` *NANJI KARA DESU KA* (¿Desde qué hora?)
+### Explicacion audio
+- `明日` *ashita*{ashta} (mañana)
+- `健康診断` *kenkôshindan* (Revisión médica, reconocimiento médico)
+  - `健康` *kenkô* (salud)
+  - `診断` *shindan* (reconocimiento, diagnóstico)
+- `が` *ga* (particula que indica el sujeto, puede )
+- `あります` *arimasu* (verbo `haber`, puede significar `hay` o `habrá`)
+
+- `何時` *nanji* (qué hora?)
+  - `何` *nan* (qué)
+  - `時` *ji* (hora)
+- `から` *kara* (desde, particula inicial de periodo de tiempo o distancia)
+- `です` *desu* (expresion cortes que pone fin a la oracion)
+- `か` *ka* (pregunta)
+
+- `午前` *gozen* (por la mañana) // `午後` *gogo* (por la tarde) {o es gomo?}
+- `９時` *kuji* (9 horas)
+- `１１時` *juichiji* (11 horas)
+- `まで` *made* (hasta, indica el punto final de un periodo de tiempo o distancia)
+- `ここ` *koko* (aquí)
+- `に` *ni* (particula que indica lugar. Despues de la hora indica punto especifico en el tiempo. Esta particula tiene muchos usos distintos)
+- `８時半` *hachiji han* (8 y media)
+  - `８時` *hachiji* (8 horas)
+  - `半` *han* (mitad, medio)
+- `集まって下さい` *atsumatte kudasai* (reúnanse, es una manera de hacer una solicitud)
+  - `集まって` *atsumatte*: forma `TE` de *atsumarimasu*(reunirse), 
+  - `下さい` *kudasai* |escrito de otra forma*|
+
+### Profesora: Variantes de los verbos en forma TE
+  MASU => TE    |     Ejemplos      |
+--------------- | -------------------
+i/chi/ri => tte | atsumarimasu (reunirse) => atsumatte
+mi/ni/bi => nde | yomimasu (leer) => yonde
+ki => ite       | kikimasu (escuchar) => kiite (*)
+gi => ide       | isogimasu (apresurarse) => isoide
+
+(*) Excepción: ikimasu (ir) => itte
+
+### Diario de Anna
+En Japón, algunos números se consideran de mala suerte. "Cuatro" es SHI, igual que una palabra que significa "muerte". "Nueve" es KU, como otra expresión que quiere decir "sufrimiento". Por eso, en muchos hoteles y hospitales no existen las habitaciones con los números 4 y 9.
+
+## 
