@@ -21,6 +21,10 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `どきっ` *doki´* (expresa un instante de sorpresa)
 - `ギリギリ` `ぎりぎり` *girigiri* (cuando las circunstancias son tan exigentes que apenas nos alcanza el tiempo u otra cosa)
 - `すれすれ` *suresure* (cuando logramos algo tras estar a punto de fallar)
+- `がっくり` *gakkuri* (cunado nos sentimos decepcionados, alguien que perdio una competicion deportiva)
+- `ガーン` `がーん` *gân* (se transmite cuando nos ha conmocionado y decepcionado algo)
+- `` ** ()
+- `` ** ()
 - `` ** ()
 
 ## Palabras en Katakana
@@ -186,4 +190,34 @@ gi => ide       | isogimasu (apresurarse) => isoide
 ### Diario de Anna
 En Japón, algunos números se consideran de mala suerte. "Cuatro" es SHI, igual que una palabra que significa "muerte". "Nueve" es KU, como otra expresión que quiere decir "sufrimiento". Por eso, en muchos hoteles y hospitales no existen las habitaciones con los números 4 y 9.
 
-## 
+## 10. `全員いますか` ZEN-IN IMASU KA (¿Están todos?)
+### Explicacion audio
+- `はじめに` *hajimeni* (primero) {la h se pronuncia?}
+- `身長` *shinchô* (estatura)
+- `と` *to* (`y`, particula que conecta dos sustantivos entre si)
+- `体重` *taijû* (peso corporal)
+- `を` *o* // DONE PREV
+- `はかります` *hakarimasu* (medir) {hakarimas}
+- `全員` *zen-in* (todos)
+- `いますか` *imasu ka* (verbo haber/estar + particula de pregunta)
+  - La presencia de algo: IMASU para la gente y los animales. ARIMASU para las cosas
+- `が` *ga* // DONE PREV
+- `いません` *imasen* (no está, es el negativo de estar, IMASU)
+- `すみません` **sumimasen (perdón)
+- `遅れました` *okuremashita* (llegué tarde)
+  - verbos en pasado: MASU >> MASHITA. Ej. TABEMASU (comer) >> TABEMASHITA (haber comido)
+
+### Profesora: `います` IMASU y `あります` ARIMASU
+Para decidir si una cosa es animada o inanimada hay que fijarse no solo en si está viva, sino también en si puede moverse por su propia voluntad.
+
+`あります` *arimasu*:
+  - el sujeto es una cosa inanimada
+  - Las plantas son seres vivos, pero no pueden moverse.
+  - Pescados muertos en una tienda
+
+`います` *imasu*:
+- el sujeto es una cosa animada
+- peces en una pecera
+- los autobuses y automóviles cuando tienen conductor
+
+Formas negativas: IMASEN, ARIMASEN
