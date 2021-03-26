@@ -23,6 +23,9 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `すれすれ` *suresure* (cuando logramos algo tras estar a punto de fallar)
 - `がっくり` *gakkuri* (cunado nos sentimos decepcionados, alguien que perdio una competicion deportiva)
 - `ガーン` `がーん` *gân* (se transmite cuando nos ha conmocionado y decepcionado algo)
+- `わく わく` *waku waku* (como nos sentimos ante la perspectiva de algo grato que va a ocurrir)
+- `ウキウキ` `うき うき` *uki uki* (indica una gran alegria y optimismo, se usa cuando sentimos que las cosas van a ir muy bien)
+- `` ** ()
 - `` ** ()
 - `` ** ()
 - `` ** ()
@@ -221,3 +224,60 @@ Para decidir si una cosa es animada o inanimada hay que fijarse no solo en si es
 - los autobuses y automóviles cuando tienen conductor
 
 Formas negativas: IMASEN, ARIMASEN
+
+## 11. `ぜひ来てください` ZEHI KITE KUDASAI (No dejes de venir)
+### Explicacion audio
+- `今週` *konshû* (esta semana)
+  - la semana pasada se dice `先週` *senshû* y la semana proxima `来週` *raishû*
+- `の` *no*: particula para unir sustantivos entre si
+- `土曜日` *doyôbi* (sábado)
+  - en japones el sustantivo modificante se ubica antes del sustantivo al que modifica: *konshû no doyôbi* significa "el sábado de esta semana" o sea "este sábado"
+
+- `に` *ni* (indica un punto en el tiempo)
+- `寮で` *ryô de* (en la residencia de estudiantes)
+  - `寮` *ryô* (residencia de estudiantes)
+  - `で` *de* (particula que indica lugar)
+- `パーティーを開きます` *pâtî o hirakimasu* (hacer una fiesta)
+  - `パーティー` *pâtî* (fiesta)
+  - `を` *o* (indica el objeto de una accion, hacer o dar en el caso de la fiesta)
+  - `開きます` *hirakimasu* (hacer)
+- `ぜひ来てください` *ZEHI KITE KUDASAI* (no dejes de venir)
+  - `ぜひ` *zehi* (sin falta)
+  - `来て ください` *kite kudasai* ( ven o venga, uan expresion de solicitud)
+    - `来て` *kite* (forma te del verbo kimasu, venir)
+    - `ください` *kudasai* (por favor)
+- `わあ` *wâ* (exclamacion que expresa alegria: Guau!, Sí!)
+- `行く行く` *iku iku* (verbo ir*2, indica lo contenta que esta con la invitacion)
+  - IKU es la forma diccionario(辞書, Jisho) del verbo IKIMASU (ir), suena mas informal que la forma MASU
+- `今度` *kondo* (esta vez o la proxima vez)
+- `の` *no* // DONE PREV
+- `土曜日` *doyôbi* (sabado)
+- `ね` *ne* (particula para confirma lo que se ha dicho)
+
+### Gramática - Días de la semana
+- `月曜` GETSUYÔBI	(lunes)
+- KAYÔBI	(martes)
+- SUIYÔBI	(miércoles)
+- MOKUYÔBI	(jueves)
+- KINYÔBI	(viernes)
+- DOYÔBI	(sábado)
+- NICHIYÔBI	(domingo)
+
+#### IKIMASU y KIMASU 
+En japonés se usa un verbo diferente según la perspectiva del hablante.
+- `いきます` *ikimasu* (ir)
+- `きて ください` *kite kudasai *(venir)
+
+### Profesora: Verbos en forma diccionario
+Así aparecen los verbos en el diccionario. Es una manera informal de hablar.
+Según el verbo de que se trate, hay varias maneras de convertir la forma MASU en la "forma diccionario" (Jisho).
+
+MASU => Jisho   |     Ejemplos      |
+----------------| -------------------
+e => ru         | tabemasu (comer) => taberu
+i => ru         | orimasu (bajarse del vehiculo) => oriru
+i => -i + u     | ikimasu (ir) => iku
+
+Excepciones: 
+- kimasu (venir) => kuru
+- shimasu (hacer) => suru
