@@ -25,6 +25,10 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `ガーン` `がーん` *gân* (se transmite cuando nos ha conmocionado y decepcionado algo)
 - `わく わく` *waku waku* (como nos sentimos ante la perspectiva de algo grato que va a ocurrir)
 - `ウキウキ` `うき うき` *uki uki* (indica una gran alegria y optimismo, se usa cuando sentimos que las cosas van a ir muy bien)
+- `ワイワイ` `わいわい` *waiwai* (el ruido que hace un grupo de gente que esta pasandola bien)
+- `ガヤガヤ` `がやがや` *gayagaya* (una multitud de gente hablando entre si)
+- `` ** ()
+- `` ** ()
 - `` ** ()
 - `` ** ()
 - `` ** ()
@@ -281,3 +285,50 @@ i => -i + u     | ikimasu (ir) => iku
 Excepciones: 
 - kimasu (venir) => kuru
 - shimasu (hacer) => suru
+
+## 12. `いつ日本に来ましたか` ITSU NIHON NI KIMASHITA KA (¿Cuándo viniste a Japón?)
+### Explicacion audio
+- `いつ` *itsu* (cuando)
+- `日本` *nihon* (japon)
+- `に` *ni* (lugar)
+- `来ました` *kimashita* (viniste: conjugacion del tiempo pasado del verbo KIMASU venir)
+
+- `３月` *sangatsu* (marzo: consiste en 3 *san* + mes *gatsu*)
+- `に` *ni* (punto en el tiempo)
+- `来ました` *kimashita* (vine)
+
+- `もう` *mô* (ya)
+- `の` // DONE PREV
+- `生活` *seikatsu* (vida)
+- `に` *ni* (indica una situacion)
+- `慣れた` *nareta* (acostumbraste): conj pasado *naremasu*,(acostumbrarse), de manera informal, porque es menor. La formal es naremashita. Verbo en forma ta, para combertir en pregunta, se pronuncia en forma ascendente
+
+- `ええ` *ê* (si): como se le agrega *mâ* es en sentido ambiguo
+- `まあ` *mâ* (hasta cierto punto)
+
+### Gramática - Meses
+- ICHIGATSU	(Enero)
+- NIGATSU (Febrero)
+- SANGATSU (Marzo)
+- SHIGATSU (Abril)
+- GOGATSU	(Mayo)
+- ROKUGATSU	(Junio)
+- SHICHIGATSU	(Julio)
+- HACHIGATSU (Agosto)
+- KUGATSU	(Septiembre)
+- JÛGATSU	(Octubre)
+- JÛICHIGATSU	(Noviembre)
+- JÛNIGATSU	(Diciembre)
+
+### Profesora: Verbos en forma TA
+  MASU => TA    |     Ejemplos      |
+--------------- | -------------------
+e => ta         | naremasu (acostumbrarse) => nareta
+i/chi/ri => tta | atsumarimasu (juntarse) => atsumatta
+mi/ni/bi => nda | yomimasu (leer) => yonda
+ki => ita       | kikimasu (escuchar) => kiita (*)
+gi => ida       | isogimasu (darse prisa) => isoida
+
+(*) Excepción: ikimasu (ir) => itta
+
+En realidad, los verbos en forma TA se componen de igual manera que los verbos en forma TE que aprendimos en las lecciones 8 y 9. Basta con reemplazar TE por TA y DE por DA.
