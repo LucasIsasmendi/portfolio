@@ -1,17 +1,24 @@
+# AEP > Consonants
 # 5. Consonants
 there is no stressed and unstressed versions, because the shape and length of a syllable generally comes from the vowel or diphthong sound, not the consonants.
 
 One consonant can represent various sounds, and you have to learn the pronunciation of each word as you learn the word.
 
-Consonants fall into two categories, 🔈`voiced` and 🔇`unvoiced`
-- [b-p](#b-p)
-- [g-k](#g-k)
-- [t-d](#t-d)
-- [v-f](#v-f)
-- [z-s](#z-s)
-- [sh-zh](#sh-zh)
-- [th(θ-ð)](#thθ-ð)
-- [ʧ-ʤ](#ʧ-ʤ)
+Consonants fall into two categories, 🔈`voiced`(sound from the vocal cords) and 🔇`unvoiced`(just the breath)
+
+[**Section 1: Paired Consonants**](#section-1-paired-consonants)
+- stop
+  - [b-p](#b-p)
+  - [g-k](#g-k)
+  - [t-d](#t-d)
+- non stop(fricatives)
+  - [v-f](#v-f)
+  - [z-s](#z-s)
+  - [sh-zh/dj](#sh-zh)
+  - [th(θ-ð)](#thθ-ð)
+  - [ch(ʧ)-jj(ʤ)](#ʧ-ʤ)
+
+[**Section 2: Non-Paired Consonants**](#section-2-non-paired-consonants)
 - [m](#m)
 - [ŋ](#ŋ)
 - [n](#n)
@@ -37,7 +44,7 @@ The rest of the consonants are unpaired. That means they have a unique mouth pos
 - 🔇`unvoiced`: H[h]
 - 🔈`voiced`: M[m], N[n], NG[ŋ], Y[j], W[w], R[ɹ], ligh L[l], dark L[l] (nasal), with the vocal cords buzzing with the sound.
 
-**Section 1: Paired Consonants**
+# **Section 1: Paired Consonants**
 
 ## `b-p`
 Stop consonants: stop happens when the lips close
@@ -55,7 +62,7 @@ When the B or P is at the end of a sentence, the release will be dropped, or the
 The definition of a stop consonant has three parts
 1. tongue or the lips close off the air flow entirely.
 2. build up of pressure
-3. release
+3. release (some times there is not release)
 
 There are 6 different stop consonants: 
 - close by lips: [p-b]
@@ -64,48 +71,49 @@ There are 6 different stop consonants:
 
 IPA rachel symbol for release in a stop consonant is not pronunced: `|`. Examples: stop[stɑp|], wait[weɪt|]
 
-### [a5.3 - Listen + Repeat - B[b] and P[p]](engl.io/akd)
+### [a5.3 - B[b] and P[p]](engl.io/akd)
 - ▶️: b[b], p[p], put[pʊt], boss[bɔs], shopping[ˈʃɑp-ɪŋ], subway[ˈsʌb-weɪ], stop[stɑp]
 - ⏹️: job[ʤɑb│]
 
-You’ll see these sounds spelled several ways in American English.
+### sound spelled ways in American English
 - b: bought [bɔt]
-- bb: wobble [ˈwɑb əәl]
+- bb: wobble [ˈwɑb-əl]
 - p: put [pʊt]
-- pp: happy [ˈhæp i]
-- gh: hiccough [ˈhɪk ʌp] (this is an unusual spelling, it’s usually spelled ‘hiccup’)
+- pp: happy [ˈhæp-i]
+- gh: hiccough [ˈhɪk-ʌp] (this is an unusual spelling, it’s usually spelled ‘hiccup’)
 
 ## `g-k`
 - `tongue`: lifting the back, touches the soft palate, then pulling down to release the tongue and the air. Tongue tip: do not affect this sound
 - `jaw`: drop a little
 - `lips`: do not affect this sound. They can take the shape of the next sound
 
-The G[g] sound is `voiced` 🔈, and the K[k] sound is `unvoiced` 🔇.
-These consonants are stop consonants. Sometimes you’ll hear a stop, and sometimes you’ll hear a light release.
+G[g]🔈 -  K[k]🔇. These consonants are stop consonants. Sometimes you’ll hear a stop, and sometimes you’ll hear a light release.
 
 ### [v5.4 - G[g] and K[k] Consonants](engl.io/akf)
-- Sample words: cap[kæp]/gap[gæp], curl[kɜɹl]/girl[gɜɹl], kill[kɪl]/gill[kɪl]
+- Sample words: cap[kæp]/gap[gæp], curl[kɜɹl]/girl[gɜɹl], kill[kɪl]/gill[gɪl]
 - Sample sentence: Chris carried the gray crate to the gate [kɹɪs_ˈkeɪɹ-id_ðə_gɹeɪ_kɹeɪt_tə_ðə_geɪt]
 
-### [a5.4 - Listen + Repeat - G[g] and K[k]](engl.io/akh)
+### [a5.4 - G[g] and K[k]](engl.io/akh)
 - ▶️: gg[g], kk[k], click[klɪk], dog[dɔg]
-- ⏩: cut[kʌt], go[goʊ], location[loʊˈkeɪ-ʃəәn], ugly[ˈʌg-li]
+- ⏩: cut[kʌt], go[goʊ], location[loʊˈkeɪ-ʃәn], ugly[ˈʌg-li]
 
-You’ll see these sounds spelled several ways in American English. [g]
+### sound spelled ways in American English
+[`g`]
 - g: go [goʊ]
-- gg: wiggle [ˈwɪg əәl]
-[k]
+- gg: wiggle [ˈwɪg-әl]
+
+[`k`]
 - c: can [kæn]
-- cc: occur [əәˈkɜɹ]
+- cc: occur [әˈkɜɹ]
 - k: skip [skɪp]
 - ck: tick [tɪk]
-- ch: character [ˈkæɹ ɪk təәɹ]
-- x: extra [ˈεk stɹəә]
+- ch: character [ˈkæɹ-ɪk-tәɹ]
+- x: extra [ˈεk-stɹә]
 - q: quite [kwaɪt]
 
 ## `t-d`
 T is one of the hardest consonants because there is more than one pronunciation.
-First, let me clarify that we’re talking about the sounds [t] and [d], not the letters T and D.
+**Note**: the sounds [`t`] and [`d`], not the letters T and D.
 
 ### [v5.5 - Contractversation](engl.io/akj)
 - going to -> to[də]
@@ -130,7 +138,7 @@ The Stop T is made when you stop the air and don’t release it before starting 
 You leave your tongue tip down, middle tongue stop de air.
 It changes the vocal shape of the word, end more abruptly. The melody shape isn’t as curved.
 
-#### [a5.5 - Listen + Repeat - Stop T vs. No T](engl.io/akm)
+#### [a5.5 - Stop T vs. No T](engl.io/akm)
 Words without the stop T go down in pitch at the end. Words with the Stop T end more abruptly.
 - way [weɪ] — wait [weɪt│]
 - bay [beɪ] — bait [beɪt│]
@@ -141,7 +149,7 @@ Words without the stop T go down in pitch at the end. Words with the Stop T end 
 
 ### (2) Flap T [d]
 - When the T comes between vowel sounds: pretty [ˈpɹɪd-i]
-about it [əәˈbaʊd‿ɪt│]
+about it [әˈbaʊd‿ɪt│]
 - When the T comes after an R before a vowel sound: party [ˈpɑɹ-di], sort of [ˈsɔɹd‿əv]
 
 It sounds like the R [ɾ] in Spanish (caro). Not the American R [ɹ].
@@ -193,10 +201,12 @@ Exceptions:
 - politics [ˈpɑl-ә-tɪks]: True T
 
 ### [v5.11 - The Word SEVENTY](engl.io/amz)
-### na5.1 - Test yourself — How should the T’s be pronounced?
-9/10 (pagina 92 - respuesta 261)
+### na5.1 - Test — How should the T’s be pronounced?
+Scores (Q:p92 - A:p261)
+1. 9/10
+2. 8/10 (wait for, country)
 
-### [a5.6 - Listen + Repeat - The Three T Sounds](engl.io/anb)
+### [a5.6 - The Three T Sounds](engl.io/anb)
 - True: tt[t], time[taɪm], attain[әˈteɪn]
 - Flap: party[ˈpɑɹ-di], city[ˈsɪd-i]
 - Stop: might[maɪt│], definitely[ˈdεf-ә-nɪt│-li]
@@ -226,14 +236,16 @@ Exceptions:
 - frases: What time tomorrow[wʌt|-taɪm-tə-ˈmɒɹ-oʊ]. At seven[æt|_ˈsεv-ɪn]. I'm out of here[aɪm_aʊd‿ə_hiɹ]. I'm going to the bank[aɪm_ˈgoʊ-ɪŋ_tə‿ðə_bænk]. Tell me the truth[tɛl_mi_ðə_tɹuθ]. At eight[æd‿eɪt|]. An acquaintance told me[ən_ə-ˈkweɪnt|-əns_toʊld_mi]. I slept well last night[aɪ_slɛpt_wɛl‿læst_naɪt|]
 
 ### [a5.7 — What T do you Hear?](engl.io/ang)
-5/8 (pagina 94 - respuesta 261)
+Scores (Q:p94 - A:p261)
+1. 5/8
+2. 7/8 (hot)
 
 ### The D Sounds
 - `tongue`: (1) stop the air in your throat and bring the tongue tip to the roof of the mouth. (2) Release the tongue with your voice—this is a voiced consonant—and go right into the next sound.
 - `jaw`: teeth close or not
 
 Stop T and a D that’s not released sound almost the same. With the D, however, there is a bit of a voiced sound in the throat, even in the stop.
-Another tip: when two words are the same but one ending is voiced and the other unvoiced, the vowel before the voiced ending is just a little longer. So ‘hid’[hɪd│] is a little longer than ‘hit’[hɪt│], ‘buzz’ is a little bit longer than ‘bus’, and so on.
+**Another tip**: when two words are the same but one ending is voiced and the other unvoiced, the vowel before the voiced ending is just a little longer. So ‘hid’[hɪd│] is a little longer than ‘hit’[hɪt│], ‘buzz’ is a little bit longer than ‘bus’, and so on.
 
 If the D comes between two vowels or diphthongs (“body”), or after an R and before a vowel or diphthong (“hardy”), the air doesn’t stop. These are the same rules for the Flap T, and it sounds just like the Flap T.
 Because the Flap T and the D between vowel sounds the same, these words sound the same: 
@@ -247,19 +259,20 @@ A homophone is a pair or set of words that have different meanings and often dif
 - [ˈbʌd-ər]: but her/butter
 - [ˈgeɪv-əm]: gave him/gave them
 
-### [a5.8 - Listen + Repeat - The D [d] Consonant](engl.io/anm)
+### [a5.8 - The D [d] Consonant](engl.io/anm)
 - ▶️: dd[d], need[nid] ,add[æd]
 - ⏩:do[du], die[daɪ], lady[ˈleɪ-di], medicine[ˈmεd-ә-sɪn]
 
-You’ll see these sounds spelled several ways in American English. 
+### sound spelled ways in American English
 - t: tap[tæp]
 - tt: attain[әˈteɪn]
+
 - d: dog[dɔg]
 - dd: add[æd]
 
 ## `v-f`
 These consonants are ‘fricatives’, which means we pass the air through a narrow channel made by the lips, tongue, or teeth.
-In this case, we bring the bottom lip up to touch the bottom of the top front teeth and pass air through this pressed space. The F[🔇] is unvoiced, and the V[🔈] is voiced.
+In this case, we bring the bottom lip up to touch the bottom of the top front teeth and pass air through this pressed space. The F[🔇] is `unvoiced`, and the V[🔈] is `voiced`.
 We don’t want it to curl in, just lift. It’s the inside of the bottom lip that should touch the bottom of the top front teeth.
 The lips have to be loose, without tension, so they can vibrate with the air.
 hold them out for several seconds as you practice, to fine-tune your mouth position.
@@ -268,12 +281,21 @@ hold them out for several seconds as you practice, to fine-tune your mouth posit
 - Sample words 🔇[f]-🔈[v]: fan[fæn] - van[væn], fault[fɔlt] - vault[vɔlt], photo[ˈfoʊˌdoʊ] - vote[voʊt|]
 - Sample sentence: They served a very fresh oven-baked flounder fillet [ðeɪ_sɜɹvd‿ə_ˈvɛ-ɹi_fɹɛʃ_ˈʌv-ən-beɪkt_ˈflaʊn-dəɹ_fɪ-ˈleɪ]
 
-### [a5.9 - Listen + Repeat - V[v] and F[f] Consonants](engl.io/ans)
-vv[v], ff[f], fail[feɪl], vest[vεst], delivery[dɪˈlɪv-ә-ɹi], differ [ˈdɪf əәɹ], leave[liv], leaf[lif]
-- The [v] at the end of ‘leave’ is weak. Not like the [v] in ‘vest’
-- ‘Leaf’ is a little shorter.
+### [a5.9 - V[v] and F[f]](engl.io/ans)
+- vv[v], ff[f]
+- fail[feɪl]
+- vest[vεst]
+- delivery[dɪˈlɪv-ә-ɹi]
+- differ [ˈdɪf-әɹ]
+- leave[liv]
+- leaf[lif]
 
-You’ll see these sounds spelled several ways in American English. 
+1. The [v] at the end of ‘leave’ is weak. Not like the [v] in ‘vest’. ‘Leaf’ has a strong voiced sound at the end, where ‘leave’ has a weak voiced or unvoiced sound at the end.
+2. ‘Leaf’ is a little shorter. Words with a final unvoiced sound can be a little shorter than words that end in a voiced sound
+
+These two points are true of all the paired consonants.
+
+### sound spelled ways in American English 
 - f: fun[fʌn]
 - ff: stuff[stʌf]
 - ph: phone[foʊn]
@@ -288,8 +310,14 @@ These sounds are also fricatives. Here, the air passage is made narrow with the 
 - Sample words 🔇[s]-🔈[z]: sip[sɪp]-zip[zɪp], see[si]-zebra[ˈzi-brə], bus[bʌs]-buzz[bʌz]
 - Sample sentence: Because it’s sunny and he’s fair-skinned, he has to wear sunscreen [bɪ-kʌz_ɪts‿ˈsʌn-i_ænd_hiz_fɛəɹ-skɪnd], [hi_hæs_tə_wɛəɹ_ˈsʌn-skɹin]
 
-### [a5.10 - Listen + Repeat - Z[z] and S[s] Consonants](engl.io/anw)
-- zz[z], ss[s], sun[sʌn], zoo[zu], dressy[ˈdɹεs-i], Brazil [bɹәˈzɪl], lays[leɪz], lace[leɪs]
+### [a5.10 - Z[z] and S[s] Consonants](engl.io/anw)
+- zz[z], ss[s]
+- sun[sʌn]
+- zoo[zu]
+- dressy[ˈdɹεs-i]
+- Brazil [bɹәˈzɪl]
+- lays[leɪz]
+- lace[leɪs]
 
 Spanish speakers, make a very clear S[s] sound for every S they see. But many S’s are pronounced as a Z: busy[ˈbɪz.i], business[ˈbɪz.nɪs], husband[ˈhʌz.bənd], cousin[ˈkʌz.ən], as[əz], these[ðiːz], president[ˈprɛzəˌdɛnt], always[ˈɔlˌweɪz]. You just need to learn the pronunciation of them as you learn the word.
 
@@ -298,11 +326,11 @@ Spanish speakers, make a very clear S[s] sound for every S they see. But many S�
 - (as a verb): use[juz]/ house[haʊz]
 - (as a noun): use[jus] / house[haʊs]
 
-You’ll see these sounds spelled several ways in American English. 
+### sound spelled ways in American English
 - [s]
 - s: sun [sʌn]
 - ss: mess [mεs]
-- x: extra [ˈεk stɹəә]
+- x: extra [ˈεk stɹә]
 - cc: accept [ækˈsεpt]
 - c: cell [sεl]
 - sc: scent [sεnt]
@@ -315,7 +343,7 @@ You’ll see these sounds spelled several ways in American English.
 ## `sh-zh`
 These sounds are also fricatives. 
 - `teeth`: come together for these sounds to constrict the air passage.
-- `tongue`: tip lifts so the tip and the front part of the tongue are very close to the front part of the roof of the mouth, but not touching.
+- `tongue`: tip lifts so the tip and the front part of the tongue are very close to the front part of the roof of the mouth, but not touching. tip Pointing down
 - `lips`: flare out.
 
 SH[ʃ]is unvoiced(🔇) and ZH[ʒ] is voiced(🔈).
@@ -324,17 +352,23 @@ SH[ʃ]is unvoiced(🔇) and ZH[ʒ] is voiced(🔈).
 - sample words: ship[ʃɪp], measure[ˈmɛʒ-əɹ] / dish[dɪʃ], decision[dɪ-ˈsɪʒ-ən] / wash[wɑʃ], mirage[mɪ-ˈɹɑʒ]
 - Sample sentence: She made the decision to get a beige bed spread with chic striped sheets. [ʃi_meɪd|‿ðə_dɪ-ˈsɪʒ-ən_tə_gɛd‿ə_beɪʒ] [ˈbɛd|_sprɛd_wɪθ_ʃik_stɹaɪpt_ʃits]
 
-### [a5.11 - Listen + Repeat - SH[ʃ] and ZH[ʒ] Consonants](engl.io/an4)
-sh[ʃ], zh[ʒ], shame[ʃeɪm], genre[ˈʒɑn-ɹә], official[əˈfɪʃ-әl], Asia[ˈeɪ-ʒә], stash[stæʃ], beige[beɪʒ]
+### [a5.11 -  SH[ʃ] and ZH[ʒ] Consonants](engl.io/an4)
+- sh[ʃ], zh[ʒ]
+- shame[ʃeɪm]
+- genre[ˈʒɑn-ɹә]
+- official[əˈfɪʃ-әl]
+- Asia[ˈeɪ-ʒә]
+- stash[stæʃ]
+- beige[beɪʒ]
 
-You’ll see these sounds spelled several ways in American English.
+### sound spelled ways in American English 
 - [ʃ]
 - sh: ship [ʃɪp]
 - sch: schwa [ʃwɑ]
-- ti: action[ˈæk-ʃəәn]
-- ci: crucial[ˈkɹu-ʃəәl]
-- ssi: mission[ˈmɪʃəәn]
-- s: sure [ʃʊəәɹ]
+- ti: action[ˈæk-ʃәn]
+- ci: crucial[ˈkɹu-ʃәl]
+- ssi: mission[ˈmɪʃәn]
+- s: sure [ʃʊәɹ]
 - [ʒ]
 - s: usual [ˈju-ʒu-әl]
 - ge: beige [beɪʒ]
@@ -353,12 +387,17 @@ Common mistakes: aside from the substitutions, put too much of the tongue throug
 - sample words: thin[θɪn]/this[ðɪs], thief[θif]/these[ðiz], birthday[ˈbɜɹθ-deɪ]/worthy[ˈwɜɹ-ði]
 - sample sentence:  I thought of using these Lily of the Valleys rather than those thorny roses. [aɪ_θɔt‿ʌv_ˈju-zɪŋ_ðiːz_ˈlɪ-li_ɒv_ðə_ˈvæl-iz] [ˈɹæð-əɹ_ðən_ðoʊz_ˈθoʊɹ-ni_ˈroʊz-əz]
 
-### [a5.12 - Listen + Repeat - Two TH [θ-ð] Consonants](engl.io/ap2)
-th[θ], th[ð], think[θɪŋk], this[ðɪs], something[ˈsʌmˌθɪŋ], brother[bɹʌð-әɹ], with[wɪθ], loathe[loʊð]
+### [a5.12 - Two TH [θ-ð]](engl.io/ap2)
+- th[θ], th[ð]
+- think[θɪŋk]
+- this[ðɪs]
+- something[ˈsʌmˌθɪŋ]
+- brother[bɹʌð-әɹ]
+- with[wɪθ]
+- loathe[loʊð]
 
-These two sounds are only spelled with the letters ‘th’: - [θ]
+### These two sounds are only spelled with the letters ‘th’: 
 - th: theme[θim]
-- [ð]
 - th: this[ðɪs]
 
 ## `ʧ-ʤ`
@@ -371,16 +410,22 @@ Stop the air in the throat with the tongue tip at the roof of the mouth, and rel
 - sample words: char[ʧɑɹ] /jar[ʤɑɹ], chump[ʧʌmp] /jump[ʤʌmp]
 - sample sentence: I was on the edge of my seat watching each match of the major tournament. [aɪ_wʌz‿ɒn_ði_ɛʤ‿ʌv_maɪ_sit_ˈwɒʧ-ɪŋ_iʧ] [mæʧ‿ʌv_ðə_ˈmeɪʤ-əɹ_ˈtɜɹ-nə-mənt]
 
-### [a5.13 - Listen + Repeat - CH[ʧ] and JJ[ʤ] Consonants](engl.io/ap8)
-ch[ʧ], jj[dʒ], cheap[ʧip], job[ʤɑb], kitchen[ˈkɪʧ-әn], major[ˈmeɪ-ʤәɹ], much[mʌʧ], age [eɪʤ]
+### [a5.13 - CH[ʧ] and JJ[ʤ]](engl.io/ap8)
+c- h[ʧ], jj[dʒ]
+- cheap[ʧip]
+- job[ʤɑb]
+- kitchen[ˈkɪʧ-әn]
+- major[ˈmeɪ-ʤәɹ]
+- much[mʌʧ]
+- age [eɪʤ]
 
-### [a5.14 - Listen + Repeat - SH[ʃ] vs. CH[ʧ]](engl.io/apb)
+### [a5.14 - SH[ʃ] vs. CH[ʧ]](engl.io/apb)
 - wish[wɪʃ], which[wɪʧ]
 - chin[ʧɪn], shin[ʃɪn]
 - batch[bæʧ], bash[bæʃ]
 - ditch[dɪʧ], dish[dɪʃ]
 
-You’ll see these sounds spelled several ways in American English.
+### sound spelled ways in American English 
 - [ʧ]
 - ch: change[ʧeɪnʤ]
 - tch: match[mæʧ]
@@ -391,7 +436,7 @@ You’ll see these sounds spelled several ways in American English.
 - di: soldier [ˈsoʊl-ʤəɹ]
 - dj: adjective [ˈæʤ-ɪk-tɪv]
 
-**Section 2: Non-Paired consonants**
+# **Section 2: Non-Paired consonants**
 ## `m`
 The `lips` press lightly together, and likely the `jaw` will drop just a little to get ready for the next vowel or diphthong sound. You can hold this sound out continuously. When you practice, hold it for 5 seconds and feel the buzz of the voice. This is a voiced consonant.
 
@@ -401,9 +446,12 @@ Is categorized as a nasal consonant along with N and NG[ŋ]. Air pass up over th
 - sample sentence: My mom might come tomorrow morning [maɪ_mɒm‿maɪt|_kʌm_tə-ˈmɒɹ-oʊ_ˈmɔɹn-ɪŋ]
 
 ### [a5.15 - Listen + Repeat - M[m]](engl.io/apf)
-mm[m], my[maɪ], human[ˈhju-mәn], some[sʌm]
+- mm[m]
+- my[maɪ]
+- human[ˈhju-mәn]
+- some[sʌm]
 
-You’ll see this sound spelled two ways in American English.
+### sound spelled ways in American English
 - m: man[mæn]
 - mm: yummy[ˈjʌm-i]
 
@@ -424,9 +472,12 @@ The letters ‘ng’ and the the NG [ŋ] sound can be
 - Sample sentence: Studying English and practicing speaking is rewarding. [ˈstʌd-i-ɪŋ_ˈɪŋg-lɪʃ_ænd|_ˈpræk-tɪs-ɪŋ] [ˈspik-ɪŋ_ɪz_ɹɪ-ˈwɔɹ-dɪŋ]
 
 ### [a5.16 - Listen + Repeat - NG[ŋ]](engl.io/apk)
-ng[ŋ], song[sɔŋ], English[ˈɪŋ-glɪʃ], young[jʌŋ]
+- ng[ŋ]
+- song[sɔŋ]
+- English[ˈɪŋ-glɪʃ]
+- young[jʌŋ]
 
-You’ll see this sound spelled two ways in American English. 
+### sound spelled ways in American English 
 - ng: thing [θɪŋ]
 - n: thank [θæŋk]
 
@@ -448,14 +499,24 @@ The nn sound: feels more forward, because the part of the tongue that raises is 
 ### [v5.26 - N[n] vs NG[ŋ] Test](engl.io/apv)
 wing[wiŋ], tan[tæn], song[sɔŋ], feeling[ˈfi-lɪŋ], on[ɔn], fun[fʌn], lung[lʌŋ], seeing[ˈsi-ɪŋ], done[dʌn], strong[stɹɔŋ], fine[faɪn]
 
-### [a5.17 - Listen + Repeat - N[n]](engl.io/apx)
-n[n], need[nid], down[daʊn], undone[ʌnˈdʌn]
+### [a5.17 - N[n]](engl.io/apx)
+- n[n]
+- need[nid]
+- down[daʊn]
+- undone[ʌnˈdʌn]
 
-### [a5.18 - Listen + Repeat - N[n] vs. NG[ŋ]](engl.io/apz)
+### [a5.18 - N[n] vs. NG[ŋ]](engl.io/apz)
+- n[n], ng[ŋ]
+- lawn[lɔn], long[lɔŋ]
+- sun[sʌn], sung[sʌŋ]
+- rain[ɹeɪn], rang[ɹæŋ] (which sounds like [ɹeɪŋ])
+
 ### [a5.19 - Test - N[n] vs. NG[ŋ]](engl.io/ar1)
-3/5 (p115 - rta262)
+Scores (Q:115 - A: p262)
+1. 3/5
+2. 4/5
 
-You’ll see this sound spelled several ways in American English.
+### sound spelled ways in American English 
 - n: no [noʊ]
 - nn: inn [ɪn]
 - kn: know [noʊ]
@@ -469,10 +530,13 @@ This sound is simply made by passing air through a slightly constricted throat. 
 - sample words: happen[ˈhæp-ən], have[hæv], home[hoʊm]
 - sample sentence: He said hello to her when he got here [hi_sɛd_hə-ˈloʊ_tə_hər_wɛn_hi_gɑt|_hir]
 
-### [a5.20 - Listen + Repeat - H [h] Consonant](engl.io/ar5)
-h[h], hi[haɪ], ahead[eˈhεd], neighborhood[ˈneɪ-bәɹˌhʊd]
+### [a5.20 - H[h]](engl.io/ar5)
+- h[h]
+- hi[haɪ]
+- ahead[eˈhεd]
+- neighborhood[ˈneɪ-bәɹˌhʊd]
 
-You’ll see this sound spelled two ways in American English. 
+### sound spelled ways in American English
 - h: hi[haɪ]
 - wh: whole[hoʊl]
 
@@ -486,10 +550,13 @@ To make this sound, the tip of the tongue pushes the back of the bottom front te
 - sample words: yeah[jɛə], yard[jɑɹd], yield[jild], yogurt[ˈjoʊ-gəɹt]
 - sample sentence: Did you buy the yellow kayak yesterday? [dɪd_jʊ_baɪ_ðə_ˈjɛl-oʊ_ˈkaɪ-æk_ˈjɛst-ər- ˌdeɪ]
 
-### [a5.20 - Listen + Repeat - Y[j]](engl.io/arb)
-y[j], yes[jεs], year[jɪәɹ], unyielding[ʌnˈjil-dɪŋ]
+### [a5.21 - Y[j]](engl.io/arb)
+- y[j]
+- yes[jεs]
+- year[jɪәɹ]
+- unyielding[ʌnˈjil-dɪŋ]
 
-This sound is only spelled with the letter Y: 
+### sound spelled ways in American English
 - y: yes[jεs]
 
 ## `w`
@@ -502,10 +569,13 @@ The lips must round. There is a little tightening in the throat, just like the g
 - 'wh': can be pronounced [hw] or [w]
 - sample sentence: When would you want to see the flower show? [wɛn_wʊd_ju_wɑnt|_tə_si] [ðə_ˈflaʊ-əɹ_ʃoʊ]
 
-### [a5.22 - Listen + Repeat - W[w]](engl.io/arf)
-w[w], west[wεst], walk[wɔk], unwind[ʌnˈwaɪnd]
+### [a5.22 - W[w]](engl.io/arf)
+- w[w]
+- west[wεst]
+- walk[wɔk]
+- unwind[ʌnˈwaɪnd]
 
-You’ll see this sound spelled two ways in American English.
+### sound spelled ways in American English
 - w: was [wʌz]
 - o: one [wʌn]
 
@@ -514,7 +584,7 @@ the sound is mostly defined by the tongue—but because of the jaw and lip posit
 
 tongue back and up. jaw only needs to drop a little bit, more of a relaxation than a drop. The middle part of the tongue can touch the middle part of the roof of the mouth, or the teeth on the upper sides of the mouth. Corners of the lips come in so the lips can flare.
 
-There is another position that can make the R sound. curl the tip of the tongue up. It still shouldn’t touch anything. Flare your lips to help shape the sound. (como la r sp)
+HOLO: here is another position that can make the R sound. curl the tip of the tongue up. It still shouldn’t touch anything. Flare your lips to help shape the sound. (como la r sp)
 
 ### [v5.30 - R[ɹ]  Consonant](engl.io/arh)
 R sounds at the beginning of syllables feel more forward in the face, whereas R sounds at the end of syllables feel further back in the mouth.
@@ -522,23 +592,28 @@ R sounds at the beginning of syllables feel more forward in the face, whereas R 
 - sample sentence: Whenever Rebecca drives her car to New York, she really worries about parking it on the street. [wɛn-ˈɛv-əɹ‿ɹə-ˈbɛk-ə_dɹaɪvz_həɹ_kɑɹ] [tu_nu-jɔɹk,_ʃi_ˈɹɪ-ə-li_wɜɹ-iz‿ə-ˈbaʊt|] [ˈpɑɹ-kɪŋ_ɪd‿ɑn_ðə_stɹit]
 
 ### [a5.23 - Listen + Repeat - R[ɹ]](engl.io/arj)
-r[ɹ], right [ɹaɪt], area[ˈεәɹ-i-ә], car[kɑɹ]
+- r[ɹ]
+- right [ɹaɪt]
+- area[ˈεәɹ-i-ә]
+- car[kɑɹ]
 
 ### [v5.31 - R[ɹ] vs W[w]](engl.io/arm)
 Sometimes people make a W [w] sound instead of an R [ɹ]. This happens when the front of the tongue stays down and the back lifts. To make the R sound, do the opposite. Lift the tongue tip so it doesn’t touch anything.\
 So, with the W, the tongue is stretching. With the R, the tongue is sort of pulling up into itself. 
 Consontant clusters: BRead, CRash, DRop, FRiend, GReat, PRice, SCReen, SHRed, SPRing, STReet, THRee, TRee
 
-### [a5.24 - Listen + Repeat - R[ɹ] vs W[w]](engl.io/arp)
+### [a5.24 - R[ɹ] vs W[w]](engl.io/arp)
 - r[ɹ], w[w]
 - rest[ɹεst], west[wεst]
 - rag[ɹæg], wag[wæg]
 - ray[ɹeɪ], way[weɪ]
 
 ### [a5.25 - Test -  R [ɹ] vs. W [w]](engl.io/arr)
-5/5 (p125 / answers 262)
+Scores (Q 125, A 262)
+1. 5/5 
+2. 5/5
 
-You’ll see this sound spelled two ways in American English. 
+### sound spelled ways in American English. 
 - r: run [ɹʌn]
 - rr: array [əˈɹeɪ]
 
@@ -554,18 +629,18 @@ The L consonant has two types, `Dark` and `Light`. Unfortunately, dictionaries u
 - saple words dark l: fill[fɪl], tool[tul], cuddle[ˈkʌd-əl]. Fall
 - sample sentence: Last fall we got a good deal on last minute flights when we flew to California [læst_fɔl_wi_gɑd‿ə_gʊd|‿dil_ɑn_læst|_ˈmɪn_ɪt] [flaɪts_wɛn_wi_flu_tə‿ˌkæl-ɪ-ˈfɔrn-jə]
 
-### [a5.26 - Listen + Repeat - L[l]](engl.io/arw)
+### [a5.26 - L[l]](engl.io/arw)
 - `light`: l[l], lean[lin], lip[lɪp]
 - `dark`: l[l], pull[pʊl], feel[fil]
 
-### [a5.27 - Listen + Repeat - L[l] vs OH[oʊ]](engl.io/arz)
+### [a5.27 - L[l] vs OH[oʊ]](engl.io/arz)
 For the Dark L, let the lips relax. This sound is made at the back of the mouth, **when the back of the tongue pulls back**.
 - l [l], oh [oʊ]
 - real[ˈɹi-әl], Rio[ˈɹi-oʊ]
 - kneel[nil], neo-[ˈni-oʊ]
 - special [ˈspεʃ-әl], speci-o[ˈspεʃ-oʊ](not a word!)
 
-### [a5.28 - Listen + Repeat - R[ɹ] vs L[l]](engl.io/as2)
+### [a5.28 - R[ɹ] vs L[l]](engl.io/as2)
 Both of these sounds can be held out, so always hold them out for 3 or 4 seconds as you’re working on complicated words. This will solidify the correct position. Sometimes it even helps to hold your finger up to your cheek and make the shape of the tongue with your finger. Make the connection between the sound and the correct tongue position strong.
 
 - r[ɹ], l[l] (light L)
@@ -607,32 +682,31 @@ At the end of the word:
 - Creep[krip], clip[klɪp]
 - Sorrow[ˈsɑroʊ], shallow[ˈʃæloʊ]
 
-Reversed sounds:
+Reversed sounds {3:35}:
 - Rail[reɪl], lair[lɛr]
 - Real[riəl], leer[ˈlɪər]
 - Role[roʊl], lore[lɔr]
 - Rule[rul], lure[lʊr]
 
 ### [a5.29 - Test - R[ɹ] vs L[l]](engl.io/as9)
-5/5 (p131 / answers 262)
+Scores (Q 131 / A 262)
+1. 5/5
+2. 5/5
 
-You’ll see this sound spelled two ways in American English. 
+### sound spelled ways in American English 
 - l: love [lʌv]
 - ll: really [ˈɹi-ә-li]
 
 ### na5.2 - Test - Match the Symbol to the Sound
-19/24 (p132 / answers 262)\
-**REPASAR**: 
-- Unvoiced TH[θ]
-- Voiced TH[ð]
-- CH[tʃ]
-- J[dʒ]
-- Y[j]
-
+Scores (Q-132 / A-262)
+1. 19/24 Study: Unvoiced TH[θ], Voiced TH[ð], CH[tʃ], J[dʒ], Y[j]
+2. 24/24
+          
 ### na5.3 - Test - Which are American English IPA Symbols?
-18/20 (p132 / answers 262)\
+Scores (Q-132 / A-262)
+1. 18/20
+2. 17/20
 
 ### [a5.30 - Test - What Consonant do you Hear?](engl.io/asc)
-9/16 (p133 / answers 262)\
-**PRACTICAR**
-
+1. 9/15 (p133 / answers 262)\
+2. 13/15 Check: xp->b, xf->θ, 
