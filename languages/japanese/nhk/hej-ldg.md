@@ -27,8 +27,8 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `ウキウキ` `うき うき` *uki uki* (indica una gran alegria y optimismo, se usa cuando sentimos que las cosas van a ir muy bien)
 - `ワイワイ` `わいわい` *waiwai* (el ruido que hace un grupo de gente que esta pasandola bien)
 - `ガヤガヤ` `がやがや` *gayagaya* (una multitud de gente hablando entre si)
-- `` ** ()
-- `` ** ()
+- `きらきら` *kirakira* (señala algo que esta brillando o centellando)
+- `ピカピカ` *pikapika* (describe algo que queda limpio y brillante despues de pulirlo)
 - `` ** ()
 - `` ** ()
 - `` ** ()
@@ -332,3 +332,50 @@ gi => ida       | isogimasu (darse prisa) => isoida
 (*) Excepción: ikimasu (ir) => itta
 
 En realidad, los verbos en forma TA se componen de igual manera que los verbos en forma TE que aprendimos en las lecciones 8 y 9. Basta con reemplazar TE por TA y DE por DA.
+
+## 13. `小説が好きです` SHÔSETSU GA SUKI DESU (Me gustan las novelas)
+### Explicacion audio
+- `趣味` *shumi* (hobby o pasatiempo)
+- `何ですか` *nan desu ka* (que es?, cual es?) // U2
+- `読書` *dokusho* (leer libros)
+- `特に` *tokuni* (especialmente)
+- `歴史` *rekishi* (historia)
+- `小説` *shôsetsu* (novela/s)
+- `が` *ga* (indica el objeto de un adjetivo): el *o* se usa para verbos
+- `好き` *suki* {ski} (gustar o agradar, adjetivo)
+- `へえ` *hê* (oye, ajá)
+- `新しい` *atarashii* (nuevo/a, adj): modifica a lo que viene a continuacion
+- `本屋` *hon-ya* (libreria)
+- `が` *ga*: indica el sujeto *atarashii hon-ya* (una nueva libreria)
+- `` *dekimashita* (inaugurado): tiempo pasado de *dekimasu* (hacerse realidad o inaugurarse)
+- `よ` *yo* {io}: es una particula enfatica, se agrega al comunicar al interlocutor algo que aun no sabe
+- `みんな` *minna* (todos)
+- `で` *de* (juntos): indica el medio o manera de hacer algo, un margen o el lugar de una accion
+- `行きません か` *ikimasen ka* (por qué no vamos?)
+  - *ikimasen*: forma negativa de `いきます` *ikimasu* (ir), al agregarle *ka* invita al interlocutor a hacer algo. Ejemplo: *tabemasen ka* (por que no comemos?)
+
+### Gramática
+#### `A は B が 好き です` *A wa B ga suki desu* (a A le gusta B)
+SUKI es un adjetivo que significa "que gusta". GA es una partícula que indica el objeto de un adjetivo.
+Ej.) ANNA WA MANGA GA SUKI DESU. (A Anna le gustan los "manga").
+
+#### `ASVせん か` *masen ka* (Por qué no VAS)
+Se cambia el MASU de los verbos en forma MASU a MASEN KA para invitar a alguien.
+- MINNA DE HON-YA NI IKIMASU. (Vamos todos juntos a la librería.) 　
+- MINNA DE HON-YA NI IKIMASEN KA. (¿Por qué no vamos todos juntos a la librería?)
+
+### Profesora: Dos tipos de adjetivos
+Los adjetivos se dividen en dos tipos principales, 
+#### adjetivos I
+terminan en la sílaba `I`: `広い` *hiroi* (amplio), `新しい` *atarashii* (nuevo). Los adjetivos se colocan antes de los sustantivos que modifican.
+- `新しい本` *atarashii hon* (libro nuevo)
+
+**Excepcion**. Se agrega NA a:
+- `きれい` *kirei* (bonito, limpio)
+- `有名` *yûmei* (famoso)
+- `得意` *tokui* (hábil para hacer algo)
+- 
+#### adjetivos NA
+El resto, para modificar sustantivos con ellos hay que agregarles NA.
+- `好きな本` *sukina hon* (el libro que me gusta)
+- `きれいな 本` *kireina hon* (libro bonito)
