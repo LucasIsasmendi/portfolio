@@ -1,6 +1,10 @@
 # Hablemos en japonés: Lecciones de gramática
 https://www.nhk.or.jp/lesson/spanish/learn/list/
 
+**Lecciones**  
+[13. `小説が好きです`](#13-小説が好きです-shôsetsu-ga-suki-desu-me-gustan-las-novelas)  
+[14. `ここにゴミを捨ててもいいですか`](#14-ここにゴミを捨ててもいいですか)  
+
 ## Onomatopeyas
 El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen los animales hasta expresiones de sentimientos humanos. 
 - `ぽん` *pon* (el sonido que hace un pequeño tambor japonés, dar un golpecito a alguien en el hombro)
@@ -29,7 +33,8 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `ガヤガヤ` `がやがや` *gayagaya* (una multitud de gente hablando entre si)
 - `きらきら` *kirakira* (señala algo que esta brillando o centellando)
 - `ピカピカ` *pikapika* (describe algo que queda limpio y brillante despues de pulirlo)
-- `` ** ()
+- `パチパチ` *pachi pachi* (es el sonido de algo que se quema, tambien el sonido de aplaudir)
+- `めらめら` *mera mera* (describe llamas ardiendo con fuerza. Tambien expresa un fuerte sentimiento de celos, o que uno esta lleno de espiritu de lucha)
 - `` ** ()
 - `` ** ()
 - `` ** ()
@@ -379,3 +384,38 @@ terminan en la sílaba `I`: `広い` *hiroi* (amplio), `新しい` *atarashii* (
 El resto, para modificar sustantivos con ellos hay que agregarles NA.
 - `好きな本` *sukina hon* (el libro que me gusta)
 - `きれいな 本` *kireina hon* (libro bonito)
+
+## 14. `ここにゴミを捨ててもいいですか` 
+**KOKO NI GOMI O SUTETE MO IIDESU KA (¿Puedo tirar la basura aquí?)**
+
+### Explicacion audio
+- `お母さん` *okâsan* (madre): para los estudiantes extranjeros, la de la residencia es como su madre en japon. Padre se dice `お父さん` *otâsan*
+- `に` *ni* (lugar)
+- `ゴミ` *gomi* (basura)
+- `捨てて` *sutete* {stete}(tirar): es la forma TE del verbo *sutemasu*, tirar o desechar
+- `もいいです` *mo ii desu* (): pidiendo permiso para hacer algo. Ej: *yonde mo ii desu ka*(puedo leer?)
+  - `いい` *ii* (bueno o bien)
+- `そうねえ` *sônê* (a ver...): cuando estamos pensado en como contestar una pregunta. Suelen usarla las mujeres.
+- `缶` *kan* (lata/s)
+- *betsu no fukuro* (otra bolsa)
+  - `別` *betsu* (otro/a)
+  - `袋` *fukuro* {fkuro} (bolsa)
+- `に` *ni* (indica el punto final de una acción)
+- `入れて` *irete* (meter): forma TE del verbo *iremasu*(meter/poner). Al agregarle *kusadai*, la frase se convierte en una solicitud. *irete kudasai* (mete o meta)
+- `資源` *shigen* (recursos o recursos reciclables): en japon tambien hay que separar entre basura combustible ** y no combustible **
+- `から` *kara* (indica el porque o la razon de algo)
+- `分かりました` *wakarimashita* {_shta} (entendido): es el pasado de *wakarimasu*(entender). es muy comun cuando nos han enseñado algo o regañado
+
+### Gramática: KARA
+KARA indica la razón o el porqué de algo.
+
+### Profesora: Verbo en forma TE + MO II DESU KA
+Si se dice la forma TE de un verbo seguida de MO IIDESU significa que se ha dado permiso para hacer algo; para llevar a cabo la acción indicada por el verbo.
+- ``*tabete mo ii desu* (puede comer, tiene permiso para comer)
+
+Para pedir permiso, se agrega KA al final de esta oración y se pronuncia en tono ascendente.
+- ``*tabete mo ii desu* (¿puedo comer?)
+- *iidesu ka* (¿puedo?)
+- *kono ringo o tabete mo ii desu ka* (¿puedo comer esta manzana?)
+
+Si el interlocutor nos da permiso, dirá *dôzo*, "adelante" o "sírvete". 
