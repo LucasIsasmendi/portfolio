@@ -10,8 +10,39 @@ It’s important to always practice tricky transitions slowly, holding out the s
 - 3-sound examples: street[stɹit], spring[spɹɪŋ], splash[splæʃ], square[skwεəɹ]
 
 #### [a6.1 - Beginning Clusters](engl.io/at1)
-- Initial two-sound consonant clusters: bl, bɹ, dw, dɹ, kl, kɹ, kw, fl, fɹ, gl, gɹ, pl, pɹ, sf, sk, sl, sm, sn, sp, st, sw, ʃɹ, tɹ, tw, θɹ
-- Initial three-sound consonant clusters: stɹ, spɹ, skɹ, spl, skw
+**Initial two-sound consonant clusters:** bl, bɹ, dw, dɹ, kl, kɹ, kw, fl, fɹ, gl, gɹ, pl, pɹ, sf, sk, sl, sm, sn, sp, st, sw, ʃɹ, tɹ, tw, θɹ
+- [bl] blow [bloʊ]
+- [bɹ] break [bɹeɪk]
+- [dw] dwell [dwεl]
+- [dɹ] drip [dɹɪp]
+- [kl] clean [klin]
+- [kɹ] crib [kɹɪb], Christmas [ˈkɹɪs mәs] 
+- [kw] quick [kwɪk]
+- [fl] flow [floʊ]
+- [fɹ] friend [fɹεnd], phrase [fɹeɪz]
+- [gl] glass [glæs]
+- [gɹ] great [gɹeɪt]
+- [pl] please [pliz]
+- [pɹ] price [pɹaɪs]
+- [sf] sphere [sfɪәɹ]
+- [sk] ski [ski], score [skɔɹ], school [skul], square [skwεәɹ]
+- [sl] slip [slɪp]
+- [sm] smell [smεl]
+- [sn] snow [snoʊ]
+- [sp] speak [spik]
+- [st] stem [stεm]
+- [sw] swift [swɪft]
+- [ʃɹ] shred [ʃɹεd]
+- [tɹ] tree [tɹi]
+- [tw] twin [twɪn]
+- [θɹ] three [θɹi]
+  
+**Initial three-sound consonant clusters:** stɹ, spɹ, skɹ, spl, skw
+- [stɹ] street [stɹit] 
+- [spɹ] spring [spɹɪŋ]
+- [skɹ] scream [skɹim]
+- [spl] splash [splæʃ]
+- [skw] square [skwεәɹ]
 
 ### Focus: R-Clusters
 When you begin working with the R-clusters, hold out the R in the word as you practice. That will give you time to adjust if necessary, and feel the right position. Practice holding it out while you slowly count to three in your head. Remember, if you can’t do it right slowly, you won’t be able to do it right quickly. Slow it down until it’s right; give yourself time to prefect the tongue movement and lip rounding.
@@ -42,13 +73,16 @@ SDR instead STR because DR are voiced, so when speaking fast, instead of unvoice
 
 #### [a6.2 - R Clusters](engl.io/atc)
 It helps, when working with the R sound and R clusters, to hold out the sound. Hold the R sound for several seconds.
-brag [bɹæg], credit[ˈkɹεd-ɪt|], problem[ˈpɹɑb-lәm], free[fɹi]
+- brag [bɹæg]
+- credit[ˈkɹεd-ɪt|]
+- problem[ˈpɹɑb-lәm]
+- free[fɹi]
 
 ### Focus: Voiced or Unvoiced Consonants?
 In consonant clusters where the second sound is unvoiced (speak [spik]), it’s ok for it to sound a little voiced(‘sbeak’). That’s because the ‘voice’ of the next sound is blending with that consonant. Keep that sound light. If you make a clear, strong B sound, instead of P, then it won’t sound right. This concept is discussed in the second half of the video above, TR sounding like CHR.
 
 ### Focus: [kw] Cluster
-Just like with the R-clusters, you really have to round your lips for the second sound of this beginning consonant cluster. Some students skip this step, and words like ‘quick’ [kwɪk] end up sounding like ‘kick’ [kɪk]. The tongue tip does not need to move between these two sounds, so you only have to focus on rounding the lips. Exception: it’s ok to drop the [w] sound in ‘quarter’ [ˈkwɔɹ dəәɹ] so it sounds like [ˈkɔɹ dəәɹ]. Most Americans do!
+Just like with the R-clusters, you really have to round your lips for the second sound of this beginning consonant cluster. Some students skip this step, and words like ‘quick’ [kwɪk] end up sounding like ‘kick’ [kɪk]. The tongue tip does not need to move between these two sounds, so you only have to focus on rounding the lips. Exception: it’s ok to drop the [w] sound in ‘quarter’ [ˈkwɔɹ dәɹ] so it sounds like [ˈkɔɹ dәɹ]. Most Americans do!
 
 #### [V6.5 - How to Make the [kw] Cluster](engl.io/atf)
 For QU[kw] sound, The key is in the lip position. When I say the word ‘quick’, my lips have already rounded before my vocal cords even release the air for the kk sound.
@@ -137,10 +171,10 @@ When the T and D sounds come between two other consonant sounds, many Americans 
 - [nz] — lens [lεnz]
 - [nzm] — transmission [tɹænsˈmɪʃ-әn]
 - [ŋk] — pink [pɪŋk]
-- [ŋgl] — English [ˈɪŋ glɪʃ]
+- [ŋgl] — English [ˈɪŋ-glɪʃ]
 - [ŋθ] — length [lεŋθ]
 - [ɹb] — yearbook [ˈjɪәɹˌbʊk]
-- [ɹʧ] — fortune [ˈfɔɹ ʧәn]
+- [ɹʧ] — fortune [ˈfɔɹ-ʧәn]
 - [ps] — snaps [snæps]
 - [pθ] — depth [dεpθ]
 - [ɹθ] — birth [bɜɹθ]
@@ -158,10 +192,34 @@ When is the ‘s’ pronounced [s] and when [z]? Remember that all vowels and di
 
 We’re talking about final sounds, not final letters. What’s important is that the word ‘tube’ [tub], ends in the consonant sound [b], not the vowel letter ‘e’.
 
-final sound -> plural pronunciation
-- `voiced` -> `s[z]` : cube+s[kjubz], bed+s[bεdz], egg+s[εgz], executive+s[ɪgˈzεk-jә-dɪvz], bomb+s[bɑmz], son+s[sʌnz], song+s[sɔŋz], pill+s[pɪlz], flower+s[ˈflaʊ-әɹz], lathe+s[leɪðz]
-- `unvoiced` -> `s[s]`: tip+s[tɪps], bit+s[bɪts], trick+s[tɹɪks],  roof+s*[ɹufs], month+s[mʌnθs]
-- `special cases` -> `s or es = [ɪz]`: glass+es[ˈglæs-ɪz], size+s [ˈsaɪz-ɪz], wish+es[ˈwɪʃ-ɪz], garage+s[gәˈɹɑʒ-ɪz], match+es[ˈmæʧ-ɪz], page+s[peɪ-ʤɪz]
+**final sound -> plural pronunciation**  
+**`voiced` -> `s[z]`:** 
+- [b] cube+s[kjubz]
+- [d] bed+s[bεdz]
+- [g] egg+s[εgz]
+- [v] executive+s[ɪgˈzεk-jә-dɪvz]
+- [m] bomb+s[bɑmz]
+- [n] son+s[sʌnz]
+- [ŋ] song+s[sɔŋz]
+- [l] pill+s[pɪlz]
+- [ɹ] flower+s[ˈflaʊ-әɹz]
+- [ð] lathe+s[leɪðz]
+
+**`unvoiced` -> `s[s]`:**
+- [p] tip+s[tɪps]
+- [t] bit+s[bɪts]
+- [k] trick+s[tɹɪks]
+- [f] roof+s*[ɹufs]
+- [θ] month+s[mʌnθs]
+
+**`special cases` -> `s or es = [ɪz]`:**
+- [s] glass+es[ˈglæs-ɪz]
+- [z] size+s [ˈsaɪz-ɪz]
+- [ʃ] wish+es[ˈwɪʃ-ɪz]
+- [ʒ] garage+s[gәˈɹɑʒ-ɪz]
+- [ʧ] match+es[ˈmæʧ-ɪz]
+- [dʒ] page+s[peɪ-ʤɪz]
+
 - `*` Note: Plurals of words that end in -f or -fe usually change: drop the -f or -fe, add -ves. Example: leaf[lif] — leaves[livz].
 - [ɪz] syllable is always unstressed, so make it very short.
 
@@ -186,14 +244,38 @@ Examples: age+s[ˈeɪʤ-ɪz](3), time+s[taɪmz], box+es[ˈbɑks-ɪz](3), dog+s[d
 Remember these rules are for regular plural nouns, where you add -s or -es. There are, of course, some irregular nouns that do their own thing. For example: child->children,  man->men, moose->moose, nucleus->nuclei, mouse->mice
 
 #### Test - na6.1 — How is the Plural Ending Pronounced?
-9/10 (page 142 - answers 263)\
-check plough
+Scores (Q: p142 - A: p263)
+1. 9/10 - check plough
+
 
 #### Regular -ed Endings
-If the final sound is...Then the regular -ed ending is...:
-- voiced -> [d]: [b] [g] [v] [m] [n] [ŋ] [l] [ɹ] [ð] [z] [dʒ] [ʒ]
-- Unvoiced -> [t]: [p] [k] [f] [s] [ʧ] [ʃ] [θ]
-- Special cases -> [ɪd]: [t] [d]
+**final sound -> regular -ed ending**  
+**Voiced -> d or ed = [d]**:
+- [b] rob (+ b) + ed [ɹɑbd]
+- [g] wrong + ed [ɹɔŋd]
+- [v] love + d [lʌvd]
+- [m] claim + ed [kleɪmd]
+- [n] lean + ed [lind]
+- [ŋ] long + ed [lɔŋd]
+- [l] stumble + d [ˈstʌm-bәld]
+- [ɹ] dare + d [dεәɹd]
+- [ð] bathe + d [beɪðd]
+- [z] gaze + d [geɪzd]
+- [dʒ] manage + d [ˈmæn-ɪʤd] 
+- [ʒ] camouflage + d [ˈkæm-әˌflɑʒd]
+
+**Unvoiced -> ed = [t]**
+- [p] camp + ed [kæmpt]
+- [k] pick + ed [pɪkt]
+- [f] sniff + ed [snɪft]
+- [s] miss + ed [mɪst]
+- [ʧ] snatch + ed [snæʧt]
+- [ʃ] wash + ed [wɑʃt]
+- [θ] sleuth + ed [sluθt]
+
+**Special cases -> ed = [ɪd]**: 
+- [t] hunt + ed [ˈhʌn-tɪd]
+- [d] land + ed [ˈlæn-dɪd]
 
 #### [V6.13 — How to Pronounce -ed Endings](engl.io/au4)
 - **Case 1**: Unvoiced coonsonant ending. -ed[t]: pack->packed[pækt]
