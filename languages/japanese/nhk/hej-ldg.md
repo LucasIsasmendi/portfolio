@@ -4,6 +4,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 **Lecciones**  
 [13. `小説が好きです`](#13-小説が好きです-shôsetsu-ga-suki-desu-me-gustan-las-novelas)  
 [14. `ここにゴミを捨ててもいいですか`](#14-ここにゴミを捨ててもいいですか)  
+[15. `寝ています`](#15-寝ています)  
 
 ## Onomatopeyas
 El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen los animales hasta expresiones de sentimientos humanos. 
@@ -35,7 +36,8 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `ピカピカ` *pikapika* (describe algo que queda limpio y brillante despues de pulirlo)
 - `パチパチ` *pachi pachi* (es el sonido de algo que se quema, tambien el sonido de aplaudir)
 - `めらめら` *mera mera* (describe llamas ardiendo con fuerza. Tambien expresa un fuerte sentimiento de celos, o que uno esta lleno de espiritu de lucha)
-- `` ** ()
+- `ぐうぐう` *gûgû*: es el sonido del ronquido y también describe a alguien que duerme profundamente
+- `すやすや` *suyasuya*: bebe o niño pequeño que duerme placidamente
 - `` ** ()
 - `` ** ()
 
@@ -419,3 +421,52 @@ Para pedir permiso, se agrega KA al final de esta oración y se pronuncia en ton
 - *kono ringo o tabete mo ii desu ka* (¿puedo comer esta manzana?)
 
 Si el interlocutor nos da permiso, dirá *dôzo*, "adelante" o "sírvete". 
+
+## 15. `寝ています`
+**NETE IMASU {imas}(Están durmiendo)**
+
+### Explicacion audio
+- `次` *tsugi* {sugi} (siguiente)
+- `新宿駅` *shinjuku eki* {shinyuku} (estación de shinjuku)
+  - `駅` *eki* (estación de tren)
+- `さあ` *sâ* (bueno): se usa para invitar o instar a alguien a hacer algo
+- `降りましょう` *orimashô* (bajemos): bajarse es *orimasu*. Ver gramática
+- `あれ` *are* (vaya): es una exclamacion que indica sorpresa o sospecha
+- `あの人たち` *ano hito tachi* (aquellas personas)
+  - `あの` *ano* (aquella)
+  - `人たち` *hito tachi* (personas o gente): es el plural de `人`*hito* (persona)
+  - `たち` *tachi*: se agrega para formar el plural de sustantivos o pronombres que indican una persona *watashi* (yo) + *tachi* = (nosotros)
+AUDIO 4:04
+- `寝ています` *nete imasu* (están durmiendo): Ver gramática
+- `大丈夫かな` *daijôbu kana* (¿Estarán bien?): expresa su preocupacion en forma de pregunta
+  - `大丈夫` *daijôbu* (bien o libre de problemas)
+  - `かな` *kana*: particula para preguntarse algo a si mismo
+- `ほら` *hora* (mira): expresion para llamar la atencion del interlocutor
+- `起きた` *okita* (despertaron) es la forma TA del verbo *okimasu* (despertarse). Es una manera informal de decir *okimasuta*
+
+### Gramática
+#### MASHÔ
+Cambiando la parte MASU de un verbo a MASHÔ, se obtiene una propuesta. Esta expresión solo puede usarse cuando estamos seguros de que la otra persona estará de acuerdo. De lo contrario puede sonar prepotente.
+Ej.)
+KOKO DE ORIMASU. (Bajamos aquí.)
+>> KOKO DE ORIMASHÔ. (Bajemos aquí.)
+
+Para preguntar al interlocutor si acepta lo que estamos proponiendo, se puede decir MASEN  KA en vez de MASHÔ. Vea la Lección 13.
+*ikimasen ka* (porque no vamos juntos) es una manera cortes de hacer una propuesta
+
+#### Verbo en forma TE + IMASU
+Agregando IMASU a un verbo en forma TE, se obtiene el gerundio: una accion o condicion continua en el tiempo.
+- WATASHI WA GOHAN O TABEMASU (Como arroz)
+- WATASHI WA GOHAN O TABETE IMASU (Estoy comiendo arroz)
+
+### Profesora: Forma negativa de los adjetivos
+chequear leccion 13
+#### adjetivos I
+Para cambiar los adjetivos I a la forma negativa se reemplaza I por KUNAI
+- ATARASHII "nuevo" es ATARASHIKUNAI, "no nuevo".
+
+#### adjetivos NA
+Para convertir los adjetivos NA en la forma negativa, se les agrega DEWANAI.
+- DAIJÔBU "bien" es DAIJÔBU DEWANAI "no bien".
+
+Para dar a la expresión un tono más informal se reemplaza DEWANAI por JANAI, y se dice DAIJÔBU JANAI.
