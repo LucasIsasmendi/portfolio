@@ -5,6 +5,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [13. `小説が好きです`](#13-小説が好きです-shôsetsu-ga-suki-desu-me-gustan-las-novelas)  
 [14. `ここにゴミを捨ててもいいですか`](#14-ここにゴミを捨ててもいいですか)  
 [15. `寝ています`](#15-寝ています)  
+[16. `階段を上がって右に行ってください`](#16-階段を上がって右に行ってください)
 
 ## Onomatopeyas
 El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen los animales hasta expresiones de sentimientos humanos. 
@@ -38,6 +39,8 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `めらめら` *mera mera* (describe llamas ardiendo con fuerza. Tambien expresa un fuerte sentimiento de celos, o que uno esta lleno de espiritu de lucha)
 - `ぐうぐう` *gûgû*: es el sonido del ronquido y también describe a alguien que duerme profundamente
 - `すやすや` *suyasuya*: bebe o niño pequeño que duerme placidamente
+- `トントン` *tonton* (sonido de alguien que sube las escaleras, llamar a la puerta o picar algo en la tabla para cocinar)
+- `` ** ()
 - `` ** ()
 - `` ** ()
 
@@ -470,3 +473,45 @@ Para convertir los adjetivos NA en la forma negativa, se les agrega DEWANAI.
 - DAIJÔBU "bien" es DAIJÔBU DEWANAI "no bien".
 
 Para dar a la expresión un tono más informal se reemplaza DEWANAI por JANAI, y se dice DAIJÔBU JANAI.
+
+## 16. `階段を上がって、右に行ってください`
+**KAIDAN O AGATTE, MIGI NI ITTE KUDASAI (Suba la escalera y vaya a la derecha)**
+
+### Explicacion audio
+- `いらっしゃいませ` *irasshaimase* {contener la respiracion entre ira y ssha}(bienvenidos): es una expresión que se usa para recibir a los clientes. No hace falta responder.
+- `あのう` *anô* (perdón) se usa para dirigirse a alguien
+- `マンガ売り場` *manga uriba* (sección manga)
+  - `マンガ` *manga* (comics)
+  - `売り場` *uriba* (sección o lugar de venta)
+- `はどこですか` *wa doko desu ka* (dónde está?) // leccion 3
+- `２階` *nikai* (segundo piso): *no*(dos) *kai*(piso). En japon el primer piso es la planta baja
+- `階段` *kaidan* (escalera)
+- `上がって` *agatte* (suba) forma TE del verbo *agarimasu*(subir) // ver gramatica
+- `右` *migi* (derecha) / `左` *hidari* (izquierda)
+- `に` *ni*: en este caso indica dirección
+- `行って` *itte* (vaya) forma TE del verbo *ikimasu*(ir)
+  - agergando *kudasai* a la forma TE, se convierte en una solicitud
+- es posible describir en una oracion 2 acciones, subir la escalera y despues ir a la derecha, unidas por *agatte*
+- `` ** ()
+- `` ** ()
+- `` ** ()
+
+como se dice subo hasta el 5 piso y voy a la izquierda?
+5 piso es *gokai*
+mia: *agatte gokai hidari ni itte*
+rta: *gokai ni agatte hidari ni ikimasu*
+
+### Gramática: Los verbos en forma TE conectan oraciones entre sí.
+Usando los verbos en forma TE se puede describir un número de acciones consecutivas.
+KAIDAN O AGARIMASU. (Suba la escalera.) + MIGI NI ITTE KUDASAI. (Vaya a la derecha.) = KAIDAN O AGATTE, MIGI NI ITTE KUDASAI. (Suba la escalera y vaya a la derecha.)
+
+### Profesora: Cómo usar la partícula NI
+Si el verbo en el predicado de una oración expresa la existencia de algo, como IMASU, "ser" o "estar", NI indica el **lugar donde se encuentra el sujeto**. Por ejemplo, "estoy en la estación" se dice WATASHI WA EKI NI IMASU.
+
+Si el verbo expresa un **movimiento o un cambio**, como IKIMASU, "ir", NI indica el punto en que termina la acción. Por ejemplo, "voy a la estación" es WATASHI WA EKI NI IKIMASU.
+
+La partícula NI también indica un **punto específico en el tiempo**, como una fecha o una hora. Supongan, por ejemplo, que queremos decir "Anna viene a las diez". "Las diez horas" se dice JÛJI. "Venir" es KIMASU. De modo que la frase es ANNA WA JÛJI NI KIMASU.
+
+Ahora bien, no se puede usar NI con expresiones tales como "mañana" o "la semana que viene", porque las fechas a que se refieren cambian según cuándo se esté hablando. ¿Cómo se dice entonces "Anna vendrá mañana"? Bueno, "mañana" es ASHITA, así que la frase es ANNA WA ASHITA KIMASU. No puede decirse ANNA WA ASHITA NI KIMASU.
+
+La partícula NI también tiene otras funciones. Iremos aprendiéndolas a medida que aparezcan en las lecciones.
