@@ -57,3 +57,4 @@
 - rattlesnake[ˈɹæd-әlˌsneɪk]: a poisonous snake found in southern parts of the US that, when annoyed, produces a loud noise by shaking its tail. serpiente de cascabel
 - raincheck[ˈɹeɪnˌʧεk]: a ticket that allows you to see an event at a later time if bad weather stops that event from happening
 - underdog[ˈʌn-dәɹˌdɔg]: a person or group of people with less power, money, etc. than the rest of society
+- dove[dʌv]: -economics- someone who believes that the government should not take strong action in controlling inflation, the national budget, etc.

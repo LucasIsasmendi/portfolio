@@ -1,10 +1,21 @@
-# AEP > 7. Rhythm and Intonation: Multi-Syllable Words
+# AEP > Rhythm and Intonation
+# 7. Rhythm and Intonation: Multi-Syllable Words
 As you start to practice your pronunciation on longer words and sentences, it’s important to keep in mind the idea of intonation and flow. The pitch of an unstressed syllable should flow into the stressed syllable, and vice versa.
 
 Smooth and connected.
 Some languages are angular, but English is not. Think instead of softness. The voice is always moving up or down, never flat.
 
 - `*` are part of the Word of the Week series. This means there is a video that goes over, in depth
+
+- [Three-Syllable Words](#three-syllable-words)
+- [Two-Syllable Words](#two-syllable-words)
+- [Suffixes](#suffixes)
+- [Compound Words](#compound-words)
+- [Initials](#initials)
+
+**Tips**:
+- DA is longer
+- da is shorter
 
 ## Three-Syllable Words
 Let’s start with three-syllable words. As you already know, multi-syllable words in English can only have one syllable that has primary stress. That means we have three options for stress: DA-da-da, da-DA-da, da-da-DA.
@@ -37,40 +48,81 @@ As you learn new worlds, learn stress patterns to.
 5. comfortable [ˈkʌmf-dәɹ-bәl]
 
 ### Table
-1. `da-da-DA or Da-da-DA`: absolute[ˌæb-sәˈlut], eighty-one[ˌeɪ-diˈwʌn], everyday[ˌɜv-riˈdeɪ], fianceé[ˌfi-ɑnˈseɪ], overcook[ˌoʊv-әɹˈkʊk], overflow (v.)[ˌoʊv-әɹˈfloʊ], recommend[ˌɹɛk-əˈmɛnd], referee[ˌɹɛf-әˈɹi], thirty-nine[ˌθɜɹ-diˈnaɪn], understand[ˌʌn-dәɹˈstænd], volunteer[ˌvɑl-әnˈtɪɹ]
-2. `da-DA-da`: burrito*[bәˈɹi-doʊ], computer[kəmˈpju-dәɹ], December[dɪˈsɛm-bәɹ], imagine[ɪˈmæ-ʒɪn], important[ɪmˈpɔɹt│-әnt│], November[noʊˈvɛm-bәɹ], October[ɑkˈtoʊ-bәɹ], procedure*[pɹəˈsi-dʒәɹ], September[sɛpˈtɛm-bәɹ], tomorrow*[tәˈmɑɹ-oʊ], vacation*[veɪˈkeɪ-ʃәn]
-3. `DA-da-da`: beautiful*[ˈbju-dɪ-fәl], comfortable*[ˈkʌmf-dәɹ-bәl], definite[ˈdɛ-fɪ-nɪt│], general[ˈdʒɛn-әɹ-әl], graduate*[ˈgɹæ-dʒu-ɪt│], interview*[ˈɪn-tәɹ-vju], neighborhood[ˈneɪ-bәɹ-ˌhʊd], president[ˈpɹɛ-zɪ-dənt│], privacy[ˈpɹaɪ-vә-si], probably*[ˈpɹɑ-bә-bli], yesterday*[ˈjɛs-tәɹ-ˈdeɪ]
+#### `3rd syllable -> da-da-DA or Da-da-DA`: 
+- absolute[ˌæb-sәˈlut]
+- eighty-one[ˌeɪ-diˈwʌn]
+- everyday[ˌɜv-riˈdeɪ]
+- fianceé[ˌfi-ɑnˈseɪ]
+- overcook[ˌoʊv-әɹˈkʊk]
+- overflow (v.)[ˌoʊv-әɹˈfloʊ]
+- recommend[ˌɹɛk-əˈmɛnd]
+- referee[ˌɹɛf-әˈɹi]
+- thirty-nine[ˌθɜɹ-diˈnaɪn]
+- understand[ˌʌn-dәɹˈstænd]
+- volunteer[ˌvɑl-әnˈtɪɹ]
+
+#### `2nd syllable -> da-DA-da`: 
+- burrito*[bәˈɹi-doʊ]
+- computer[kəmˈpju-dәɹ]
+- December[dɪˈsɛm-bәɹ]
+- imagine[ɪˈmæ-ʒɪn]
+- important[ɪmˈpɔɹt│-әnt│]
+- November[noʊˈvɛm-bәɹ]
+- October[ɑkˈtoʊ-bәɹ]
+- procedure*[pɹəˈsi-dʒәɹ]
+- September[sɛpˈtɛm-bәɹ]
+- tomorrow*[tәˈmɑɹ-oʊ]
+- vacation*[veɪˈkeɪ-ʃәn]
+
+#### `1st syllable -> DA-da-da`: 
+- beautiful*[ˈbju-dɪ-fәl]
+- comfortable*[ˈkʌmf-dәɹ-bәl]
+- definite[ˈdɛ-fɪ-nɪt│]
+- general[ˈdʒɛn-әɹ-әl]
+- graduate*[ˈgɹæ-dʒu-ɪt│]
+- interview*[ˈɪn-tәɹ-vju]
+- neighborhood[ˈneɪ-bәɹ-ˌhʊd]
+- president[ˈpɹɛ-zɪ-dənt│]
+- privacy[ˈpɹaɪ-vә-si]
+- probably*[ˈpɹɑ-bә-bli]
+- yesterday*[ˈjɛs-tәɹ-ˈdeɪ]
         
-- How short can you make the short syllables? How simple? Remember, the more relaxed your mouth and neck are, the more easily and quickly you can make these unstressed syllables.
-- Practicing the unstressed syllables on their own, like in `A7.1`, is valuable.
+> How short can you make the short syllables? How simple? Remember, the more relaxed your mouth and neck are, the more easily and quickly you can make these unstressed syllables.
+
+> Practicing the unstressed syllables on their own, like in `A7.1`, is valuable.
 
 ### [A7.2 — 3-Syllable Words Test](engl.io/av8)
-8/10 (page 149 - answers 264)\
-check rectangle, magazine?
+Scores (Q: p149 - A: p264)
+1. 8/10 - check rectangle, magazine?
+2. 8/10 - check rectangle, magazine
 
 ## Two-Syllable Words
-Most two-syllable nouns and adjectives will have stress on the `first syllable`: 
+Most two-syllable **nouns and adjectives** will have stress on the `first syllable`: 
 - `Nouns`: present[ˈpɹɛ-zәnt│], coffee*[ˈkɔ-fi], money[ˈmʌ-ni], Google*[ˈgu-gәl]
 - `Adjectives`: present[ˈpɹɛ-zənt│], sorry*[ˈsɔɹ-i], funny[ˈfʌ-ni], awkward[ˈɔk-wəɹd]
 
-Most two-syllable verbs will have stress on the `last syllable`:
+Most two-syllable **verbs** will have stress on the `last syllable`:
 - `Verbs`: present[pɹɪˈzɛnt], decide[dɪˈsaɪd], arrange[әˈɹeɪndʒ], divide[dɪˈvaɪd]
 
 There are words that can be a noun, verb, and sometimes an adjective too! Stress helps determine which meaning is correct.
-- address: noun[ˈæ-dɹɛs], verb[əˈdrɛs]
-- produce: noun[ˈpɹoʊ-dus], verb[pɹəˈdus]
-- object: noun[ˈɑb-dʒɛkt], verb[əbˈdʒɛkt]
-- record: noun[ˈɹɛk-әɹd], verb[ɹɪˈkɔɹd]
-- perfect: noun[ˈpɜɹ-fɪkt], verb[pəɹˈfɛkt]
-- project: noun[ˈpɹɑdʒ-ɛkt], verb[pɹәˈdʒɛkt]
+- address: noun[ˈæ-dɹɛs] | verb[əˈdrɛs]
+- produce: noun[ˈpɹoʊ-dus] | verb[pɹəˈdus]
+- object: noun[ˈɑb-dʒɛkt]| verb[əbˈdʒɛkt]
+- record: noun[ˈɹɛk-әɹd] | verb[ɹɪˈkɔɹd]
+- perfect: noun[ˈpɜɹ-fɪkt] | verb[pəɹˈfɛkt]
+- project: noun[ˈpɹɑdʒ-ɛkt] | verb[pɹәˈdʒɛkt]
 
 This is not limited to two-syllable words.
-- overflow: noun[ˈoʊv-әɹˌfloʊ], verb[ˌoʊv-əɹˈfloʊ]
-
-These are **heteronyms**. Heteronyms are words that are spelled the same, but have different meanings and pronunciations.
+- overflow: noun[ˈoʊv-әɹˌfloʊ] | verb[ˌoʊv-əɹˈfloʊ]
 
 ### [V7.3 — Heteronyms](engl.io/ava)
-- dove, close, alternate, desert, lead, tear
+These are **heteronyms**. Heteronyms are words that are spelled the same, but have different meanings and pronunciations.
+- dove: noun[/dʌv/](bird, pigeon) | verb[/doʊv/](past simple of dive)
+- close: verb[/kloʊz/](shut something) | adj[/kloʊs/](opposite of far)
+- alternate: verb[/ˈɔl·tərˌneɪt/](go back and forth between two things) | noun[/ˈɔl·tər·nət/](person or a thing that is the second choice) | adj[/ˈɔl·tər·nət/](first one thing, then another thing, and then the first thing again)
+- desert: verb[/dɪˈzɜrt/](to leave) | noun[/ˈdez·ərt/](dry, arid region)
+- lead: verb[/liːd/](to guide) | noun[/led/](chemical element Pb, plomo)
+- tear: noun[/tɪr/](drop of salty liquid that flows from the eye) | verb[/teər/](to rip)
 
 ### [A7.3 — Verbs vs. Nouns](engl.io/avd)
 - present (noun - first syllable stress), present (verb - second syllable stress)
@@ -167,7 +219,7 @@ But what if the first or second word in the compound word has more than one syll
 The compound rule is stronger than the suffix rules above. 
 
 ### [V7.4 — How to Pronounce DOWNLOAD](engl.io/acf)
-This is a two-syllable word with stress on the first syllable.  `DA-da`. download[ˈdaʊnˌloʊd]. Start with D, then OW diphthong (p1: drop the jaw + p2: lips will circle), N (flat and relaxed), L (move the tongue), OH diphthong (p1: drop the jaw less + p2: lips will circle), D (native make it stop consonant, stop air)
+This is a two-syllable word with stress on the first syllable.  `DA-da`. download[ˈdaʊnˌloʊd]. Start with D, then OW diphthong (p1: drop the jaw + p2: lips will circle), N (flat and relaxed  to avoid nj sound), L (move the tongue), OH diphthong (p1: drop the jaw less + p2: lips will circle), D (native make it stop consonant, stop air)
 
 ### [A7.7 — Compound Words](engl.io/avp)
 - airport[ˈεəɹˌpɔɹt]
