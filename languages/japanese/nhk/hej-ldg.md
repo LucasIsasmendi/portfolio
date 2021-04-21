@@ -5,7 +5,8 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [13. `小説が好きです`](#13-小説が好きです-shôsetsu-ga-suki-desu-me-gustan-las-novelas)  
 [14. `ここにゴミを捨ててもいいですか`](#14-ここにゴミを捨ててもいいですか)  
 [15. `寝ています`](#15-寝ています)  
-[16. `階段を上がって右に行ってください`](#16-階段を上がって右に行ってください)
+[16. `階段を上がって右に行ってください`](#16-階段を上がって右に行ってください)  
+[17. `おすすめは何ですか`](#17-おすすめは何ですか)  
 
 ## Onomatopeyas
 El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen los animales hasta expresiones de sentimientos humanos. 
@@ -40,8 +41,8 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `ぐうぐう` *gûgû*: es el sonido del ronquido y también describe a alguien que duerme profundamente
 - `すやすや` *suyasuya*: bebe o niño pequeño que duerme placidamente
 - `トントン` *tonton* (sonido de alguien que sube las escaleras, llamar a la puerta o picar algo en la tabla para cocinar)
-- `` ** ()
-- `` ** ()
+- `しーん` `シーン` *shîn*: describe la ausencia de sonido. Una biblioteca. Dices chiste y nadie se rie
+- `ずらり` *zurari*: describe a una cantidad de personas u objetos en línea. Estanteria llena de libros
 - `` ** ()
 
 ## Palabras en Katakana
@@ -492,9 +493,6 @@ Para dar a la expresión un tono más informal se reemplaza DEWANAI por JANAI, y
 - `行って` *itte* (vaya) forma TE del verbo *ikimasu*(ir)
   - agergando *kudasai* a la forma TE, se convierte en una solicitud
 - es posible describir en una oracion 2 acciones, subir la escalera y despues ir a la derecha, unidas por *agatte*
-- `` ** ()
-- `` ** ()
-- `` ** ()
 
 como se dice subo hasta el 5 piso y voy a la izquierda?
 5 piso es *gokai*
@@ -515,3 +513,41 @@ La partícula NI también indica un **punto específico en el tiempo**, como una
 Ahora bien, no se puede usar NI con expresiones tales como "mañana" o "la semana que viene", porque las fechas a que se refieren cambian según cuándo se esté hablando. ¿Cómo se dice entonces "Anna vendrá mañana"? Bueno, "mañana" es ASHITA, así que la frase es ANNA WA ASHITA KIMASU. No puede decirse ANNA WA ASHITA NI KIMASU.
 
 La partícula NI también tiene otras funciones. Iremos aprendiéndolas a medida que aparezcan en las lecciones.
+
+## 17. `おすすめは何ですか`
+**OSUSUME WA NAN DESU KA (¿Cuál/Qué me recomiendas?)**
+
+### Explicacion audio
+- `あ` *a* (ah): exclamacion que expresa emocion o sorpresa leve
+- `この` *kono* (este)
+- `本` *hon* (libro)
+- `いいなあ` *ii nâ* (es bueno)
+  - `いい` *ii* (bueno)
+  - `なあ` *nâ* particula que se agrega al final de una frase para indicar que uno esta hablando consigo mismo
+- `あれ` *are* (aquel)
+- `も` *mo* (también)
+- `面白そう` *omoshirosô* (parece interesante). De `面白い` *omoshiroi*(interesante). SÔ indica que estamos juzgando algo por su aspecto
+- `おすすめ` *osusume* (recomendación)
+- `は何ですか` *wa nan desu ka* (cuál es?) // LECCION 2
+- `これはどう?` *kore wa dô?* (¿Qué tal este?): si al final de agrega *desu ka* suena mas formal
+  - `どう` *dô* () indicador para preguntar a la otra persona su opinion
+- `ホラー` *horâ* (horror) genero literario, proviene de la palabra inglesa horror
+- `ちょっと` *chotto* (un poco)
+- `` *wa chotto*: es una manera de negarse a algo indirectamente {aguantar la respiracion despues de *cho*}
+
+### Gramática:  WA CHOTTO
+Es una manera de negarse a algo de manera indirecta.
+Ej.) HORÂ WA CHOTTO... (Los de horror son un poco...)
+
+### Profesora: Adjetivo + SÔ
+Tal como en OMOSHIROSÔ (parece interesante), agregando SÔ después de un adjetivo (OMOSHIROI - interesante) es posible decir lo que pensamos de algo por su apariencia o por lo que hemos oído al respecto.
+
+#### `adjetivos I`
+Para aplicar la terminación SÔ, se cambia la sílaba I a SÔ. Por ejemplo, ISOGASHII, "ocupado" se convierte en ISOGASHISÔ, "parece ocupado".
+
+- Forma Negativa: se reemplaza I por KU NASASÔ. Por ejemplo, ISOGASHII, "ocupado" se convierte en ISOGASHIKU NASASÔ, "no parece ocupado".
+
+#### `adjetivos NA`
+En el caso de los adjetivos NA, simplemente se les agrega SÔ. Por ejemplo, HIMA "ocioso" se transforma en HIMASÔ, "parece ocioso" o "parece que no tiene nada que hacer".
+
+- Forma Negativa: se coloca DEWA NASASÔ detrás del adjetivo. Por ejemplo, HIMA, "ocioso" se transforma en HIMA DEWA NASASÔ, "no parece ocioso" o "no parece que le falten cosas que hacer".
