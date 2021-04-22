@@ -4,6 +4,11 @@ A general rule for linking is to link all the words together in the same thought
 Example: "And then I thought, how’s that going to work?", 2 groups separated by comma.
 
 There are three ways you can link words.
+- [1. Linking Vowel to Vowel](#1-linking-vowel-to-vowel)  
+- [2. Linking Consonant to Vowel](#2-linking-consonant-to-vowel)  
+- [3. Linking Consonant to Consonant](#3-linking-consonant-to-consonant)  
+- [Tests](#tests)
+
 ## 1. Linking Vowel to Vowel
 - my own [maɪ‿oʊn]
 - stay awhile [steɪ‿әˈwaɪl]
@@ -41,6 +46,8 @@ Examples:
 when a word ends in a vowel or diphthong + T, and the next word in the thought group begins with a vowel or diphthong, make the T a Flap T [d] and link the words: about it [ә‿ˈbaʊ‿dɪt│]
 
 ### [V8.2 — Linking Consonant to Vowel](engl.io/ax9)
+Taking the consonant from the end of one word and putting on the next word that begins with a vowel or diphthong, will make your speech sound much more connected, and much better linked.
+- What’s up? [wɒ‿tsʌp]
 - Ten hours a day [tɛ‿ˈnaʊ-əɹ‿zә-deɪ]
 - That's what I thought [ðæts_wʌ‿daɪ_θɔt|]
 - What is it? [wʌ‿dɪ‿zɪt|]
@@ -58,6 +65,7 @@ gonna, love it, what is, heard of, done it, can you, I'm, it's really, lemme, ma
 
 ### [V8.5 — Got it](engl.io/axf)
 got it: DA-da: [ˈgɑd‿ɪt|]
+- the flat T (d) the jar doesn't move, just the tongue tip
 
 ### [A8.3 — Linking Consonant to Vowel](engl.io/axh)
 - That’s what I thought: what I [wʌ‿daɪ]
@@ -69,8 +77,8 @@ This kind of linking is the hardest because some consonants don’t link well. J
 Remember: we’re talking about sounds and not letters.
 
 ### [V8.6 — Linking Consonant to Consonant](engl.io/axk)
-- same consonant: gas station[gæs‿steɪ-ʃən], some might[sʌm‿maɪt]
-- for stop consonants [t,d,p,b,k,g] it should do the stop: hot today[hɑt|_təˈdeɪ], peanut butter[ˈpi-nʌt|_ˈbʌ-dəɹ]
+- same consonant: gas station[gæs‿steɪ-ʃən] is not [gæs_steɪ-ʃən], some might[sʌm‿maɪt] is not [sʌm_maɪt]
+- for stop consonants [t,d,p,b,k,g] it should do the stop: hot today[hɑt|_təˈdeɪ], bad dog [bæd|_dɔg] peanut butter[ˈpi-nʌt|_ˈbʌ-dəɹ], flip phone[ˈflɪp|_foʊn]
 - all other cases, you’ll just need to: 
   1. isolate the two sounds in question
   2. practice separately
@@ -78,23 +86,25 @@ Remember: we’re talking about sounds and not letters.
   4. speed up
   5. Put back in context
 
-Example: It's a tough one [tʌf‿wʌn], 
+Example: 
+- It's a tough one [tʌf‿wʌn], in `f‿w` transition tongue does not move, only lips
+- On Rachel's desk [ɑn‿ˈɹeɪ-ʧəlz] lips (wide -> rounded) and tongue (up tip -> back) moves togheter
 
-Don't rush through it. Do the opposite! It will only become comfortable if you slow it down and understand the movement that needs to happen to move from one sound to the next.
+> Don't rush through it. Do the opposite! It will only become comfortable if you slow it down and understand the movement that needs to happen to move from one sound to the next.
 
 ### [V8.7 — Linking and the TH](engl.io/axm)
-- S with the TH: this thing[ðɪs‿θɪŋ]
-- Z with the voiced TH: was that[wʌz‿ðæt] (tongue tip doesn’t really come through the teeth for the TH)
-- stop T with the voiced TH: sit there[sɪt|‿ðɛəɹ] (make the stop while bringing the tongue tip through the teeth)
-- V sound with the voiced TH: of these[əv‿ðiz]
-- P with the voiced TH: hope the[hoʊp‿ðə]
-- unvoiced TH with ST: north star[nɔrθ‿stɑɹ]
-- unvoiced TH with F: with funny[wɪθ‿ˈfʌn-i]
-- unvoiced TH with W: both will[boʊθ‿wɪl]
-- unvoiced TH with K: health code[hɛlθ‿koʊd]
-- unvoiced TH with S: south side[saʊθ‿saɪd]
+- **S ‿ 🔇TH**: this thing[ðɪs‿θɪŋ] (tongue tip come through between teeths x2)
+- **Z ‿ 🔈TH**: was that[wʌz‿ðæt] {Teeth close for the Z sound, but tongue tip doesn’t really come through the teeth for the TH. So, the tongue tip will press behind where the teeth come together, but not actually come all the way through like it does straightforward for the unvoiced TH}
+- **T| ‿ 🔈TH**: sit there[sɪt|‿ðɛəɹ] {make the stop while bringing the tongue tip through the teeth}
+- **V🔈 ‿ 🔈TH**: of these[əv‿ðiz] {The bottom lip comes up making contact with the top teeth for the V sound, then the lip pulls down and the tongue comes through the teeth for the TH sound}
+- **P ‿ 🔈TH**: hope the[hoʊp‿ðə] {The lips come together to make the P, and as they part, the tongue tip comes through the teeth to make the TH}
+- **🔇TH ‿ ST**: north star[nɔrθ‿stɑɹ] {The tongue comes through the teeth, to make the TH. Then the tongue tip pulls back and touches just behind the bottom of the front teeth while the teeth close to make the S sound. Then the tongue tip will go up to the roof of the mouth to make the T}
+- **🔇TH ‿ F**: with funny[wɪθ‿ˈfʌn-i] {Tongue comes through the teeth for the TH, and the bottom lip raises to touch the bottom of the front top teeth for the F sound}
+- **🔇TH ‿ W**: both will[boʊθ‿wɪl] {Tongue comes through the teeth for the TH, then pulls back and the lips form the tight circle for the W while the tongue tip is just behind the bottom front teeth}
+- **🔇TH ‿ K**: health code[hɛlθ‿koʊd] {Tongue tip comes through the teeth for the TH. For the K, the tongue tip comes back in the mouth and goes down, touching behind the bottom front teeth. The back part of the tongue raises and touches the soft palate, which is why you see a dark space in the mouth}
+- **🔇TH ‿ S**: south side[saʊθ‿saɪd] {Tongue tip comes through the teeth for the TH. Then the tongue tip comes back into the mouth and lightly touches behind the bottom front teeth while the teeth close to make the S sound}
 
-Practice word pairs like the 10 here, or other word pairs, and do them slowly. And practice them over and over. Repetition really will help you become more comfortable linking with the TH sound.
+> Practice word pairs like the 10 here, or other word pairs, and do them slowly. And practice them over and over. Repetition really will help you become more comfortable linking with the TH sound.
 
 ### [V8.8 — Road Trip](engl.io/axp)
 How do stop consonants fit into linking? Even with the small pause, the flow of the voice can still move forward.
@@ -104,7 +114,9 @@ How do stop consonants fit into linking? Even with the small pause, the flow of 
 ### [V8.9 — What time?](engl.io/axr)
 what time? - da-DA: [wʌt|_taɪm]
 
-- m: lips come together
+- aɪ: drop the jar for the first half of that diphthong. For the second half of the diphthong, the tongue tip stays down but the front part stretches towards the roof of the mouth, so the jaw will close some
+- m: lips come together, avoid the nasal n
+- This is a question and you’ll notice that the voice goes down in pitch at the end. That’s because it’s not a yes/no question. Yes/no questions tend to go up in pitch at the end but other questions will go down.
 
 ### [A8.4 — Linking the Stop T to a Consonant](engl.io/axu)
 - It was raining: it was [ɪt│‿wəz]
@@ -112,11 +124,16 @@ what time? - da-DA: [wʌt|_taɪm]
 - Let me see that: let me [lεt│‿mi]
 - I got Dad a gift: got Dad [gɑt│‿dæd]
 
+## Tests
 ### na8.1 — Which kind of linking is it?
-10/10 (pagina167 - respuesta 265)
+Scores (Q: p167 - A: p265)
+1. 10/10
+2. 9/10 (check: `although I`)
 
 ### [A8.5 — Which Phrase is Linked?](engl.io/axw)
-5/5 (pagina167 - respuesta 265)
+Scores (Q: p167 - A: p265)
+1. 5/5
+2. 5/5
 
 ## Shortcuts
 - ʌ, ɑ, ɔ, æ, ɛ, i, ɪ, u, ʊ, ə, ɜ
