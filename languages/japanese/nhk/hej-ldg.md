@@ -7,6 +7,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [15. `寝ています`](#15-寝ています)  
 [16. `階段を上がって右に行ってください`](#16-階段を上がって右に行ってください)  
 [17. `おすすめは何ですか`](#17-おすすめは何ですか)  
+[18. `道に迷ってしまいました`](#18-道に迷ってしまいました)  
 
 ## Onomatopeyas
 El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen los animales hasta expresiones de sentimientos humanos. 
@@ -43,6 +44,9 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `トントン` *tonton* (sonido de alguien que sube las escaleras, llamar a la puerta o picar algo en la tabla para cocinar)
 - `しーん` `シーン` *shîn*: describe la ausencia de sonido. Una biblioteca. Dices chiste y nadie se rie
 - `ずらり` *zurari*: describe a una cantidad de personas u objetos en línea. Estanteria llena de libros
+- `おろおろ` *oro oro*: alguien que se ha dejado llevar por el pánico ante un hecho inesperado
+- `うろうろ` *uro uro*: una persona que se mueve de aquí para allá sin saber que hacer en una situación determinada
+- `` ** ()
 - `` ** ()
 
 ## Palabras en Katakana
@@ -551,3 +555,39 @@ Para aplicar la terminación SÔ, se cambia la sílaba I a SÔ. Por ejemplo, ISO
 En el caso de los adjetivos NA, simplemente se les agrega SÔ. Por ejemplo, HIMA "ocioso" se transforma en HIMASÔ, "parece ocioso" o "parece que no tiene nada que hacer".
 
 - Forma Negativa: se coloca DEWA NASASÔ detrás del adjetivo. Por ejemplo, HIMA, "ocioso" se transforma en HIMA DEWA NASASÔ, "no parece ocioso" o "no parece que le falten cosas que hacer".
+
+## 18. `道に迷ってしまいました`
+**MICHI NI MAYOTTE SHIMAIMASHITA (Me he perdido)**
+
+### Explicacion audio
+- `もしもし` *moshimoshi* (hola): para comenzar una conversacion telefonica
+- `助けてください` *tasukete kudasai* {taskete} (ayúdame)
+  - `助けて` *tasukete* (auxilio): forma TE de tasukemasu (ayudar)
+- `道に迷ってしまいました` *michi ni mayotte shimaimashita* (me he perdidio / he perdido el camino)
+  - `道` *michi* (camino)
+  - `に` *ni* (direccion de movimiento)
+  - `迷ってしまいました` *mayotte shimaimashita* (me he perdido) {maio -contener respiracion-te yimaimashta}
+    - `迷って` *mayotte*: forma te de mayoimasu (perderse)
+    - `しまいました` *shimaimashita*: hecho por descuido (ver gramatica)
+- `今、どこ?` *ima, doko?* (¿Dónde estás ahora?): pronunciarla en tono ascendente. Se trata de una manera abreviada e informal de decir *ima doko ni imasu ka*
+  - `今` *ima* (ahora)
+  - `どこ` *doko* (donde)
+- `目の前` *me no mae* (frente a mis ojos, frente a mi)
+  - `目` *me* (ojo/s)
+  - `前` *mae* (frente)
+- `郵便局` *yûbinkyoku* (oficina de correos)
+- `が` *ga*: particula que indica el sujeto
+- `あります` *arimasu* (estar o haber)
+- `分かった` *wakatta* (ya veo) es la forma TA del verbo wakarimasu (entender). La forma TA de los verbos se usa para expresar el tiempo pasado //**L#12**//
+- `そこにいて` *soko ni ite* (Quédate ahí)
+  - `そこ` *soko* (allí, ahí)
+  - `いて` *ite* (quedarse): es la forma TE del verbo *imasu*(estar). Se omite el kudasai porque es informal
+
+### Gramática: verbo en forma TE + SHIMAIMASHITA
+Se dice SHIMAIMASHITA tras la forma TE de un verbo para expresar que algo se ha hecho por descuido.
+- MACHIGAEMASU (equivocarse) -> MACHIGAETE SHIMAIMASHITA (me equivoqué)
+
+### Profesora: verbo en forma TE + SHIMAIMASHITA
+Agregando SHIMAIMASHITA a la forma TE de un verbo, se indica que la acción está terminada, de modo que no se puede volver a hacer ni regresar al estado anterior. Por eso a menudo se usa SHIMAIMASHITA cuando cometimos un error o nos arrepentimos de lo que hemos hecho.
+
+Supongamos, por ejemplo, que rompimos un plato. "Romper" es WARIMASU. En esta palabra, la sílaba anterior a MASU es RI. De modo que la forma TE es WATTE. Le agregamos SHIMAIMASHITA y obtenemos WATTE SHIMAIMASHITA, que significa "he roto un plato", con el matiz de que se debió a un descuido.
