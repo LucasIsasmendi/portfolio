@@ -8,6 +8,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [16. `階段を上がって右に行ってください`](#16-階段を上がって右に行ってください)  
 [17. `おすすめは何ですか`](#17-おすすめは何ですか)  
 [18. `道に迷ってしまいました`](#18-道に迷ってしまいました)  
+[19. `よかった`](#19-よかった)  
 
 ## Onomatopeyas
 El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen los animales hasta expresiones de sentimientos humanos. 
@@ -46,8 +47,8 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `ずらり` *zurari*: describe a una cantidad de personas u objetos en línea. Estanteria llena de libros
 - `おろおろ` *oro oro*: alguien que se ha dejado llevar por el pánico ante un hecho inesperado
 - `うろうろ` *uro uro*: una persona que se mueve de aquí para allá sin saber que hacer en una situación determinada
-- `` ** ()
-- `` ** ()
+- `` *kasha'*: el sonido que hace la cámara al sacar una foto
+- `パチリ` *pachiri*: describe no solo el sonido de la cámara, sino también el acto mismo de sacar la foto
 
 ## Palabras en Katakana
 - `ケーキ` *kêki* (pastel)
@@ -591,3 +592,60 @@ Se dice SHIMAIMASHITA tras la forma TE de un verbo para expresar que algo se ha 
 Agregando SHIMAIMASHITA a la forma TE de un verbo, se indica que la acción está terminada, de modo que no se puede volver a hacer ni regresar al estado anterior. Por eso a menudo se usa SHIMAIMASHITA cuando cometimos un error o nos arrepentimos de lo que hemos hecho.
 
 Supongamos, por ejemplo, que rompimos un plato. "Romper" es WARIMASU. En esta palabra, la sílaba anterior a MASU es RI. De modo que la forma TE es WATTE. Le agregamos SHIMAIMASHITA y obtenemos WATTE SHIMAIMASHITA, que significa "he roto un plato", con el matiz de que se debió a un descuido.
+
+## 19. `よかった`
+**YOKATTA (Menos mal)**
+### Explicacion audio
+- `おーい` ôi (Eh): expresión informal para llamar a alguien que esta lejos
+- `みんな` *minna* (todos): reconoce su presencia. Una manera mas formal seria *minna-san*
+- `よかった` *yokatta* (menos mal) {yoka -pausa - ta}: literalmente es "estuvo bien". Es el tiempo pasado del adjetivo II (bueno). No usa desu porque es informal
+- `心配したよ` *shinpai shita yo* (nos preocupamos)
+  - `心配` *shinpai shita* (preocuparse): es la forma TA del verbo *shinpai shimasu?* (preocuparse). Es informal. Una manera formal seria *shinpai shimasutta?*
+  - `よ` *yo*: particula que se agrega al final de una oración para que suene mas suave
+- `ごめんなさい` *gomennasai* (perdón): para disculparse a gente cercana, como familiares y amigos. Mas formal es *sumimasen*
+- `カメラ` *kamera* (cámara/s)
+- `安かった` *yasukata* (estaban/eran baratas) {iaskat ta}: tiempo pasado de *yasui*(barato). Caro es *takai* `高い`
+- `ので` *node*: indica la razon o la causa de algo
+- `つい` *tsui* (sin pensar): hicimos algo inadvertidamente
+- `見てしまいました` *mite shimaimashita* (me quede mirando)
+  - `見て` *mite*: forma TE de `見ます` *mimasu* (mirar)
+  - `しまいました` *shimaimashita*: se hizo por descuido //**L#18**//
+- `` ** ()
+- `` ** ()
+
+
+### Gramática: Tiempo pasado de los adjetivos
+Los adjetivos japoneses tienen tiempo pasado. 
+
+#### adjetivos `I`
+cambie la I final a KATTA
+- YASUI (barato) -> YASUKATTA (estaba barato)
+
+*Excepción:
+- II (bueno) -> YOKATTA (era bueno)
+
+#### adjetivos `NA`
+agrégueles DATTA.
+- SUKI (que gusta) -> SUKIDATTA (que gustaba)
+
+### Profesora: El tiempo pasado de los adjetivos
+#### adjetivos `I`
+aquellos que terminan con la sílaba I: YASUI, "barato".
+Para obtener el pasado se reemplaza I por KATTA.
+- yasui (barato) -> yasukatta (era barato)
+- takai (caro) -> takakatta (era caro)
+* Excepcion: ii (bueno) -> yokatta (menos mal, estuvo bien)
+
+Para formar el pasado negativo de los adjetivos I, se reemplaza I por KU NAKATTA {kuna-kat ta}
+- yasui (barato) -> yasuku nakatta (no era o no estaba barato)
+* Excepcion: ii (bueno) -> YOKU NAKATTA
+
+#### adjetivos `NA`
+llevan NA detrás cuando modifican a un sustantivo. Como SUKI "que gusta", Cuando modifica a un sustantivo, se convierte en SUKINA. "un manga que me gusta" se dice SUKINA MANGA.
+
+Para obtener el pasado de un adjetivo NA se le agrega DATTA.
+- suki (que gusta) {ski} -> suki datta (que gustaba)
+- benri (práctico) -> benri datta (era práctico)
+
+Para poner los adjetivos NA en pasado negativo, se agrega DEWA NAKATTA
+- suki (que gusta) -> suki dewa nakatta (que no gustaba)
