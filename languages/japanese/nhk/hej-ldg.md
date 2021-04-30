@@ -9,6 +9,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [17. `おすすめは何ですか`](#17-おすすめは何ですか)  
 [18. `道に迷ってしまいました`](#18-道に迷ってしまいました)  
 [19. `よかった`](#19-よかった)  
+[20. `日本の歌を歌ったことがありますか`](#20-日本の歌を歌ったことがありますか)  
 
 ## Onomatopeyas
 El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen los animales hasta expresiones de sentimientos humanos. 
@@ -49,6 +50,8 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `うろうろ` *uro uro*: una persona que se mueve de aquí para allá sin saber que hacer en una situación determinada
 - `` *kasha'*: el sonido que hace la cámara al sacar una foto
 - `パチリ` *pachiri*: describe no solo el sonido de la cámara, sino también el acto mismo de sacar la foto
+- `ガタンゴトン` *gatan goton*: es el sonido de un tren en marcha
+- `カンカンカン` *kankankan*: es el sonido que se oye en un paso a nivel
 
 ## Palabras en Katakana
 - `ケーキ` *kêki* (pastel)
@@ -649,3 +652,37 @@ Para obtener el pasado de un adjetivo NA se le agrega DATTA.
 
 Para poner los adjetivos NA en pasado negativo, se agrega DEWA NAKATTA
 - suki (que gusta) -> suki dewa nakatta (que no gustaba)
+
+## 20. `日本の歌を歌ったことがありますか`
+**NIHON NO UTA O UTATTA KOTO GA ARIMASU KA (¿Has cantado canciones japonesas alguna vez?)**
+
+### Explicacion audio
+- は(tema), の(une sust), を(obj acción), tt{pausa}, が(sujeto) - 
+- `日本` *nihon* (japón)
+- `歌` *uta* {utA} (canción o canciones)
+- `歌ったこと` *utatta koto* (has cantado)
+  - `歌った` *utatta* (cantado) forma TA de utaimasu (cantar)
+  - `こと` *koto* se agrega a la forma TA o diccionario de un verbo se obtiene un sustantivo. 
+- `あります` *arimasu* (tienes). Ademas de las experiencias se usa para algo abstracto como tiempo u oportunidades
+- `はい、あります` *hai, arimasu* (sí, tengo). En caso de no tener experiencia cantando canciones japonesas: îe, arimasen `いいえ、ありません`(no, no tengo / no)
+- `どんな` *donna* (qué / qué tipo) {don'na}
+- `曲` *kyoku* (canción/es)
+- `得意` *tokui* (bueno o habil para hacer algo): adj.
+  - Se pronuncia en tono ascendente para indicar que es una pregunta. La manera formal seria *desu ka*
+  - `得意な 曲` Es un adj NA, *tokuina kyoku* (las canciones que cantamos bien)
+  - `苦手な` *nigatena* (No soy bueno en eso)
+- `アニメ` *anime* (dibujos animados): del ingles animation
+
+### Gramática: ARIMASU: un verbo que indica posesión
+En la Lección 7, aprendimos que ARIMASU se refiere a la existencia de una cosa. En la Lección 9, lo usábamos para indicar que ocurriría algo. Ahora vemos que ARIMASU también significa "tener algo", en este caso "tener la experiencia de haber cantado".
+- NIHON NO UTA O UTATTA KOTO GA ARIMASU KA (¿Has cantado canciones japonesas alguna vez?)
+
+### Profesora: Verbo en forma TA + KOTO GA ARIMASU
+Los verbos en forma TA indican una acción en el pasado.
+Combinando estos verbos en forma TA con KOTO GA ARIMASU, podemos referirnos a cosas que hemos hecho, es decir, a nuestras experiencias. Por ejemplo, si cambiamos UTAIMASU, "cantar" a UTATTA KOTO GA ARIMASU, estamos diciendo que "hemos cantado alguna vez" en el pasado.
+
+Para obtener la misma expresión en negativo, se cambia ARIMASU a ARIMASEN. De modo que la forma negativa de UTATTA KOTO GA ARIMASU, "he cantado alguna vez" es UTATTA KOTO GA ARIMASEN, "nunca he cantado".
+
+Hay un detalle que tener en cuenta. Esta manera de transmitir cosas que hemos hecho, uniendo verbos en forma TA con KOTO GA ARIMASU, no se puede usar junto con términos que se refieren a un tiempo cercano, tales como KINÔ, "ayer" o SENSHÛ, "la semana pasada". En tales casos, hay que usar simplemente el tiempo pasado del verbo.
+
+Supongan, por ejemplo, que nos preguntan si hemos visto el monte Fuji alguna vez. Si lo hemos visto la semana pasada, no podemos decir SENSHÛ MITAKOTO GA ARIMASU, "lo he visto la semana pasada". En cambio, se debe usar el pasado de MIMASU, "ver", que es MIMASHITA, "lo vi" y decir SENSHÛ MIMASHITA, "lo vi la semana pasada".
