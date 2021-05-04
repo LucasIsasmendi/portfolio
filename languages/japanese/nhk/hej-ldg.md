@@ -10,6 +10,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [18. `道に迷ってしまいました`](#18-道に迷ってしまいました)  
 [19. `よかった`](#19-よかった)  
 [20. `日本の歌を歌ったことがありますか`](#20-日本の歌を歌ったことがありますか)  
+[21. `いいえ、それほどでも`](#21-いいえそれほどでも)  
 
 ## Onomatopeyas
 El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen los animales hasta expresiones de sentimientos humanos. 
@@ -52,6 +53,9 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `パチリ` *pachiri*: describe no solo el sonido de la cámara, sino también el acto mismo de sacar la foto
 - `ガタンゴトン` *gatan goton*: es el sonido de un tren en marcha
 - `カンカンカン` *kankankan*: es el sonido que se oye en un paso a nivel
+- `わあわあ` *wâwâ*: una multitud gritando y haciendo ruido
+- `きゃあきゃあ` *kyâkyâ*: la voz aguda de las mujeres
+- `きゃあ` *kyâ*: cuando las mujeres se asustan dicen eso
 
 ## Palabras en Katakana
 - `ケーキ` *kêki* (pastel)
@@ -686,3 +690,42 @@ Para obtener la misma expresión en negativo, se cambia ARIMASU a ARIMASEN. De m
 Hay un detalle que tener en cuenta. Esta manera de transmitir cosas que hemos hecho, uniendo verbos en forma TA con KOTO GA ARIMASU, no se puede usar junto con términos que se refieren a un tiempo cercano, tales como KINÔ, "ayer" o SENSHÛ, "la semana pasada". En tales casos, hay que usar simplemente el tiempo pasado del verbo.
 
 Supongan, por ejemplo, que nos preguntan si hemos visto el monte Fuji alguna vez. Si lo hemos visto la semana pasada, no podemos decir SENSHÛ MITAKOTO GA ARIMASU, "lo he visto la semana pasada". En cambio, se debe usar el pasado de MIMASU, "ver", que es MIMASHITA, "lo vi" y decir SENSHÛ MIMASHITA, "lo vi la semana pasada".
+
+## 21. `いいえ、それほどでも`
+**IIE, SOREHODODEMO (No, no es para tanto)**
+
+### Explicacion audio
+- です(formal), こんな, に(indica tiempo, hora)
+- `上手` *jôzu* (bueno para hacer algo)
+- `だね` *da ne*: para terminar una conversacion entre amigos
+  - `だ` *da*: version informal de *desu*
+  - `ね` *ne*: para pedir el consentimiento del interlocutor
+- `いいえ` *iie*: respuesta negativa
+- `それほどでも` *sorehododemo* (no es para tanto). En japon la modestia es una virtud, por lo tanto no se contesta con "gracias" a un elogio. 
+  - Si nos elojian por saber japones, podemos contestar *iie mada mada desu* (no, todavia me falta mucho)
+- `あっ` *ah* (Huy!) exclamacion que indica sorpresa
+- `もう` *mô* (ya)
+- `こんな` *konna* (como esto): demostrativo
+- `時間` *jikan* (hora)
+- `大変` *taihen* (que terrible): se usa cuando nos vemos en un problema o estamos en apuros
+- `門限` *mongen* (hora de cierre): la hora limite de los estudiantes para regresar a la residencia
+- `間に合わない` *maniawanai* (no llegar a tiempo): es la manera informal. Llegar a tiempo se dice *maniaimasu*, la negativa *maniaimasen*
+- `` ** ()
+- `` ** ()
+
+### Gramática: IIE, SOREHODODEMO (No, no es para tanto)
+IIE es una respuesta negativa. SOREHODODEMO significa "no es para tanto". 
+IIE, SOREHODODEMO es una expresión de `modestia`.
+
+### Profesora: Forma NAI de los verbos
+Los verbos conjugados que terminan en NAI se llaman "verbos en forma NAI". Veamos cómo transformar los verbos en forma MASU en verbos en forma NAI, o sea el modo negativo informal.
+
+  MASU => NAI      |     Ejemplos      |
+-------------------| -------------------
+e => nai           | tabemasu (comer) => tabenai (no comer)
+(C)i => nai        | okimasu (levantarse) => okinai (no levantarse)
+(C)i => (-i,+a)nai | ikimasu (ir) => ikanai (no ir)
+i => (-i,+wa)nai   | tsukaimasu (usar) => tsukawanai (no usar)
+
+(C): consonante
+(*) Excepción: kimasu (venir) => konai (no venir)
