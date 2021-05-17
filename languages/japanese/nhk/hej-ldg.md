@@ -11,6 +11,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [19. `よかった`](#19-よかった)  
 [20. `日本の歌を歌ったことがありますか`](#20-日本の歌を歌ったことがありますか)  
 [21. `いいえ、それほどでも`](#21-いいえそれほどでも)  
+[22. `遅くなりました`](#22-遅くなりました)  
 
 ## Onomatopeyas
 El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen los animales hasta expresiones de sentimientos humanos. 
@@ -56,6 +57,9 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `わあわあ` *wâwâ*: una multitud gritando y haciendo ruido
 - `きゃあきゃあ` *kyâkyâ*: la voz aguda de las mujeres
 - `きゃあ` *kyâ*: cuando las mujeres se asustan dicen eso
+- `かんかん` *kankan*: se aplica a alguien que está furioso
+- `ぷんぷん` *punpun*: se usa cuando alguien se muestra enfurruñado por algo
+- `がみがみ` *gamigami*: describe a alguien que regaña a otro o se queja por algo
 
 ## Palabras en Katakana
 - `ケーキ` *kêki* (pastel)
@@ -729,3 +733,50 @@ i => (-i,+wa)nai   | tsukaimasu (usar) => tsukawanai (no usar)
 
 (C): consonante
 (*) Excepción: kimasu (venir) => konai (no venir)
+
+## 22. `遅くなりました`
+**OSOKU NARIMASHITA (Llegué tarde)**
+
+### Explicacion audio
+- です (formal), を(obj acción), は(tema)
+- `お母さん` *okâsan* (madre): asi llaman los estudiantes a la encargada de la residencia
+- `ごめんなさい` *gomennasai* (perdón)
+- `遅くなりました` *osoku narimashita* (llegué tarde / se me hizo tarde)
+  - `遅く` *osoku*: adverbio, forma conjugada de adjetivo *osoi* (tarde). Adjetivos "I" a adverbios: Se cambia i-> ku
+  - `なりました` *narimashita* (haberse hecho). Pasado de narimasu (hacerse) verbo que expresa un cambio en el estado de algo
+- `１０分` *jippun* (diez minutos)
+- `も` *mo*: para enfatizar, por ejemplo cuan tarde a llegado
+- `遅刻` *chikoku* (llegar tarde / tarde)
+- *jippun chikoku desu* (llegas 10 minutos tarde) *jippun mo chikoku desu* (llegas 10 minutos tarde, enfatizando que 10 minutos es mucho tiempo)
+- `約束` *yakusoku* (promesa/s)
+- `破ってはいけません` *yabutte wa ikemasen* (no hay que romper)
+  - `破って` *yabutte* (romper) forma TE del verbo *yaburimasu* (romper, rotura)
+  - `いけません` *ikemasen* (no lo hagas): tener cuidado, es una orden, puede dar la impresion de que nos damos aires de superioridad. No se usa al hablar con un superior
+- `	すみません` *sumimasen* (lo siento): suena mas formal que *gomennasai*. Usarlo con superiores o profesores
+- `気をつけます` *ki o tsukemasu* (tendre cuidado para no cometer el mismo error): es una frase hecha
+
+### Gramática:
+#### FUN / PUN: un contador de minutos
+1. IPPUN	Un minuto
+2. NIFUN	Dos minutos
+3. SANPUN	Tres minutos
+4. YONPUN	Cuatro minutos
+5. GOFUN	Cinco minutos
+6. ROPPUN	Seis minutos
+7. NANAFUN	Siete minutos
+8. HACHIFUN	Ocho minutos
+9. KYÛFUN	Nueve minutos
+10. JIPPUN, JUPPUN (Diez minutos)
+
+#### Verbo en forma TE + WA IKEMASEN
+La forma TE de un verbo seguida de WA IKEMASEN significa "no lo hagas".
+- YAKUSOKU O YABUTTE WA IKEMASEN. (No hay que romper las promesas.)
+
+### Profesora: Cómo transformar adjetivos en adverbios
+Los adjetivos del japonés se conjugan para convertirlos en adverbios.
+#### Adjetivos I: i->ku
+- *osoi* (tarde) -> osoku
+- *hayai* (temprano) -> hayaku + narimashita (haberse hecho) = (se hizo temprano)
+
+#### Adjetivos NA: +ni
+- *jôzu* (ser bueno o hábil para algo) -> jôzuni + narimashita = (nos hemos hecho buenos o hábiles para algo)
