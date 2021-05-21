@@ -60,6 +60,8 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `かんかん` *kankan*: se aplica a alguien que está furioso
 - `ぷんぷん` *punpun*: se usa cuando alguien se muestra enfurruñado por algo
 - `がみがみ` *gamigami*: describe a alguien que regaña a otro o se queja por algo
+- `ごしごし` *goshigoshi*: el sonido de fregar para quitarle la suciedad
+- `きゅっ きゅっ` *kyu'kyu'*: sonido de limpiar o pulir con fuerza una ventana , un vaso, etc
 
 ## Palabras en Katakana
 - `ケーキ` *kêki* (pastel)
@@ -780,3 +782,46 @@ Los adjetivos del japonés se conjugan para convertirlos en adverbios.
 
 #### Adjetivos NA: +ni
 - *jôzu* (ser bueno o hábil para algo) -> jôzuni + narimashita = (nos hemos hecho buenos o hábiles para algo)
+
+## 23. `お母さんに叱られました`
+**OKÂSAN NI SHIKARAREMASHITA (Me regañó la encargada)**
+
+### Explicacion audio
+- は(tema), に(punto en el tiempo), が(sujeto), は(tema), ね(no?)
+- `この間` *konoaida* (el otro dia)
+- `門限` *mongen* (hora de cierre)
+- `合った` *maniatta* (llegar a tiempo): forma TA de `間に合います` *maniaimasu* (llegar a tiempo). La version informal en pasado. Tono ascendente por pregunta. La misma pregunta formal {maniamash ta ka}
+- `いいえ`
+- `間に合いませんでした` *maniaimasen deshita* (No llegué a tiempo): pasado negativo de *maniaimasu*
+- `それで` *sorede* (por eso)
+- `お母さんに叱られました` *okâsan ni shikararemashita* (me regañó la encargada/ Fui regañada por la encargada): expresion pasiva. 
+  - `に` *ni*: en forma pasiva indica quien hizo al hablante la acción que sigue a continuación
+  - `叱られました` *shikarare mashita* (haber sido regañado): *shikari masu*(regañar) la forma pasiva es *shikarare masu* (ser regañado)
+- `掃除` *sôji* (limpieza)
+- `当番` *tôban* (turno/s)
+- `３回` *san kai* (tres veces)
+- `増えました` *fuemashita* (aumentó): pasado de *fuemasu* (aumentar)
+- `それは大変だったね` (sore wa taihen datta ne): Fue terrible, ¿eh?
+  - `それ` *sore* (eso)
+  - `大変` *taihen* (terrible)
+  - `だった` *datta*: version informal de deshuta, pone fin a la oracion en tiempo pasado
+
+### Gramática: _MASEN DESHITA
+Los verbos se cambian al pasado negativo reemplazando MASU por MASEN DESHITA.
+- MANIAIMASU (llego a tiempo)  
+  - forma negativa: MANIAIMASEN (no llego a tiempo)
+- MANIAIMASHITA (llegué a tiempo)
+  - pasado negativo: MANIAIMASEN DESHITA (no llegué a tiempo)
+
+### Profesora: Forma pasiva
+La forma pasiva de los verbos se usa cuando hablamos desde la perspectiva de la persona a la que le hicieron algo, es decir la perspectiva del receptor de una acción. La persona que ejecutó la acción se indica usando la partícula NI. Ahora veamos cómo se conjugan en pasivo los verbos en forma MASU.
+
+ MASU => RAREMASU    |     Ejemplos      |
+---------------------| -------------------
+e => rare+masu       | tabemasu (comer) => taberaremasu (ser comido)
+i => (-i,+a)re+masu  | shikarimasu (regañar) => shikararemasu (ser regañado)
+                     | shimasu (hacer) => saremasu (ser hecho)
+i => rare+masu       | mimasu (mirar) => miraremasu (ser mirado)
+
+Algunos verbos se conjugan de manera irregular
+* kimasu (venir) => koraremasu
