@@ -12,6 +12,8 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [20. `日本の歌を歌ったことがありますか`](#20-日本の歌を歌ったことがありますか)  
 [21. `いいえ、それほどでも`](#21-いいえそれほどでも)  
 [22. `遅くなりました`](#22-遅くなりました)  
+[23. `お母さんに叱られました`](#23-お母さんに叱られました)  
+[24. `使わないでください`](#24-使わないでください)  
 
 ## Onomatopeyas
 El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen los animales hasta expresiones de sentimientos humanos. 
@@ -62,6 +64,8 @@ El japonés es un idioma con muchas onomatopeyas,  desde los ruidos que hacen lo
 - `がみがみ` *gamigami*: describe a alguien que regaña a otro o se queja por algo
 - `ごしごし` *goshigoshi*: el sonido de fregar para quitarle la suciedad
 - `きゅっ きゅっ` *kyu'kyu'*: sonido de limpiar o pulir con fuerza una ventana , un vaso, etc
+- `ぶうぶう` *bûbû*: describe a gente quejándose airadamente
+- `ぶつぶつ` *butsu butsu*: alguien que masculla su insatisfacción en voz baja
 
 ## Palabras en Katakana
 - `ケーキ` *kêki* (pastel)
@@ -820,8 +824,64 @@ La forma pasiva de los verbos se usa cuando hablamos desde la perspectiva de la 
 ---------------------| -------------------
 e => rare+masu       | tabemasu (comer) => taberaremasu (ser comido)
 i => (-i,+a)re+masu  | shikarimasu (regañar) => shikararemasu (ser regañado)
-                     | shimasu (hacer) => saremasu (ser hecho)
+i => (-i,+a)re+masu  | shimasu (hacer) => saremasu (ser hecho)
 i => rare+masu       | mimasu (mirar) => miraremasu (ser mirado)
 
 Algunos verbos se conjugan de manera irregular
 * kimasu (venir) => koraremasu
+
+## 24. `使わないでください`
+**TSUKAWANAIDE KUDASAI (No los usen)**
+
+### Explicacion audio
+- は(tema), です(cortes), の(une sust), に(.en tiempo), を(obj acc)
+****
+- `はい` *hai* (bueno): para que presten atencion. Generalmente es "si", como respuesta afirmativa o contestar cuando alguien nos llama
+- `今日` *kyô* (hoy)
+- `ここまで` *koko made* (hasta aquí)
+  - `ここ` *koko* (aquí)
+  - `まで` *made* (hasta)
+- `来週の月曜日` *raishû no getsuyôbi* (el lunes de la semana próxima)
+  - `来週` *raishû* (la semana próxima)
+  - `月曜日` *getsuyôbi* (lunes)
+- `試験をします` *shiken o shimasu* (tomar examen)
+  - `試験` *shiken* (examen)
+  - `します` *shimasu* (hacer)
+****
+- `辞書` *jisho* (diccionario/s)
+- `使って` *tsukatte* (usar): forma TE de *tsukaimasu*(usar) `L#9: i/chi/ri => tte`. Combinando la forma TE de un verbo con `もいいですか` *mo ii desu ka* se puede pedir permiso para hacer algo `L#14: forma TE + MO II DESU KA`
+****
+- `いいえ` *iie* (no)
+- `だめ` *dame* (no se puede): para indicar a alguien que no tiene permiso para hacer algo. Expresion informal para amigos o subordinados.
+- `使わないでください` *tsukawanaide kudasai* (No los usen)
+  - `使わない` *tsukawanai* (no usar): version informal de *tsukaimasen* (no usar) que es la forma negativa de *tsukaimasu*(usar)
+
+### Gramática: puntos en el tiempo
+Día:
+- KINÔ	ayer
+- `今日` *KYÔ* (hoy)
+- ASHITA	mañana
+
+Semana:
+- SENSHÛ	la semana pasada
+- KONSHÛ	esta semana
+- `来週` *RAISHÛ* (la semana próxima)
+
+Mes:
+- SENGETSU	el mes pasado
+- KONGETSU	este mes
+- RAIGETSU	el mes próximo
+
+### Profesora: Verbo en forma NAI + DE KUDASAI = (no _)
+Para decirle a alguien que no puede hacer algo, se combina la forma NAI del verbo con DE KUDASAI, diciendo NAI DE KUDASAI, "no lo hagas".
+- *ikimasu* (ir) -> *ikanai de kudasai* (no vayas)
+
+Otra expresión para decirle a alguien firmemente que no haga algo es `だめです` *dame desu* (no lo hagas)
+
+También existen expresiones para decirle a la gente que no haga algo de manera más firme (`L#22`):
+- TE WA IKEMASEN, "no debes hacerlo"
+- ITTE WA IKEMASEN, "no debes ir"
+
+Los japoneses tratan de no ejercer mucha presión psicológica sobre los demás. Por eso, es más común decir NAI DE KUDASAI en las conversaciones cotidianas.
+
+Manera ingeniosa para rechazar una oferta sin herir los sentimientos de la otra persona: *sore wa chotto...* (eso es un poco...)
