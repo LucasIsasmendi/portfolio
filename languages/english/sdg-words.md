@@ -1,49 +1,64 @@
 # English > SDG Words
 
 ## Healthy diet
-- healthy [ˈhɛlθi]
-- health [hɛlθ]
-- diet [ˈdaɪət]
-- nutritious [nuˈtrɪʃəs]
-- nutrients [ˈnutriənts]
-- foods [fudz]
-- harming [ˈhɑrmɪŋ]
-- harmful [ˈhɑrmfəl]
-- substances [ˈsʌbstənsəz]
-- protein [ˈproʊˌtin]
-- vitamin/s [ˈvaɪtəmən/z]
-- minerals [ˈmɪnərəlz]
-- essential amino acids [ɪˈsɛnʃəl_əˈminoʊ_ˈæsədz]
-- essential fatty acids [ɪˈsɛnʃəl_ˈfæti_ˈæsədz]
-- dietary fibre [ˈdaɪəˌtɛri_ˈfaɪbər]
-- anti nutrients [ˈænti_ˈnutriənts]
-- sodium [ˈsoʊdiəm]
-- saturated fats [ˈsæʧəˌreɪtəd_fæts]
-- sugars [ˈʃʊgərz]
-- calories [ˈkæləriz]
-- fats [fæts]
-- profiling [ˈproʊˌfaɪlɪŋ]
-- ingredients [ɪnˈgridiənts]
-- fruit [frut]
-- vegetable [ˈvɛʤtəbəl]
-- daily nutrient intake [ˈdeɪli_ˈnutriənt_ˈɪnˌteɪk]
-- Sustainable diets and biodiversity [səˈsteɪnəbəl_ˈdaɪəts_ənd_ˌbaɪoʊdaɪˈvɜrsəti]
-- ultra-processed [ˈʌltrə-ˈprɑsɛst]
-- health-harming [hɛlθ-ˈhɑrmɪŋ]
-- foodborne pathogens [fudbɔrn_ˈpæθəʤənz]
-- arsenic: noun[ˈɑrsənɪk]
-- cadmium [ˈkædmiəm]
-- lead [lid]
-- methyl mercury [ˈmɛθəl_ˈmɜrkjəri]
-- human gut microbiome [ˈhjumən_gʌt_ˈmaɪˌkroʊˈbaɪˌoʊm]
-- food hazards [fud_ˈhæzərdz]
-- food additives [fud_ˈædətɪvz]
-- dietary patterns [ˈdaɪəˌtɛri_ˈpætərnz]
-- non-communicable diseases (NCDs) [nɑn-kəmˈjunəkəbəl_dɪˈzizəz]
-- environmental [ɪnˌvaɪrənˈmɛntəl]
-- planetary health [ˈplænəˌtɛri_hɛlθ]
-- minimizing processed food [ˈmɪnəˌmaɪzɪŋ_ˈprɑsɛst_fud]
-- health-promotion and [hɛlθ-prəˈmoʊʃən_ænd]
-- disease-prevention [dɪˈziz-priˈvɛnʃən]
+- healthy /*ˈhɛlθi*/
+- health /*hɛlθ*/
+- diet /*ˈdaɪət*/
+- nutritious /*nuˈtrɪʃəs*/
+- nutrients /*ˈnutriənts*/
+- foods /*fudz*/
+- harming /*ˈhɑrmɪŋ*/
+- harmful /*ˈhɑrmfəl*/
+- substances /*ˈsʌbstənsəz*/
+- protein /*ˈproʊˌtin*/
+- vitamin/s /*ˈvaɪtəmən/z*/
+- minerals /*ˈmɪnərəlz*/
+- essential amino acids /*ɪˈsɛnʃəl əˈminoʊ ˈæsədz*/
+- essential fatty acids /*ɪˈsɛnʃəl ˈfæti ˈæsədz*/
+- dietary fibre /*ˈdaɪəˌtɛri ˈfaɪbər*/
+- anti nutrients /*ˈænti ˈnutriənts*/
+- sodium /*ˈsoʊdiəm*/
+- saturated fats /*ˈsæʧəˌreɪtəd fæts*/
+- sugars /*ˈʃʊgərz*/
+- calories /*ˈkæləriz*/
+- fats /*fæts*/
+- profiling /*ˈproʊˌfaɪlɪŋ*/
+- ingredients /*ɪnˈgridiənts*/
+- fruit /*frut*/
+- vegetable /*ˈvɛʤtəbəl*/
+- daily nutrient intake /*ˈdeɪli ˈnutriənt ˈɪnˌteɪk*/
+- Sustainable diets and biodiversity /*səˈsteɪnəbəl ˈdaɪəts ənd ˌbaɪoʊdaɪˈvɜrsəti*/
+- ultra-processed /*ˈʌltrə-ˈprɑsɛst*/
+- health-harming /*hɛlθ-ˈhɑrmɪŋ*/
+- foodborne pathogens /*fudbɔrn ˈpæθəʤənz*/
+- arsenic: noun/*ˈɑrsənɪk*/
+- cadmium /*ˈkædmiəm*/
+- lead /*lid*/
+- methyl mercury /*ˈmɛθəl ˈmɜrkjəri*/
+- human gut microbiome /*ˈhjumən gʌt ˈmaɪˌkroʊˈbaɪˌoʊm*/
+- food hazards /*fud ˈhæzərdz*/
+- food additives /*fud ˈædətɪvz*/
+- dietary patterns /*ˈdaɪəˌtɛri ˈpætərnz*/
+- non-communicable diseases (NCDs) /*nɑn-kəmˈjunəkəbəl dɪˈzizəz*/
+- environmental /*ɪnˌvaɪrənˈmɛntəl*/
+- planetary health /*ˈplænəˌtɛri hɛlθ*/
+- minimizing processed food /*ˈmɪnəˌmaɪzɪŋ ˈprɑsɛst fud*/
+- health-promotion and /*hɛlθ-prəˈmoʊʃən ænd*/
+- disease-prevention /*dɪˈziz-priˈvɛnʃən*/
 
 ## Food Systems
+- Food systems transformation /*fud ˈsɪstəmz ˌtrænsfərˈmeɪʃən*/
+- what is entailed in the transition /*wʌt əz ɪnˈteɪld ɪn ðə trænˈzɪʃən*/
+- how to facilitate the evolution /*haʊ tə fəˈsɪləˌteɪt ði ˌɛvəˈluʃən*/
+- nature positive production /*ˈneɪʧər ˈpɑzətɪv prəˈdʌkʃən*/
+- interlinked Action Areas /*ˌɪntərˈlɪŋkt ˈækʃən ˈɛriəz*/
+- values and cultural traditions /*ˈvæljuz ənd ˈkʌlʧərəl trəˈdɪʃənz*/
+- End hunger /*ɛnd ˈhʌŋgər*/
+- achieve healthy diets /*əˈʧiv ˈhɛlθi ˈdaɪɪts*/
+- sustainable production /*səˈsteɪnəbəl prəˈdʌkʃən*/
+- sustainable use of biodiversity and natural resources /*səˈsteɪnəbəl juz əv ˌbaɪoʊdaɪˈvɜrsəti ənd ˈnæʧərəl ˈrisɔrsɪz*/
+- protection of ecosystems /*prəˈtɛkʃən əv ˈikoʊˌsɪstəmz*/
+- safeguarding of land, oceans, forests, freshwater, and climate /*ˈseɪfˌgɑrdɪŋ əv lænd, ˈoʊʃənz, ˈfɔrəsts, ˈfrɛˌʃwɔtər, ənd ˈklaɪmət*/
+- increase income and wealth /*ˈɪnˌkris ˈɪnˌkʌm ənd wɛlθ*/
+- fostering of food systems’ resilience /*ˈfɑstərɪŋ əv fud ˈsɪstəmz rɪˈzɪliəns*/
+
