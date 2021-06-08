@@ -3,10 +3,13 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 
 **Lecciones**  
 [25. `机の下に入れ`](#25-机の下に入れ)  
+[26. `次はがんばろう`](#26-次はがんばろう)  
 
 ## Onomatopeyas
 - `がたがた` *gatagata*: representa el sonido de muebles sacudiéndose
 - `ぐらぐら` *guragura* {gragra}: describe a edificios bamboleándose y a cualquier objeto en posición inestable
+- `おぎゃあおぎゃあ` *ogyâogyâ*: un bebé llorando fuerte
+- `えーんえーん` *ênên*: un niño llorando fuerte
 
 ## 25. `机の下に入れ`
 **TSUKUE NO SHITA NI HAIRE (Pónganse bajo el pupitre)**
@@ -65,3 +68,57 @@ Excepciones:
 Para obtener una forma imperativa más cortés, que tanto hombres como mujeres pueden usar, se quita el MASU de los verbos en forma MASU y se lo reemplaza por NASAI.
 - tabemasu (comer) => tabenasai (come)
 - hairimasu (entrar) => hairinasai (entra)
+
+## 26. `次はがんばろう`
+**TSUGI WA GANBARÔ (Esforcémonos la próxima vez)**
+
+### Explicacion audio
+- が, ね, は
+- `元気` *genki* (animo)
+- `ない` *nai* (no haber/no tener): informal *arimasen*
+****
+- `試験` *shinken* (exámen)
+- `が` *ga*: indica que es lo que se puede o no se puede hacer
+- `できなかった` *dekinakatta* (no pude/no me fue bien): informal de *dekimasen desu ta*. En el caso contrario, se usa el tiempo pasado de *dekimasu* (poder/ poder hacerlo bien) que es *dekimashita* //**L#13**//
+- `んです` *n desu*: para explicar una situacion o la razon de algo. Ver gramática.
+****
+- `	私も` *watashi mo* (A mí tampoco)
+  - `私` *watashi* (yo)
+  - `も` *mo* (también/tampoco): depende si la oración es afirmativa/negativa
+- `６０点` *rokujitten* (60 puntos)
+  - `点` *ten* (punto/s)
+  - `６０` *rokujû* (sesenta): 6*roku* 10*jû*
+- `でした` *deshita*: pasado de desu, manera cortes de poner fin a la oración
+- `次はがんばろう` *tsugi wa ganbarô* (Esforcémonos la próxima vez)
+  - `次` *tsugi* (la próxima vez)
+  - `がんばろう` *ganbarô* (Esforcémonos): forma conjugada de *ganbaremasu* (esforzarse/Haré mi mejor esfuerzo)
+
+### Gramática:
+#### _ N DESU
+Se usa la expresión N DESU para explicar una situación o la razón de algo. Antes de N DESU se usa una forma llana del verbo, tal como la forma diccionario o la forma TA
+- SHIKEN GA DEKINAKATTA N DESU (No me fue bien en el examen)
+  - DEKINAKATTA: forma llana de *dekimasen deshita*(no haber ido bien)
+
+#### DESHITA `でした`
+DESHITA es el tiempo pasado de DESU.
+- TAIHEN DESU (Es terrible)
+- TAIHEN DESHITA (Fue terrible)
+
+#### Extra audio
+Como se distinguen entre forma cortes y llana
+- forma cortes: terminan en *`desu`* o *`masu`*. En tiempo pasado terminan en *`deshita`* o *`mashita`*
+
+### Profesora: Forma volitiva de los verbos
+GANBARÔ ("esforcémonos" o "me esforzaré") es una conjugación que se conoce como `forma volitiva`. Expresa la voluntad del hablante. También se usa para invitar al interlocutor a hacer algo juntos, o instarlo a hacer algo. Pero no debemos usarla ante nuestros superiores. 
+
+Cómo obtener la forma volitiva a partir de la forma MASU de los verbos.
+MASU => volitiva|     Ejemplos      |
+----------------| -------------------
+e => yô         | tabemasu (comer) => tabeyô (comamos)
+i => yô         | okimasu (levantarse) => okiyô (levantémonos|me levantaré)
+i => yô         | shimasu (hacer) => shiyô (hagámoslo|lo haré)
+i => -i +o +u   | ganbarimasu (esforzarse) => ganbarô (esforcémonos|me esforzaré)
+
+* la pronunciación es GANBARÔ, aunque la palabra se deletrea GA N BA RO U.
+
+(*) Excepción: kimasu (venir) => koyô
