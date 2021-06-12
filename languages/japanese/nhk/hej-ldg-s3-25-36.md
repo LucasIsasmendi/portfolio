@@ -1,21 +1,17 @@
-# Hablemos en japonés: Lecciones de gramática 25-48
+# Hablemos en japonés: Lecciones de gramática 25-36
 https://www.nhk.or.jp/lesson/spanish/learn/list/
 
 **Lecciones**  
 [25. `机の下に入れ`](#25-机の下に入れ)  
 [26. `次はがんばろう`](#26-次はがんばろう)  
-
-## Onomatopeyas
-- `がたがた` *gatagata*: representa el sonido de muebles sacudiéndose
-- `ぐらぐら` *guragura* {gragra}: describe a edificios bamboleándose y a cualquier objeto en posición inestable
-- `おぎゃあおぎゃあ` *ogyâogyâ*: un bebé llorando fuerte
-- `えーんえーん` *ênên*: un niño llorando fuerte
+[27. `誰が結婚するんですか`](#27-誰が結婚するんですか)  
 
 ## 25. `机の下に入れ`
 **TSUKUE NO SHITA NI HAIRE (Pónganse bajo el pupitre)**
 
 ### Explicacion audio
 - の, に(dir. mov), は(tema), が(sujeto), です(cortes), ね(no?)
+****
 - `地震だ` *jishin da* (es un terremoto)
   - `地震` *jishin* (terremoto/s)
   - `だ` *da*: version informal de *desu*, para cerrar la oración
@@ -34,10 +30,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 - `日本` *nihon* (Japón)
 - `本当に` *hontô ni* (realmente)
 - `多い` *ôi* (muchos)
-- `` ** ()
-- `` ** ()
-- `` ** ()
-- `` ** ()
+****
 
 ### Gramática:
 #### YÔ DA / YÔ DESU
@@ -69,11 +62,16 @@ Para obtener una forma imperativa más cortés, que tanto hombres como mujeres p
 - tabemasu (comer) => tabenasai (come)
 - hairimasu (entrar) => hairinasai (entra)
 
+### Onomatopeyas
+- `がたがた` *gatagata*: representa el sonido de muebles sacudiéndose
+- `ぐらぐら` *guragura* {gragra}: describe a edificios bamboleándose y a cualquier objeto en posición inestable
+
 ## 26. `次はがんばろう`
 **TSUGI WA GANBARÔ (Esforcémonos la próxima vez)**
 
 ### Explicacion audio
 - が, ね, は
+****
 - `元気` *genki* (animo)
 - `ない` *nai* (no haber/no tener): informal *arimasen*
 ****
@@ -92,6 +90,7 @@ Para obtener una forma imperativa más cortés, que tanto hombres como mujeres p
 - `次はがんばろう` *tsugi wa ganbarô* (Esforcémonos la próxima vez)
   - `次` *tsugi* (la próxima vez)
   - `がんばろう` *ganbarô* (Esforcémonos): forma conjugada de *ganbaremasu* (esforzarse/Haré mi mejor esfuerzo)
+****
 
 ### Gramática:
 #### _ N DESU
@@ -122,3 +121,69 @@ i => -i +o +u   | ganbarimasu (esforzarse) => ganbarô (esforcémonos|me esforza
 * la pronunciación es GANBARÔ, aunque la palabra se deletrea GA N BA RO U.
 
 (*) Excepción: kimasu (venir) => koyô
+
+### Onomatopeyas
+- `おぎゃあおぎゃあ` *ogyâogyâ*: un bebé llorando fuerte
+- `えーんえーん` *ênên*: un niño llorando fuerte
+
+## 27. `誰が結婚するんですか`
+**DARE GA KEKKON SURU N DESU KA (¿Quién va a casarse?)**
+
+### Explicacion audio
+- か, の, です, に(modo), に(lugar)
+****
+- `誰` *dare* (Quién)
+- `が` *ga*: quien es el sujeto
+- `結婚する` (casarse)
+  - `結婚` *kekkon* (casamiento)
+  - `する` *suru*: forma diccionario de *shimasu* (hacer)
+- `んですか` *n desu ka*: para pedir una explicacion
+  - `んです` *n desu*: razon de algo, los verbos antes en forma llana //**L#26**//
+****
+- `静岡` *shizuoka*: prefectura de Japón
+- `友だち` *tomodachi* (amiga/o)
+****
+- `へえ` *hê* (Ajá): informal, indica que estamos escuchando
+- `いつ` *itsu* (Cuándo)
+****
+- `来月` *raigetsu* (mes próximo): `今月` *Kongetsu* (este mes), `先月` *Sengetsu* (el mes pasado)
+- `２０日` *hatsuka* (el día 20): no es nijû
+- `よ` *yo* {io}: al final de una oracion, para enfatizar que se trata de algo que el interlocutor no sabia 
+- `も` *mo* (también) //**L#26**//
+- `一緒` *issho* (con/junto a)
+- `行かない` *ikanai*: informal de *ikimasen* (no ir). Si la forma NAI se usa en tono ascendete, estamos invitando a alguien a hacer algo. Version formal: *ikimasen ka*(no quiere venir/no quiere ir)
+****
+
+### Gramática: Verbo en forma NAI + ?
+Si la forma NAI de un verbo se dice en un tono ascendente, significa que estamos invitando a alguien a hacer algo, en un tono informal.
+- ISSHO NI EIGA O MINAI? (¿No quieres ver una película conmigo?)
+
+La manera cortés de decir lo mismo es:
+- ISSHO NI EIGA O MIMASENKA? (¿No quiere ver una película conmigo?)
+
+Se puede invitar a alguien y al mismo tiempo preguntar si desea hacer lo que le promonemos
+
+### Profesora: Cómo se dicen las fechas
+En japonés, el primer día del mes es TSUITACHI. Originalmente, significaba "el día en que se eleva la luna".
+Las fechas desde el primer hasta el décimo día se dicen así: `el día...`
+1. TSUITACHI
+2. FUTSUKA
+3. MIKKA
+4. YOKKA
+5. ITSUKA
+6. MUIKA
+7. NANOKA
+8. YÔKA
+9. KOKONOKA
+10. TÔKA
+
+A partir del día 11 y hasta el fin de mes, se dicen los números correspondientes seguidos de NICHI, que dignifica "día". De modo que, por ejemplo, `el día 11` es JÛICHINICHI.
+
+Hay tres excepciones. 
+- `El día 14`: JÛYOKKA
+- `El día 20`: HATSUKA
+- `el día 24`: NIJÛYOKKA.
+
+### Onomatopeyas
+- *wanwan*: un perro ladrando
+- *nyânyâ*: un gato maullando
