@@ -5,6 +5,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [25. `机の下に入れ`](#25-机の下に入れ)  
 [26. `次はがんばろう`](#26-次はがんばろう)  
 [27. `誰が結婚するんですか`](#27-誰が結婚するんですか)  
+[28. `静岡へようこそ`](#28-静岡へようこそ)  
 
 ## 25. `机の下に入れ`
 **TSUKUE NO SHITA NI HAIRE (Pónganse bajo el pupitre)**
@@ -187,3 +188,51 @@ Hay tres excepciones.
 ### Onomatopeyas
 - *wanwan*: un perro ladrando
 - *nyânyâ*: un gato maullando
+
+## 28. `静岡へようこそ`
+**SHIZUOKA E YÔKOSO (Bienvenida a Shizuoka)**
+
+### Explicacion audio
+- は, の, に, ね
+****
+- `こちら` *kochira* (esta persona): demostrativo, tambien se usa para direcciones //**L#7**//
+- `いとこ` *itoko* (primo)
+- `くん` *kun*: titulo que normalmente se usa para niños pequeños, familiares varones, amigos, subordinados
+****
+- `へ` *e*: indica el punto final de un movimiento
+- `ようこそ` *yôkoso* (bienvenido/a)
+****
+- `	彼はカメラに詳しいから` *kare wa kamera ni kuwashii kara* (porque sabe mucho de cámaras)
+  - `彼` *kare* (él), `彼女` *kanojo* (ella)
+  - `カメラ` *kamera* (cámara/s)
+  - `詳しい` *kuwashii* (conocedor): que sabe mucho acerca de algo.
+  - `から` *kara* (porque): la razón de algo
+- `いろいろ` *iroiro* (muchas cosas distintas|varios)
+- `きいて` *kiite* (pregúntale): forma TE de kikimasu (preguntar) ///**L#09** es escuchar ¿.?//. Manera informal de recomendar a alguien que haga una pregunta. Tono formal: *kiite kudasai*
+****
+- `どうぞよろしくお願いします` *dôzo yoroshiku onegai shimasu* (Desde ya, muchas gracias): manera formal de *yoroshiku onegai shimasu*, se dice cuando nos presentan a alguien o despues de haber pedido a alguien que haga algo por nosotros. *dôzo* hace el pedido mas cortes
+****
+- `ちゃん` *chan* (): se usa en niñas pequeñas y mujeres jovenes parar expresar intimidad y afecto
+- `かわいい` *kawaii* (bonita|linda)
+- `なあ` *nâ*: particula que se agrega a una oración cuando se murmura para nuestros adentros
+****
+
+### Gramática:
+#### *_ E YÔKOSO*
+E es una partícula que indica el punto final de un movimiento. YÔKOSO es "bienvenido" o "bienvenida".
+- NIHON E YÔKOSO (Bienvenido a Japón)
+
+#### *NI KUWASHII*
+NI es una partícula que, en este caso, indica un objeto.
+- KENTA WA KAMERA NI KUWASHII (Kenta sabe mucho de cámaras)
+
+### Profesora: Diferencias entre KARA y NODE
+Tanto KARA como NODE se usan para explicar la razón de algo. Por ejemplo, si la razón es un adjetivo como KAWAII, "bonita", puede decirse KAWAII KARA o KAWAII NODE.
+
+Pero cuando se usan con adjetivos NA o con sustantivos, KARA se convierte en DAKARA, y NODE se transforma en NANODE. Supongamos, por ejemplo, que YAKUSOKU, "una promesa", es la razón de algo. YAKUSOKU es un sustantivo. De modo que si usamos KARA debemos decir YAKUSOKU DAKARA. En el caso de NODE, se diría YAKUSOKU NANODE.
+
+KARA y NODE significan prácticamente lo mismo, pero usando NODE, la explicación suena más suave. Esto se debe a que la "N" en NODE tiene un sonido más suave que la "K" en KARA. Por eso, NODE se usa más frecuentemente en el trabajo y en ocasiones formales.
+
+### Onomatopeyas
+- `ぴーぽーぴーぽー` *pîpôpîpô*: la sirena de una ambulancia
+- `うー` *û*; la sirena de un patrullero
