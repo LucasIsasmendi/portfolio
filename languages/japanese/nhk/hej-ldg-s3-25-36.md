@@ -6,6 +6,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [26. `次はがんばろう`](#26-次はがんばろう)  
 [27. `誰が結婚するんですか`](#27-誰が結婚するんですか)  
 [28. `静岡へようこそ`](#28-静岡へようこそ)  
+[29. `近くで見ると、大きいですね`](#29-近くで見ると大きいですね)  
 
 ## 25. `机の下に入れ`
 **TSUKUE NO SHITA NI HAIRE (Pónganse bajo el pupitre)**
@@ -236,3 +237,52 @@ KARA y NODE significan prácticamente lo mismo, pero usando NODE, la explicació
 ### Onomatopeyas
 - `ぴーぽーぴーぽー` *pîpôpîpô*: la sirena de una ambulancia
 - `うー` *û*; la sirena de un patrullero
+
+## 29. `近くで見ると、大きいですね`
+**CHIKAKU DE MIRU TO, ÔKII DESU NE (Visto de cerca es grande, ¿verdad?)**
+
+### Explicacion audio
+- で (lugar), と (condición), です, ね, の, が (sujeto), と, よ
+****
+- `富士山` *fujisan*: monte Fuji. Montaña se dice `山`*yama*, pero se pronuncia *san* cuando se ponde detras del nombre de algunas montañas
+- `だ` *da*: informal de *desu*, para poner fin a una oración
+- `近くで見ると、大きいですね` *chikaku de miru to, ôkii desu ne* (Visto de cerca es grande, ¿verdad?). Se omite el sujeto
+  - `近く` *chikaku* (cerca)
+  - `見る` *miru* (ver): forma dicc de *mimasu* (mirar)
+  - `大きい` *ôkii* (grande). `小さい` *chîsai* (pequeño)
+****
+- `あれ` *are* (vaya): es una exclamacion que se usa al notar algo que nos llama la atencion
+- `雲の形` *kumo no katachi* (la forma de la nube): sujeto
+  - `雲` *kumo* (nube)
+  - `形` *katachi* (forma)
+- `帽子` *bôshi* (sombrero|gorra)
+- `みたい` *mitai* (parecer)
+- kasanimo: nube con forma de sombrero sobre montaña aislada, indica que va a llover
+****
+- `あの` *ano* (aquella): demostrativo objeto lejano
+- `見える` *mieru* (aparecer): forma diccionaro de *miemasu* (verse|se visible)
+  - `見ます` *mimasu*: mirar algo intencionadamente /mirar/
+  - `見えます` *miemasu*: algo es visible, se ve sin necesariamente tener la intención de hacerlo /puedo ver/. *fujisan ga miemasu* (puede verse el monte Fuji)
+- `と` *to* (cuando): indica condición
+- `雨` *ame* (lluvia)
+- `降るんだよ` *furu n da yo* (quiere decir que va a llover)
+  - `降る` *furu* (lluvia), pero to fall (of rain, snow, ash, etc.); to come dow
+-  `んだ` *nda*: para explicar la razón de algo, ver gramática
+****
+
+### Gramática: *_ TO* `_ と`
+Indica una condición. Se usa cuando una cosa ocurre como consecuencia de otra. Indica una relación de causa y efecto. Hay que recordar que los verbos, antes de TO, adoptan la forma diccionario o la forma NAI.
+- ANO KUMO GA MIERU TO, AME GA FURIMASU (Cuando se ve esa nube, quiere decir que va a llover)
+- *chikaku de miru to* (cuando se ve de cerca)
+
+### Profesora: N DA: Una expresión utilizada para explicar algo.
+La forma básica de N DA es NO DA. Se dice NO DA al final de una oración para explicar lo que ocurrirá, o bien por qué o en qué situación. En una conversación informal, se usa N DA. En un tono más cortés, se dice N DESU.
+
+Antes de NO DA no se puede usar la forma MASU de los verbos. Hay que usar una forma llana, como la forma diccionario o la forma TA. Entonces, ¿qué habrá que decir para explicar que va a llover si se ve cierto tipo de nube?
+
+"Lloverá" es AME GA FURIMASU. Cambiamos FURIMASU, "llover", a su forma diccionario, FURU, y le agregamos N DA, obteniendo la frase AME GA FURU N DA. En un tono cortés, se diría AME GA FURU N DESU.
+NO DA se convierte en NANO DA, si un sustantivo o un adjetivo NA viene antes de NO DA. En tales casos, N DA se convierte en NAN DA. De manera que si "trabajar", SHIGOTO, es la razón, diríamos SHIGOTO NAN DA. En un modo más cortés, la frase sería SHIGOTO NAN DES
+
+### Onomatopeyas
+- `ざ—ざ—` *zâzâ*: el sonido de la lluvia torrencial
+- `しとしと` *shitoshito*: el sonido de la lluvia leve
