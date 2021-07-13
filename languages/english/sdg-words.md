@@ -1,4 +1,11 @@
 # English > SDG Words
+**Content**
+  - [Healthy diet](#healthy-diet)
+  - [Food Systems](#food-systems)
+  - [Track 1](#track-1)
+
+**references**
+- t̬ sounds like spanish d
 
 ## Healthy diet
 - healthy /*ˈhɛlθi*/
@@ -54,7 +61,7 @@
 - interlinked Action Areas /*ˌɪntərˈlɪŋkt ˈækʃən ˈɛriəz*/
 - values and cultural traditions /*ˈvæljuz ənd ˈkʌlʧərəl trəˈdɪʃənz*/
 - End hunger /*ɛnd ˈhʌŋgər*/
-- achieve healthy diets /*əˈʧiv ˈhɛlθi ˈdaɪɪts*/
+- achieve healthy diets /*əˈʧiv ˈhɛlθi ˈdaɪəts*/
 - sustainable production /*səˈsteɪnəbəl prəˈdʌkʃən*/
 - sustainable use of biodiversity and natural resources /*səˈsteɪnəbəl juz əv ˌbaɪoʊdaɪˈvɜrsəti ənd ˈnæʧərəl ˈrisɔrsɪz*/
 - protection of ecosystems /*prəˈtɛkʃən əv ˈikoʊˌsɪstəmz*/
@@ -62,3 +69,127 @@
 - increase income and wealth /*ˈɪnˌkris ˈɪnˌkʌm ənd wɛlθ*/
 - fostering of food systems’ resilience /*ˈfɑstərɪŋ əv fud ˈsɪstəmz rɪˈzɪliəns*/
 
+## Track 1
+- Safe and Nutritious Food for All /*seɪf ənd nuˈtrɪʃəs fud fər ɔl*/
+- food safety /*fud ˈseɪfti*/
+- malnutrition /*ˌmælnuˈtrɪʃən*/
+- inequalities /*ˌɪnəˈkwɑlɪtiz*/
+- Structural change /*ˈstrʌkʧərəl ʧeɪnʤ*/
+- socio-economic drivers /*ˈsoʊsioʊ-ˌɛkəˈnɑmɪk ˈdraɪvərz*/
+- climate and environmental impacts of food /*ˈklaɪmət ənd ɪnˌvaɪrənˈmɛntəl ɪmˈpækts əv fud*/
+- whole-system approach /*hoʊl-ˈsɪstəm əˈproʊʧ*/
+- Shifting to more sustainable consumption and production patterns /*ˈʃɪftɪŋ tə mɔr səˈsteɪnəbəl kənˈsʌmpʃən ənd prəˈdʌkʃən ˈpætərnz*/
+- planetary boundaries /*ˈplænəˌtɛri ˈbaʊndəriz*/
+- major externalities /*ˈmeɪʤər ˌekstərˈnælətiz*/
+- climate change /*ˈklaɪmət ʧeɪnʤ*/
+- land degradation /*lænd ˌdɛgrəˈdeɪʃən*/
+- biodiversity loss /*ˌbaɪoʊdɪˈvɜrsəti lɔs*/
+- public health impacts of malnutrition /*ˈpʌblɪk hɛlθ ɪmˈpækts əv ˌmælnuˈtrɪʃən*/
+- decent incomes and wages for farmers and food system workers /*ˈdisənt ˈɪnˌkʌmz ənd ˈweɪʤəz fər ˈfɑrmərz ənd fud ˈsɪstəm ˈwɜrkərz*/
+****
+Introduction:
+- production /*prəˈdʌkʃən*/
+- processing /*ˈprɑsɛsɪŋ*/
+- distribution /*ˌdɪstrəˈbjuʃən*/
+- preparation /*ˌprɛpəˈreɪʃən*/
+- consumption /*kənˈsʌmpʃən*/
+- environmental outcomes /*ɪnˌvaɪrənˈmɛntəl ˈaʊtˌkʌmz*/
+****
+safe and nutritious diet:
+- health-promoting /*hɛlθ-prəˈmoʊtɪŋ*/
+- disease-preventing /*dɪˈziz-prɪˈvɛntɪŋ*/
+- undernourishment /*ˌʌndərˈnɜrɪʃmənt*/
+- micronutrient deficiencies /*ˈmaɪˌkroʊˈnutriənt dɪˈfɪʃənsiz*/
+- overweight /*ˈoʊvərˌweɪt*/
+- obesity /*oʊˈbisəti*/
+- vicious cycle for health /*ˈvɪʃəs ˈsaɪkəl fər hɛlθ*/
+****
+Interconnected food systems drivers:
+- Socio-economic drivers /*ˈsoʊsioʊ-ˌɛkəˈnɑmɪk ˈdraɪvərz*/
+  - Harvesting /*ˈhɑrvəstɪŋ*/
+  - westernization of diets /*ˌwɛstərnəˈzeɪʃən əv ˈdaɪəts*/
+  - nutrient-poor alternatives /*ˈnutriənt-pʊr ɔlˈtɜrnətɪvz*/
+  - Globalisation /*ˌgloʊbəlɪˈzeɪʃən*/
+  - Lockdowns /*ˈlɑkˌdaʊnz */
+  - caused /*kɑzd*/
+  - zoonotic origin /*ˌzuː.əˈnɑː.t̬ɪk ˈɔrəʤən*/
+  - unsustainable water use /*ˌʌnsəˈsteɪnəbəl ˈwɔtər juz*/
+  - Demography and urbanization /*dɪˈmɑgrəfi ənd ˌɜrbənəˈzeɪʃən*/
+  - Poverty and inequality /*ˈpɑvərt̬i ənd ˌɪnɪˈkwɑlət̬i */
+  - undernutrition /*ˈʌndər nuˈtrɪʃən*/
+  - disruptions /*dɪsˈrʌpʃənz*/
+  - malnourishment /*mælˈnɜrɪʃmənt*/
+- Supply chain failures and underutilized technologies /*ˈfeɪljərz ˈʌndərˌjutəˌlaɪzd tɛkˈnɑləʤiz*/
+  - nourishing the world /*ˈnɜrɪʃɪŋ ðə wɜrld*/
+  - cereal crops (rice, maize, wheat) /*ˈsɪriəl krɑps (raɪs, meɪz, wit)*/
+  - intensification /*ɪnˌtɛnsəfəˈkeɪʃən*/
+  - redesign /*ˌridɪˈzaɪn*/
+  - agro-ecological /*ˈægroʊ-ikəˈlɑʤɪkəl*/
+  - pest management /*pɛst ˈmænəʤmənt*/
+  - conservation agriculture /*ˌkɑnsərˈveɪʃən ˈægrɪˌkʌlʧər*/
+  - integrated crop and biodiversity /*ˈɪntəˌgreɪt̬ɪd krɑp ənd ˌbaɪoʊdaɪˈvɜrsəti*/
+  - pasture and forage /*ˈpæsʧər ənd ˈfɔrɪʤ*/
+  - irrigation management /*ˌɪrəˈgeɪʃən ˈmænɪʤmənt*/
+  - small or patch systems /*smɔl ɔr pæʧ ˈsɪstəmz*/
+  - lost or wasted /*lɔst ɔr ˈweɪstɪd*/
+  - toxic emissions from incineration /*ˈtɑksɪk iˈmɪʃənz frəm ɪnˌsɪnəˈreɪʃən*/
+  - plant biotechnologies /*plænt ˌbaɪoʊˌtɛkˈnɑləʤiz*/
+  - fibre /*ˈfaɪbər*/
+  - animal feed /*ˈænəməl fid*/
+  - regulatory constraints /*ˈrɛgjələˌtɔri kənˈstreɪnts*/
+  - intellectual property rights barriers /*ˌɪntəˈlɛkʧuəl ˈprɑpərt̬i raɪts ˈbæriərz*/
+  - precision agriculture /*prəˈsɪʒən ˈægrɪˌkʌlʧər*/
+- Climate change, land-use change and natural resource degradation /*ˈklaɪmət ʧeɪnʤ, lænd-juz ʧeɪnʤ ənd ˈnæʧərəl ˈrisɔrs ˌdɛgrəˈdeɪʃən*/
+  - heatwave /*ˈhitweɪv*/
+  - droughts /*draʊts*/
+  - extreme rainfall /*ɛkˈstrim ˈreɪnˌfɔl*/
+  - nutritional quality /*nuˈtrɪʃənəl ˈkwɑlət̬i*/
+  - deforestation /*diˌfɔrɪˈsteɪʃən*/
+  - water scarcity /*ˈwɑt̬ər ˈskɛrsɪt̬i*/
+  - watersheds /*ˈwɑt̬ərˌʃɛdz*/: cuencas hidrográficas
+****
+Transforming food systems is key to safe and nutritious food for all:
+- Business as usual /*ˈbɪznəs əz ˈjuʒəwəl*/
+- jeopardy /*ˈʤɛpərdi*/: in danger of being damaged or destroyed
+- Levers for change /*ˈlɛvərz fər ʧeɪnʤ*/
+- Coordination, monitoring and accountability /*koʊˌɔrdəˈneɪʃən, ˈmɑnətərɪŋ ənd əˈkaʊnt̬əbɪlɪt̬i*/
+  - Strengthening /*ˈstrɛŋθənɪŋ*/
+  - cross-sectoral /*krɔs-ˈsɛktərəl*/
+  - policies /*ˈpɑləsiz*/
+  - measurement /*ˈmɛʒərmənt*/
+  - foresight /*ˈfɔrˌsaɪt*/: the ability to predict
+  - rapid assessment /*ˈræpɪd əˈsɛsmənt*/
+  - adaptive learning /*əˈdæptɪv ˈlɜrnɪŋ*/
+  - identify threats/pressure /*aɪˈdɛnt̬əˌfaɪ θrɛts/ˈprɛʃər*/
+  - systemic risks /*sɪˈstemɪk rɪsks*/
+- Influencing food demand and dietary changes /*dɪˈmænd - ˈʧeɪnʤɪz*/
+  - Household food waste /*ˈhaʊsˌhoʊld fud weɪst*/
+  - curb waste /*kɜrb weɪst*/: restrain or keep in check
+  - resilient /*rɪˈzɪljənt*/: able to withstand or recover quickly from difficult conditions
+  - shift consumption patterns /*ʃɪft kənˈsʌmpʃən ˈpætərnz*/
+  - footprint /*ˈfʊtˌprɪnt*/
+  - equity /*ˈɛkwət̬i*/
+  - high-fructose corn syrup /*haɪ-ˈfrʊkˌtoʊs kɔrn ˈsɪrəp*/: jarabe de maíz con alta fructuosa
+  - subsidies /*ˈsʌbsədiz*/
+  - fortified /*ˈfɔrt̬əˌfaɪd*/: having healthful substances added
+- Shifting to more sustainable consumption and production within planetary boundaries
+  - farms /*fɑrmz*/
+  - landscapes /*ˈlændˌskeɪps*/
+  - diversification /*dɪˌvɜrsəfəˈkeɪʃən*/
+  - diversified /*daɪˈvɜrsəˌfaɪd*/
+  - pesticides /*ˈpɛstəˌsaɪdz*/
+  - antibiotic /*ˌæntibiˈɑtɪk*/
+  - inorganic fertilizer /*ɪnɔrˈgænɪk ˈfɜrt̬əˌlaɪzər*/
+  - yield /*jild*/
+  - agroforestry /*ˈægroʊˈfɔrəstri*/
+  - heat tolerant /*hit ˈtɑlərənt*/
+  - mitigation /*ˌmɪt̬ɪˈgeɪʃən*/
+  - afforestation /*əˌfɔrɪˈsteɪʃən*/
+  - soil carbon sequestration /*sɔɪl ˈkɑrbən ˌsikwəˈstreɪʃən*/
+  - seafood /*ˈsiˌfud*/
+  - artificial price distortions /*ˌɑrt̬əˈfɪʃəl praɪs dɪˈstɔrʃənz*/
+- Harnessing science and innovation and managing risks
+  - actionable /*ˈækʃənəbəl*/
+  - inclusive and equitable ways /*ɪnˈklusɪv ənd ˈɛkwətəbəl weɪz*/
+  - FAIR principles: findable, accessible, interoperable and reusable data /*fɛr ˈprɪnsəpəlz: ˈfaɪndəbl, ækˈsɛsəbəl, ˌɪntɜrˈɑpərəbəl ənd riˈjuzəbəl ˈdeɪtə*/
+  - biosecurity /*ˌbaɪoʊsɪˈkjʊrət̬i*/
