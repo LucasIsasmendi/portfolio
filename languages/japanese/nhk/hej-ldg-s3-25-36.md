@@ -7,6 +7,7 @@ https://www.nhk.or.jp/lesson/spanish/learn/list/
 [27. `誰が結婚するんですか`](#27-誰が結婚するんですか)  
 [28. `静岡へようこそ`](#28-静岡へようこそ)  
 [29. `近くで見ると、大きいですね`](#29-近くで見ると大きいですね)  
+[30. `もう少し写真を撮りたいです`](#30-もう少し写真を撮りたいです)  
 
 ## 25. `机の下に入れ`
 **TSUKUE NO SHITA NI HAIRE (Pónganse bajo el pupitre)**
@@ -286,3 +287,56 @@ NO DA se convierte en NANO DA, si un sustantivo o un adjetivo NA viene antes de 
 ### Onomatopeyas
 - `ざ—ざ—` *zâzâ*: el sonido de la lluvia torrencial
 - `しとしと` *shitoshito*: el sonido de la lluvia leve
+
+## 30. `もう少し写真を撮りたいです`
+**MÔ SUKOSHI SHASHIN O TORITAI DESU (Quiero sacar fotos un poco más)**
+
+### Explicacion audio
+- あ, だ (inf です), を (obj-acc), です, に (causa), よ
+****
+- `雨だ` *ame da* (está lloviendo): despejado *hare*`晴れ`, nublado *kumori*`曇り`, nieve *yuki*`雪`
+- `急いで` *isoide* (deprisa|rápidamente): forma `TE` de *isogimasu* (apresurarse)
+- `帰りましょう` *kaerimashô* (volvamos): masu -> mashô es propuesta, ver /**L#15**/
+****
+- `ちょっと` *chotto* (un momento|un poco)
+- `待って` *matte* (espere): forma `TE` de *machimasu* (esperar)
+- `もう少し写真を撮りたいです` *mô sukoshi shashin o toritai desu* (Quiero sacar fotos un poco más)
+  - `もう少し` *mô sukoshi* (un poco más)
+    - `少し` *sukoshi* (un poco): suena mas cortes que decir *chotto*, que significa lo mismo
+  - `写真` *shashin* (foto/s)
+  - `撮りたい` *toritai* (quiero sacar)
+****
+- `ぬれたら` *nuretara* (si te mojas): nureta, forma TA de nuremasu(mojarse), + ra
+- `風邪` *kaze* (resfrio)
+- `ひく` *hiku* (pescar); forma diccionario de hikimasu, que junto a *kaze* significa pescar un resfrio. Expresión informal
+- `よ` *yo*: dar un consejo o decirle a alguien que tenga cuidado
+- AUDIO 6:05
+
+### Gramática: `たい です` *_ TAI DESU* (querer _)
+Se usa TAI `たい`, para expresar lo que queremos hacer.
+- SHASHIN O TORIMASU. (Saco fotos)
+- SHASHIN O TORITAI DESU. (Quiero sacar fotos).
+
+### Profesora: diferencias entre TARA y TO
+Tanto TARA como TO indican una condición. Cuando algo va a ocurrir bajo cierta condición, se usa TARA o TO para indicarla.
+
+Comparado con TARA, el uso de TO es limitado. Se dice TO para indicar que, bajo cierta condición, algo ocurre siempre, como en el caso de una ley natural, un hábito o un resultado esperado. Ejemplo "pulsar el interruptor" OSHIMASU con "se enciende la luz" TSUKIMASU
+- OSHITARA, TSUKIMASU (si lo pulsas, se encenderá)
+- OSUTO, TSUKIMASU (si lo pulsas, se enciende)
+
+Por otro lado, no se puede usar TO para expresar nuestra intención después de indicar una condición. Por ejemplo, hay que usar TARA para invitar a alguien a hacer algo juntos o expresar un pedido o un deseo. De manera que se usa TARA en una oración como AME GA FUTTARA, KAERIMASHÔ, "Si llueve, volvamos".
+
+TARA puede usarse en una gama más amplia de situaciones que TO. De modo que, si no están seguros de cuál es mejor, es más seguro usar TARA.
+
+### Onomatopeyas
+- `ごろごろ` **gorogoro**: el sonido del trueno, el ronroneo de un gato, el sonido de un objeto pesado rodando.
+- `ころころ` **korokoro**: describe un objeto pequeño y liviano que se desplaza dando vueltas.
+
+## L#.
+### Explicacion audio
+
+### Gramática
+
+### Profesora:
+
+### Onomatopeyas
