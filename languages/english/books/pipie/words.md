@@ -44,6 +44,8 @@
 - fist: puño - feast: banquete
 
 ### u5-`/uw/`
+- blooms: florecer
+- gloomy: sombrí@
 - lieu `/luː/`: lugar
 `/u/` vs `/uw/`
 - stood `/stʊd/`: destacad@ - stewed `/stjuːd/`: estofado
