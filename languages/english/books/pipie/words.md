@@ -68,12 +68,14 @@
 - cousin: prim@
 - rough: asper@
 - flood: inundar
+- shrubs: arbustos
 - rug: alfombra
 - tuck: pliegue
 - buck: dolar
 - putt: golpe corto
-- cud: rumia
+- cud: rumia (la comida que vuelve del estomago)
 - tough: dur@, difícil, resistente
+
 
 ### u8-`/ɛ/`
 - meadow: prado
