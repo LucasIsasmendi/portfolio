@@ -101,6 +101,9 @@
 - reed: junco
 - sealing: sellando
 - ceiling: techo
+- bleed: sangrar
+- bled: desangrad@
+- weed: hierba(noun), deshierbar(verb)
 
 ### u9-`/ow/`
 - plateau: meseta
