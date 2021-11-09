@@ -8,8 +8,8 @@
 [4. Sentences](#4-sentences)  
 **The Parts of Speech**  
 [5. Nouns](#5-nouns)  
-6. Pronouns
-7. Adjectives
+[6. Pronouns](#6-pronouns)  
+[7. Adjectives](#7-adjectives)  
 8. Verbs—Introduction
 9. Verbs—Present Time
 10. Verbs—Past Time
@@ -110,3 +110,167 @@ For singular, plural and non-count nouns, use: the same + noun + as: Our dresses
 To show that two nouns are equal in every way, use:
 - exactly like + noun | exactly alike: Your dress is exactly like my dress. Our dresses are exactly alike.
 - the same as + noun | the same: Your dress is the same as my dress. Our dresses are the same.
+
+## 6. Pronouns
+### Object
+- Subject Pronoun: I, you, he, she, it, we, they
+- Object Pronoun: me, you, him, her, it, us, them
+
+#### Using Two Object Pronouns Together
+When there is an indirect object pronoun before the direct object, the direct object must be in noun—not pronoun— form.
+- He gaves me the book. (X: he gave me it)
+- I’ll show you my new dresses. (X: I’ll show you them)
+
+To use the direct object pronoun with an indirect object pronoun, use a preposition.
+- He gave me the book. -> He gave it to me.
+- I’ll show you my new dresses. -> I’ll show them to you.
+
+### Reciprocal
+- **each other** refers to a relationship between two people or groups.
+- **one another** is used to refer to a relationship among three or more people.
+
+### Intensive and Reflexive
+- myself, ourselves, yourself, yourselves, himself, themselves, herself,
+itself
+- An **intensive pronoun** restates a subject noun or pronoun, to emphasize it: I vote “no” myself.
+- A **reflexive pronoun** is an object pronoun that refers back to the subject. The subject and the object are the same person or thing: I cut myself. Did you cure yourself?
+- The preposition `by + a reflexive pronoun` means “alone”: She is by herself. (She is alone)
+
+### Possessive
+A possessive pronoun replaces a possessive noun. It answers the question, “Whose?”
+- mine, yours, his, hers, ours, yours, theirs
+
+To show possession, you can also use `It belongs to + noun or object pronoun`: Whose book is it? It belongs to me -> It’s mine.
+
+### Relative
+- who, whom, whose, which, that
+- replaces a noun in an adjective clause. It answers the questions “Who...?”“Whom...?”“Whose...?”“Which...?” “What...?” and “What kind of...?”
+- What kind of book do you want? I want a book that has pictures.
+
+### Demostrative
+indicates a specific noun. It Specific Noun answers the questions “Which?” “Which one?” and “Which ones?”
+- close: `this` (singular), `these` (plural)
+- farther away: `that` (singular), `those` (plural)
+- `one` refers to a specific item already named. (X: after these and those, do not use)
+
+### Indefinite
+Singulars indefinite refers to a noun that is not specific.
+- people: 
+  - one of all people: anybody, anyone. Anybody can do it.
+  - not one person: not anybody, not anyone, nobody, no one. Nobody can do it.
+  - one person: somebody, someone. Somebody can help us.
+- places:
+  - one of all places: anywhere. I can go anywhere.
+  - not one place: not anywhere, nowhere. The ring is nowhere in this house.
+  - one place: somewhere. I will find it somewhere.
+- things:
+  - one of all things: anything
+  - no thing: not anything, nothing
+  - one thing: something
+- Referring to people or things:
+  - one
+  - another (one more)
+  - any (one, no preference)
+  - each (all, one by one)
+  - either (one oe the other)
+  - neither (not one nor the other)
+
+Plurals indefinite may refer to people or things:
+- none, not any (zero)
+- some (more than one)
+- both (the two)
+- either (these or those)
+- neither (not these or those)
+- others (different ones)
+- few, very few (not enough)
+- a few (three or four)
+- several (four or five)
+- enough (the needed number)
+- a lot (a large number)
+- not many (not a large number)
+
+## 7. Adjectives
+There are two kinds of adjectives: 
+- noun determiners: identify and limit nouns. I have a watch (X: I have watch)
+- descriptive adjectives: their use is optional. I have a beautiful watch.
+
+### Noun Determiners
+#### Articles
+An article helps identify a noun -a, an, the
+- `a`: It answers the question, “What is it?” or “Who is it?”. Use `an` before a singular noun that begins with a vowel sound.
+- `the`: answers the question, “What (noun)?” or “Which one(s)?”
+  - Do not use it with certain singular proper nouns: January, Monday
+  - Use it before other singular proper noun: the United Kingdom, the Western Hemisphere
+  - Use it before plural proper nouns: the Netherlands, the United Nations
+  - Special cases
+    - at school = attending classes
+    - at the school = visiting a school
+#### Numbers
+- `cardinals`: “How many?”: There is one table in the room. There are forty-six people.
+- `ordinal`: tells the relative position of a singular or plural noun. Always use the article the before an ordinal number: the first, the twenty-first, the fifth
+
+#### Possessive Adjectives
+indicates the owner of the following noun. “Whose?”
+  - my, your, his, her, our, your, their
+
+#### Demostrative Adjectives
+points out a specific noun. “Which?”
+- this, that, these, those
+
+#### More Noun Determiners
+- (enough, or more): quite a few, quite a bit of, plenty of
+- (almost no): very little
+- (a large number): a lot of, lots of, quite a lot of, a good many
+- (a large amount of): a good deal of
+- (a very large number of) a great many
+- (a very large amount of): a great deal of
+- (more than desirable) too many, too much
+
+### Descriptive Adjectives
+adjective tells the size, shape, age, color, origin, material, or the speaker’s opinion of a noun. 
+
+#### Verbs Used as Adjectives
+- Present participle forms of verbs: an interesting story
+- Past participle forms of verbs: ironed clothes; a spoken language
+- Participles that describe people can be confusing. Remember: the “ing” form is the cause (If the movie is exciting,), the “ed” form is the effect (the audience is excited.)
+
+#### Compound Adjectives
+a combination of two or more words joined by hyphens and used to describe a noun: an all-night party, an up-to-date analysis
+
+#### Comparing Descriptive Adjectives
+- To strengthen an adjective
+  1. add `er` to a one-syllable adjective: cheap, clean
+  2. add `r` to one-syllable adjectives that en in `e`: nice, close
+  3. one-syllable adjective ending in consonant + vowel + consonant = double the last consonant and add `er`: big » bigger, fat » fatter
+  4. drop the y and add /erto two- syllable adjectives that end in y: happy » happier, easy » easier
+  6. put more before other two-or-more-syllable adjectives: more capable, more difficult
+- To weaken an adjective
+  - 1-5) put `not as` before the adjective: not as cheap, not as clean, not as nice, not as close
+  - 6) use not as or less before the adjective: not as capable, less capable, not as difficult, less difficult
+
+//more//
+
+#### Superlative Adjectives
+A superlative adjective distinguishes one noun from three or more. 
+To make an adjective superlative:
+1. put `the` before the adjective, and add `st` instead of `r`: the biggest, the easiest
+2. add the most instead of more before the adjective: the most important, the most wonderful
+3. use the irregular form for the following adjectives: good»the best, many»the most
+
+To make a superlative negative, put `the least` before the adjective: the least important, the least funny
+
+### Order Of Adjectives
+To describe a noun with several adjectives, use the following order. It is better not to use more than three descriptive adjectives together.
+1. a noun determiner: a, the, my, this, etc
+2. a subjective descriptive adjective: wonderful, crazy, tired, etc
+3. factual descriptive adjectives: size (big, small), shape (roud, square), age(new, old), color, origin, material (glass, wood, silk)
+4. the noun: chair, furniture
+
+Examples:
+- Three valuable old Chinese vases
+- A cheap little blue dress
+
+Adjective order exceptions:
+- The adjective else: Who else is here? I don’t see anybody else.
+- Descriptive adjectives can also follow the indefinite pronouns: What kind of things did they do? They did nothing interesting.
+- Enough can precede or follow a noun: I have enough plates for twenty people.
