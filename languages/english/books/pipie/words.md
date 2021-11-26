@@ -110,26 +110,36 @@
 - yeoman: hacendado
 - depot: deposito
 - though: aunque
+- hoe: azada
 - groan: gemido
 - sew: coser
+- mauve: color de malva, a pale purple color
 - faux: falso
 - brooch: broche
+- stole: a woman's long scarf or shawl
 - wore: llevaba
 - warm: calid@
 - pour: verter
+- poor: pobre
 - soar: remontarse
 - drawer: cajón
+- rum: ron
 - roam: vagar
-- hum: tararear
+- dove: [N]/dʌv/ paloma -- [V]/doʊv/ pasado simple "dive" (bucear)
+- come: venir
+- comb: peine
+- hum: tararear, a continuous low noise
 - crumb: miga
 - shun: rehuir
-- shone: brilló
+- shone: brilló «ps-pp shine
 - rub: frotar
 - robe: túnica
 - mud: barro
 - mowed: cortad@
 - rug: alfombra
 - rogue: pícar@
+- cup: taza
+- cope: afrontar, to deal with problems or difficulties, esp. with a degree of success
 - nut: nuez
 
 ### u10-`/oiy/`
