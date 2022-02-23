@@ -12,7 +12,7 @@ C3. Simple Past Tense
 ### 2. Intermediate Grammar Specialization (4 courses) UCI
 https://www.coursera.org/specializations/intermediate-grammar
 5 months at 6 hours/week pace
-C1. Perfect Tenses and Modals
+[C1. Perfect Tenses and Modals](./2-igs/c1-ptam.md)
 C2. Adjectives and Adjective Clauses
 C3. Tricky English Grammar
 C4. Intermediate Grammar Project
