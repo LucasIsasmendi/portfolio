@@ -1,12 +1,14 @@
 # C1. Perfect Tenses and Modals 
-- [link coursera](https://www.coursera.org/learn/perfect-tenses-modals)
-- 29 hours to complete
+> Intermediate Grammar Specialization (1/4)
+
+* [link coursera](https://www.coursera.org/learn/perfect-tenses-modals)
+* 29 hours to complete
 
 **Weeks**  
 [1. Welcome and Present Perfect Tense](#1-welcome-and-present-perfect-tense)  
-1. Present Perfect Progressive
-2. Past Perfect and Past Perfect Progressive
-3. Modals--Ability, Possibility, Preference, and Impossibility
+[2. Present Perfect Progressive](#2-present-perfect-progressive)
+3. Past Perfect and Past Perfect Progressive
+4. Modals--Ability, Possibility, Preference, and Impossibility
 
 ## 1. Welcome and Present Perfect Tense
 
@@ -138,3 +140,9 @@ Have you eaten plant-based yet?
 
 ### Adverbs Practice
 - You don't ever have to call before you visit me. Just come over.
+
+## 2. Present Perfect Progressive
+Before we talk about the present perfect progressive tense, we need to review stative verbs. Stative verbs cannot be used with progressive tenses.
+
+### Stative Verbs Part 1
+https://www.coursera.org/learn/perfect-tenses-modals/lecture/ECTxP/stative-verbs-part-1-lecture
